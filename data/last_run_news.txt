@@ -14,7 +14,11 @@ Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
+<<<<<<< Updated upstream
   pays servis : 7 / 28
+=======
+  pays servis : 5 / 28
+>>>>>>> Stashed changes
   duree       : 175s
 
 --- 26 avertissements ---

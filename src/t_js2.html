@@ -1,0 +1,471 @@
+<script>
+/* ------------------------------------------------------------------ carte */
+
+function build(){
+  svg.textContent = "";
+  const g = document.createElementNS(NS, "g");
+  for (const code in PATHS){
+    const p = document.createElementNS(NS, "path");
+    p.setAttribute("d", PATHS[code]);
+    p.dataset.code = code;
+    if (META[code]){
+      p.classList.add("live");
+      p.setAttribute("tabindex", "0");
+      p.setAttribute("role", "button");
+    }
+    g.appendChild(p);
+  }
+  svg.appendChild(g);
+}
+
+function renderControls(){
+  const gr = document.getElementById("grp");
+  gr.textContent = "";
+  Object.keys(GROUPS).forEach(k => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.textContent = GROUPS[k][lang];
+    b.setAttribute("aria-pressed", String(k === group));
+    b.addEventListener("click", () => setGroup(k));
+    gr.appendChild(b);
+  });
+
+  const mb = document.getElementById("mets");
+  mb.textContent = "";
+  ORDER.filter(k => METRICS[k].group === group).forEach(k => {
+    const b = document.createElement("button");
+    b.type = "button";
+    const n = document.createElement("span");
+    n.textContent = METRICS[k][lang] + " ";
+    const u = document.createElement("span");
+    u.className = "u";
+    u.textContent = "(" + METRICS[k].unit + ")";
+    b.append(n, u);
+    b.setAttribute("aria-pressed", String(k === metric));
+    b.addEventListener("click", () => setMetric(k));
+    mb.appendChild(b);
+  });
+}
+
+function paint(){
+  svg.querySelectorAll("path").forEach(p => {
+    p.style.fill = colorFor(p.dataset.code);
+    p.classList.toggle("sel", p.dataset.code === selected);
+    const c = META[p.dataset.code];
+    if (c) p.setAttribute("aria-label", c.name[lang]);
+  });
+  const [lo, hi] = domain();
+  const u = m().unit;
+  document.getElementById("leg-min").textContent = lo.toFixed(1) + " " + u;
+  document.getElementById("leg-mid").textContent = m().scale === "div" ? "0" : "→";
+  document.getElementById("leg-max").textContent = hi.toFixed(1) + " " + u;
+  document.getElementById("leg-label").textContent = m()[lang];
+  const rmp = document.getElementById("ramp");
+  rmp.textContent = "";
+  ramp().forEach(c => {
+    const i = document.createElement("i");
+    i.style.background = c;
+    rmp.appendChild(i);
+  });
+}
+
+function showTip(code, evt){
+  const c = META[code];
+  if (!c) return;
+  const box = svg.closest(".mapbox").getBoundingClientRect();
+  const v = val(code);
+  tip.textContent = "";
+  const n = document.createElement("div");
+  n.className = "t-name"; n.textContent = c.name[lang];
+  const z = document.createElement("div");
+  z.className = "t-row";
+  z.textContent = group === "power" ? c.zone : (c.hub || t().noHub);
+  const p = document.createElement("div");
+  p.className = "t-row";
+  p.textContent = typeof v === "number"
+    ? v.toFixed(2) + " " + unitOf(metric, code) : t().noData;
+  tip.append(n, z, p);
+  tip.style.left = (evt.clientX - box.left) + "px";
+  tip.style.top = (evt.clientY - box.top - 6) + "px";
+  tip.classList.add("on");
+}
+function hideTip(){ tip.classList.remove("on"); }
+
+/* --------------------------------------------------------------- fabriques */
+
+function row(k, v, active){
+  const d = document.createElement("div");
+  d.className = "kv" + (active ? " now" : "");
+  const dt = document.createElement("dt"); dt.textContent = k;
+  const dd = document.createElement("dd"); dd.textContent = v;
+  d.append(dt, dd);
+  return d;
+}
+
+function linkEl(label, url, note){
+  const a = document.createElement("a");
+  a.href = url; a.target = "_blank"; a.rel = "noopener noreferrer";
+  const s = document.createElement("span"); s.textContent = label;
+  const e = document.createElement("em");   e.textContent = note;
+  a.append(s, e);
+  return a;
+}
+
+function blockEl(title){
+  const b = document.createElement("div");
+  b.className = "block";
+  const h = document.createElement("h3");
+  h.textContent = title;
+  b.appendChild(h);
+  return b;
+}
+
+/* ------------------------------------------------------------- actualite */
+
+function feed(){ return news || DEMO_NEWS; }
+function feedIsDemo(){ return !news; }
+
+function fmtDate(iso){
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  const mins = Math.round((Date.now() - d.getTime()) / 60000);
+  if (mins < 60) return Math.max(1, mins) + " min";
+  if (mins < 1440) return Math.round(mins / 60) + " h";
+  return d.toLocaleDateString(lang === "fr" ? "fr-FR" : "en-GB",
+                              {day: "2-digit", month: "short"});
+}
+
+function themeLabel(x){
+  return x === "policy" ? t().tPolicy : (x === "grid" ? t().tGrid : t().tPress);
+}
+
+function newsItem(n, geo){
+  const a = document.createElement("a");
+  a.className = "news-item";
+  a.href = n.url; a.target = "_blank"; a.rel = "noopener noreferrer";
+  const ti = document.createElement("div");
+  ti.className = "n-title"; ti.textContent = n.title;
+  const meta = document.createElement("div");
+  meta.className = "news-meta";
+  const b = document.createElement("span");
+  b.className = "badge " + (n.theme || "press");
+  b.textContent = themeLabel(n.theme);
+  meta.appendChild(b);
+  if (geo){
+    const g = document.createElement("span");
+    g.className = "badge geo"; g.textContent = geo;
+    meta.appendChild(g);
+  }
+  const src = document.createElement("span");
+  src.className = "src"; src.textContent = n.source || "";
+  const dt = document.createElement("span");
+  dt.textContent = fmtDate(n.date);
+  meta.append(src, dt);
+  a.append(ti, meta);
+  return a;
+}
+
+function countryNews(code){
+  return ((feed().countries || {})[code]) || [];
+}
+
+/* ------------------------------------------------------- panneau + detail */
+
+function renderPanel(){
+  const body = document.getElementById("p-body");
+  body.textContent = "";
+
+  if (!selected){
+    document.getElementById("p-eyebrow").textContent = t().selection;
+    document.getElementById("p-name").textContent = t().noCountry;
+    const p = document.createElement("p");
+    p.className = "empty"; p.textContent = t().empty;
+    body.appendChild(p);
+    return;
+  }
+
+  const c = META[selected];
+  document.getElementById("p-eyebrow").textContent = group === "power"
+    ? (t().zonePrefix + " " + c.zone)
+    : (c.hub ? (t().hubPrefix + " " + c.hub) : t().noHubLong);
+  document.getElementById("p-name").textContent = c.name[lang];
+
+  const b1 = blockEl(m()[lang]);
+  const big = document.createElement("div");
+  big.className = "big";
+  const v = val(selected);
+  const bb = document.createElement("b");
+  bb.textContent = typeof v === "number" ? v.toFixed(2) : "—";
+  const sp = document.createElement("span");
+  sp.textContent = unitOf(metric, selected);
+  big.append(bb, sp);
+  b1.appendChild(big);
+  if (!live){
+    const tag = document.createElement("span");
+    tag.className = "demo-tag"; tag.textContent = t().fake;
+    b1.appendChild(tag);
+  }
+  const hint = document.createElement("div");
+  hint.className = "unitline";
+  hint.textContent = lang === "fr" ? m().hintFr : m().hintEn;
+  b1.appendChild(hint);
+
+  const b2 = blockEl(t().today);
+  ORDER.forEach(k => {
+    const x = valueOf(k, selected);
+    if (typeof x !== "number") return;
+    b2.appendChild(row(METRICS[k][lang], x.toFixed(2) + " " + unitOf(k, selected),
+                       k === metric));
+  });
+
+  const b3 = blockEl(t().refs);
+  b3.append(row(t().kZone, c.zone), row(t().kSpot, c.spot),
+            row(t().kHub, c.hub || "—"), row(t().kEic, c.eic || "—"));
+
+  body.append(b1, b2, b3);
+}
+
+function renderDetail(){
+  const box = document.getElementById("detail");
+  box.textContent = "";
+  if (!selected){ box.hidden = true; return; }
+  box.hidden = false;
+
+  const c = META[selected];
+
+  const b1 = blockEl(t().specifics);
+  const ul = document.createElement("ul");
+  ul.className = "notes";
+  ((c.notes && c.notes[lang]) || []).forEach(x => {
+    const li = document.createElement("li");
+    li.innerHTML = x;
+    ul.appendChild(li);
+  });
+  b1.appendChild(ul);
+
+  const b2 = blockEl(t().linksBlock);
+  const l = document.createElement("div");
+  l.className = "links";
+  (c.tso || []).forEach(s => l.appendChild(linkEl(s[0], s[1], s[2][lang])));
+  l.appendChild(linkEl(t().eexPower, "https://www.eex.com/en/markets/power/power-derivatives", t().lSettlement));
+  if (c.hub) l.appendChild(linkEl(t().eexGas, "https://www.eex.com/en/markets/natural-gas", t().lSettlement));
+  l.appendChild(linkEl(t().entsoe, "https://transparency.entsoe.eu/", t().lOpen));
+  if (c.agsi) l.appendChild(linkEl(t().agsi, "https://agsi.gie.eu/", t().lOpen));
+  b2.appendChild(l);
+
+  const b3 = blockEl(t().newsBlock);
+  const rows = countryNews(selected);
+  if (!rows.length){
+    const p = document.createElement("p");
+    p.className = "news-empty"; p.textContent = t().newsEmpty;
+    b3.appendChild(p);
+  } else {
+    const list = document.createElement("div");
+    list.className = "news";
+    rows.forEach(n => list.appendChild(newsItem(n)));
+    b3.appendChild(list);
+  }
+
+  box.append(b1, b2, b3);
+}
+
+/* ----------------------------------------------------------- vue actualite */
+
+function allNews(){
+  const out = [];
+  (feed().world || []).forEach(n => out.push({n: n, code: null}));
+  const cs = feed().countries || {};
+  Object.keys(cs).forEach(code => cs[code].forEach(n => out.push({n: n, code: code})));
+  out.sort((a, b) => (a.n.date < b.n.date ? 1 : -1));
+  return out;
+}
+
+function renderNewsView(){
+  // filtres thematiques
+  const th = document.getElementById("n-themes");
+  th.textContent = "";
+  const themes = [["all", t().fAll], ["policy", t().tPolicy],
+                  ["grid", t().tGrid], ["press", t().tPress]];
+  themes.forEach(pair => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.textContent = pair[1];
+    b.setAttribute("aria-pressed", String(nTheme === pair[0]));
+    b.addEventListener("click", () => { nTheme = pair[0]; renderNewsView(); });
+    th.appendChild(b);
+  });
+
+  // filtre pays
+  const sel = document.getElementById("n-country");
+  const keep = nCountry;
+  sel.textContent = "";
+  const opts = [["all", t().allCountries], ["world", t().worldOnly]];
+  Object.keys(feed().countries || {}).sort((a, b) =>
+    META[a] && META[b] ? META[a].name[lang].localeCompare(META[b].name[lang]) : 0
+  ).forEach(code => {
+    if (META[code]) opts.push([code, META[code].name[lang]]);
+  });
+  opts.forEach(pair => {
+    const o = document.createElement("option");
+    o.value = pair[0]; o.textContent = pair[1];
+    if (pair[0] === keep) o.selected = true;
+    sel.appendChild(o);
+  });
+
+  // grille
+  const grid = document.getElementById("newsgrid");
+  grid.textContent = "";
+  let rows = allNews();
+  if (nTheme !== "all") rows = rows.filter(r => (r.n.theme || "press") === nTheme);
+  if (nCountry === "world") rows = rows.filter(r => !r.code);
+  else if (nCountry !== "all") rows = rows.filter(r => r.code === nCountry);
+
+  const perCard = 6;
+  for (let i = 0; i < rows.length; i += perCard){
+    const card = document.createElement("div");
+    card.className = "newscard";
+    const list = document.createElement("div");
+    list.className = "news";
+    rows.slice(i, i + perCard).forEach(r => {
+      const geo = r.code && META[r.code] ? META[r.code].name[lang] : null;
+      list.appendChild(newsItem(r.n, geo));
+    });
+    card.appendChild(list);
+    grid.appendChild(card);
+  }
+
+  if (!rows.length){
+    const p = document.createElement("p");
+    p.className = "news-empty"; p.textContent = t().newsEmpty;
+    grid.appendChild(p);
+  }
+
+  document.getElementById("n-dot").className = "dot " + (feedIsDemo() ? "demo" : "live");
+  document.getElementById("n-text").textContent = feedIsDemo()
+    ? t().newsOff : t().newsLive(rows.length);
+}
+
+/* ------------------------------------------------------------------ etats */
+
+function status(cls, text){
+  document.getElementById("s-dot").className = "dot " + cls;
+  document.getElementById("s-text").textContent = text;
+}
+
+function refreshStatus(){
+  if (live){
+    let n = 0;
+    Object.keys(live.metrics || {}).forEach(k => { n += Object.keys(live.metrics[k]).length; });
+    status("live", t().liveOn(live.day, n));
+  } else {
+    status("demo", t().demoOn);
+  }
+}
+
+function applyView(){
+  document.getElementById("view-map").hidden = view !== "map";
+  document.getElementById("view-news").hidden = view !== "news";
+  document.getElementById("v-map").setAttribute("aria-pressed", String(view === "map"));
+  document.getElementById("v-news").setAttribute("aria-pressed", String(view === "news"));
+}
+
+function redraw(){
+  renderControls();
+  paint();
+  renderPanel();
+  renderDetail();
+  renderNewsView();
+  refreshStatus();
+  applyView();
+}
+
+function writeHash(){
+  const h = "#" + lang + (view === "news" ? "/news" : "");
+  if (history.replaceState) history.replaceState(null, "", h);
+  else location.hash = h;
+}
+
+function setView(v){ view = v; writeHash(); applyView(); }
+function setGroup(g){
+  if (g === group) return;
+  group = g;
+  metric = ORDER.filter(k => METRICS[k].group === g)[0];
+  redraw();
+}
+function setMetric(k){ metric = k; redraw(); }
+
+function applyLang(){
+  document.documentElement.setAttribute("lang", t().htmlLang);
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    el.textContent = t()[el.dataset.i18n];
+  });
+  document.getElementById("b-fr").setAttribute("aria-pressed", String(lang === "fr"));
+  document.getElementById("b-en").setAttribute("aria-pressed", String(lang === "en"));
+  document.title = t().title;
+  redraw();
+}
+
+function setLang(l){ lang = l; writeHash(); applyLang(); }
+
+function readHash(){
+  const raw = (location.hash || "").replace("#", "").toLowerCase();
+  const parts = raw.split("/");
+  if (parts[0] === "en" || parts[0] === "fr") lang = parts[0];
+  else lang = (navigator.language || "fr").toLowerCase().startsWith("en") ? "en" : "fr";
+  view = parts[1] === "news" ? "news" : "map";
+}
+
+/* ------------------------------------------------------------- evenements */
+
+svg.addEventListener("mousemove", e => {
+  const el = e.target.closest("path.live");
+  if (el) showTip(el.dataset.code, e); else hideTip();
+});
+svg.addEventListener("mouseleave", hideTip);
+svg.addEventListener("click", e => {
+  const el = e.target.closest("path.live");
+  if (el){ selected = el.dataset.code; paint(); renderPanel(); renderDetail(); }
+});
+svg.addEventListener("keydown", e => {
+  if (e.key !== "Enter" && e.key !== " ") return;
+  const el = e.target.closest("path.live");
+  if (el){ e.preventDefault(); selected = el.dataset.code; paint(); renderPanel(); renderDetail(); }
+});
+
+document.getElementById("n-country").addEventListener("change", e => {
+  nCountry = e.target.value;
+  renderNewsView();
+});
+document.getElementById("v-map").addEventListener("click", () => setView("map"));
+document.getElementById("v-news").addEventListener("click", () => setView("news"));
+document.getElementById("b-fr").addEventListener("click", () => setLang("fr"));
+document.getElementById("b-en").addEventListener("click", () => setLang("en"));
+window.addEventListener("hashchange", () => { readHash(); applyLang(); });
+window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", paint);
+
+readHash();
+build();
+applyLang();
+
+fetch("data/prices.json", {cache: "no-store"})
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(j => {
+    let n = 0;
+    Object.keys(j.metrics || {}).forEach(k => { n += Object.keys(j.metrics[k]).length; });
+    if (!n) throw new Error("empty");
+    live = j;
+    redraw();
+  })
+  .catch(() => refreshStatus());
+
+fetch("data/news.json", {cache: "no-store"})
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(j => {
+    if (!(j.world || []).length && !Object.keys(j.countries || {}).length)
+      throw new Error("empty");
+    news = j;
+    renderDetail();
+    renderNewsView();
+  })
+  .catch(() => { renderNewsView(); });
+</script>

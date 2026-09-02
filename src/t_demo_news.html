@@ -1,0 +1,36 @@
+<script>
+// Fil de demonstration. Sert uniquement tant que data/news.json n'est pas alimente,
+// pour que la page ne soit jamais vide. Remplace des l'execution de fetch_news.py.
+const DEMO_NEWS = (function(){
+  const h = n => new Date(Date.now() - n * 3600e3).toISOString();
+  return {
+    demo: true,
+    world: [
+      {title:"ECB holds rates steady, flags energy-driven inflation risk into winter", url:"https://www.ecb.europa.eu/press/", source:"BCE", theme:"policy", date:h(2)},
+      {title:"ACER publishes market monitoring report on gas balancing", url:"https://www.acer.europa.eu/", source:"ACER", theme:"grid", date:h(5)},
+      {title:"European gas storage ends injection season below five-year average", url:"https://agsi.gie.eu/", source:"GIE AGSI+", theme:"grid", date:h(8)},
+      {title:"Fed minutes point to slower easing as commodity prices firm", url:"https://www.federalreserve.gov/", source:"Fed", theme:"policy", date:h(13)},
+      {title:"ENTSOG updates winter supply outlook for north-west Europe", url:"https://www.entsog.eu/", source:"ENTSOG", theme:"grid", date:h(20)},
+      {title:"LNG terminal utilisation rises across Iberian and north-west hubs", url:"https://alsi.gie.eu/", source:"GIE ALSI", theme:"grid", date:h(27)}
+    ],
+    countries: {
+      FR: [
+        {title:"RTE publie ses perspectives d'équilibre offre-demande pour l'hiver", url:"https://www.rte-france.com/", source:"RTE", theme:"grid", date:h(3)},
+        {title:"GRTgaz : maintenance sur l'artère nord reportée à décembre", url:"https://www.smart.grtgaz.com/", source:"GRTgaz", theme:"grid", date:h(9)}
+      ],
+      DE: [
+        {title:"Bundesnetzagentur reports national storage levels ahead of heating season", url:"https://www.smard.de/", source:"Bundesnetzagentur", theme:"grid", date:h(6)}
+      ],
+      NO: [
+        {title:"Unplanned outage reduces Norwegian pipeline flows to the continent", url:"https://www.gassco.no/", source:"Gassco", theme:"grid", date:h(11)}
+      ],
+      GB: [
+        {title:"Bank of England signals caution as energy costs feed through", url:"https://www.bankofengland.co.uk/", source:"Bank of England", theme:"policy", date:h(15)}
+      ],
+      ES: [
+        {title:"MIBGAS daily index eases as regasification sendout climbs", url:"https://www.mibgas.es/", source:"MIBGAS", theme:"grid", date:h(18)}
+      ]
+    }
+  };
+})();
+</script>

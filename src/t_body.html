@@ -1,0 +1,93 @@
+<div class="app">
+
+<header class="top">
+  <div>
+    <span class="eyebrow" data-i18n="eyebrow"></span>
+    <h1 data-i18n="title"></h1>
+    <p class="sub" data-i18n="sub"></p>
+  </div>
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Vue / View">
+      <button type="button" id="v-map" aria-pressed="true" data-i18n="viewMap"></button>
+      <button type="button" id="v-news" aria-pressed="false" data-i18n="viewNews"></button>
+    </div>
+    <div class="seg" role="group" aria-label="Langue / Language">
+      <button type="button" id="b-fr" aria-pressed="true">FR</button>
+      <button type="button" id="b-en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<!-- ============================ VUE CARTE ============================ -->
+<section id="view-map">
+
+  <div class="toolbar">
+    <div class="seg" id="grp" role="group" aria-label="Énergie / Commodity"></div>
+    <div class="metricbar">
+      <span class="mb-label" data-i18n="colorBy"></span>
+      <div class="chips" id="mets" role="group" aria-label="Métrique / Metric"></div>
+    </div>
+  </div>
+
+  <div class="status">
+    <span class="dot" id="s-dot"></span>
+    <span id="s-text"></span>
+  </div>
+
+  <div class="stage">
+    <div>
+      <div class="mapbox">
+        <div class="tip" id="tip" role="status" aria-live="polite"></div>
+        <svg class="map" id="map" viewBox="0 0 __W__ __H__" role="img" aria-label="Europe"></svg>
+      </div>
+      <div class="legend">
+        <span id="leg-label"></span>
+        <div class="ramp" id="ramp"></div>
+        <span id="leg-min">—</span>
+        <span id="leg-mid"></span>
+        <span id="leg-max">—</span>
+        <span style="margin-left:auto" data-i18n="legendGrey"></span>
+      </div>
+    </div>
+
+    <aside class="panel">
+      <div class="p-head">
+        <span class="eyebrow" id="p-eyebrow"></span>
+        <h2 id="p-name"></h2>
+      </div>
+      <div class="p-body" id="p-body"></div>
+    </aside>
+  </div>
+
+  <div class="detail" id="detail" hidden></div>
+</section>
+
+<!-- ========================== VUE ACTUALITÉ ========================== -->
+<section id="view-news" hidden>
+
+  <div class="toolbar">
+    <div class="metricbar">
+      <span class="mb-label" data-i18n="filterTheme"></span>
+      <div class="chips" id="n-themes" role="group"></div>
+    </div>
+    <div class="metricbar">
+      <span class="mb-label" data-i18n="filterCountry"></span>
+      <select id="n-country" class="sel"></select>
+    </div>
+  </div>
+
+  <div class="status">
+    <span class="dot" id="n-dot"></span>
+    <span id="n-text"></span>
+  </div>
+
+  <div class="newsgrid" id="newsgrid"></div>
+</section>
+
+<footer>
+  <span data-i18n="foot1"></span>
+  <span data-i18n="foot2"></span>
+  <span data-i18n="foot3"></span>
+</footer>
+
+</div>

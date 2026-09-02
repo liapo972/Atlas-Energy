@@ -1,0 +1,85 @@
+<style>
+aside.panel{
+  background:var(--surface);
+  border:1px solid var(--line);
+  position:sticky;
+  top:1rem;
+  display:flex;
+  flex-direction:column;
+}
+.p-head{
+  padding:1rem 1.1rem .9rem;
+  border-bottom:1px solid var(--line);
+  display:flex;
+  flex-direction:column;
+  gap:.15rem;
+}
+.p-head h2{
+  font-size:1.25rem;
+  font-weight:700;
+  letter-spacing:-.02em;
+  margin:0;
+}
+.p-body{
+  padding:1rem 1.1rem 1.2rem;
+  display:flex;
+  flex-direction:column;
+  gap:1.1rem;
+}
+.block{display:flex;flex-direction:column;gap:.45rem;}
+.block h3{
+  font-family:var(--f-m);
+  font-size:.64rem;
+  font-weight:600;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--accent);
+  margin:0;
+}
+.kv{display:flex;justify-content:space-between;gap:.8rem;font-size:.85rem;border-bottom:1px dotted var(--line-strong);padding-bottom:.3rem;}
+.kv dt{color:var(--muted);}
+.kv dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums;text-align:right;}
+.big{
+  display:flex;
+  align-items:baseline;
+  gap:.4rem;
+  font-variant-numeric:tabular-nums;
+}
+.big b{font-size:2rem;font-weight:800;letter-spacing:-.03em;line-height:1;}
+.big span{font-family:var(--f-m);font-size:.72rem;color:var(--muted);}
+.demo-tag{
+  align-self:flex-start;
+  font-family:var(--f-m);
+  font-size:.6rem;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--crit);
+  border:1px solid var(--crit);
+  padding:.15rem .4rem;
+}
+.links{display:flex;flex-direction:column;gap:.35rem;}
+.links a{
+  font-size:.83rem;
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid var(--line-strong);
+  padding-bottom:.3rem;
+  display:flex;
+  justify-content:space-between;
+  gap:.5rem;
+}
+.links a:hover{color:var(--accent);border-color:var(--accent);}
+.links a:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+.links a em{font-family:var(--f-m);font-size:.66rem;color:var(--muted);font-style:normal;}
+.empty{color:var(--muted);font-size:.86rem;}
+footer{
+  border-top:1px solid var(--line);
+  padding-top:1rem;
+  font-family:var(--f-m);
+  font-size:.7rem;
+  color:var(--muted);
+  display:flex;
+  flex-direction:column;
+  gap:.4rem;
+}
+</style>

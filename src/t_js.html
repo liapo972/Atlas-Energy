@@ -1,0 +1,208 @@
+<script>
+const PATHS = __PATHS__;
+const META  = __COUNTRIES__;
+const DEMO  = __DEMO__;
+
+const GROUPS = {
+  power: {fr: "Électricité", en: "Power"},
+  gas:   {fr: "Gaz",         en: "Gas"}
+};
+
+const METRICS = {
+  price: {
+    group: "power", unit: "€/MWh", scale: "seq",
+    fr: "Prix day-ahead J-1", en: "Day-ahead price D-1",
+    hintFr: "moyenne baseload des pas horaires",
+    hintEn: "baseload average of hourly steps"
+  },
+  load: {
+    group: "power", unit: "GWh", scale: "seq",
+    fr: "Consommation J-1", en: "Demand D-1",
+    hintFr: "énergie appelée sur la journée", hintEn: "energy consumed over the day"
+  },
+  storage: {
+    group: "gas", unit: "%", scale: "seq",
+    fr: "Remplissage des stockages", en: "Storage fill level",
+    hintFr: "part de la capacité utile remplie",
+    hintEn: "share of working capacity filled"
+  },
+  netwd: {
+    group: "gas", unit: "GWh", scale: "div",
+    fr: "Soutirage net J-1", en: "Net withdrawal D-1",
+    hintFr: "négatif = injection, positif = soutirage",
+    hintEn: "negative = injection, positive = withdrawal"
+  },
+  lng: {
+    group: "gas", unit: "%", scale: "seq",
+    fr: "Remplissage terminaux GNL", en: "LNG terminal fill",
+    hintFr: "stock des terminaux de regazéification",
+    hintEn: "stock held at regasification terminals"
+  }
+};
+
+const ORDER = ["price", "load", "storage", "netwd", "lng"];
+
+const T = {
+  fr: {
+    htmlLang: "fr",
+    eyebrow: "Données ouvertes · ENTSO-E & GIE",
+    title: "Atlas des marchés européens",
+    sub: "Choisissez une énergie puis un indicateur. Survolez un pays pour la valeur du jour, cliquez pour le détail complet.",
+    colorBy: "Colorer la carte par",
+    legendGrey: "Gris : pas de donnée",
+    selection: "Sélection",
+    noCountry: "Aucun pays",
+    empty: "Cliquez sur un pays pour afficher ses indicateurs du jour, sa zone de dépôt, son hub gaz, les pages officielles du gestionnaire de réseau et les spécificités locales.",
+    today: "Indicateurs du jour",
+    refs: "Références",
+    specifics: "Spécificités locales",
+    tsoBlock: "Gestionnaires de réseau et bourses",
+    settleBlock: "Settlement et données ouvertes",
+    kZone: "Zone de dépôt", kSpot: "Bourse spot", kHub: "Hub gaz", kEic: "Code EIC",
+    fake: "valeurs fictives", noData: "pas de donnée", noHub: "pas de hub",
+    noHubLong: "Pas de hub gaz", zonePrefix: "Zone", hubPrefix: "Hub",
+    loading: "Chargement des données…",
+    demoOn: "Valeurs de démonstration — data/prices.json absent ou vide",
+    liveOn: function(d, n){ return "Données du " + d + " — ENTSO-E et GIE · " + n + " valeurs"; },
+    foot1: "Électricité : ENTSO-E Transparency Platform · Gaz : GIE AGSI+ et ALSI · Géométrie : Natural Earth",
+    foot2: "Aucune donnée sous licence commerciale n'est reprise sur cette page. Les prix de settlement restent accessibles via les liens vers les pages officielles.",
+    foot3: "Zones, hubs et spécificités : à vérifier et compléter.",
+    lSettlement: "settlement", lOpen: "données ouvertes",
+    viewMap: "Carte", viewNews: "Actualité",
+    newsBlock: "Actualité du pays", newsEmpty: "Aucun titre récent pour ce pays.",
+    newsOff: "Fil de démonstration — data/news.json pas encore alimenté",
+    newsLive: function(n){ return n + " titres · mise à jour toutes les 4 h"; },
+    filterTheme: "Thème", filterCountry: "Pays",
+    fAll: "Tout", allCountries: "Tous les pays", worldOnly: "International",
+    linksBlock: "Liens utiles", tPolicy: "monétaire", tGrid: "réseau", tPress: "presse",
+    eexPower: "EEX — dérivés électricité", eexGas: "EEX — gaz naturel",
+    entsoe: "ENTSO-E Transparency", agsi: "GIE AGSI+ — stockages", alsi: "GIE ALSI — terminaux GNL"
+  },
+  en: {
+    htmlLang: "en",
+    eyebrow: "Open data · ENTSO-E & GIE",
+    title: "European Energy Market Atlas",
+    sub: "Pick a commodity, then an indicator. Hover a country for today's value, click for the full detail.",
+    colorBy: "Colour the map by",
+    legendGrey: "Grey: no data",
+    selection: "Selection",
+    noCountry: "No country selected",
+    empty: "Click a country to see today's indicators, its bidding zone, gas hub, the official grid operator pages and local specifics.",
+    today: "Today's indicators",
+    refs: "References",
+    specifics: "Local specifics",
+    tsoBlock: "Grid operators and exchanges",
+    settleBlock: "Settlement and open data",
+    kZone: "Bidding zone", kSpot: "Spot exchange", kHub: "Gas hub", kEic: "EIC code",
+    fake: "placeholder values", noData: "no data", noHub: "no hub",
+    noHubLong: "No gas hub", zonePrefix: "Zone", hubPrefix: "Hub",
+    loading: "Loading data…",
+    demoOn: "Placeholder values — data/prices.json missing or empty",
+    liveOn: function(d, n){ return "Data for " + d + " — ENTSO-E and GIE · " + n + " values"; },
+    foot1: "Power: ENTSO-E Transparency Platform · Gas: GIE AGSI+ and ALSI · Geometry: Natural Earth",
+    foot2: "No commercially licensed data is reproduced on this page. Settlement prices remain accessible through the links to official pages.",
+    foot3: "Zones, hubs and specifics: to be verified and completed.",
+    lSettlement: "settlement", lOpen: "open data",
+    viewMap: "Map", viewNews: "News",
+    newsBlock: "Country news", newsEmpty: "No recent headline for this country.",
+    newsOff: "Demo feed — data/news.json not populated yet",
+    newsLive: function(n){ return n + " headlines · refreshed every 4 h"; },
+    filterTheme: "Theme", filterCountry: "Country",
+    fAll: "All", allCountries: "All countries", worldOnly: "International",
+    linksBlock: "Useful links", tPolicy: "monetary", tGrid: "grid", tPress: "press",
+    eexPower: "EEX — power derivatives", eexGas: "EEX — natural gas",
+    entsoe: "ENTSO-E Transparency", agsi: "GIE AGSI+ — storage", alsi: "GIE ALSI — LNG terminals"
+  }
+};
+
+// Sequentiel : une seule teinte, clair vers fonce.
+const SEQ_L = ["#F7E8D2","#EFD0A0","#E2B36B","#D0913C","#B06F18"];
+const SEQ_D = ["#3A2E1C","#5C4522","#87642A","#B4883A","#E0A44B"];
+// Divergent : deux teintes, gris neutre au point milieu.
+const DIV_L = ["#17636B","#8FB9BD","#DCDFDD","#E5B877","#B06F18"];
+const DIV_D = ["#6FBAC4","#33707A","#3B4845","#8E6B2C","#E8AE55"];
+
+const CCY = {EUR:"€/MWh", GBP:"£/MWh"};
+const NS = "http://www.w3.org/2000/svg";
+const svg = document.getElementById("map");
+const tip = document.getElementById("tip");
+
+let group = "power";
+let metric = "price";
+let selected = null;
+let live = null;
+let news = null;
+let view = "map";
+let nTheme = "all";
+let nCountry = "all";
+let lang = "fr";
+
+function t(){ return T[lang]; }
+function m(){ return METRICS[metric]; }
+
+function initLang(){
+  const h = (location.hash || "").replace("#", "").toLowerCase();
+  if (h === "en" || h === "fr") return h;
+  return (navigator.language || "fr").toLowerCase().startsWith("en") ? "en" : "fr";
+}
+
+function isDark(){
+  const a = document.documentElement.getAttribute("data-theme");
+  if (a === "dark") return true;
+  if (a === "light") return false;
+  return window.matchMedia("(prefers-color-scheme: dark)").matches;
+}
+function ramp(){
+  if (m().scale === "div") return isDark() ? DIV_D : DIV_L;
+  return isDark() ? SEQ_D : SEQ_L;
+}
+
+function unitOf(key, code){
+  if (key === "price"){
+    let c = (META[code] && META[code].ccy) || "EUR";
+    if (live && live.metrics && live.metrics.price && live.metrics.price[code]
+        && live.metrics.price[code].currency){
+      c = live.metrics.price[code].currency;
+    }
+    return CCY[c] || (c + "/MWh");
+  }
+  return METRICS[key].unit;
+}
+
+function valueOf(key, code){
+  if (live){
+    const src = (live.metrics || {})[key];
+    if (src && src[code] && typeof src[code].value === "number") return src[code].value;
+    return null;
+  }
+  const d = DEMO[code];
+  if (!d || typeof d[key] !== "number") return null;
+  return d[key];
+}
+
+function val(code){ return valueOf(metric, code); }
+
+function values(){
+  return Object.keys(META).map(val).filter(v => typeof v === "number");
+}
+
+function domain(){
+  const vs = values();
+  if (!vs.length) return [0, 0];
+  let lo = Math.min(...vs), hi = Math.max(...vs);
+  if (m().scale === "div"){
+    const a = Math.max(Math.abs(lo), Math.abs(hi)) || 1;
+    return [-a, a];
+  }
+  return [lo, hi];
+}
+
+function colorFor(code){
+  const v = val(code);
+  if (typeof v !== "number") return "var(--land)";
+  const [lo, hi] = domain();
+  const k = hi === lo ? 0.5 : (v - lo) / (hi - lo);
+  const r = ramp();
+  return r[Math.min(r.length - 1, Math.max(0, Math.floor(k * r.length)))];
+}
+</script>

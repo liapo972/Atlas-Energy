@@ -8,9 +8,16 @@ on:
 permissions:
   contents: write
 
+# Les deux workflows ecrivent dans data/ : le meme groupe les empeche de
+# tourner en meme temps, donc de se marcher dessus.
+concurrency:
+  group: atlas-data
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -27,14 +34,20 @@ jobs:
       - name: Reconstruire la page
         run: python build.py
 
-      - name: Commit si changement
+      - name: Commit et push
         run: |
           git config user.name "atlas-bot"
           git config user.email "atlas-bot@users.noreply.github.com"
           git add data/prices.json data/last_run_data.txt index.html
           if git diff --staged --quiet; then
             echo "Aucun changement"
-          else
-            git commit -m "data: $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "data: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push refuse, integration des commits distants (essai $i)"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git merge -X ours --no-edit "origin/${GITHUB_REF_NAME}" || exit 1
+          done
+          exit 1

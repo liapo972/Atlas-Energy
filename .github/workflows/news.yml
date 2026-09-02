@@ -8,6 +8,8 @@ on:
 permissions:
   contents: write
 
+# Les deux workflows ecrivent dans data/ : le meme groupe les empeche de
+# tourner en meme temps, donc de se marcher dessus.
 concurrency:
   group: atlas-data
   cancel-in-progress: false
@@ -15,6 +17,7 @@ concurrency:
 jobs:
   news:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -23,17 +26,25 @@ jobs:
           python-version: "3.11"
 
       - name: Agreger les titres
+        env:
+          ENTSOE_TOKEN: ${{ secrets.ENTSOE_TOKEN }}
+          GIE_KEY: ${{ secrets.GIE_KEY }}
         run: python fetch_news.py
 
-      - name: Commit si changement
+      - name: Commit et push
         run: |
           git config user.name "atlas-bot"
           git config user.email "atlas-bot@users.noreply.github.com"
-          git pull --rebase --autostash || true
           git add data/news.json data/last_run_news.txt
           if git diff --staged --quiet; then
             echo "Aucun changement"
-          else
-            git commit -m "news: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "news: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push refuse, integration des commits distants (essai $i)"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git merge -X ours --no-edit "origin/${GITHUB_REF_NAME}" || exit 1
+          done
+          exit 1

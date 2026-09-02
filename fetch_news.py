@@ -26,6 +26,7 @@ import urllib.request
 import urllib.error
 import urllib.parse
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone, timedelta
 
@@ -49,21 +50,37 @@ MAX_PER_COUNTRY = 8
 MAX_WORLD = 25
 MAX_AGE_DAYS = 10
 
+WORKERS = 8
+HTTP_TIMEOUT = 15
+MAX_SECONDS = int(os.environ.get("MAX_SECONDS", "420"))
+DEADLINE = time.time() + MAX_SECONDS
 
-def http_get(url, retries=2, timeout=30):
+
+class Expired(Exception):
+    pass
+
+
+def left():
+    return DEADLINE - time.time()
+
+
+def http_get(url, retries=1, timeout=None):
+    timeout = timeout or HTTP_TIMEOUT
     last = None
     for attempt in range(retries + 1):
+        if left() < 5:
+            raise Expired("butoir atteint")
         try:
             req = urllib.request.Request(url, headers={
                 "User-Agent": UA,
                 "Accept": "application/rss+xml, application/atom+xml, application/xml, application/json;q=0.9, */*;q=0.8",
             })
-            with urllib.request.urlopen(req, timeout=timeout) as r:
+            with urllib.request.urlopen(req, timeout=min(timeout, max(5, left()))) as r:
                 return r.read()
         except Exception as exc:
             last = exc
-            if attempt < retries:
-                time.sleep(2 * (attempt + 1))
+            if attempt >= retries or left() < 20:
+                break
     raise last
 
 
@@ -169,7 +186,7 @@ def check_mode():
     ok = bad = 0
     for f in FEEDS:
         try:
-            raw = http_get(f["url"], retries=0, timeout=20)
+            raw = http_get(f["url"], retries=0)
             items = parse_feed(raw)
             if items:
                 print("  OK   %-28s %3d entrées" % (f["name"], len(items)))
@@ -209,31 +226,42 @@ def main():
             "countries": countries,
         })
 
-    # 1. flux RSS/Atom cures
-    for f in FEEDS:
+    # 1. flux RSS/Atom cures, en parallele
+    def do_feed(f):
         try:
-            raw = http_get(f["url"])
-            got = parse_feed(raw)
-            if not got:
-                errors.append("%s: repond mais aucune entree" % f["name"])
-                continue
-            for title, link, date in got[:15]:
-                add(title, link, date, f["name"], f["theme"],
-                    tag_countries(title, f.get("country")))
+            return f, parse_feed(http_get(f["url"])), None
         except Exception as exc:
-            errors.append("%s: %s" % (f["name"], type(exc).__name__))
-        time.sleep(0.3)
+            return f, None, "%s: %s" % (f["name"], type(exc).__name__)
 
-    # 2. socle GDELT par pays
-    for code, meta in COUNTRIES.items():
-        name = meta["name"]["en"]
-        query = '"%s" %s sourcelang:english' % (name, GDELT_COUNTRY_TERMS)
+    print("Flux RSS :", len(FEEDS), flush=True)
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for f, got, err in pool.map(do_feed, FEEDS):
+            if err:
+                errors.append(err)
+            elif not got:
+                errors.append("%s: repond mais aucune entree" % f["name"])
+            else:
+                for title, link, date in got[:15]:
+                    add(title, link, date, f["name"], f["theme"],
+                        tag_countries(title, f.get("country")))
+
+    # 2. socle GDELT par pays, en parallele
+    def do_country(item):
+        code, meta = item
+        query = '"%s" %s sourcelang:english' % (meta["name"]["en"], GDELT_COUNTRY_TERMS)
         try:
-            for title, link, date, domain in gdelt(query, maxrecords=10):
-                add(title, link, date, domain, "press", [code])
+            return code, gdelt(query, maxrecords=10), None
         except Exception as exc:
-            errors.append("gdelt/%s: %s" % (code, type(exc).__name__))
-        time.sleep(0.6)
+            return code, None, "gdelt/%s: %s" % (code, type(exc).__name__)
+
+    print("Requetes GDELT pays :", len(COUNTRIES), flush=True)
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for code, rows, err in pool.map(do_country, list(COUNTRIES.items())):
+            if err:
+                errors.append(err)
+                continue
+            for title, link, date, domain in rows:
+                add(title, link, date, domain, "press", [code])
 
     # 3. fil monde
     world = []
@@ -277,10 +305,14 @@ def main():
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
 
-    print("fil monde   :", len(world), "titres")
-    print("pays servis :", len(by_country), "/", len(COUNTRIES))
-    for e in errors:
-        print("  !", e)
+    print("\n--- Resultat ---")
+    print("  fil monde   :", len(world), "titres")
+    print("  pays servis :", len(by_country), "/", len(COUNTRIES))
+    print("  duree       : %ds" % int(MAX_SECONDS - max(0, left())))
+    if errors:
+        print("\n--- %d avertissements ---" % len(errors))
+        for e in errors:
+            print("  !", e)
     return 0
 
 

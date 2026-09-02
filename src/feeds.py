@@ -19,53 +19,85 @@ Champs :
 
 FEEDS = [
 
-  # --- Institutions et regulateurs europeens -------------------------------
-  {"name": "ACER", "url": "https://www.acer.europa.eu/rss.xml",
-   "theme": "grid", "country": None, "verified": False},
-  {"name": "ENTSOG", "url": "https://www.entsog.eu/rss.xml",
-   "theme": "grid", "country": None, "verified": False},
-  {"name": "ENTSO-E", "url": "https://www.entsoe.eu/rss/news/",
-   "theme": "grid", "country": None, "verified": False},
-  {"name": "Commission européenne", "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
-   "theme": "grid", "country": None, "verified": False},
+  # --- Institutions et regulateurs europeens (ACER / ENTSOG / CE : confirmes) --
+  {"name": "ACER", "urls": ["https://www.acer.europa.eu/rss.xml"],
+   "theme": "grid", "country": None},
+  {"name": "ENTSOG", "urls": ["https://www.entsog.eu/rss.xml"],
+   "theme": "grid", "country": None},
+  {"name": "Commission européenne", "urls": [
+      "https://ec.europa.eu/commission/presscorner/api/rss?language=en"],
+   "theme": "grid", "country": None},
+  {"name": "ENTSO-E", "urls": [
+      "https://www.entsoe.eu/rss/news/",
+      "https://www.entsoe.eu/news/rss/",
+      "https://www.entsoe.eu/feed/",
+      "https://www.entsoe.eu/rss.xml"],
+   "theme": "grid", "country": None},
 
-  # --- Politique monetaire -------------------------------------------------
-  {"name": "BCE — communiqués", "url": "https://www.ecb.europa.eu/rss/press.html",
-   "theme": "policy", "country": None, "verified": False},
-  {"name": "BCE — politique monétaire", "url": "https://www.ecb.europa.eu/rss/pressmopo.html",
-   "theme": "policy", "country": None, "verified": False},
-  {"name": "Fed — politique monétaire", "url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
-   "theme": "policy", "country": None, "verified": False},
-  {"name": "Bank of England", "url": "https://www.bankofengland.co.uk/news/news-rss",
-   "theme": "policy", "country": "GB", "verified": False},
+  # --- Politique monetaire ---------------------------------------------------
+  {"name": "BCE", "urls": ["https://www.ecb.europa.eu/rss/press.html"],
+   "theme": "policy", "country": None},
+  {"name": "Fed — politique monétaire", "urls": [
+      "https://www.federalreserve.gov/feeds/press_monetary.xml"],
+   "theme": "policy", "country": None},
+  {"name": "Bank of England", "urls": [
+      "https://www.bankofengland.co.uk/rss/news",
+      "https://www.bankofengland.co.uk/news/rss",
+      "https://www.bankofengland.co.uk/news/news-rss"],
+   "theme": "policy", "country": "GB"},
 
-  # --- Gestionnaires de reseau, par pays -----------------------------------
-  {"name": "RTE", "url": "https://www.rte-france.com/rss.xml",
-   "theme": "grid", "country": "FR", "verified": False},
-  {"name": "GRTgaz", "url": "https://www.grtgaz.com/rss.xml",
-   "theme": "grid", "country": "FR", "verified": False},
-  {"name": "Elia", "url": "https://www.elia.be/en/news/rss",
-   "theme": "grid", "country": "BE", "verified": False},
-  {"name": "TenneT", "url": "https://www.tennet.eu/rss/news",
-   "theme": "grid", "country": "NL", "verified": False},
-  {"name": "Snam", "url": "https://www.snam.it/en/rss/press-releases.xml",
-   "theme": "grid", "country": "IT", "verified": False},
-  {"name": "Enagás", "url": "https://www.enagas.es/en/rss/news/",
-   "theme": "grid", "country": "ES", "verified": False},
-  {"name": "National Gas", "url": "https://www.nationalgas.com/rss.xml",
-   "theme": "grid", "country": "GB", "verified": False},
-  {"name": "Fingrid", "url": "https://www.fingrid.fi/en/rss/",
-   "theme": "grid", "country": "FI", "verified": False},
-  {"name": "Energinet", "url": "https://en.energinet.dk/rss/",
-   "theme": "grid", "country": "DK", "verified": False},
-  {"name": "Bundesnetzagentur", "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml",
-   "theme": "grid", "country": "DE", "verified": False},
-  {"name": "Statnett", "url": "https://www.statnett.no/en/rss/",
-   "theme": "grid", "country": "NO", "verified": False},
-  {"name": "PSE", "url": "https://www.pse.pl/rss",
-   "theme": "grid", "country": "PL", "verified": False},
+  # --- Gestionnaires de reseau, par pays -------------------------------------
+  {"name": "GRTgaz", "urls": ["https://www.grtgaz.com/rss.xml"],
+   "theme": "grid", "country": "FR"},
+  {"name": "National Gas", "urls": ["https://www.nationalgas.com/rss.xml"],
+   "theme": "grid", "country": "GB"},
+  {"name": "Statnett", "urls": ["https://www.statnett.no/en/rss/"],
+   "theme": "grid", "country": "NO"},
+  {"name": "RTE", "urls": [
+      "https://www.rte-france.com/rss/actualites",
+      "https://www.rte-france.com/actualites/rss",
+      "https://www.rte-france.com/feed"],
+   "theme": "grid", "country": "FR"},
+  {"name": "Elia", "urls": [
+      "https://www.elia.be/en/rss/news",
+      "https://www.elia.be/rss/news",
+      "https://www.elia.be/en/news/rss"],
+   "theme": "grid", "country": "BE"},
+  {"name": "TenneT", "urls": [
+      "https://www.tennet.eu/rss.xml",
+      "https://www.tennet.eu/rss/news",
+      "https://netztransparenz.tennet.eu/rss/"],
+   "theme": "grid", "country": "NL"},
+  {"name": "Snam", "urls": [
+      "https://www.snam.it/en/rss.xml",
+      "https://www.snam.it/rss/en/press-releases.xml",
+      "https://www.snam.it/en/rss/press-releases.xml"],
+   "theme": "grid", "country": "IT"},
+  {"name": "Enagás", "urls": [
+      "https://www.enagas.es/en/feed/",
+      "https://www.enagas.es/feed/",
+      "https://www.enagas.es/en/rss/news/"],
+   "theme": "grid", "country": "ES"},
+  {"name": "Fingrid", "urls": [
+      "https://www.fingrid.fi/en/news/rss/",
+      "https://www.fingrid.fi/rss/",
+      "https://www.fingrid.fi/en/rss/"],
+   "theme": "grid", "country": "FI"},
+  {"name": "Energinet", "urls": [
+      "https://energinet.dk/rss/",
+      "https://en.energinet.dk/rss/",
+      "https://energinet.dk/feed/"],
+   "theme": "grid", "country": "DK"},
+  {"name": "Bundesnetzagentur", "urls": [
+      "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/RSSNewsfeed.xml",
+      "https://www.bundesnetzagentur.de/rss.xml",
+      "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml"],
+   "theme": "grid", "country": "DE"},
+  {"name": "PSE", "urls": [
+      "https://www.pse.pl/rss/aktualnosci",
+      "https://www.pse.pl/rss"],
+   "theme": "grid", "country": "PL"},
 ]
-
 # Requetes GDELT. Sans cle, gratuit, JSON. Sert de socle : la page n'est
 # jamais vide meme si des flux RSS ci-dessus sont morts.
 GDELT_WORLD = (

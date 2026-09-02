@@ -14,32 +14,21 @@ Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  pays servis : 7 / 28
-=======
   pays servis : 5 / 28
->>>>>>> Stashed changes
-  duree       : 175s
-=======
-  pays servis : 5 / 28
-  duree       : 172s
->>>>>>> Stashed changes
+  duree       : 187s
 
---- 29 avertissements ---
+--- 27 avertissements ---
   ! gdelt/FR: URLError
   ! gdelt/DE: URLError
   ! gdelt/NL: URLError
   ! gdelt/BE: URLError
-  ! gdelt/GB: URLError
   ! gdelt/IE: URLError
   ! gdelt/CH: URLError
   ! gdelt/AT: URLError
-  ! gdelt/ES: URLError
+  ! gdelt/ES: HTTPError
   ! gdelt/PT: URLError
-  ! gdelt/IT: URLError
+  ! gdelt/IT: HTTPError
   ! gdelt/PL: URLError
-  ! gdelt/CZ: URLError
   ! gdelt/SK: URLError
   ! gdelt/HU: URLError
   ! gdelt/RO: URLError

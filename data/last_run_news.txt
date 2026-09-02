@@ -1,0 +1,65 @@
+Flux RSS : 19 sources
+  OK   ACER                     https://www.acer.europa.eu/rss.xml
+  OK   ENTSOG                   https://www.entsog.eu/rss.xml
+  OK   Commission européenne    https://ec.europa.eu/commission/presscorner/api/rss?language=en
+  OK   ENTSO-E                  https://www.entsoe.eu/rss.xml
+  OK   BCE                      https://www.ecb.europa.eu/rss/press.html
+  OK   Fed — politique monétaire https://www.federalreserve.gov/feeds/press_monetary.xml
+  OK   Bank of England          https://www.bankofengland.co.uk/rss/news
+  OK   GRTgaz                   https://www.grtgaz.com/rss.xml
+  OK   National Gas             https://www.nationalgas.com/rss.xml
+  OK   Statnett                 https://www.statnett.no/en/rss/
+  MORT RTE                      https://www.rte-france.com/rss/actualites -> HTTPError | https://www.rte-france.com/actualites/rss -> ParseError | https://www.rte-france.com/feed -> HTTPError
+  MORT Elia                     https://www.elia.be/en/rss/news -> HTTPError | https://www.elia.be/rss/news -> HTTPError | https://www.elia.be/en/news/rss -> HTTPError
+  MORT TenneT                   https://www.tennet.eu/rss.xml -> HTTPError | https://www.tennet.eu/rss/news -> HTTPError | https://netztransparenz.tennet.eu/rss/ -> HTTPError
+  MORT Snam                     https://www.snam.it/en/rss.xml -> HTTPError | https://www.snam.it/rss/en/press-releases.xml -> HTTPError | https://www.snam.it/en/rss/press-releases.xml -> HTTPError
+  MORT Enagás                   https://www.enagas.es/en/feed/ -> HTTPError | https://www.enagas.es/feed/ -> HTTPError | https://www.enagas.es/en/rss/news/ -> HTTPError
+  MORT Fingrid                  https://www.fingrid.fi/en/news/rss/ -> HTTPError | https://www.fingrid.fi/rss/ -> HTTPError | https://www.fingrid.fi/en/rss/ -> HTTPError
+  MORT Energinet                https://energinet.dk/rss/ -> HTTPError | https://en.energinet.dk/rss/ -> HTTPError | https://energinet.dk/feed/ -> HTTPError
+  OK   Bundesnetzagentur        https://www.bundesnetzagentur.de/rss.xml
+  MORT PSE                      https://www.pse.pl/rss/aktualnosci -> HTTPError | https://www.pse.pl/rss -> HTTPError
+Requetes GDELT pays : 28
+
+--- Resultat ---
+  fil monde   : 8 titres
+  pays servis : 5 / 28
+  duree       : 179s
+
+--- 37 avertissements ---
+  ! RTE: https://www.rte-france.com/rss/actualites -> HTTPError | https://www.rte-france.com/actualites/rss -> ParseError | https://www.rte-france.com/feed -> HTTPError
+  ! Elia: https://www.elia.be/en/rss/news -> HTTPError | https://www.elia.be/rss/news -> HTTPError | https://www.elia.be/en/news/rss -> HTTPError
+  ! TenneT: https://www.tennet.eu/rss.xml -> HTTPError | https://www.tennet.eu/rss/news -> HTTPError | https://netztransparenz.tennet.eu/rss/ -> HTTPError
+  ! Snam: https://www.snam.it/en/rss.xml -> HTTPError | https://www.snam.it/rss/en/press-releases.xml -> HTTPError | https://www.snam.it/en/rss/press-releases.xml -> HTTPError
+  ! Enagás: https://www.enagas.es/en/feed/ -> HTTPError | https://www.enagas.es/feed/ -> HTTPError | https://www.enagas.es/en/rss/news/ -> HTTPError
+  ! Fingrid: https://www.fingrid.fi/en/news/rss/ -> HTTPError | https://www.fingrid.fi/rss/ -> HTTPError | https://www.fingrid.fi/en/rss/ -> HTTPError
+  ! Energinet: https://energinet.dk/rss/ -> HTTPError | https://en.energinet.dk/rss/ -> HTTPError | https://energinet.dk/feed/ -> HTTPError
+  ! PSE: https://www.pse.pl/rss/aktualnosci -> HTTPError | https://www.pse.pl/rss -> HTTPError
+  ! gdelt/FR: URLError
+  ! gdelt/DE: URLError
+  ! gdelt/NL: URLError
+  ! gdelt/BE: URLError
+  ! gdelt/GB: URLError
+  ! gdelt/IE: URLError
+  ! gdelt/CH: URLError
+  ! gdelt/AT: URLError
+  ! gdelt/ES: URLError
+  ! gdelt/PT: URLError
+  ! gdelt/IT: URLError
+  ! gdelt/PL: URLError
+  ! gdelt/CZ: URLError
+  ! gdelt/SK: URLError
+  ! gdelt/HU: URLError
+  ! gdelt/RO: URLError
+  ! gdelt/GR: URLError
+  ! gdelt/BG: URLError
+  ! gdelt/NO: URLError
+  ! gdelt/SE: URLError
+  ! gdelt/DK: URLError
+  ! gdelt/FI: URLError
+  ! gdelt/EE: URLError
+  ! gdelt/LV: URLError
+  ! gdelt/LT: URLError
+  ! gdelt/SI: URLError
+  ! gdelt/HR: URLError
+  ! gdelt/RS: URLError
+  ! gdelt/world: URLError

@@ -186,7 +186,7 @@ def check_mode():
     ok = bad = 0
     for f in FEEDS:
         try:
-            raw = http_get(f["url"], retries=0)
+            raw = http_get(f["urls"][0], retries=0)
             items = parse_feed(raw)
             if items:
                 print("  OK   %-28s %3d entrées" % (f["name"], len(items)))
@@ -201,7 +201,27 @@ def check_mode():
     return 0 if ok else 1
 
 
+
+class _Tee:
+    """Duplique la sortie vers un fichier du depot, pour pouvoir relire le
+    dernier run sans passer par l'interface GitHub."""
+
+    def __init__(self, path):
+        self.path = path
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        self.fh = open(path, "w", encoding="utf-8")
+        self.stdout = sys.stdout
+
+    def write(self, s):
+        self.stdout.write(s)
+        self.fh.write(s)
+
+    def flush(self):
+        self.stdout.flush()
+        self.fh.flush()
+
 def main():
+    sys.stdout = _Tee(os.path.join(ROOT, "data", "last_run_news.txt"))
     if "--check" in sys.argv:
         return check_mode()
 
@@ -226,24 +246,37 @@ def main():
             "countries": countries,
         })
 
-    # 1. flux RSS/Atom cures, en parallele
-    def do_feed(f):
-        try:
-            return f, parse_feed(http_get(f["url"])), None
-        except Exception as exc:
-            return f, None, "%s: %s" % (f["name"], type(exc).__name__)
+    # 1. flux RSS/Atom cures, en parallele.
+    #    Chaque source propose plusieurs URL candidates : on garde la premiere
+    #    qui repond ET se parse. Le resultat est journalise pour pouvoir
+    #    figer la bonne URL dans src/feeds.py.
+    feed_status = {}
 
-    print("Flux RSS :", len(FEEDS), flush=True)
+    def do_feed(f):
+        tried = []
+        for url in f["urls"]:
+            try:
+                got = parse_feed(http_get(url))
+                if got:
+                    return f, got, None, url
+                tried.append("%s -> vide" % url)
+            except Exception as exc:
+                tried.append("%s -> %s" % (url, type(exc).__name__))
+        return f, None, " | ".join(tried), None
+
+    print("Flux RSS :", len(FEEDS), "sources", flush=True)
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        for f, got, err in pool.map(do_feed, FEEDS):
-            if err:
-                errors.append(err)
-            elif not got:
-                errors.append("%s: repond mais aucune entree" % f["name"])
-            else:
+        for f, got, err, url in pool.map(do_feed, FEEDS):
+            if got:
+                feed_status[f["name"]] = {"ok": True, "url": url, "items": len(got)}
+                print("  OK   %-24s %s" % (f["name"], url), flush=True)
                 for title, link, date in got[:15]:
                     add(title, link, date, f["name"], f["theme"],
                         tag_countries(title, f.get("country")))
+            else:
+                feed_status[f["name"]] = {"ok": False, "tried": err}
+                errors.append("%s: %s" % (f["name"], err))
+                print("  MORT %-24s %s" % (f["name"], err), flush=True)
 
     # 2. socle GDELT par pays, en parallele
     def do_country(item):
@@ -297,6 +330,7 @@ def main():
         "generated": now.isoformat(timespec="seconds"),
         "world": world,
         "countries": by_country,
+        "feed_status": feed_status,
         "errors": errors,
     }
 

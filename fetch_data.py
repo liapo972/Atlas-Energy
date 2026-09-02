@@ -57,8 +57,8 @@ ALSI_COUNTRIES = {"BE", "DE", "ES", "FI", "FR", "GB", "GR", "HR",
 TOKEN = os.environ.get("ENTSOE_TOKEN", "").strip()
 GIE_KEY = (os.environ.get("GIE_KEY") or os.environ.get("AGSI_KEY") or "").strip()
 
-HTTP_TIMEOUT = 20
-WORKERS = 8
+HTTP_TIMEOUT = 45
+WORKERS = 2
 MAX_SECONDS = int(os.environ.get("MAX_SECONDS", "420"))
 DEADLINE = time.time() + MAX_SECONDS
 
@@ -71,25 +71,37 @@ def left():
     return DEADLINE - time.time()
 
 
+BACKOFF = [2, 6, 15, 30]
+
+
 def http_get(url, headers=None):
-    """Un seul essai, plus un second uniquement si le temps le permet."""
-    for attempt in (0, 1):
-        if left() < 5:
+    """Reessaie avec attente croissante sur 429/5xx : l'API ENTSO-E rend
+    beaucoup de 503 quand elle est sollicitee trop vite."""
+    last = None
+    for attempt in range(len(BACKOFF) + 1):
+        if left() < 8:
             raise Expired("butoir atteint")
         try:
             req = urllib.request.Request(url, headers=headers or {})
-            with urllib.request.urlopen(req, timeout=min(HTTP_TIMEOUT, max(5, left()))) as r:
+            with urllib.request.urlopen(req, timeout=min(HTTP_TIMEOUT, max(8, left()))) as r:
                 return r.read()
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503) and attempt == 0 and left() > 20:
-                time.sleep(2)
-                continue
-            raise
-        except Exception:
-            if attempt == 0 and left() > 20:
-                continue
-            raise
-    raise RuntimeError("echec")
+            body = ""
+            try:
+                body = e.read(300).decode("utf-8", "replace").strip().replace("\n", " ")
+            except Exception:
+                pass
+            last = RuntimeError("HTTP %s%s" % (e.code, (" — " + body[:200]) if body else ""))
+            if e.code not in (429, 500, 502, 503, 504):
+                raise last
+        except Exception as e:
+            last = RuntimeError("%s: %s" % (type(e).__name__, e))
+        if attempt < len(BACKOFF):
+            wait = BACKOFF[attempt]
+            if left() < wait + 10:
+                break
+            time.sleep(wait)
+    raise last or RuntimeError("echec")
 
 
 def strip_ns(tag):
@@ -194,13 +206,52 @@ def run_jobs(jobs, label):
     return out, errors
 
 
+
+class _Tee:
+    """Duplique la sortie vers un fichier du depot, pour pouvoir relire le
+    dernier run sans passer par l'interface GitHub."""
+
+    def __init__(self, path):
+        self.path = path
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        self.fh = open(path, "w", encoding="utf-8")
+        self.stdout = sys.stdout
+
+    def write(self, s):
+        self.stdout.write(s)
+        self.fh.write(s)
+
+    def flush(self):
+        self.stdout.flush()
+        self.fh.flush()
+
 def main():
+    sys.stdout = _Tee(os.path.join(ROOT, "data", "last_run_data.txt"))
     day = date.today() - timedelta(days=1)
     metrics = {k: {} for k in ("price", "load", "storage", "netwd", "lng")}
     errors = []
 
     print("Journee visee :", day.isoformat(), flush=True)
     print("Butoir global :", MAX_SECONDS, "secondes", flush=True)
+    print("Token ENTSO-E :", ("present (%d caracteres)" % len(TOKEN)) if TOKEN else "ABSENT", flush=True)
+    print("Cle GIE       :", ("presente (%d caracteres)" % len(GIE_KEY)) if GIE_KEY else "ABSENTE", flush=True)
+
+    # --- sonde : un seul appel de chaque API, verbeux ---
+    if TOKEN:
+        print("\nSonde ENTSO-E (France)...", flush=True)
+        try:
+            r = fetch_price("10YFR-RTE------C", day)
+            print("  OK ->", r, flush=True)
+        except Exception as e:
+            print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
+    if GIE_KEY:
+        print("Sonde GIE AGSI+ (France)...", flush=True)
+        try:
+            row = gie(AGSI_URL, "FR", day)
+            print("  OK -> full =", row.get("full"), flush=True)
+        except Exception as e:
+            print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
+    print("", flush=True)
 
     jobs = []
     if TOKEN:

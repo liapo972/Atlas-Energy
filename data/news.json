@@ -1,8 +1,12 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "generated": "2026-09-02T20:27:07+00:00",
 =======
  "generated": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+ "generated": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
  "world": [
   {
@@ -11,9 +15,13 @@
    "source": "ACER",
    "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
    "date": "2026-09-02T20:27:07+00:00",
 =======
    "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+   "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
    "countries": []
   },
@@ -23,9 +31,13 @@
    "source": "ACER",
    "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
    "date": "2026-09-02T20:27:07+00:00",
 =======
    "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+   "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
    "countries": []
   },
@@ -35,9 +47,13 @@
    "source": "ACER",
    "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
    "date": "2026-09-02T20:27:07+00:00",
 =======
    "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+   "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
    "countries": []
   },
@@ -47,9 +63,13 @@
    "source": "ACER",
    "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
    "date": "2026-09-02T20:27:07+00:00",
 =======
    "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+   "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
    "countries": []
   },
@@ -71,7 +91,7 @@
   },
   {
    "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
    "source": "BCE",
    "theme": "policy",
    "date": "2026-09-01T16:00:00+00:00",
@@ -90,13 +110,17 @@
   "FR": [
    {
     "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
-    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly%22%20hreflang%3D%22en%22%3EAlgorithmic%20trading%20in%20energy%20markets%20features%20again%20in%20ACER%26#039;s latest REMIT Quarterly </a>",
+    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly%22%20hreflang%3D%22en%22%3EAlgorithmic%20trading%20in%20energy%20markets%20features%20again%20in%20ACER%26#039;s latest REMIT Quarterly </a",
     "source": "ACER",
     "theme": "grid",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "FR"
@@ -110,9 +134,13 @@
     "source": "ACER",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -124,9 +152,13 @@
     "source": "ACER",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -138,9 +170,13 @@
     "source": "ACER",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -152,9 +188,13 @@
     "source": "ACER",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -166,9 +206,13 @@
     "source": "Bundesnetzagentur",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -180,9 +224,13 @@
     "source": "Bundesnetzagentur",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -194,9 +242,13 @@
     "source": "Bundesnetzagentur",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -208,9 +260,13 @@
     "source": "Bundesnetzagentur",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "DE"
@@ -224,9 +280,13 @@
     "source": "ACER",
     "theme": "grid",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-09-02T20:27:07+00:00",
 =======
     "date": "2026-09-02T20:30:13+00:00",
+>>>>>>> Stashed changes
+=======
+    "date": "2026-09-02T20:33:19+00:00",
 >>>>>>> Stashed changes
     "countries": [
      "RO"
@@ -235,81 +295,11 @@
   ],
   "PT": [
    {
-    "title": "SomDevices and CELUS Partner to Bring μSMARC System - on - Modules to the CELUS Design Platform",
-    "url": "https://www.eejournal.com/industry_news/somdevices-and-celus-partner-to-bring-%CE%BCsmarc-system-on-modules-to-the-celus-design-platform/",
-    "source": "eejournal.com",
-    "theme": "press",
-    "date": "2026-09-02T17:15:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "DP World names new methanol vessel",
-    "url": "https://www.motorship.com/news/alternative-fuels-lubricants/dp-world-names-new-methanol-vessel/",
-    "source": "motorship.com",
-    "theme": "press",
-    "date": "2026-09-02T15:30:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russian attacks wound 8 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes",
-    "url": "https://www.wboc.com/news/international/russian-attacks-wound-8-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-the-stakes/article_cbe3097e-6dfc-56fa-99f3-327184466f42.html",
-    "source": "wboc.com",
-    "theme": "press",
-    "date": "2026-09-02T13:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Craig LaBan reviews Kensington BAR ilu and Bella Vista Grace and Proper",
-    "url": "https://www.inquirer.com/food/craig-laban/ilu-kensington-spanish-grace-and-proper-tapas-bar-20260902.html",
-    "source": "inquirer.com",
-    "theme": "press",
-    "date": "2026-09-02T13:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russian attacks wound 8 Ukrainian civilians as Moscow and Kyiv threaten to raise the stakes",
-    "url": "https://www.stcatharinesstandard.ca/news/world/europe/russian-attacks-wound-8-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-the-stakes/article_ee455e23-8d0c-5948-81d8-cd6fcfc0badc.html",
-    "source": "stcatharinesstandard.ca",
-    "theme": "press",
-    "date": "2026-09-02T11:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Marine Le Pen And The Nationalist Trend The Establishment Cannot Stop",
-    "url": "https://www.armstrongeconomics.com/international-news/europes-current-economy/marine-le-pen-and-the-nationalist-trend-the-establishment-cannot-stop/",
-    "source": "armstrongeconomics.com",
-    "theme": "press",
-    "date": "2026-09-02T04:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "The EU is ready to bet billions on data centers . Not all countries want in .",
-    "url": "https://www.politico.eu/article/ai-race-splits-europe-into-spenders-and-laggards-eu-gigafactory/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-09-02T04:15:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Olympic rower who furious speedboat driver tried to ram on the Thame tells of moment man lost his mind",
-    "url": "https://www.dailymail.com/news/article-16097303/Olympic-rower-speedboat-driver-Thames.html",
-    "source": "dailymail.com",
-    "theme": "press",
-    "date": "2026-09-02T00:30:00+00:00",
+    "title": "Commission approves €30 million Portuguese State aid for agricultural, fishery and aquaculture companies facing increased fuel and fertiliser prices",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1779",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-09-01T22:00:00+00:00",
     "countries": [
      "PT"
     ]
@@ -334,170 +324,6 @@
     "date": "2026-08-26T08:45:30+00:00",
     "countries": [
      "GB"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "Hans van de Ven on World War II and the Making of Modern Asia",
-    "url": "https://thediplomat.com/2026/09/hans-van-de-ven-on-world-war-ii-and-the-making-of-modern-asia/",
-    "source": "thediplomat.com",
-    "theme": "press",
-    "date": "2026-09-02T20:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Couche - Tard reports slowing U . S . sales growth as it pushes ahead with takeover of Poland Zabka",
-    "url": "https://www.theglobeandmail.com/business/article-couche-tard-reports-slowing-us-sales-growth-as-it-pushes-ahead-with/",
-    "source": "theglobeandmail.com",
-    "theme": "press",
-    "date": "2026-09-02T16:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "EU struggles after Germany blames Russia for failed drone attack",
-    "url": "https://www.sandiegouniontribune.com/2026/09/02/eu-germany-russia-failed-drone-attack/",
-    "source": "sandiegouniontribune.com",
-    "theme": "press",
-    "date": "2026-09-02T16:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Last Ship Out – Mishpacha",
-    "url": "https://mishpacha.com/last-ship-out/",
-    "source": "mishpacha.com",
-    "theme": "press",
-    "date": "2026-09-02T13:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "The artist pushing beauty culture to its ugliest extreme",
-    "url": "https://www.dazeddigital.com/beauty/article/70878/1/ivana-vladislava-wants-you-to-buy-or-stay-ugly-berlin-beauty-exhibition",
-    "source": "dazeddigital.com",
-    "theme": "press",
-    "date": "2026-09-02T13:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Middle powers in a ruptured order : Why Poland and Ukraine matter for EU strategic autonomy",
-    "url": "https://neweasterneurope.eu/2026/09/02/middle-powers-in-a-ruptured-order-why-poland-and-ukraine-matter-for-eu-strategic-autonomy/",
-    "source": "neweasterneurope.eu",
-    "theme": "press",
-    "date": "2026-09-02T12:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Alimentation Couche - Tard ( TSE : ATD ) Issues Quarterly Earnings Results",
-    "url": "https://www.tickerreport.com/banking-finance/13570594/alimentation-couche-tard-tseatd-issues-quarterly-earnings-results.html",
-    "source": "tickerreport.com",
-    "theme": "press",
-    "date": "2026-09-02T11:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Why Are People Talking About a German Reset with Russia ?",
-    "url": "https://warontherocks.com/why-are-people-talking-about-a-german-reset-with-russia/",
-    "source": "warontherocks.com",
-    "theme": "press",
-    "date": "2026-09-02T11:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "SK": [
-   {
-    "title": "Czech minister body exhumed to resolve doubts over 1948 death",
-    "url": "https://www.citizen.co.za/news/news-world/czech-ministers-body-exhumed-to-resolve-doubts-over-1948-death/",
-    "source": "citizen.co.za",
-    "theme": "press",
-    "date": "2026-09-02T16:15:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "I could outwork anybody – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/featured/2026/08/31/i-could-outwork-anybody",
-    "source": "winnipegfreepress.com",
-    "theme": "press",
-    "date": "2026-09-02T15:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "COMMENTARY : Blowing Hot and Cold",
-    "url": "https://emagazine.com/commentary-blowing-hot-and-cold/",
-    "source": "emagazine.com",
-    "theme": "press",
-    "date": "2026-09-02T13:00:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Iran targets U . S . bases in Middle East in retaliation for earlier attacks",
-    "url": "https://nationalpost.com/news/world/israel-middle-east/iran-targets-u-s-bases-in-middle-east-in-retaliation-for-earlier-attacks",
-    "source": "nationalpost.com",
-    "theme": "press",
-    "date": "2026-09-02T02:00:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Christiana Figueres & Garik Israelian on Jane Goodall legacy and the search for truth",
-    "url": "https://news.mongabay.com/podcast/2026/09/christiana-figueres-garik-israelian-on-jane-goodalls-legacy-and-the-search-for-truth/",
-    "source": "news.mongabay.com",
-    "theme": "press",
-    "date": "2026-09-02T00:30:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "The EU wanted a green revolution . It may get a rust belt instead",
-    "url": "http://www.beijingbulletin.com/news/279279293/the-eu-wanted-a-green-revolution-it-may-get-a-rust-belt-instead",
-    "source": "beijingbulletin.com",
-    "theme": "press",
-    "date": "2026-09-01T18:00:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "The EU wanted a green revolution . It may get a rust belt instead",
-    "url": "http://www.europesun.com/news/279279293/the-eu-wanted-a-green-revolution-it-may-get-a-rust-belt-instead",
-    "source": "europesun.com",
-    "theme": "press",
-    "date": "2026-09-01T17:30:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Wider Europe Briefing : EU Ministers Debate How To Finance Ukraine Next Year",
-    "url": "https://www.rferl.org/a/wider-europe-jozwiak-russian-assets-ukraine/33844274.html",
-    "source": "rferl.org",
-    "theme": "press",
-    "date": "2026-09-01T11:30:00+00:00",
-    "countries": [
-     "SK"
     ]
    }
   ]
@@ -569,8 +395,11 @@
   "gdelt/CH: URLError",
   "gdelt/AT: URLError",
   "gdelt/ES: URLError",
+  "gdelt/PT: URLError",
   "gdelt/IT: URLError",
+  "gdelt/PL: URLError",
   "gdelt/CZ: URLError",
+  "gdelt/SK: URLError",
   "gdelt/HU: URLError",
   "gdelt/RO: URLError",
   "gdelt/GR: URLError",

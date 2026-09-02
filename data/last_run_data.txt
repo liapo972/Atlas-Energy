@@ -2,114 +2,41 @@ Journee visee : 2026-09-01
 Butoir global : 420 secondes
 Token ENTSO-E : present (36 caracteres)
 Cle GIE       : presente (32 caracteres)
-
 Sonde ENTSO-E (France)...
   ECHEC -> RuntimeError : HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
+Sonde ENTSO-E (Allemagne)...
+  ECHEC -> RuntimeError : HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
+  => ENTSO-E injoignable : couche electricite sautee pour ce run, les valeurs precedentes sont conservees.
 Sonde GIE AGSI+ (France)...
-  ECHEC -> RuntimeError : aucune donnee
+  OK -> full = 71.31 au 2026-08-31
 
-Requetes a lancer : 90
-   ... requetes 20/90 (269s restantes)
-   ... requetes 40/90 (69s restantes)
-   ... requetes 60/90 (0s restantes)
-   ... requetes 80/90 (0s restantes)
+Requetes a lancer : 34
+   ... requetes 20/34 (386s restantes)
 
 --- Resultat ---
-  price      0 valeurs
-  load       0 valeurs
-  storage    0 valeurs
-  netwd      0 valeurs
-  lng        0 valeurs
-  duree     420s
+  price      0 valeurs (0 du jour, 0 reportees)
+  load       0 valeurs (0 du jour, 0 reportees)
+  storage   17 valeurs (17 du jour, 0 reportees)
+  netwd     17 valeurs (17 du jour, 0 reportees)
+  lng        0 valeurs (0 du jour, 0 reportees)
+  duree     37s
 
---- 90 erreurs ---
-  ! price/FR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/FR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/DE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/DE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/NL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/NL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/BE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/BE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/GB: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/GB: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/IE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/IE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/CH: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/CH: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/AT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/AT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/ES: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/ES: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/PT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/PT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/IT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/IT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/PL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/PL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/CZ: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/CZ: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/SK: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/SK: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/HU: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/HU: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/RO: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/RO: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/GR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/GR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/BG: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/BG: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/NO: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/NO: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/SE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/SE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/DK: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/DK: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/FI: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/FI: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/EE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/EE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/LV: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/LV: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/LT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/LT: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/SI: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/SI: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! price/HR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/HR: RuntimeError: TimeoutError: The read operation timed out
-  ! price/RS: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! load/RS: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platf
-  ! gas/FR: butoir atteint
-  ! lng/FR: butoir atteint
-  ! gas/DE: butoir atteint
-  ! lng/DE: butoir atteint
-  ! gas/NL: butoir atteint
-  ! lng/NL: butoir atteint
-  ! gas/BE: butoir atteint
-  ! lng/BE: butoir atteint
-  ! gas/GB: butoir atteint
-  ! lng/GB: butoir atteint
-  ! gas/AT: butoir atteint
-  ! gas/ES: butoir atteint
-  ! lng/ES: butoir atteint
-  ! gas/PT: butoir atteint
-  ! lng/PT: butoir atteint
-  ! gas/IT: butoir atteint
-  ! lng/IT: butoir atteint
-  ! gas/PL: butoir atteint
-  ! lng/PL: butoir atteint
-  ! gas/CZ: butoir atteint
-  ! gas/SK: butoir atteint
-  ! gas/HU: butoir atteint
-  ! gas/RO: butoir atteint
-  ! gas/GR: butoir atteint
-  ! lng/GR: butoir atteint
-  ! gas/BG: butoir atteint
-  ! lng/SE: butoir atteint
-  ! gas/DK: butoir atteint
-  ! lng/FI: butoir atteint
-  ! gas/LV: butoir atteint
-  ! lng/LT: butoir atteint
-  ! gas/HR: butoir atteint
-  ! lng/HR: butoir atteint
-  ! gas/RS: butoir atteint
+--- 18 erreurs ---
+  ! electricite: API ENTSO-E injoignable, couche sautee
+  ! lng/FR: RuntimeError: fenetre sans valeur 'full'
+  ! lng/DE: RuntimeError: fenetre sans valeur 'full'
+  ! lng/NL: RuntimeError: fenetre sans valeur 'full'
+  ! lng/BE: RuntimeError: fenetre sans valeur 'full'
+  ! gas/GB: RuntimeError: fenetre sans valeur 'full'
+  ! lng/GB: RuntimeError: fenetre sans valeur 'full'
+  ! lng/ES: RuntimeError: fenetre sans valeur 'full'
+  ! lng/PT: RuntimeError: fenetre sans valeur 'full'
+  ! lng/IT: RuntimeError: fenetre sans valeur 'full'
+  ! lng/PL: RuntimeError: fenetre sans valeur 'full'
+  ! gas/GR: RuntimeError: fenetre sans valeur 'full'
+  ! lng/GR: RuntimeError: fenetre sans valeur 'full'
+  ! lng/SE: RuntimeError: fenetre sans valeur 'full'
+  ! lng/FI: RuntimeError: fenetre sans valeur 'full'
+  ! lng/LT: RuntimeError: fenetre sans valeur 'full'
+  ! lng/HR: RuntimeError: fenetre sans valeur 'full'
+  ! gas/RS: RuntimeError: fenetre sans valeur 'full'

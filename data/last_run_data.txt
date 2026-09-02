@@ -1,0 +1,115 @@
+Journee visee : 2026-09-01
+Butoir global : 420 secondes
+Token ENTSO-E : present (36 caracteres)
+Cle GIE       : presente (32 caracteres)
+
+Sonde ENTSO-E (France)...
+  ECHEC -> RuntimeError : HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+Sonde GIE AGSI+ (France)...
+  ECHEC -> RuntimeError : HTTP 403 — error code: 1010
+
+Requetes a lancer : 90
+   ... requetes 20/90 (3s restantes)
+   ... requetes 40/90 (3s restantes)
+   ... requetes 60/90 (3s restantes)
+   ... requetes 80/90 (3s restantes)
+
+--- Resultat ---
+  price      0 valeurs
+  load       0 valeurs
+  storage    0 valeurs
+  netwd      0 valeurs
+  lng        0 valeurs
+  duree     416s
+
+--- 90 erreurs ---
+  ! price/FR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! load/FR: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! price/DE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! load/DE: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! price/NL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! load/NL: RuntimeError: HTTP 503 — <!doctype html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width,initial-scale=1" /> <title>Transparency Platform</title> <style>   :root{     --heade
+  ! price/BE: butoir atteint
+  ! load/BE: butoir atteint
+  ! price/GB: butoir atteint
+  ! load/GB: butoir atteint
+  ! price/IE: butoir atteint
+  ! load/IE: butoir atteint
+  ! price/CH: butoir atteint
+  ! load/CH: butoir atteint
+  ! price/AT: butoir atteint
+  ! load/AT: butoir atteint
+  ! price/ES: butoir atteint
+  ! load/ES: butoir atteint
+  ! price/PT: butoir atteint
+  ! load/PT: butoir atteint
+  ! price/IT: butoir atteint
+  ! load/IT: butoir atteint
+  ! price/PL: butoir atteint
+  ! load/PL: butoir atteint
+  ! price/CZ: butoir atteint
+  ! load/CZ: butoir atteint
+  ! price/SK: butoir atteint
+  ! load/SK: butoir atteint
+  ! price/HU: butoir atteint
+  ! load/HU: butoir atteint
+  ! price/RO: butoir atteint
+  ! load/RO: butoir atteint
+  ! price/GR: butoir atteint
+  ! load/GR: butoir atteint
+  ! price/BG: butoir atteint
+  ! load/BG: butoir atteint
+  ! price/NO: butoir atteint
+  ! load/NO: butoir atteint
+  ! price/SE: butoir atteint
+  ! load/SE: butoir atteint
+  ! price/DK: butoir atteint
+  ! load/DK: butoir atteint
+  ! price/FI: butoir atteint
+  ! load/FI: butoir atteint
+  ! price/EE: butoir atteint
+  ! load/EE: butoir atteint
+  ! price/LV: butoir atteint
+  ! load/LV: butoir atteint
+  ! price/LT: butoir atteint
+  ! load/LT: butoir atteint
+  ! price/SI: butoir atteint
+  ! load/SI: butoir atteint
+  ! price/HR: butoir atteint
+  ! load/HR: butoir atteint
+  ! price/RS: butoir atteint
+  ! load/RS: butoir atteint
+  ! gas/FR: butoir atteint
+  ! lng/FR: butoir atteint
+  ! gas/DE: butoir atteint
+  ! lng/DE: butoir atteint
+  ! gas/NL: butoir atteint
+  ! lng/NL: butoir atteint
+  ! gas/BE: butoir atteint
+  ! lng/BE: butoir atteint
+  ! gas/GB: butoir atteint
+  ! lng/GB: butoir atteint
+  ! gas/AT: butoir atteint
+  ! gas/ES: butoir atteint
+  ! lng/ES: butoir atteint
+  ! gas/PT: butoir atteint
+  ! lng/PT: butoir atteint
+  ! gas/IT: butoir atteint
+  ! lng/IT: butoir atteint
+  ! gas/PL: butoir atteint
+  ! lng/PL: butoir atteint
+  ! gas/CZ: butoir atteint
+  ! gas/SK: butoir atteint
+  ! gas/HU: butoir atteint
+  ! gas/RO: butoir atteint
+  ! gas/GR: butoir atteint
+  ! lng/GR: butoir atteint
+  ! gas/BG: butoir atteint
+  ! lng/SE: butoir atteint
+  ! gas/DK: butoir atteint
+  ! lng/FI: butoir atteint
+  ! gas/LV: butoir atteint
+  ! lng/LT: butoir atteint
+  ! gas/HR: butoir atteint
+  ! lng/HR: butoir atteint
+  ! gas/RS: butoir atteint

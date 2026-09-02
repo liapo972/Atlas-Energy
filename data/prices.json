@@ -1,136 +1,363 @@
 {
- "generated": "2026-09-02T15:44:56+00:00",
+ "generated": "2026-09-02T20:24:37+00:00",
  "day": "2026-09-01",
  "metrics": {
-  "price": {},
-  "load": {},
-  "storage": {
+  "price": {
    "FR": {
-    "value": 71.3
+    "value": 153.68,
+    "currency": "EUR"
    },
    "DE": {
-    "value": 53.3
+    "value": 154.3,
+    "currency": "EUR"
    },
    "NL": {
-    "value": 47.3
+    "value": 157.61,
+    "currency": "EUR"
    },
    "BE": {
-    "value": 55.1
+    "value": 162.3,
+    "currency": "EUR"
+   },
+   "IE": {
+    "value": 189.1,
+    "currency": "EUR"
+   },
+   "CH": {
+    "value": 166.52,
+    "currency": "EUR"
    },
    "AT": {
-    "value": 66.8
+    "value": 179.15,
+    "currency": "EUR"
    },
    "ES": {
-    "value": 73.5
+    "value": 157.02,
+    "currency": "EUR"
    },
    "PT": {
-    "value": 93.1
+    "value": 151.37,
+    "currency": "EUR"
    },
    "IT": {
-    "value": 83.1
+    "value": 204.65,
+    "currency": "EUR"
    },
    "PL": {
-    "value": 93.5
+    "value": 153.47,
+    "currency": "EUR"
    },
    "CZ": {
-    "value": 70.7
+    "value": 161.18,
+    "currency": "EUR"
    },
    "SK": {
-    "value": 50.5
+    "value": 170.6,
+    "currency": "EUR"
    },
    "HU": {
-    "value": 69.3
+    "value": 191.41,
+    "currency": "EUR"
    },
    "RO": {
-    "value": 71.3
+    "value": 187.23,
+    "currency": "EUR"
+   },
+   "GR": {
+    "value": 182.63,
+    "currency": "EUR"
    },
    "BG": {
-    "value": 61.5
+    "value": 182.87,
+    "currency": "EUR"
+   },
+   "NO": {
+    "value": 141.21,
+    "currency": "EUR"
+   },
+   "SE": {
+    "value": 94.52,
+    "currency": "EUR"
    },
    "DK": {
-    "value": 76.2
+    "value": 150.07,
+    "currency": "EUR"
+   },
+   "FI": {
+    "value": 64.71,
+    "currency": "EUR"
+   },
+   "EE": {
+    "value": 83.77,
+    "currency": "EUR"
    },
    "LV": {
-    "value": 45.0
+    "value": 115.3,
+    "currency": "EUR"
+   },
+   "LT": {
+    "value": 115.3,
+    "currency": "EUR"
+   },
+   "SI": {
+    "value": 179.94,
+    "currency": "EUR"
    },
    "HR": {
-    "value": 73.1
+    "value": 181.08,
+    "currency": "EUR"
+   },
+   "RS": {
+    "value": 169.63,
+    "currency": "EUR"
+   }
+  },
+  "load": {
+   "FR": {
+    "value": 1101.3
+   },
+   "DE": {
+    "value": 1289.6
+   },
+   "NL": {
+    "value": 188.1
+   },
+   "BE": {
+    "value": 219.4
+   },
+   "CH": {
+    "value": 163.3
+   },
+   "AT": {
+    "value": 158.0
+   },
+   "ES": {
+    "value": 776.3
+   },
+   "PT": {
+    "value": 140.5
+   },
+   "IT": {
+    "value": 517.7
+   },
+   "PL": {
+    "value": 438.4
+   },
+   "CZ": {
+    "value": 165.9
+   },
+   "SK": {
+    "value": 68.9
+   },
+   "HU": {
+    "value": 115.1
+   },
+   "RO": {
+    "value": 144.7
+   },
+   "GR": {
+    "value": 186.5
+   },
+   "BG": {
+    "value": 94.6
+   },
+   "NO": {
+    "value": 89.1
+   },
+   "SE": {
+    "value": 199.6
+   },
+   "DK": {
+    "value": 65.6
+   },
+   "FI": {
+    "value": 204.6
+   },
+   "EE": {
+    "value": 19.0
+   },
+   "LV": {
+    "value": 19.7
+   },
+   "LT": {
+    "value": 34.6
+   },
+   "SI": {
+    "value": 41.0
+   },
+   "HR": {
+    "value": 56.0
+   },
+   "RS": {
+    "value": 90.2
+   }
+  },
+  "storage": {
+   "FR": {
+    "value": 71.7,
+    "asof": "2026-09-01"
+   },
+   "DE": {
+    "value": 40613.9,
+    "asof": "2026-09-01"
+   },
+   "NL": {
+    "value": 47.7,
+    "asof": "2026-09-01"
+   },
+   "BE": {
+    "value": 55.7,
+    "asof": "2026-09-01"
+   },
+   "AT": {
+    "value": 67.0,
+    "asof": "2026-09-01"
+   },
+   "ES": {
+    "value": 73.5,
+    "asof": "2026-09-01"
+   },
+   "PT": {
+    "value": 93.1,
+    "asof": "2026-09-01"
+   },
+   "IT": {
+    "value": 83.2,
+    "asof": "2026-09-01"
+   },
+   "PL": {
+    "value": 93.9,
+    "asof": "2026-09-01"
+   },
+   "CZ": {
+    "value": 70.8,
+    "asof": "2026-09-01"
+   },
+   "SK": {
+    "value": 50.6,
+    "asof": "2026-09-01"
+   },
+   "HU": {
+    "value": 69.5,
+    "asof": "2026-09-01"
+   },
+   "RO": {
+    "value": 71.7,
+    "asof": "2026-09-01"
+   },
+   "BG": {
+    "value": 62.1,
+    "asof": "2026-09-01"
+   },
+   "DK": {
+    "value": 76.6,
+    "asof": "2026-09-01"
+   },
+   "LV": {
+    "value": 45.0,
+    "asof": "2026-09-01"
+   },
+   "HR": {
+    "value": 73.7,
+    "asof": "2026-09-01"
    }
   },
   "netwd": {
    "FR": {
-    "value": -690.7
+    "value": -510.4,
+    "asof": "2026-09-01"
    },
    "DE": {
-    "value": -699.3
+    "value": -311.8,
+    "asof": "2026-09-01"
    },
    "NL": {
-    "value": -627.2
+    "value": -582.3,
+    "asof": "2026-09-01"
    },
    "BE": {
-    "value": -41.6
+    "value": -45.1,
+    "asof": "2026-09-01"
    },
    "AT": {
-    "value": -195.5
+    "value": -137.4,
+    "asof": "2026-09-01"
    },
    "ES": {
-    "value": 0.0
+    "value": 0.0,
+    "asof": "2026-09-01"
    },
    "PT": {
-    "value": 0.0
+    "value": 0.0,
+    "asof": "2026-09-01"
    },
    "IT": {
-    "value": -282.7
+    "value": -142.2,
+    "asof": "2026-09-01"
    },
    "PL": {
-    "value": -159.3
+    "value": -150.7,
+    "asof": "2026-09-01"
    },
    "CZ": {
-    "value": -162.7
+    "value": -136.1,
+    "asof": "2026-09-01"
    },
    "SK": {
-    "value": -68.9
+    "value": -64.9,
+    "asof": "2026-09-01"
    },
    "HU": {
-    "value": -183.1
+    "value": -164.0,
+    "asof": "2026-09-01"
    },
    "RO": {
-    "value": -117.2
+    "value": -113.2,
+    "asof": "2026-09-01"
    },
    "BG": {
-    "value": -41.6
+    "value": -38.5,
+    "asof": "2026-09-01"
    },
    "DK": {
-    "value": -15.6
+    "value": -37.7,
+    "asof": "2026-09-01"
    },
    "LV": {
-    "value": 0.0
+    "value": 0.0,
+    "asof": "2026-09-01"
    },
    "HR": {
-    "value": -26.9
+    "value": -30.3,
+    "asof": "2026-09-01"
    }
   },
   "lng": {}
  },
  "carried": 0,
  "errors": [
-  "electricite: API ENTSO-E injoignable, couche sautee",
-  "lng/FR: RuntimeError: fenetre sans valeur 'full'",
-  "lng/DE: RuntimeError: fenetre sans valeur 'full'",
-  "lng/NL: RuntimeError: fenetre sans valeur 'full'",
-  "lng/BE: RuntimeError: fenetre sans valeur 'full'",
-  "gas/GB: RuntimeError: fenetre sans valeur 'full'",
-  "lng/GB: RuntimeError: fenetre sans valeur 'full'",
-  "lng/ES: RuntimeError: fenetre sans valeur 'full'",
-  "lng/PT: RuntimeError: fenetre sans valeur 'full'",
-  "lng/IT: RuntimeError: fenetre sans valeur 'full'",
-  "lng/PL: RuntimeError: fenetre sans valeur 'full'",
-  "gas/GR: RuntimeError: fenetre sans valeur 'full'",
-  "lng/GR: RuntimeError: fenetre sans valeur 'full'",
-  "lng/SE: RuntimeError: fenetre sans valeur 'full'",
-  "lng/FI: RuntimeError: fenetre sans valeur 'full'",
-  "lng/LT: RuntimeError: fenetre sans valeur 'full'",
-  "lng/HR: RuntimeError: fenetre sans valeur 'full'",
-  "gas/RS: RuntimeError: fenetre sans valeur 'full'"
+  "lng/FR: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/DE: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/NL: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/BE: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
+  "netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
+  "lng/GB: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/ES: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/PT: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/IT: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/PL: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
+  "netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
+  "lng/GR: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/SE: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
+  "lng/FI: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/LT: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/HR: RuntimeError: aucun champ parmi [full/fullness/lngInventory/dtmi] — champs disponibles : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
+  "netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
+  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z.",
+  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z.",
+  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z."
  ]
 }

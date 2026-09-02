@@ -30,7 +30,7 @@ jobs:
           git config user.name "atlas-bot"
           git config user.email "atlas-bot@users.noreply.github.com"
           git pull --rebase --autostash || true
-          git add data/news.json
+          git add data/news.json data/last_run_news.txt
           if git diff --staged --quiet; then
             echo "Aucun changement"
           else

@@ -54,6 +54,10 @@ ALSI_URL = "https://alsi.gie.eu/api"
 ALSI_COUNTRIES = {"BE", "DE", "ES", "FI", "FR", "GB", "GR", "HR",
                   "IT", "LT", "NL", "PL", "PT", "SE"}
 
+# ALSI decrit le remplissage des terminaux autrement qu'AGSI : on essaie
+# plusieurs noms de champ, du plus explicite au plus brut.
+LNG_FIELDS = ("full", "fullness", "lngInventory", "dtmi")
+
 TOKEN = os.environ.get("ENTSOE_TOKEN", "").strip()
 GIE_KEY = (os.environ.get("GIE_KEY") or os.environ.get("AGSI_KEY") or "").strip()
 
@@ -176,9 +180,9 @@ def fetch_load(eic, day):
     return {"value": round((sum(vals) / len(vals)) * 24 / 1000.0, 1)}
 
 
-def gie(base, country, day, field="full"):
+def gie_rows(base, country, day):
     """AGSI+/ALSI publient avec un decalage : on demande une fenetre de six
-    jours et on retient la ligne la plus recente qui porte vraiment la valeur."""
+    jours, l'API renvoyant du plus recent au plus ancien."""
     q = urllib.parse.urlencode({
         "country": country,
         "from": (day - timedelta(days=6)).isoformat(),
@@ -188,11 +192,28 @@ def gie(base, country, day, field="full"):
     rows = (json.loads(raw) or {}).get("data") or []
     if not rows:
         raise RuntimeError("aucune donnee sur la fenetre")
-    for row in rows:                      # l'API renvoie du plus recent au plus ancien
-        v = row.get(field)
-        if v not in (None, "", "-", "N/A"):
-            return row
-    raise RuntimeError("fenetre sans valeur '%s'" % field)
+    return rows
+
+
+def gie(base, country, day, candidates=("full",)):
+    """Retourne (valeur, nom du champ retenu, date). AGSI+ et ALSI n'exposent
+    pas les memes champs : on essaie plusieurs noms et, en cas d'echec, on
+    journalise les champs reellement disponibles pour pouvoir corriger."""
+    rows = gie_rows(base, country, day)
+    for row in rows:
+        for field in candidates:
+            v = row.get(field)
+            if v in (None, "", "-", "N/A"):
+                continue
+            try:
+                value = float(v)
+            except (TypeError, ValueError):
+                continue
+            when = row.get("gasDayStart") or row.get("gasDayStartedOn") or row.get("date")
+            return value, field, when
+    keys = ", ".join(sorted(k for k in (rows[0] or {}) if not k.startswith("_")))
+    raise RuntimeError("aucun champ parmi [%s] — champs disponibles : %s"
+                       % ("/".join(candidates), keys[:400]))
 
 
 def num(row, field):
@@ -286,8 +307,14 @@ def main():
     if GIE_KEY:
         print("Sonde GIE AGSI+ (France)...", flush=True)
         try:
-            row = gie(AGSI_URL, "FR", day)
-            print("  OK -> full =", row.get("full"), "au", row.get("gasDayStart"), flush=True)
+            v, f, when = gie(AGSI_URL, "FR", day)
+            print("  OK -> %s = %s au %s" % (f, v, when), flush=True)
+        except Exception as e:
+            print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
+        print("Sonde GIE ALSI (terminaux GNL, France)...", flush=True)
+        try:
+            v, f, when = gie(ALSI_URL, "FR", day, LNG_FIELDS)
+            print("  OK -> %s = %s au %s" % (f, v, when), flush=True)
         except Exception as e:
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
     print("", flush=True)
@@ -299,9 +326,13 @@ def main():
         for code, meta in COUNTRIES.items():
             ag = meta.get("agsi")
             if ag:
-                jobs.append(("gas", code, lambda a=ag: gie(AGSI_URL, a, day)))
+                jobs.append(("gas", code, lambda a=ag: gie(AGSI_URL, a, day,
+                                                          ("full",))))
+                jobs.append(("netwd", code, lambda a=ag: gie(AGSI_URL, a, day,
+                                                            ("netWithdrawal",))))
             if code in ALSI_COUNTRIES:
-                jobs.append(("lng", code, lambda c=code: gie(ALSI_URL, c, day)))
+                jobs.append(("lng", code, lambda c=code: gie(ALSI_URL, c, day,
+                                                            LNG_FIELDS)))
     else:
         errors.append("gaz: GIE_KEY absent")
 
@@ -324,21 +355,15 @@ def main():
     metrics["price"] = res.get("price", {})
     metrics["load"] = res.get("load", {})
 
-    for code, row in (res.get("gas") or {}).items():
-        try:
-            metrics["storage"][code] = {"value": round(num(row, "full"), 1)}
-        except Exception as e:
-            errors.append("storage/%s: %s" % (code, e))
-        try:
-            metrics["netwd"][code] = {"value": round(num(row, "netWithdrawal"), 1)}
-        except Exception as e:
-            errors.append("netwd/%s: %s" % (code, e))
-
-    for code, row in (res.get("lng") or {}).items():
-        try:
-            metrics["lng"][code] = {"value": round(num(row, "full"), 1)}
-        except Exception as e:
-            errors.append("lng/%s: %s" % (code, e))
+    for key, target in (("gas", "storage"), ("netwd", "netwd"), ("lng", "lng")):
+        for code, triple in (res.get(key) or {}).items():
+            value, field, when = triple
+            entry = {"value": round(value, 1)}
+            if when:
+                entry["asof"] = when
+            if key == "lng":
+                entry["field"] = field
+            metrics[target][code] = entry
 
     # Report des valeurs precedentes quand la collecte du jour a echoue :
     # mieux vaut une donnee datee qu'une carte vide. L'age est trace.

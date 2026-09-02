@@ -54,9 +54,9 @@ ALSI_URL = "https://alsi.gie.eu/api"
 ALSI_COUNTRIES = {"BE", "DE", "ES", "FI", "FR", "GB", "GR", "HR",
                   "IT", "LT", "NL", "PL", "PT", "SE"}
 
-# ALSI decrit le remplissage des terminaux autrement qu'AGSI : on essaie
-# plusieurs noms de champ, du plus explicite au plus brut.
-LNG_FIELDS = ("full", "fullness", "lngInventory", "dtmi")
+# ALSI n'expose pas de taux de remplissage tout fait, contrairement a AGSI :
+# il publie l'inventaire (inventory) et la capacite maximale declaree (dtmi).
+# Le taux se calcule, il ne se lit pas.
 
 TOKEN = os.environ.get("ENTSOE_TOKEN", "").strip()
 GIE_KEY = (os.environ.get("GIE_KEY") or os.environ.get("AGSI_KEY") or "").strip()
@@ -195,6 +195,26 @@ def gie_rows(base, country, day):
     return rows
 
 
+def alsi_fill(country, day):
+    """Taux de remplissage des terminaux GNL, calcule : inventaire / capacite
+    maximale declaree. ALSI ne publie pas ce ratio, seulement ses deux termes."""
+    rows = gie_rows(ALSI_URL, country, day)
+    for row in rows:
+        inv, cap = row.get("inventory"), row.get("dtmi")
+        if inv in (None, "", "-", "N/A") or cap in (None, "", "-", "N/A"):
+            continue
+        try:
+            inv, cap = float(inv), float(cap)
+        except (TypeError, ValueError):
+            continue
+        if cap <= 0:
+            continue
+        return (inv / cap * 100.0, "inventory/dtmi",
+                row.get("gasDayStart") or row.get("gasDayEnd"))
+    keys = ", ".join(sorted(k for k in (rows[0] or {}) if not k.startswith("_")))
+    raise RuntimeError("inventory/dtmi absents — champs : %s" % keys[:300])
+
+
 def gie(base, country, day, candidates=("full",)):
     """Retourne (valeur, nom du champ retenu, date). AGSI+ et ALSI n'exposent
     pas les memes champs : on essaie plusieurs noms et, en cas d'echec, on
@@ -313,7 +333,7 @@ def main():
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
         print("Sonde GIE ALSI (terminaux GNL, France)...", flush=True)
         try:
-            v, f, when = gie(ALSI_URL, "FR", day, LNG_FIELDS)
+            v, f, when = alsi_fill("FR", day)
             print("  OK -> %s = %s au %s" % (f, v, when), flush=True)
         except Exception as e:
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
@@ -331,8 +351,7 @@ def main():
                 jobs.append(("netwd", code, lambda a=ag: gie(AGSI_URL, a, day,
                                                             ("netWithdrawal",))))
             if code in ALSI_COUNTRIES:
-                jobs.append(("lng", code, lambda c=code: gie(ALSI_URL, c, day,
-                                                            LNG_FIELDS)))
+                jobs.append(("lng", code, lambda c=code: alsi_fill(c, day)))
     else:
         errors.append("gaz: GIE_KEY absent")
 

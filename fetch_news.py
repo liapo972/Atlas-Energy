@@ -116,7 +116,44 @@ def parse_date(raw):
         return None
 
 
-def parse_feed(raw):
+HREF_RE = re.compile(r'''href=["\']([^"\']+)["\']''')
+URL_RE = re.compile(r"https?://[^\s\"'<>]+")
+
+
+def sanitize_link(raw, base):
+    """Remet d'aplomb un lien de flux RSS.
+
+    Certains flux publient n'importe quoi dans <link> : ACER y met carrement
+    un fragment de HTML (<a href="/news/...">), d'autres publient un chemin
+    relatif. On extrait l'URL reelle puis on la resout contre l'adresse du
+    flux, et on ecrase les doubles barres qui trainent (la BCE en produit)."""
+    if not raw:
+        return None
+    raw = html.unescape(raw.strip())
+
+    if "href=" in raw:
+        m = HREF_RE.search(raw)
+        if m:
+            raw = m.group(1)
+    elif not raw.startswith(("http://", "https://")):
+        m = URL_RE.search(raw)
+        if m:
+            raw = m.group(0)
+
+    raw = raw.strip().strip('"\'<>')
+    if not raw:
+        return None
+
+    url = urllib.parse.urljoin(base, raw)
+    parts = urllib.parse.urlsplit(url)
+    if parts.scheme not in ("http", "https") or not parts.netloc:
+        return None
+    path = re.sub(r"/{2,}", "/", parts.path)
+    return urllib.parse.urlunsplit(
+        (parts.scheme, parts.netloc, path, parts.query, parts.fragment))
+
+
+def parse_feed(raw, base=""):
     """Retourne [(titre, lien, date)] pour RSS 2.0 comme pour Atom."""
     root = ET.fromstring(raw)
     items = []
@@ -125,20 +162,24 @@ def parse_feed(raw):
         tag = strip_ns(el.tag)
         if tag not in ("item", "entry"):
             continue
-        title = link = date = None
+        title = link = guid = date = None
         for c in el:
             ct = strip_ns(c.tag)
             if ct == "title" and title is None:
                 title = clean(c.text or "".join(c.itertext()))
             elif ct == "link":
-                if c.text and c.text.strip():
-                    link = c.text.strip()
-                elif c.get("href") and c.get("rel", "alternate") == "alternate":
-                    link = c.get("href")
+                if c.get("href") and c.get("rel", "alternate") == "alternate":
+                    link = link or c.get("href")
+                elif c.text and c.text.strip():
+                    link = link or c.text
+            elif ct == "guid" and c.text:
+                guid = c.text
             elif ct in ("pubDate", "published", "updated", "date") and date is None:
                 date = parse_date(c.text)
-        if title and link:
-            items.append((title, link, date))
+
+        url = sanitize_link(link, base) or sanitize_link(guid, base)
+        if title and url:
+            items.append((title, url, date))
     return items
 
 
@@ -187,7 +228,7 @@ def check_mode():
     for f in FEEDS:
         try:
             raw = http_get(f["urls"][0], retries=0)
-            items = parse_feed(raw)
+            items = parse_feed(raw, f["urls"][0])
             if items:
                 print("  OK   %-28s %3d entrées" % (f["name"], len(items)))
                 ok += 1
@@ -256,7 +297,7 @@ def main():
         tried = []
         for url in f["urls"]:
             try:
-                got = parse_feed(http_get(url))
+                got = parse_feed(http_get(url), url)
                 if got:
                     return f, got, None, url
                 tried.append("%s -> vide" % url)

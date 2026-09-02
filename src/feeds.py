@@ -19,19 +19,15 @@ Champs :
 
 FEEDS = [
 
-  # --- Institutions et regulateurs europeens (ACER / ENTSOG / CE : confirmes) --
+  # --- Institutions et regulateurs europeens (URL confirmees en production) ---
   {"name": "ACER", "urls": ["https://www.acer.europa.eu/rss.xml"],
    "theme": "grid", "country": None},
   {"name": "ENTSOG", "urls": ["https://www.entsog.eu/rss.xml"],
    "theme": "grid", "country": None},
+  {"name": "ENTSO-E", "urls": ["https://www.entsoe.eu/rss.xml"],
+   "theme": "grid", "country": None},
   {"name": "Commission européenne", "urls": [
       "https://ec.europa.eu/commission/presscorner/api/rss?language=en"],
-   "theme": "grid", "country": None},
-  {"name": "ENTSO-E", "urls": [
-      "https://www.entsoe.eu/rss/news/",
-      "https://www.entsoe.eu/news/rss/",
-      "https://www.entsoe.eu/feed/",
-      "https://www.entsoe.eu/rss.xml"],
    "theme": "grid", "country": None},
 
   # --- Politique monetaire ---------------------------------------------------
@@ -40,63 +36,23 @@ FEEDS = [
   {"name": "Fed — politique monétaire", "urls": [
       "https://www.federalreserve.gov/feeds/press_monetary.xml"],
    "theme": "policy", "country": None},
-  {"name": "Bank of England", "urls": [
-      "https://www.bankofengland.co.uk/rss/news",
-      "https://www.bankofengland.co.uk/news/rss",
-      "https://www.bankofengland.co.uk/news/news-rss"],
+  {"name": "Bank of England", "urls": ["https://www.bankofengland.co.uk/rss/news"],
    "theme": "policy", "country": "GB"},
 
-  # --- Gestionnaires de reseau, par pays -------------------------------------
+  # --- Gestionnaires de reseau et regulateurs nationaux ----------------------
   {"name": "GRTgaz", "urls": ["https://www.grtgaz.com/rss.xml"],
    "theme": "grid", "country": "FR"},
   {"name": "National Gas", "urls": ["https://www.nationalgas.com/rss.xml"],
    "theme": "grid", "country": "GB"},
   {"name": "Statnett", "urls": ["https://www.statnett.no/en/rss/"],
    "theme": "grid", "country": "NO"},
-  {"name": "RTE", "urls": [
-      "https://www.rte-france.com/rss/actualites",
-      "https://www.rte-france.com/actualites/rss",
-      "https://www.rte-france.com/feed"],
-   "theme": "grid", "country": "FR"},
-  {"name": "Elia", "urls": [
-      "https://www.elia.be/en/rss/news",
-      "https://www.elia.be/rss/news",
-      "https://www.elia.be/en/news/rss"],
-   "theme": "grid", "country": "BE"},
-  {"name": "TenneT", "urls": [
-      "https://www.tennet.eu/rss.xml",
-      "https://www.tennet.eu/rss/news",
-      "https://netztransparenz.tennet.eu/rss/"],
-   "theme": "grid", "country": "NL"},
-  {"name": "Snam", "urls": [
-      "https://www.snam.it/en/rss.xml",
-      "https://www.snam.it/rss/en/press-releases.xml",
-      "https://www.snam.it/en/rss/press-releases.xml"],
-   "theme": "grid", "country": "IT"},
-  {"name": "Enagás", "urls": [
-      "https://www.enagas.es/en/feed/",
-      "https://www.enagas.es/feed/",
-      "https://www.enagas.es/en/rss/news/"],
-   "theme": "grid", "country": "ES"},
-  {"name": "Fingrid", "urls": [
-      "https://www.fingrid.fi/en/news/rss/",
-      "https://www.fingrid.fi/rss/",
-      "https://www.fingrid.fi/en/rss/"],
-   "theme": "grid", "country": "FI"},
-  {"name": "Energinet", "urls": [
-      "https://energinet.dk/rss/",
-      "https://en.energinet.dk/rss/",
-      "https://energinet.dk/feed/"],
-   "theme": "grid", "country": "DK"},
-  {"name": "Bundesnetzagentur", "urls": [
-      "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/RSSNewsfeed.xml",
-      "https://www.bundesnetzagentur.de/rss.xml",
-      "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml"],
+  {"name": "Bundesnetzagentur", "urls": ["https://www.bundesnetzagentur.de/rss.xml"],
    "theme": "grid", "country": "DE"},
-  {"name": "PSE", "urls": [
-      "https://www.pse.pl/rss/aktualnosci",
-      "https://www.pse.pl/rss"],
-   "theme": "grid", "country": "PL"},
+
+  # Retires apres test : RTE, Elia, TenneT, Snam, Enagas, Fingrid, Energinet et
+  # PSE ne publient pas de flux RSS accessible. Leurs pays restent couverts par
+  # GDELT et par les liens directs du panneau. A retenter si l'un d'eux en
+  # ouvre un.
 ]
 # Requetes GDELT. Sans cle, gratuit, JSON. Sert de socle : la page n'est
 # jamais vide meme si des flux RSS ci-dessus sont morts.

@@ -262,34 +262,39 @@ def main():
     print("Token ENTSO-E :", ("present (%d caracteres)" % len(TOKEN)) if TOKEN else "ABSENT", flush=True)
     print("Cle GIE       :", ("presente (%d caracteres)" % len(GIE_KEY)) if GIE_KEY else "ABSENTE", flush=True)
 
-    # --- sonde : un seul appel de chaque API, verbeux ---
+    # --- sondes : deux zones ENTSO-E, une pour GIE ---
+    # Si les deux sondes ENTSO-E echouent, l'API est en panne : on saute toute
+    # la couche electricite. Sans ce garde-fou, 56 appels morts a 15 secondes
+    # consomment le budget entier et la couche gaz ne passe jamais.
+    entsoe_up = bool(TOKEN)
     if TOKEN:
-        print("\nSonde ENTSO-E (France)...", flush=True)
-        try:
-            r = fetch_price("10YFR-RTE------C", day)
-            print("  OK ->", r, flush=True)
-        except Exception as e:
-            print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
+        probes = [("France", "10YFR-RTE------C"), ("Allemagne", "10Y1001A1001A82H")]
+        ok = 0
+        for label, eic in probes:
+            print("Sonde ENTSO-E (%s)..." % label, flush=True)
+            try:
+                print("  OK ->", fetch_price(eic, day), flush=True)
+                ok += 1
+                break
+            except Exception as e:
+                print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
+        entsoe_up = ok > 0
+        if not entsoe_up:
+            print("  => ENTSO-E injoignable : couche electricite sautee "
+                  "pour ce run, les valeurs precedentes sont conservees.", flush=True)
+
     if GIE_KEY:
         print("Sonde GIE AGSI+ (France)...", flush=True)
         try:
             row = gie(AGSI_URL, "FR", day)
-            print("  OK -> full =", row.get("full"), flush=True)
+            print("  OK -> full =", row.get("full"), "au", row.get("gasDayStart"), flush=True)
         except Exception as e:
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
     print("", flush=True)
 
+    # Le gaz passe en premier : rapide et fiable. L'electricite ensuite, avec
+    # le budget restant.
     jobs = []
-    if TOKEN:
-        for code, meta in COUNTRIES.items():
-            eic = meta.get("eic")
-            if not eic:
-                continue
-            jobs.append(("price", code, lambda e=eic: fetch_price(e, day)))
-            jobs.append(("load", code, lambda e=eic: fetch_load(e, day)))
-    else:
-        errors.append("electricite: ENTSOE_TOKEN absent")
-
     if GIE_KEY:
         for code, meta in COUNTRIES.items():
             ag = meta.get("agsi")
@@ -299,6 +304,18 @@ def main():
                 jobs.append(("lng", code, lambda c=code: gie(ALSI_URL, c, day)))
     else:
         errors.append("gaz: GIE_KEY absent")
+
+    if not TOKEN:
+        errors.append("electricite: ENTSOE_TOKEN absent")
+    elif not entsoe_up:
+        errors.append("electricite: API ENTSO-E injoignable, couche sautee")
+    else:
+        for code, meta in COUNTRIES.items():
+            eic = meta.get("eic")
+            if not eic:
+                continue
+            jobs.append(("price", code, lambda e=eic: fetch_price(e, day)))
+            jobs.append(("load", code, lambda e=eic: fetch_load(e, day)))
 
     print("Requetes a lancer :", len(jobs), flush=True)
     res, errs = run_jobs(jobs, "requetes")

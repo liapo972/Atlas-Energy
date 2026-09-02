@@ -57,7 +57,7 @@ ALSI_COUNTRIES = {"BE", "DE", "ES", "FI", "FR", "GB", "GR", "HR",
 TOKEN = os.environ.get("ENTSOE_TOKEN", "").strip()
 GIE_KEY = (os.environ.get("GIE_KEY") or os.environ.get("AGSI_KEY") or "").strip()
 
-HTTP_TIMEOUT = 45
+HTTP_TIMEOUT = 15
 WORKERS = 2
 
 # Les deux API sont derriere une protection anti-bot qui rejette la signature
@@ -176,14 +176,23 @@ def fetch_load(eic, day):
     return {"value": round((sum(vals) / len(vals)) * 24 / 1000.0, 1)}
 
 
-def gie(base, country, day):
-    q = urllib.parse.urlencode({"country": country, "from": day.isoformat(),
-                                "to": day.isoformat(), "size": 10})
+def gie(base, country, day, field="full"):
+    """AGSI+/ALSI publient avec un decalage : on demande une fenetre de six
+    jours et on retient la ligne la plus recente qui porte vraiment la valeur."""
+    q = urllib.parse.urlencode({
+        "country": country,
+        "from": (day - timedelta(days=6)).isoformat(),
+        "to": day.isoformat(),
+        "size": 30})
     raw = http_get(base + "?" + q, headers={"x-key": GIE_KEY})
     rows = (json.loads(raw) or {}).get("data") or []
     if not rows:
-        raise RuntimeError("aucune donnee")
-    return rows[0]
+        raise RuntimeError("aucune donnee sur la fenetre")
+    for row in rows:                      # l'API renvoie du plus recent au plus ancien
+        v = row.get(field)
+        if v not in (None, "", "-", "N/A"):
+            return row
+    raise RuntimeError("fenetre sans valeur '%s'" % field)
 
 
 def num(row, field):
@@ -314,21 +323,43 @@ def main():
         except Exception as e:
             errors.append("lng/%s: %s" % (code, e))
 
+    # Report des valeurs precedentes quand la collecte du jour a echoue :
+    # mieux vaut une donnee datee qu'une carte vide. L'age est trace.
+    path = os.path.join(ROOT, "data", "prices.json")
+    carried = 0
+    try:
+        with open(path, encoding="utf-8") as f:
+            old = json.load(f)
+        old_day = old.get("day")
+        for key, values in (old.get("metrics") or {}).items():
+            for code, val in values.items():
+                if code in metrics.get(key, {}):
+                    continue
+                keep = dict(val)
+                keep["asof"] = val.get("asof") or old_day
+                keep["stale"] = True
+                metrics.setdefault(key, {})[code] = keep
+                carried += 1
+    except Exception:
+        pass
+
     out = {
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "day": day.isoformat(),
         "metrics": metrics,
+        "carried": carried,
         "errors": errors,
     }
 
-    path = os.path.join(ROOT, "data", "prices.json")
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
 
     print("\n--- Resultat ---", flush=True)
     for k, v in metrics.items():
-        print("  %-8s %3d valeurs" % (k, len(v)))
+        fresh = sum(1 for x in v.values() if not x.get("stale"))
+        print("  %-8s %3d valeurs (%d du jour, %d reportees)"
+              % (k, len(v), fresh, len(v) - fresh))
     print("  duree     %ds" % int(MAX_SECONDS - max(0, left())))
     if errors:
         print("\n--- %d erreurs ---" % len(errors))

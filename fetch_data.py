@@ -59,6 +59,16 @@ GIE_KEY = (os.environ.get("GIE_KEY") or os.environ.get("AGSI_KEY") or "").strip(
 
 HTTP_TIMEOUT = 45
 WORKERS = 2
+
+# Les deux API sont derriere une protection anti-bot qui rejette la signature
+# par defaut d'urllib ("Python-urllib/3.x") : ENTSO-E repond alors 503 avec une
+# page HTML, GIE renvoie un 403 Cloudflare "error code: 1010".
+UA = "AtlasEnergy/1.0 (+https://github.com/liapo972/Atlas-Energy)"
+BASE_HEADERS = {
+    "User-Agent": UA,
+    "Accept": "application/xml, text/xml, application/json;q=0.9, */*;q=0.8",
+    "Accept-Language": "en",
+}
 MAX_SECONDS = int(os.environ.get("MAX_SECONDS", "420"))
 DEADLINE = time.time() + MAX_SECONDS
 
@@ -82,7 +92,9 @@ def http_get(url, headers=None):
         if left() < 8:
             raise Expired("butoir atteint")
         try:
-            req = urllib.request.Request(url, headers=headers or {})
+            h = dict(BASE_HEADERS)
+            h.update(headers or {})
+            req = urllib.request.Request(url, headers=h)
             with urllib.request.urlopen(req, timeout=min(HTTP_TIMEOUT, max(8, left()))) as r:
                 return r.read()
         except urllib.error.HTTPError as e:
@@ -91,7 +103,12 @@ def http_get(url, headers=None):
                 body = e.read(300).decode("utf-8", "replace").strip().replace("\n", " ")
             except Exception:
                 pass
-            last = RuntimeError("HTTP %s%s" % (e.code, (" — " + body[:200]) if body else ""))
+            last = RuntimeError("HTTP %s%s" % (e.code, (" — " + body[:160]) if body else ""))
+            # Une page HTML ou un blocage anti-bot ne sont pas transitoires :
+            # inutile de reessayer, on economise le budget de temps.
+            low = body.lower()
+            if "<!doctype html" in low or "<html" in low or "error code: 10" in low:
+                raise last
             if e.code not in (429, 500, 502, 503, 504):
                 raise last
         except Exception as e:

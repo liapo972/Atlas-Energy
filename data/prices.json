@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T07:27:15+00:00",
+ "generated": "2026-09-03T14:32:50+00:00",
  "day": "2026-09-02",
  "metrics": {
   "price": {
@@ -80,7 +80,7 @@
     "currency": "EUR"
    },
    "DK": {
-    "value": 138.22,
+    "value": 142.87,
     "currency": "EUR"
    },
    "FI": {
@@ -117,7 +117,7 @@
     "value": 1069.3
    },
    "DE": {
-    "value": 1241.6
+    "value": 1286.0
    },
    "NL": {
     "value": 220.8
@@ -135,7 +135,7 @@
     "value": 758.4
    },
    "PT": {
-    "value": 142.6
+    "value": 142.8
    },
    "IT": {
     "value": 527.5
@@ -156,7 +156,7 @@
     "value": 137.2
    },
    "GR": {
-    "value": 152.8
+    "value": 176.8
    },
    "BG": {
     "value": 95.9
@@ -198,7 +198,7 @@
     "asof": "2026-09-01"
    },
    "DE": {
-    "value": 40613.9,
+    "value": 53.5,
     "asof": "2026-09-01"
    },
    "NL": {
@@ -268,7 +268,7 @@
     "asof": "2026-09-01"
    },
    "DE": {
-    "value": -311.8,
+    "value": -313.9,
     "asof": "2026-09-01"
    },
    "NL": {
@@ -332,28 +332,89 @@
     "asof": "2026-09-01"
    }
   },
-  "lng": {}
+  "lng": {
+   "FR": {
+    "value": 682.6,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "DE": {
+    "value": 284.2,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "NL": {
+    "value": 792.5,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "BE": {
+    "value": 217.2,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "ES": {
+    "value": 275.6,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "PT": {
+    "value": 153.7,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "IT": {
+    "value": 682.6,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "PL": {
+    "value": 245.0,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "GR": {
+    "value": 97.4,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "FI": {
+    "value": 13.0,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "LT": {
+    "value": 89.1,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   },
+   "HR": {
+    "value": 84.4,
+    "unit": "GWh/j",
+    "field": "sendOut",
+    "asof": "2026-09-01"
+   }
+  }
  },
  "carried": 0,
  "errors": [
-  "lng/FR: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/DE: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/NL: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/BE: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
   "gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "lng/GB: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/ES: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/PT: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/IT: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/PL: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"United Kingdom (Pre-Brexit)\", \"code\": \"GB\", \"url\": \"GB\", \"updatedAt\": \"2026-09-02 22:01:42\", \"gasDayStart\": \"2026-09-01\", \"gasDayEnd\": \"2026-09-02\", \"inventory\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"sendOut\": \"-\", \"dtmi\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"dtrs\": \"-\", \"contractedCapacity\": \"-\", \"availableCapacity\": \"-\", \"coveredCapacity\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
   "netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
-  "lng/GR: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/SE: RuntimeError: inventory/dtmi absents — champs : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
-  "lng/FI: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/LT: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
-  "lng/HR: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
+  "lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"SE\", \"code\": \"SE\", \"url\": \"SE\", \"gasDayStart\": \"2026-09-01\", \"inventory\": \"-\", \"sendOut\": \"-\", \"dtmi\": \"-\", \"dtrs\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-09-02T00:00:00Z/2026-09-03T00:00:00Z.",

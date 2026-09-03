@@ -195,24 +195,36 @@ def gie_rows(base, country, day):
     return rows
 
 
-def alsi_fill(country, day):
-    """Taux de remplissage des terminaux GNL, calcule : inventaire / capacite
-    maximale declaree. ALSI ne publie pas ce ratio, seulement ses deux termes."""
+def _f(v):
+    if v in (None, "", "-", "N/A"):
+        return None
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
+
+
+def alsi_value(country, day):
+    """Indicateur GNL. Priorite au send-out — le gaz reellement emis vers le
+    reseau, en GWh/j — qui dit bien plus sur l'approvisionnement qu'un niveau
+    de cuve. A defaut, taux de remplissage calcule inventaire / capacite.
+    Retourne (valeur, unite, champ, date)."""
     rows = gie_rows(ALSI_URL, country, day)
+
     for row in rows:
-        inv, cap = row.get("inventory"), row.get("dtmi")
-        if inv in (None, "", "-", "N/A") or cap in (None, "", "-", "N/A"):
-            continue
-        try:
-            inv, cap = float(inv), float(cap)
-        except (TypeError, ValueError):
-            continue
-        if cap <= 0:
-            continue
-        return (inv / cap * 100.0, "inventory/dtmi",
-                row.get("gasDayStart") or row.get("gasDayEnd"))
-    keys = ", ".join(sorted(k for k in (rows[0] or {}) if not k.startswith("_")))
-    raise RuntimeError("inventory/dtmi absents — champs : %s" % keys[:300])
+        send = _f(row.get("sendOut"))
+        if send is not None:
+            return (send, "GWh/j", "sendOut",
+                    row.get("gasDayStart") or row.get("gasDayEnd"))
+
+    for row in rows:
+        inv, cap = _f(row.get("inventory")), _f(row.get("dtmi"))
+        if inv is not None and cap not in (None, 0):
+            return (inv / cap * 100.0, "%", "inventory/dtmi",
+                    row.get("gasDayStart") or row.get("gasDayEnd"))
+
+    sample = json.dumps(rows[0], ensure_ascii=False)[:420] if rows else "aucune ligne"
+    raise RuntimeError("ni sendOut ni inventory exploitables — ligne brute : %s" % sample)
 
 
 def gie(base, country, day, candidates=("full",)):
@@ -333,8 +345,8 @@ def main():
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
         print("Sonde GIE ALSI (terminaux GNL, France)...", flush=True)
         try:
-            v, f, when = alsi_fill("FR", day)
-            print("  OK -> %s = %s au %s" % (f, v, when), flush=True)
+            v, u, f, when = alsi_value("FR", day)
+            print("  OK -> %s = %.1f %s au %s" % (f, v, u, when), flush=True)
         except Exception as e:
             print("  ECHEC ->", type(e).__name__, ":", e, flush=True)
     print("", flush=True)
@@ -351,7 +363,7 @@ def main():
                 jobs.append(("netwd", code, lambda a=ag: gie(AGSI_URL, a, day,
                                                             ("netWithdrawal",))))
             if code in ALSI_COUNTRIES:
-                jobs.append(("lng", code, lambda c=code: alsi_fill(c, day)))
+                jobs.append(("lng", code, lambda c=code: alsi_value(c, day)))
     else:
         errors.append("gaz: GIE_KEY absent")
 
@@ -374,15 +386,20 @@ def main():
     metrics["price"] = res.get("price", {})
     metrics["load"] = res.get("load", {})
 
-    for key, target in (("gas", "storage"), ("netwd", "netwd"), ("lng", "lng")):
+    for key, target in (("gas", "storage"), ("netwd", "netwd")):
         for code, triple in (res.get(key) or {}).items():
             value, field, when = triple
             entry = {"value": round(value, 1)}
             if when:
                 entry["asof"] = when
-            if key == "lng":
-                entry["field"] = field
             metrics[target][code] = entry
+
+    for code, quad in (res.get("lng") or {}).items():
+        value, unit, field, when = quad
+        entry = {"value": round(value, 1), "unit": unit, "field": field}
+        if when:
+            entry["asof"] = when
+        metrics["lng"][code] = entry
 
     # Report des valeurs precedentes quand la collecte du jour a echoue :
     # mieux vaut une donnee datee qu'une carte vide. L'age est trace.

@@ -595,10 +595,10 @@ const METRICS = {
     hintEn: "negative = injection, positive = withdrawal"
   },
   lng: {
-    group: "gas", unit: "%", scale: "seq",
-    fr: "Remplissage terminaux GNL", en: "LNG terminal fill",
-    hintFr: "stock des terminaux de regazéification",
-    hintEn: "stock held at regasification terminals"
+    group: "gas", unit: "GWh/j", scale: "seq",
+    fr: "Émission des terminaux GNL", en: "LNG send-out",
+    hintFr: "gaz réémis vers le réseau depuis les terminaux",
+    hintEn: "gas sent out to the grid from the terminals"
   }
 };
 
@@ -720,6 +720,12 @@ function ramp(){
 }
 
 function unitOf(key, code){
+  // Une valeur peut porter sa propre unite : ALSI bascule entre le send-out
+  // (GWh/j) et un taux de remplissage (%) selon ce que les terminaux publient.
+  if (live && live.metrics && live.metrics[key] && live.metrics[key][code]
+      && live.metrics[key][code].unit){
+    return live.metrics[key][code].unit;
+  }
   if (key === "price"){
     let c = (META[code] && META[code].ccy) || "EUR";
     if (live && live.metrics && live.metrics.price && live.metrics.price[code]

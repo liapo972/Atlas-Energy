@@ -118,21 +118,30 @@ def parse_date(raw):
 
 HREF_RE = re.compile(r'''href=["\']([^"\']+)["\']''')
 URL_RE = re.compile(r"https?://[^\s\"'<>]+")
+HREF_BARE_RE = re.compile("href=([^\\s\"'>]+)")
 
 
 def sanitize_link(raw, base):
     """Remet d'aplomb un lien de flux RSS.
 
-    Certains flux publient n'importe quoi dans <link> : ACER y met carrement
-    un fragment de HTML (<a href="/news/...">), d'autres publient un chemin
-    relatif. On extrait l'URL reelle puis on la resout contre l'adresse du
-    flux, et on ecrase les doubles barres qui trainent (la BCE en produit)."""
+    Les flux publient parfois n'importe quoi dans <link>. ACER y met un
+    fragment de HTML, et — le piege — deja encode en pourcents, si bien que
+    la chaine commence par un https:// parfaitement valide suivi de
+    %3Ca%20href%3D%22... On decode donc avant de chercher le href, jamais
+    apres. D'autres publient un chemin relatif, la BCE une double barre."""
     if not raw:
         return None
     raw = html.unescape(raw.strip())
 
+    # Decodage pourcent : uniquement s'il revele du HTML, pour ne pas casser
+    # les URL dont un parametre contient legitimement un %XX.
+    if "%" in raw:
+        decoded = urllib.parse.unquote(raw)
+        if "href=" in decoded or "<a" in decoded:
+            raw = decoded
+
     if "href=" in raw:
-        m = HREF_RE.search(raw)
+        m = HREF_RE.search(raw) or HREF_BARE_RE.search(raw)
         if m:
             raw = m.group(1)
     elif not raw.startswith(("http://", "https://")):
@@ -149,8 +158,14 @@ def sanitize_link(raw, base):
     if parts.scheme not in ("http", "https") or not parts.netloc:
         return None
     path = re.sub(r"/{2,}", "/", parts.path)
-    return urllib.parse.urlunsplit(
+    url = urllib.parse.urlunsplit(
         (parts.scheme, parts.netloc, path, parts.query, parts.fragment))
+
+    # Garde-fou : un lien qui contient encore du balisage n'est pas un lien.
+    probe = urllib.parse.unquote(url)
+    if any(c in probe for c in ("<", ">", '"', " ")) or "href=" in probe:
+        return None
+    return url
 
 
 def parse_feed(raw, base=""):

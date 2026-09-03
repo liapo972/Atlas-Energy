@@ -10,11 +10,11 @@ Sonde GIE ALSI (terminaux GNL, France)...
   OK -> sendOut = 682.6 GWh/j au 2026-09-01
 
 Requetes a lancer : 110
-   ... requetes 20/110 (408s restantes)
-   ... requetes 40/110 (405s restantes)
-   ... requetes 60/110 (390s restantes)
-   ... requetes 80/110 (356s restantes)
-   ... requetes 100/110 (206s restantes)
+   ... requetes 20/110 (392s restantes)
+   ... requetes 40/110 (388s restantes)
+   ... requetes 60/110 (347s restantes)
+   ... requetes 80/110 (288s restantes)
+   ... requetes 100/110 (209s restantes)
 
 --- Resultat ---
   price     27 valeurs (27 du jour, 0 reportees)
@@ -22,7 +22,7 @@ Requetes a lancer : 110
   storage   17 valeurs (17 du jour, 0 reportees)
   netwd     17 valeurs (17 du jour, 0 reportees)
   lng       12 valeurs (12 du jour, 0 reportees)
-  duree     237s
+  duree     252s
 
 --- 11 erreurs ---
   ! gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume

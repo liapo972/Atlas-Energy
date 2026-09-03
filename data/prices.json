@@ -1,195 +1,195 @@
 {
- "generated": "2026-09-02T20:53:04+00:00",
- "day": "2026-09-01",
+ "generated": "2026-09-03T07:27:15+00:00",
+ "day": "2026-09-02",
  "metrics": {
   "price": {
    "FR": {
-    "value": 153.68,
+    "value": 146.76,
     "currency": "EUR"
    },
    "DE": {
-    "value": 154.3,
+    "value": 147.58,
     "currency": "EUR"
    },
    "NL": {
-    "value": 157.61,
+    "value": 153.51,
     "currency": "EUR"
    },
    "BE": {
-    "value": 162.3,
+    "value": 162.92,
     "currency": "EUR"
    },
    "IE": {
-    "value": 189.1,
+    "value": 192.21,
     "currency": "EUR"
    },
    "CH": {
-    "value": 166.52,
+    "value": 175.02,
     "currency": "EUR"
    },
    "AT": {
-    "value": 179.15,
+    "value": 187.01,
     "currency": "EUR"
    },
    "ES": {
-    "value": 157.02,
+    "value": 160.43,
     "currency": "EUR"
    },
    "PT": {
-    "value": 151.37,
+    "value": 156.54,
     "currency": "EUR"
    },
    "IT": {
-    "value": 204.65,
+    "value": 211.86,
     "currency": "EUR"
    },
    "PL": {
-    "value": 153.47,
+    "value": 163.18,
     "currency": "EUR"
    },
    "CZ": {
-    "value": 161.18,
+    "value": 166.81,
     "currency": "EUR"
    },
    "SK": {
-    "value": 170.6,
+    "value": 176.01,
     "currency": "EUR"
    },
    "HU": {
-    "value": 191.41,
+    "value": 201.32,
     "currency": "EUR"
    },
    "RO": {
-    "value": 187.23,
+    "value": 197.01,
     "currency": "EUR"
    },
    "GR": {
-    "value": 182.63,
+    "value": 191.79,
     "currency": "EUR"
    },
    "BG": {
-    "value": 182.87,
+    "value": 191.67,
     "currency": "EUR"
    },
    "NO": {
-    "value": 141.21,
+    "value": 141.61,
     "currency": "EUR"
    },
    "SE": {
-    "value": 94.52,
+    "value": 71.66,
     "currency": "EUR"
    },
    "DK": {
-    "value": 150.07,
+    "value": 138.22,
     "currency": "EUR"
    },
    "FI": {
-    "value": 64.71,
+    "value": 45.41,
     "currency": "EUR"
    },
    "EE": {
-    "value": 83.77,
+    "value": 61.66,
     "currency": "EUR"
    },
    "LV": {
-    "value": 115.3,
+    "value": 92.4,
     "currency": "EUR"
    },
    "LT": {
-    "value": 115.3,
+    "value": 92.4,
     "currency": "EUR"
    },
    "SI": {
-    "value": 179.94,
+    "value": 191.19,
     "currency": "EUR"
    },
    "HR": {
-    "value": 181.08,
+    "value": 191.33,
     "currency": "EUR"
    },
    "RS": {
-    "value": 169.63,
+    "value": 178.96,
     "currency": "EUR"
    }
   },
   "load": {
    "FR": {
-    "value": 1101.3
+    "value": 1069.3
    },
    "DE": {
-    "value": 1289.7
+    "value": 1241.6
    },
    "NL": {
-    "value": 188.1
+    "value": 220.8
    },
    "BE": {
-    "value": 219.4
+    "value": 221.7
    },
    "CH": {
-    "value": 163.3
+    "value": 147.2
    },
    "AT": {
-    "value": 158.0
+    "value": 158.4
    },
    "ES": {
-    "value": 776.3
+    "value": 758.4
    },
    "PT": {
-    "value": 140.5
+    "value": 142.6
    },
    "IT": {
-    "value": 518.5
+    "value": 527.5
    },
    "PL": {
-    "value": 438.4
+    "value": 442.5
    },
    "CZ": {
-    "value": 165.9
+    "value": 167.7
    },
    "SK": {
-    "value": 68.9
+    "value": 67.6
    },
    "HU": {
-    "value": 115.1
+    "value": 115.0
    },
    "RO": {
-    "value": 144.7
+    "value": 137.2
    },
    "GR": {
-    "value": 186.5
+    "value": 152.8
    },
    "BG": {
-    "value": 94.6
+    "value": 95.9
    },
    "NO": {
-    "value": 89.1
+    "value": 87.5
    },
    "SE": {
-    "value": 199.6
+    "value": 197.3
    },
    "DK": {
-    "value": 65.6
+    "value": 63.9
    },
    "FI": {
-    "value": 204.6
+    "value": 204.0
    },
    "EE": {
-    "value": 19.0
-   },
-   "LV": {
     "value": 19.7
    },
+   "LV": {
+    "value": 19.3
+   },
    "LT": {
-    "value": 34.6
+    "value": 33.4
    },
    "SI": {
-    "value": 41.0
+    "value": 38.8
    },
    "HR": {
-    "value": 56.0
+    "value": 55.3
    },
    "RS": {
-    "value": 90.2
+    "value": 88.6
    }
   },
   "storage": {
@@ -356,8 +356,8 @@
   "lng/HR: RuntimeError: inventory/dtmi absents — champs : availableCapacity, code, contractedCapacity, coveredCapacity, dtmi, dtrs, gasDayEnd, gasDayStart, info, inventory, name, sendOut, status, updatedAt, url",
   "gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z.",
-  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z.",
-  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-09-01T00:00:00Z/2026-09-02T00:00:00Z."
+  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-09-02T00:00:00Z/2026-09-03T00:00:00Z.",
+  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-09-02T00:00:00Z/2026-09-03T00:00:00Z.",
+  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-09-02T00:00:00Z/2026-09-03T00:00:00Z."
  ]
 }

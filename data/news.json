@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-03T15:04:02+00:00",
+ "generated": "2026-09-03T16:28:27+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T15:04:02+00:00",
+   "date": "2026-09-03T16:28:27+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T15:04:02+00:00",
+   "date": "2026-09-03T16:28:27+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T15:04:02+00:00",
+   "date": "2026-09-03T16:28:27+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T15:04:02+00:00",
+   "date": "2026-09-03T16:28:27+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T15:04:02+00:00",
+    "date": "2026-09-03T16:28:27+00:00",
     "countries": [
      "RO"
     ]
@@ -227,6 +227,88 @@
     "date": "2026-08-26T08:45:30+00:00",
     "countries": [
      "GB"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Kratom sales now violate federal law",
+    "url": "https://www.crestonnews.com:443/article/1031,kratom-sales-now-violate-federal-law",
+    "source": "crestonnews.com",
+    "theme": "press",
+    "date": "2026-09-03T12:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "EU and Nato vow to step up pressure on Russia after new escalation in Germany",
+    "url": "https://www.the-star.co.ke/news/world/2026-09-03-eu-and-nato-vow-to-step-up-pressure-on-russia",
+    "source": "the-star.co.ke",
+    "theme": "press",
+    "date": "2026-09-03T10:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Interview with Mr . Thorsten Seeger , Member of the Management Board , SME Bank",
+    "url": "https://internationalbanker.com/banking/interview-with-mr-thorsten-seeger-member-of-the-management-board-sme-bank/",
+    "source": "internationalbanker.com",
+    "theme": "press",
+    "date": "2026-09-03T09:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Today in Germany : A roundup of the latest news on Thursday",
+    "url": "https://www.thelocal.de/20260903/today-in-germany-a-roundup-of-the-latest-news-on-thursday-134",
+    "source": "thelocal.de",
+    "theme": "press",
+    "date": "2026-09-03T07:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Hepsor public offering of bonds ends this Friday",
+    "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/hepsors-public-offering-of-bonds-ends-this-friday/2417633",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-09-03T05:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Finland summons Russian ambassador over Leipzig drone case",
+    "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29226-finland-summons-russian-ambassador-over-leipzig-drone-case.html",
+    "source": "helsinkitimes.fi",
+    "theme": "press",
+    "date": "2026-09-02T22:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Honda Wants To Cut $9 Billion In Costs",
+    "url": "https://www.jalopnik.com/2249434/honda-wants-9-billion-cost-cutting/",
+    "source": "jalopnik.com",
+    "theme": "press",
+    "date": "2026-09-02T15:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Last Ship Out – Mishpacha",
+    "url": "https://mishpacha.com/last-ship-out/",
+    "source": "mishpacha.com",
+    "theme": "press",
+    "date": "2026-09-02T13:45:00+00:00",
+    "countries": [
+     "LT"
     ]
    }
   ]
@@ -313,7 +395,6 @@
   "gdelt/FI: URLError",
   "gdelt/EE: URLError",
   "gdelt/LV: URLError",
-  "gdelt/LT: URLError",
   "gdelt/SI: URLError",
   "gdelt/HR: URLError",
   "gdelt/RS: URLError",

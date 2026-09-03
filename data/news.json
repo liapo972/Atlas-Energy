@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-03T05:36:02+00:00",
+ "generated": "2026-09-03T08:29:56+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling%22%20hreflang%3D%22en%22%3EACER%20unveils%20first%20EU-wide%20dataset%20on%20investment%20costs%20for%20long-term%20electricity%20system%20modelling%20%3C/a%3E",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T05:36:02+00:00",
+   "date": "2026-09-03T08:29:56+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets%22%20hreflang%3D%22en%22%3EHigh%20energy%20bills%20and%20fixed%20contracts%20continue%20to%20prevail%20in%20EU%20retail%20energy%20markets%3C/a%3E",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T05:36:02+00:00",
+   "date": "2026-09-03T08:29:56+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation%22%20hreflang%3D%22en%22%3EACER%20updates%20Core%20region%E2%80%99s%20electricity%20rules%20to%20support%20long-term%20flow-based%20capacity%20calculation%3C/a%3E",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T05:36:02+00:00",
+   "date": "2026-09-03T08:29:56+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets%22%20hreflang%3D%22en%22%3EACER%20calls%20for%20transparent%20EU%20infrastructure%20scenarios%2C%20aligned%20with%20energy%20and%20climate%20targets%3C/a%3E",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T05:36:02+00:00",
+   "date": "2026-09-03T08:29:56+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly%22%20hreflang%3D%22en%22%3EAlgorithmic%20trading%20in%20energy%20markets%20features%20again%20in%20ACER%26#039;s latest REMIT Quarterly </a",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "FR"
     ]
@@ -81,11 +81,21 @@
   ],
   "DE": [
    {
+    "title": "ENTSO-E, ENTSOG and ENNOH invite you to the TYNDP2028 Scenario kick-off workshop",
+    "url": "https://www.entsoe.eu/events/2026/10/01/entso-e-entsog-and-ennoh-invite-you-to-the-tyndp2028-scenario-kick-off-workshop/",
+    "source": "ENTSO-E",
+    "theme": "grid",
+    "date": "2026-10-01T14:00:07+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
     "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms%22%20hreflang%3D%22en%22%3EACER%20to%20decide%20on%20changes%20to%20the%20methodology%20for%20EU%20day-ahead%20and%20intraday%20market%20algorithms%3C/a%3E",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +105,7 @@
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology%22%20hreflang%3D%22en%22%3ERegulators%20seek%20more%20time%20to%20decide%20on%20the%20amendment%20to%20the%20Core%20intraday%20capacity%20calculation%20methodology%3C/a%3E",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +115,7 @@
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region%22%20hreflang%3D%22en%22%3EACER%20amends%20cost%20sharing%20rules%20for%20electricity%20redispatching%20and%20countertrading%20in%20the%20Core%20region%3C/a%3E",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +125,7 @@
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers%22%20hreflang%3D%22en%22%3EACER%20to%20decide%20on%20the%20minimum%20activation%20period%20of%20frequency%20containment%20reserves%20providers%3C/a%3E",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -145,17 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Termine für Amateurfunkprüfungen (Stand 28. August 2026)",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/%3Ca%20href%3D%22/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions%22%20hreflang%3D%22en%22%3ERomanian%20adequacy%20assessment%3A%20Delayed%20energy%20transition%20affects%20security%20of%20supply%20decisions%3C/a%3E",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T05:36:02+00:00",
+    "date": "2026-09-03T08:29:56+00:00",
     "countries": [
      "RO"
     ]

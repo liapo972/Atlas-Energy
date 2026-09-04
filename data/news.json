@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-04T04:28:00+00:00",
+ "generated": "2026-09-04T08:29:44+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T04:28:00+00:00",
+   "date": "2026-09-04T08:29:44+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T04:28:00+00:00",
+   "date": "2026-09-04T08:29:44+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T04:28:00+00:00",
+   "date": "2026-09-04T08:29:44+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T04:28:00+00:00",
+   "date": "2026-09-04T08:29:44+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T04:28:00+00:00",
+    "date": "2026-09-04T08:29:44+00:00",
     "countries": [
      "RO"
     ]
@@ -200,169 +200,149 @@
   ],
   "GB": [
    {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.northwalespioneer.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "northwalespioneer.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T04:00:00+00:00",
+    "title": "Lower Thames Crossing Gas Diversion Project",
+    "url": "https://www.nationalgas.com/our-businesses/construction-projects/lower-thames-crossing-gas-diversion-project",
+    "source": "National Gas",
+    "theme": "grid",
+    "date": "2026-09-02T15:31:51+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.wharfedaleobserver.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "wharfedaleobserver.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T04:00:00+00:00",
+    "title": "Delay to the November 2026 RTGS standards release",
+    "url": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-08-27T13:16:29+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.bracknellnews.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "bracknellnews.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T04:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Shares plunge in North Sea giant EnQuest after outage",
-    "url": "https://www.heraldscotland.com/news/26520573.shares-plunge-north-sea-giant-enquest-outage/",
-    "source": "heraldscotland.com",
-    "theme": "press",
-    "date": "2026-09-04T04:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.harwichandmanningtreestandard.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "harwichandmanningtreestandard.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T03:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Competition watchdog launches merger inquiry into OVO acquisition by E : ON",
-    "url": "https://www.thebusinessdesk.com/south-west/news/45766-competition-watchdog-launches-merger-inquiry-into-ovos-acquisition-by-eon/",
-    "source": "thebusinessdesk.com",
-    "theme": "press",
-    "date": "2026-09-04T03:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.hexham-courant.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "hexham-courant.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T03:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Farage to address Reform conference as party reported to police over funding",
-    "url": "https://www.royston-crow.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
-    "source": "royston-crow.co.uk",
-    "theme": "press",
-    "date": "2026-09-04T03:30:00+00:00",
+    "title": "Energy security boost as National Gas announces £55 million investment in Aberdeen",
+    "url": "https://www.nationalgas.com/media/news/energy-security-boost-national-gas-announces-ps55-million-investment-aberdeen",
+    "source": "National Gas",
+    "theme": "grid",
+    "date": "2026-08-26T08:45:30+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
-  "CH": [
+  "ES": [
    {
-    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
-    "url": "https://www.gulfcoastnewsnow.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
-    "source": "gulfcoastnewsnow.com",
+    "title": "The Paradores environment - Conference & Meetings World | Global MICE Industry News from CMW",
+    "url": "https://www.c-mw.net/the-paradores-environment/",
+    "source": "c-mw.net",
     "theme": "press",
-    "date": "2026-09-04T03:15:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Japanese Researcher Wins Ig Nobel Prize",
-    "url": "https://newsonjapan.com/article/150626.php",
-    "source": "newsonjapan.com",
+    "title": "Businesses closing after William , Kate , Harry and Meghan boom",
+    "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/businesses-closing-after-william-kate-34565313",
+    "source": "liverpoolecho.co.uk",
     "theme": "press",
-    "date": "2026-09-04T03:15:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Bringing down the City of London globalist financial casino * WorldNetDaily * by Hanne Nabintu Herland",
-    "url": "https://www.wnd.com/2026/09/bringing-down-city-londons-globalist-financial-casino/",
-    "source": "wnd.com",
+    "title": "Businesses closing after William , Kate , Harry and Meghan boom",
+    "url": "https://www.leicestermercury.co.uk/news/uk-world-news/businesses-closing-after-william-kate-11141418",
+    "source": "leicestermercury.co.uk",
     "theme": "press",
-    "date": "2026-09-04T03:15:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
-    "url": "https://www.wisn.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
-    "source": "wisn.com",
+    "title": "Eurozone Economy Maintains Solid Growth in August - Novinite . com",
+    "url": "https://www.novinite.com/articles/240446/Eurozone+Economy+Maintains+Solid+Growth+in+August",
+    "source": "novinite.com",
     "theme": "press",
-    "date": "2026-09-04T03:00:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
-    "url": "https://www.wesh.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
-    "source": "wesh.com",
+    "title": "Businesses closing after William , Kate , Harry and Meghan boom",
+    "url": "https://www.birminghammail.co.uk/news/uk-news/businesses-closing-after-william-kate-34565313",
+    "source": "birminghammail.co.uk",
     "theme": "press",
-    "date": "2026-09-04T03:00:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "The Latest : ICE officer federally charged with lying about Minneapolis shooting , AP source says",
-    "url": "https://www.dailygazette.com/ade/ap/national/the-latest-ice-officer-federally-charged-with-lying-about-minneapolis-shooting-ap-source-says/article_be90d1bf-89ed-505a-a8a1-a63708ae705a.html",
-    "source": "dailygazette.com",
+    "title": "Businesses closing after William , Kate , Harry and Meghan boom",
+    "url": "https://www.dailypost.co.uk/news/uk-world-news/businesses-closing-after-william-kate-34565313",
+    "source": "dailypost.co.uk",
     "theme": "press",
-    "date": "2026-09-04T02:30:00+00:00",
+    "date": "2026-09-04T08:00:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
-    "url": "https://www.wxii12.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
-    "source": "wxii12.com",
+    "title": "Canary Islands Migrant Boat : 44 Rescued , Five Dead",
+    "url": "https://www.riotimesonline.com/canary-islands-migrant-boat-gambia-2026/",
+    "source": "riotimesonline.com",
     "theme": "press",
-    "date": "2026-09-04T02:30:00+00:00",
+    "date": "2026-09-04T07:45:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    },
    {
-    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
-    "url": "https://www.wvtm13.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
-    "source": "wvtm13.com",
+    "title": "Businesses closing after William , Kate , Harry and Meghan boom",
+    "url": "https://www.walesonline.co.uk/news/uk-news/businesses-closing-after-william-kate-34565313",
+    "source": "walesonline.co.uk",
     "theme": "press",
-    "date": "2026-09-04T02:30:00+00:00",
+    "date": "2026-09-04T07:15:00+00:00",
     "countries": [
-     "CH"
+     "ES"
     ]
    }
   ],
   "GR": [
+   {
+    "title": "Mitsotakis Warns Turkey : No Room for War Threats and Sovereignty Challenges Amid EU Bid",
+    "url": "https://www.iefimerida.gr/english/mitsotakis-warns-turkey-no-room-war-threats-and-sovereignty-challenges-amid-eu-bid",
+    "source": "iefimerida.gr",
+    "theme": "press",
+    "date": "2026-09-04T07:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Mitsotakis Warns Turkey : No Room for War Threats and Sovereignty Challenges Amid EU Bid",
+    "url": "https://www.inewsgr.com/184/Mitsotakis-Warns-Turkey-No-Room-for-War-Threats-and-Sovereignty-Challenges-Amid-EU-Bid.htm",
+    "source": "inewsgr.com",
+    "theme": "press",
+    "date": "2026-09-04T06:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Germany far - right moment hastens EU push for €2T budget deal – POLITICO",
+    "url": "https://www.politico.eu/article/germany-far-right-moment-hastens-eu-push-e2t-budget-deal/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-09-04T04:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
    {
     "title": "Giorgia Meloni becomes Italy longest - serving prime minister",
     "url": "http://www.bgnes.com/politics/giorgia-meloni-becomes-italy-s-longest-serving-prime-minister",
@@ -411,488 +391,6 @@
     "date": "2026-09-04T00:30:00+00:00",
     "countries": [
      "GR"
-    ]
-   },
-   {
-    "title": "6 Countries Where Homes Still Sell for Under $50 , 000",
-    "url": "https://travel.yahoo.com/guides/articles/6-countries-where-homes-still-212001885.html",
-    "source": "travel.yahoo.com",
-    "theme": "press",
-    "date": "2026-09-03T22:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Best Books Set at Vacation Homes and Summer Houses",
-    "url": "https://www.marieclaire.com/culture/books/books-about-vacation-homes-summer-houses/",
-    "source": "marieclaire.com",
-    "theme": "press",
-    "date": "2026-09-03T15:15:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Calculated time",
-    "url": "https://www.sb.by/en/calculated-time.html",
-    "source": "sb.by",
-    "theme": "press",
-    "date": "2026-09-03T14:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   }
-  ],
-  "SE": [
-   {
-    "title": "Fentanyl sentencing , tax overhauls and transgender ‑ related issues anchor Colorado 14 ballot measures",
-    "url": "https://gazette.com/2026/09/03/fentanyl-sentencing-tax-overhauls-and-transgender-related-issues-anchor-colorados-14-ballot-measures/",
-    "source": "gazette.com",
-    "theme": "press",
-    "date": "2026-09-04T02:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Everllence Signs Long - Term Service Agreements With",
-    "url": "https://www.marinelink.com/news/everllence-signs-longterm-service-542723",
-    "source": "marinelink.com",
-    "theme": "press",
-    "date": "2026-09-04T00:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Orlen - ORLEN forges new Baltic energy alliance",
-    "url": "https://www.euro-petrole.com/orlen-forges-new-baltic-energy-alliance-n-i-30586",
-    "source": "euro-petrole.com",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Ford Wants To Somehow Sell 100 , 000 Ford Fathom EVs In Its First Year",
-    "url": "https://www.jalopnik.com/2250302/ford-wants-seel-100-000-fathom-evs-first-year/",
-    "source": "jalopnik.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Studsvik Selects GE Vernova Hitachi , Samsung C & T for 1 . 2 - GW Swedish BWRX - 300 Project",
-    "url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
-    "source": "powermag.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Over 600 Vietnamese manufacturers showcase products to global buyers in Ho Chi Minh City",
-    "url": "https://news.tuoitre.vn/over-600-vietnamese-manufacturers-showcase-products-to-global-buyers-in-ho-chi-minh-city-103260903165433692.htm",
-    "source": "news.tuoitre.vn",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Top Tickets This Week : Fontaines D . C ., Sombr , D - Block Europe , Sonny Fodera , Kneecap and more !",
-    "url": "https://www.stereoboard.com/content/view/252771/9",
-    "source": "stereoboard.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Faked Polling Numbers",
-    "url": "https://pjmedia.com/eric-florack/2026/09/03/faked-polling-numbers-n4956846",
-    "source": "pjmedia.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Russia to close German cultural centers amid deepening tensions with Europe over supporting Ukraine",
-    "url": "http://www.goskagit.com/news/nation/russia-to-close-german-cultural-centers-amid-deepening-tensions-with-europe-over-supporting-ukraine/article_8192fd5f-4c06-5920-aeb5-f2824a867d82.html",
-    "source": "goskagit.com",
-    "theme": "press",
-    "date": "2026-09-04T02:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Novonesis to build next generation enzyme production facility in India",
-    "url": "https://www.manilatimes.net/2026/09/04/tmt-newswire/pr-newswire/novonesis-to-build-next-generation-enzyme-production-facility-in-india/2418471",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-09-04T00:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Novonesis to build next generation enzyme production facility in India",
-    "url": "https://www.thailand-business-news.com/pr-news/novonesis-to-build-next-generation-enzyme-production-facility-in-india",
-    "source": "thailand-business-news.com",
-    "theme": "press",
-    "date": "2026-09-04T00:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Australia needs renewable energy fast – but building it is only half the battle",
-    "url": "https://theconversation.com/australia-needs-renewable-energy-fast-but-building-it-is-only-half-the-battle-290066",
-    "source": "theconversation.com",
-    "theme": "press",
-    "date": "2026-09-04T00:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Sam Altman says AI developers have fumbled at communicating the technology benefits",
-    "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
-    "source": "thenextweb.com",
-    "theme": "press",
-    "date": "2026-09-03T23:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Russia to shut German cultural centers as Moscow - Berlin tensions escalate over Ukraine",
-    "url": "https://fortune.com/2026/09/03/europe-russia-finland-civil-defense-drill/",
-    "source": "fortune.com",
-    "theme": "press",
-    "date": "2026-09-03T23:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Australia needs renewable energy fast - but building it is only half the battle",
-    "url": "http://www.australianherald.com/news/279284557/australia-needs-renewable-energy-fast-but-building-it-is-only-half-the-battle",
-    "source": "australianherald.com",
-    "theme": "press",
-    "date": "2026-09-03T23:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "WW3 fears explode as Russian sabotage plan exposed by NATO | World | News",
-    "url": "https://www.express.co.uk/news/world/2245295/ww3-fears-explode-russian-sabotage-vladimir-putin",
-    "source": "express.co.uk",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "Javier Ambrossi & Javier Calvo reveal the real reason they broke up while filming La Bola Negra",
-    "url": "https://www.queerty.com/javier-ambrossi-javier-calvo-reveal-the-real-reason-they-broke-up-while-filming-la-bola-negra-20260903/",
-    "source": "queerty.com",
-    "theme": "press",
-    "date": "2026-09-04T00:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Norway seizes Russian ship at Svalbard",
-    "url": "https://www.upi.com/Top_News/World-News/2026/09/03/norway-russian-ship-seized-svalbard/7501788471447/",
-    "source": "upi.com",
-    "theme": "press",
-    "date": "2026-09-03T22:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Norway seizes Russian ship at Svalbard",
-    "url": "https://www.yahoo.com/news/world/articles/norway-seizes-russian-ship-svalbard-214755486.html",
-    "source": "yahoo.com",
-    "theme": "press",
-    "date": "2026-09-03T22:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
-    "url": "http://www.rockymounttelegram.com/news/national/russia-will-close-german-cultural-centers-as-moscow-and-europe-spar-over-ukraine/article_20821878-f4ea-53ee-b4c5-8bd6f2c6f0d8.html",
-    "source": "rockymounttelegram.com",
-    "theme": "press",
-    "date": "2026-09-03T14:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Artist travelling the world on foot now crossing Saskatchewan",
-    "url": "https://www.cbc.ca/news/german-woman-walking-around-world-travels-saskatchewan-9.7325150",
-    "source": "cbc.ca",
-    "theme": "press",
-    "date": "2026-09-03T13:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "EE": [
-   {
-    "title": "Ive been told Putin seriously considering this appalling next move . It crazy and barely believable - but all the top military figures Ive met in Warsaw are saying the same thing ... while Burnham drags his heels : BOB SEELY",
-    "url": "https://www.dailymail.com/debate/article-16103671/Putin-military-BOB-SEELY.html",
-    "source": "dailymail.com",
-    "theme": "press",
-    "date": "2026-09-04T02:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Drive for nuclear power boosts uranium industry and tribal health concerns in Southwest",
-    "url": "https://www.sun-sentinel.com/2026/09/03/uranium-industry-tribal-health-southwest/",
-    "source": "sun-sentinel.com",
-    "theme": "press",
-    "date": "2026-09-03T14:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Drive for nuclear power boosts uranium industry and tribal health concerns in Southwest",
-    "url": "https://www.reporterherald.com/2026/09/03/uranium-industry-tribal-health-southwest/",
-    "source": "reporterherald.com",
-    "theme": "press",
-    "date": "2026-09-03T13:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Drive for nuclear power boosts uranium industry and tribal health concerns in Southwest",
-    "url": "https://www.orlandosentinel.com/2026/09/03/uranium-industry-tribal-health-southwest/",
-    "source": "orlandosentinel.com",
-    "theme": "press",
-    "date": "2026-09-03T13:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "IMF Wraps 2026 Article IV Consultation With Estonia",
-    "url": "https://www.miragenews.com/imf-wraps-2026-article-iv-consultation-with-1738203/",
-    "source": "miragenews.com",
-    "theme": "press",
-    "date": "2026-09-03T10:45:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Joint press release ahead of launch of Emirate new Dubai - Helsinki route",
-    "url": "http://www.bignewsnetwork.com/news/279283297/joint-press-release-ahead-of-launch-of-emirates-new-dubai-helsinki-route",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-09-03T09:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Hepsor public offering of bonds ends this Friday",
-    "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/hepsors-public-offering-of-bonds-ends-this-friday/2417633",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-09-03T05:45:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Nokia Oyj : Nokia and BeeHealthy bring network - based verification to digital healthcare",
-    "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69481121-nokia-oyj-nokia-and-beehealthy-bring-network-based-verification-to-digital-healthcare-399.htm",
-    "source": "finanznachrichten.de",
-    "theme": "press",
-    "date": "2026-09-03T05:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   }
-  ],
-  "LV": [
-   {
-    "title": "Kratom sales now violate federal law",
-    "url": "https://www.crestonnews.com:443/article/1031,kratom-sales-now-violate-federal-law",
-    "source": "crestonnews.com",
-    "theme": "press",
-    "date": "2026-09-03T12:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "EU struggles after Germany blames Russia for failed drone attack",
-    "url": "https://www.sandiegouniontribune.com/2026/09/02/eu-germany-russia-failed-drone-attack/",
-    "source": "sandiegouniontribune.com",
-    "theme": "press",
-    "date": "2026-09-02T16:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "EU Kallas calls alleged Russian drone plot state sponsored terrorism as Europe mulls a response",
-    "url": "https://www.the-messenger.com/news/world/article_7d6da83e-3bb3-5994-a5b4-1d094df44d77.html",
-    "source": "the-messenger.com",
-    "theme": "press",
-    "date": "2026-09-02T11:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "EU Kallas calls alleged Russian drone plot state sponsored terrorism as Europe mulls a response",
-    "url": "http://www.rockymounttelegram.com/news/world/eus-kallas-calls-alleged-russian-drone-plot-state-sponsored-terrorism-as-europe-mulls-a-response/article_79d39b6b-c70c-5001-a06c-aecabe1d1674.html",
-    "source": "rockymounttelegram.com",
-    "theme": "press",
-    "date": "2026-09-02T10:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Germany blames Russia for drone attack on airport ; EU considers countermeasures",
-    "url": "https://www.adn.com/nation-world/2026/09/02/germany-blames-russia-for-drone-attack-on-airport-eu-considers-countermeasures/",
-    "source": "adn.com",
-    "theme": "press",
-    "date": "2026-09-02T10:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "EU Kallas calls alleged Russian drone plot state sponsored terrorism as Europe mulls a response",
-    "url": "https://www.wsls.com/news/world/2026/09/02/eus-kallas-calls-alleged-russian-drone-plot-state-sponsored-terrorism-as-europe-mulls-a-response/",
-    "source": "wsls.com",
-    "theme": "press",
-    "date": "2026-09-02T10:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Lithuanian FM urges EU to revisit use of frozen Russian assets for Ukraine",
-    "url": "https://www.lrt.lt/en/news-in-english/19/3040193/lithuanian-fm-urges-eu-to-revisit-use-of-frozen-russian-assets-for-ukraine",
-    "source": "lrt.lt",
-    "theme": "press",
-    "date": "2026-09-02T10:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "Once Upon a Time Star Officially Reveals New Details About His Return to Fantasy [ Exclusive ]",
-    "url": "https://collider.com/robin-hood-season-2-colin-odonoghue-prince-richard-king-richard/",
-    "source": "collider.com",
-    "theme": "press",
-    "date": "2026-09-04T00:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Hungary Orbán - style media takeover playbook lands in Serbia before elections – EUobserver",
-    "url": "https://euobserver.com/234674/hungarys-orban-style-media-takeover-playbook-lands-in-serbia-before-elections/",
-    "source": "euobserver.com",
-    "theme": "press",
-    "date": "2026-09-03T12:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Quectel Expands RG660Qx 5G Module Capabilities for Future Railway Mobile Communication System Evaluation and Railway Applications",
-    "url": "https://www.owensoundsuntimes.com/press-releases/business-wire/quectel-expands-rg660qx-5g-module-capabilities-for-future-railway-mobile-communication-system-evaluation-and-railway-applications/",
-    "source": "owensoundsuntimes.com",
-    "theme": "press",
-    "date": "2026-09-03T09:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Quectel Expands RG660Qx 5G Module Capabilities for Future Railway Mobile Communication System Evaluation and Railway Applications",
-    "url": "https://www.recorder.ca/press-releases/business-wire/quectel-expands-rg660qx-5g-module-capabilities-for-future-railway-mobile-communication-system-evaluation-and-railway-applications/",
-    "source": "recorder.ca",
-    "theme": "press",
-    "date": "2026-09-03T09:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "German government provokes escalation of Ukraine war",
-    "url": "https://www.wsws.org/en/articles/2026/09/03/iglm-s03.html",
-    "source": "wsws.org",
-    "theme": "press",
-    "date": "2026-09-03T07:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Spanish Airbus indefinite strike continues - Workers Revolutionary Party",
-    "url": "https://wrp.org.uk/features/spanish-airbus-indefinite-strike-continues/",
-    "source": "wrp.org.uk",
-    "theme": "press",
-    "date": "2026-09-03T03:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "India : Tariq Ali Plan for Pakistan – Standpoint Magazine",
-    "url": "https://www.standpointmag.co.uk/2026/09/02/dispatches-april-09-tariq-ali-pakistan/",
-    "source": "standpointmag.co.uk",
-    "theme": "press",
-    "date": "2026-09-02T22:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Civil Society Donors Should Heed the Risks of FATF Grey List - Induced Panic",
-    "url": "https://www.justsecurity.org/150151/africa-fatf-civic-impact/",
-    "source": "justsecurity.org",
-    "theme": "press",
-    "date": "2026-09-02T15:30:00+00:00",
-    "countries": [
-     "RS"
     ]
    }
   ]
@@ -956,11 +454,13 @@
  },
  "errors": [
   "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
@@ -968,11 +468,17 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
+  "gdelt/BG: URLError",
+  "gdelt/NO: URLError",
+  "gdelt/SE: URLError",
+  "gdelt/DK: URLError",
+  "gdelt/FI: URLError",
+  "gdelt/EE: URLError",
+  "gdelt/LV: URLError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

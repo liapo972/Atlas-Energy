@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-03T20:26:44+00:00",
+ "generated": "2026-09-04T00:34:35+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T20:26:44+00:00",
+   "date": "2026-09-04T00:34:35+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T20:26:44+00:00",
+   "date": "2026-09-04T00:34:35+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T20:26:44+00:00",
+   "date": "2026-09-04T00:34:35+00:00",
    "countries": []
   },
   {
@@ -30,40 +30,155 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-03T20:26:44+00:00",
+   "date": "2026-09-04T00:34:35+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 03 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1795",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-03T09:26:46+00:00",
-   "countries": []
+   "title": "Ulises Aquino Criticizes Limited Electricity Supply in Havana Neighborhood",
+   "url": "https://www.cubaheadlines.com/articles/339500",
+   "source": "cubaheadlines.com",
+   "theme": "press",
+   "date": "2026-09-04T00:15:00+00:00"
   },
   {
-   "title": "Commission adopts EU Guidelines on exclusionary abuses of dominance",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1769",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T22:00:00+00:00",
-   "countries": []
+   "title": "Construction starts on North Coast Transmission Line between Prince George and northwest B . C .",
+   "url": "https://www.cbc.ca/news/canada/british-columbia/north-coast-transmission-line-construction-begin-9.7331387",
+   "source": "cbc.ca",
+   "theme": "press",
+   "date": "2026-09-04T00:15:00+00:00"
   },
   {
-   "title": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T10:28:49+00:00",
-   "countries": []
+   "title": "US hits Cuba with new sanctions as island crises multiply",
+   "url": "https://www.sandiegouniontribune.com/2026/09/03/cuba-new-sanctions/",
+   "source": "sandiegouniontribune.com",
+   "theme": "press",
+   "date": "2026-09-04T00:15:00+00:00"
   },
   {
-   "title": "Daily News 02 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1789",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T07:22:18+00:00",
-   "countries": []
+   "title": "Worker dead after fatal gas plant incident in northeast B . C .",
+   "url": "https://www.cbc.ca/news/canada/british-columbia/worker-dead-after-fatal-gas-plant-incident-9.7331697",
+   "source": "cbc.ca",
+   "theme": "press",
+   "date": "2026-09-04T00:15:00+00:00"
+  },
+  {
+   "title": "New King Charles $20 Canadian bill : When will it arrive",
+   "url": "https://www.stcatharinesstandard.ca/news/canada-new-20-king-charles/article_2557779b-9c07-5716-abc3-9fa926d1d058.html",
+   "source": "stcatharinesstandard.ca",
+   "theme": "press",
+   "date": "2026-09-04T00:15:00+00:00"
+  },
+  {
+   "title": "JAY GOLDBERG : Politicians failed to prepare for Trump tariffs",
+   "url": "https://torontosun.com/opinion/columnists/politicians-failed-to-prepare-for-trump-tariffs",
+   "source": "torontosun.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Tech stocks lead U . S . stock markets higher , Nasdaq gains 366 points",
+   "url": "http://www.albuquerqueexpress.com/news/279284540/tech-stocks-lead-u-s-stock-markets-higher-nasdaq-gains-366-points",
+   "source": "albuquerqueexpress.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Tech stocks lead U . S . stock markets higher , Nasdaq gains 366 points",
+   "url": "http://www.vietnamtribune.com/news/279284540/tech-stocks-lead-u-s-stock-markets-higher-nasdaq-gains-366-points",
+   "source": "vietnamtribune.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "GBP / USD Price Forecast : Pound Sterling Edges Up but Gains Limited",
+   "url": "https://www.currencynews.co.uk/forecast/20260903-47087_gbp-usd-price-forecast-pound-sterling-edges-up-but-gains-limited.html",
+   "source": "currencynews.co.uk",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Tech stocks lead U . S . stock markets higher , Nasdaq gains 366 points",
+   "url": "http://www.newyorkstatesman.com/news/279284540/tech-stocks-lead-u-s-stock-markets-higher-nasdaq-gains-366-points",
+   "source": "newyorkstatesman.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Mortgage Rates Rise This Week as Markets Anticipate Fed Hike",
+   "url": "https://www.northwestsignal.net/news/article_26401683-d4f4-5029-afd2-5451c3de9e6f.html",
+   "source": "northwestsignal.net",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Netherlands Shifts Gold Reserves From North America to London - Novinite . com",
+   "url": "https://www.novinite.com/view_news.php?id=240437",
+   "source": "novinite.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Enbridge hopes to restore service to Line 5 by Tuesday after gas leak",
+   "url": "https://www.wpr.org/news/enbridge-restore-service-line-5-gas-leak",
+   "source": "wpr.org",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Press Release",
+   "url": "https://www.mining.com/press-release?id=6a99e5010df169127081f01c",
+   "source": "mining.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "US hits Cuba with new sanctions as island crises multiply",
+   "url": "http://www.thegazette.com/news/world/us-hits-cuba-with-new-sanctions-as-islands-crises-multiply/article_38d7fb23-44af-5231-8654-24bd8d9dc53a.html",
+   "source": "thegazette.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "New King Charles $20 Canadian bill : When will it arrive",
+   "url": "https://www.northbaynipissing.com/news/canada-new-20-king-charles/article_1a41daff-687d-5155-b9dc-2182556cc849.html",
+   "source": "northbaynipissing.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "China willing to play ball with US on Iran economic isolation : Vance says Beijing more responsible than Tehran",
+   "url": "http://www.chinanationalnews.com/news/279284674/china-willing-to-play-ball-with-us-on-iran-economic-isolation-vance-says-beijing-more-responsible-than-tehran",
+   "source": "chinanationalnews.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Euro Coins Are Coming : What Bulgaria Currency Switch Means for Everyday Digital Payments - Novinite . com",
+   "url": "https://www.novinite.com/view_news.php?id=240447",
+   "source": "novinite.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Tech stocks lead U . S . stock markets higher , Nasdaq gains 366 points",
+   "url": "http://www.floridastatesman.com/news/279284540/tech-stocks-lead-u-s-stock-markets-higher-nasdaq-gains-366-points",
+   "source": "floridastatesman.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Tech stocks lead U . S . stock markets higher , Nasdaq gains 366 points",
+   "url": "http://www.brazilsun.com/news/279284540/tech-stocks-lead-u-s-stock-markets-higher-nasdaq-gains-366-points",
+   "source": "brazilsun.com",
+   "theme": "press",
+   "date": "2026-09-04T00:00:00+00:00"
+  },
+  {
+   "title": "Equinor expands global LNG portfolio with first US Gulf Coast cargo | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/equinor-expands-global-lng-portfolio-with-first-us-gulf-coast-cargo/",
+   "source": "hellenicshippingnews.com",
+   "theme": "press",
+   "date": "2026-09-03T23:45:00+00:00"
   }
  ],
  "countries": {
@@ -73,77 +188,77 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "A Quarter Century After 9 / 11 : Lessons Learned and Lost",
-    "url": "https://www.justsecurity.org/154421/9-11-25th-anniversary-lessons/",
-    "source": "justsecurity.org",
+    "title": "Japan and Germany are forgetting the lessons of 1945",
+    "url": "http://www.shanghaisun.com/news/279284525/japan-and-germany-are-forgetting-the-lessons-of-1945",
+    "source": "shanghaisun.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Hedging , Verification , POS , Data Mining Tools ; Rocket Mortgage and RESPA ; MISMO Motors On",
-    "url": "https://www.mortgagenewsdaily.com:443/opinion/pipelinepress-09032026",
-    "source": "mortgagenewsdaily.com",
+    "title": "Japan and Germany are forgetting the lessons of 1945",
+    "url": "http://www.beijingbulletin.com/news/279284525/japan-and-germany-are-forgetting-the-lessons-of-1945",
+    "source": "beijingbulletin.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-03T23:45:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Proposed equity fundraise to raise US$100 million | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/proposed-equity-fundraise-to-raise-us-100-million/9754948",
-    "source": "investegate.co.uk",
+    "title": "Midsommar Meets The Witch in Terrifying Anti - Colonial Horror Movie Trailer - Comic Book Movies and Superhero Movie News",
+    "url": "https://www.superherohype.com/movies/690928-midsommar-meets-the-witch-marama-trailer",
+    "source": "superherohype.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-03T23:45:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Karnataka Targets 66 GW Power Capacity by 2030 : Energy Department Additional Chief Secretary Gaurav Gupta",
-    "url": "http://www.bruneinews.net/news/279283644/karnataka-targets-66-gw-power-capacity-by-2030-energy-department-additional-chief-secretary-gaurav-gupta",
-    "source": "bruneinews.net",
+    "title": "Minnesota is Hosting a Massive World Fair Called Expo 2031",
+    "url": "https://power96radio.com/ixp/717/p/minnesota-hosting-world-fair-expo-2031/",
+    "source": "power96radio.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-03T22:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Novotel Invites the World to Embrace Small Daily Wellness Habits with the Launch of Longevity Week",
-    "url": "https://www.prnewswire.com/news-releases/novotel-invites-the-world-to-embrace-small-daily-wellness-habits-with-the-launch-of-longevity-week-302869194.html",
-    "source": "prnewswire.com",
+    "title": "Europe wants to spend more but its own policies are making it harder",
+    "url": "https://euobserver.com/235227/europe-wants-to-spend-more-but-its-own-policies-are-making-it-harder/",
+    "source": "euobserver.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-03T22:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Andy Burnham praises Emmanuel Macron for collaboration as they meet at No 10",
-    "url": "https://www.borehamwoodtimes.co.uk/news/national/26519368.andy-burnham-praises-emmanuel-macron-collaboration-meet-no-10/",
-    "source": "borehamwoodtimes.co.uk",
+    "title": "Why Spain Owes Morocco an Apology ?",
+    "url": "https://www.moroccoworldnews.com/2026/09/337076/why-spain-owes-morocco-an-apology/",
+    "source": "moroccoworldnews.com",
     "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
+    "date": "2026-09-03T22:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Andy Burnham praises Emmanuel Macron for collaboration as they meet at No 10",
-    "url": "https://www.dailyecho.co.uk/news/national/26519368.andy-burnham-praises-emmanuel-macron-collaboration-meet-no-10/",
-    "source": "dailyecho.co.uk",
+    "title": "Prominent Niger Journalist Feared Forcibly Disappeared",
+    "url": "http://www.nigeriasun.com/news/279284551/prominent-niger-journalist-feared-forcibly-disappeared",
+    "source": "nigeriasun.com",
     "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
+    "date": "2026-09-03T22:15:00+00:00",
     "countries": [
      "FR"
     ]
@@ -165,7 +280,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -175,7 +290,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -185,7 +300,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -195,7 +310,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -205,7 +320,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -215,7 +330,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -225,7 +340,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
     "countries": [
      "DE"
     ]
@@ -237,7 +352,37 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-03T20:26:44+00:00",
+    "date": "2026-09-04T00:34:35+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Euro Sun Mining Announces Non ‑ Binding MoU for US$400 Million Senior Debt Facility and Term Sheet for US$3 Million Strategic Equity Investment",
+    "url": "https://www.owensoundsuntimes.com/press-releases/globe-newswire/euro-sun-mining-announces-non-binding-mou-for-us400-million-senior-debt-facility-and-term-sheet-for-us3-million-strategic-equity-investment/",
+    "source": "owensoundsuntimes.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Euro Sun Mining Announces Non ‑ Binding MoU for US$400 Million Senior Debt Facility and Term Sheet for US$3 Million Strategic Equity Investment",
+    "url": "https://www.recorder.ca/press-releases/globe-newswire/euro-sun-mining-announces-non-binding-mou-for-us400-million-senior-debt-facility-and-term-sheet-for-us3-million-strategic-equity-investment/",
+    "source": "recorder.ca",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Euro Sun Mining Announces Non ‑ Binding MoU for US$400 Million Senior Debt Facility and Term Sheet for US$3 Million Strategic Equity Investment",
+    "url": "https://www.manilatimes.net/2026/09/04/tmt-newswire/globenewswire/euro-sun-mining-announces-nonbinding-mou-for-us400-million-senior-debt-facility-and-term-sheet-for-us3-million-strategic-equity-investment/2418455",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
     "countries": [
      "RO"
     ]
@@ -281,39 +426,39 @@
     "countries": [
      "RO"
     ]
-   },
-   {
-    "title": "Opinion : Ukraine War Update : Russia Launches Ballistic Missile Strike on Kyiv as Ukraine Hits Record Number of Oil Refineries",
-    "url": "https://www.kyivpost.com/opinion/83659",
-    "source": "kyivpost.com",
-    "theme": "press",
-    "date": "2026-09-03T14:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Dragoș Dobrescu establishes the Romania - Qatar Bilateral Chambers of Commerce Union in Doha and becomes its president",
-    "url": "https://www.mediafax.ro/economic/dragos-dobrescu-establishes-the-romania-qatar-bilateral-chambers-of-commerce-union-in-doha-and-becomes-its-president-23801374",
-    "source": "mediafax.ro",
-    "theme": "press",
-    "date": "2026-09-03T14:00:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Kratom sales now violate federal law",
-    "url": "https://www.crestonnews.com:443/article/1031,kratom-sales-now-violate-federal-law",
-    "source": "crestonnews.com",
-    "theme": "press",
-    "date": "2026-09-03T12:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
    }
   ],
   "IE": [
+   {
+    "title": "Morrisey : New West Virginia development commitments near state entire annual GDP",
+    "url": "https://www.newsandsentinel.com/news/local-news/2026/09/morrisey-new-west-virginia-development-commitments-near-states-entire-annual-gdp/",
+    "source": "newsandsentinel.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Retail footfall down despite return of shoppers after heatwave",
+    "url": "https://www.lbc.co.uk/article/a7d395f6c160450594d1fa9383548364-5HjdgxC_2/",
+    "source": "lbc.co.uk",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Wake up call - The Irish World",
+    "url": "https://www.theirishworld.com/wake-up-call/",
+    "source": "theirishworld.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
    {
     "title": "HBO New Fantasy Reboot Series Ignites Massive Resurgence Of $974M Original Movie",
     "url": "https://screenrant.com/harry-potter-philosophers-stone-movie-hbo-series-streaming-resurgence-september-2026/",
@@ -335,63 +480,32 @@
     ]
    },
    {
+    "title": "The Infinite Sadness of Small Appliances Glenn Dixon second novel",
+    "url": "https://calgaryherald.com:443/entertainment/books/the-infinite-sadness-of-small-appliances-glenn-dixon",
+    "source": "calgaryherald.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Proposed equity fundraise to raise US$100 million | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/proposed-equity-fundraise-to-raise-us-100-million/9754948",
+    "source": "investegate.co.uk",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
     "title": "The Republic has just borrowed money at under 3 . 5 % – few other countries could do likewise",
     "url": "https://www.irishtimes.com/your-money/2026/09/03/the-republic-has-just-borrowed-money-at-under-35-per-cent-few-other-countries-could-do-likewise/",
     "source": "irishtimes.com",
     "theme": "press",
     "date": "2026-09-03T15:30:00+00:00",
     "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Medtronic ( MDT ) – Research Analyst Weekly Ratings Updates",
-    "url": "https://www.tickerreport.com/banking-finance/13572119/medtronic-mdt-research-analysts-weekly-ratings-updates.html",
-    "source": "tickerreport.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Top Tickets This Week : Fontaines D . C ., Sombr , D - Block Europe , Sonny Fodera , Kneecap and more !",
-    "url": "https://www.stereoboard.com/content/view/252771/9",
-    "source": "stereoboard.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Auto Trader Group ( OTCMKTS : ATDRY ) & Itochu ( OTCMKTS : ITOCY ) Head to Head Contrast",
-    "url": "https://www.themarketsdaily.com/2026/09/03/auto-trader-group-otcmktsatdry-itochu-otcmktsitocy-head-to-head-contrast.html",
-    "source": "themarketsdaily.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Copper Industries will be allowed to develop rural site",
-    "url": "https://www.impartialreporter.com/news/26519638.copper-industries-will-allowed-develop-rural-site/",
-    "source": "impartialreporter.com",
-    "theme": "press",
-    "date": "2026-09-03T15:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Commissioner Roswall's speech at the Environment Ireland Conference 2026",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1796",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-09-03T13:03:58+00:00",
-    "countries": [
-     "DE",
      "IE"
     ]
    }
@@ -410,87 +524,189 @@
   ],
   "GB": [
    {
-    "title": "The Gentleman star breaks silence on geniu Meghan Markle move",
-    "url": "https://www.express.co.uk/showbiz/tv-radio/2245290/gentleman-star-breaks-silence-meghan-markle",
-    "source": "express.co.uk",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.witneygazette.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
+    "source": "witneygazette.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "SwitchBot Unveils AI MindClip and Smart Lock at IFA 2026",
-    "url": "https://androidguys.com/news/switchbot-brings-ai-mindclip-and-lock-ultra-max-vision-pro-combo-to-ifa-2026/",
-    "source": "androidguys.com",
+    "title": "Pound - to - Dollar Forecast : Bond Turmoil , Energy Prices Support USD",
+    "url": "https://www.currencynews.co.uk/forecast/20260903-47094_pound-to-dollar-forecast-bond-turmoil-energy-prices-support-usd.html",
+    "source": "currencynews.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "The Infinite Sadness of Small Appliances Glenn Dixon second novel",
-    "url": "https://calgaryherald.com:443/entertainment/books/the-infinite-sadness-of-small-appliances-glenn-dixon",
-    "source": "calgaryherald.com",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.stratford-herald.com/national/farage-to-address-reform-conference-as-party-reported-to-police-over-funding-171282/",
+    "source": "stratford-herald.com",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "How TV fell in love with female gangsters",
-    "url": "https://www.taipeitimes.com/News/feat/archives/2026/09/04/2003863652",
-    "source": "taipeitimes.com",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.newsandstar.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
+    "source": "newsandstar.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Sad reality of Archie and Lilibet relationship with key royal | Royal | News",
-    "url": "https://www.express.co.uk/news/royal/2245272/prince-archie-princess-lilibet-relationship-prince-william",
-    "source": "express.co.uk",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.huntspost.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
+    "source": "huntspost.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Afentra ( OTCMKTS : STGAF ) versus Paladin Energy ( OTCMKTS : PALAF ) Head - To - Head Analysis",
-    "url": "https://www.dailypolitical.com/2026/09/03/afentra-otcmktsstgaf-versus-paladin-energy-otcmktspalaf-head-to-head-analysis.html",
-    "source": "dailypolitical.com",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.heraldseries.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
+    "source": "heraldseries.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Newport residents raise concerns over Vantage data centre",
-    "url": "https://www.southwalesargus.co.uk/news/26519303.newport-residents-raise-concerns-vantage-data-centre/",
-    "source": "southwalesargus.co.uk",
+    "title": "Farage to address Reform conference as party reported to police over funding",
+    "url": "https://www.falmouthpacket.co.uk/news/national/26520972.farage-address-reform-conference-party-reported-police-funding/",
+    "source": "falmouthpacket.co.uk",
     "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
+    "date": "2026-09-03T23:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Lower Thames Crossing Gas Diversion Project",
-    "url": "https://www.nationalgas.com/our-businesses/construction-projects/lower-thames-crossing-gas-diversion-project",
-    "source": "National Gas",
-    "theme": "grid",
-    "date": "2026-09-02T15:31:51+00:00",
+    "title": "Jackdaw gas field set to be approved as soon as mid - September , sources say",
+    "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo",
+    "source": "bbc.co.uk",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
+  "NL": [
+   {
+    "title": "A Quarter Century After 9 / 11 : Lessons Learned and Lost",
+    "url": "https://www.justsecurity.org/154421/9-11-25th-anniversary-lessons/",
+    "source": "justsecurity.org",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Denmark warns of Russian sabotage - Taipei Times",
+    "url": "https://www.taipeitimes.com/News/world/archives/2026/09/04/2003863678",
+    "source": "taipeitimes.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Dems demand DHS fund election security . And , journalist Gloria Steinem has died",
+    "url": "https://www.publicradiotulsa.org/npr-national-news/2026-09-03/dems-demand-dhs-fund-election-security-and-journalist-gloria-steinem-has-died",
+    "source": "publicradiotulsa.org",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Norway and Taiwan join forces to develop floating offshore wind - Global Construction Review",
+    "url": "https://www.globalconstructionreview.com/norway-and-taiwan-join-forces-to-develop-floating-offshore-wind/",
+    "source": "globalconstructionreview.com",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Dems demand DHS fund election security . And , journalist Gloria Steinem has died",
+    "url": "https://www.wxxinews.org/npr-news/2026-09-03/dems-demand-dhs-fund-election-security-and-journalist-gloria-steinem-has-died",
+    "source": "wxxinews.org",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Dems demand DHS fund election security . And , journalist Gloria Steinem has died",
+    "url": "https://www.wcbe.org/npr-news/2026-09-03/dems-demand-dhs-fund-election-security-and-journalist-gloria-steinem-has-died",
+    "source": "wcbe.org",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Dems demand DHS fund election security . And , journalist Gloria Steinem has died",
+    "url": "https://www.knau.org/npr-news/2026-09-03/dems-demand-dhs-fund-election-security-and-journalist-gloria-steinem-has-died",
+    "source": "knau.org",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Dems demand DHS fund election security . And , journalist Gloria Steinem has died",
+    "url": "https://www.ketr.org/2026-09-03/dems-demand-dhs-fund-election-security-and-journalist-gloria-steinem-has-died",
+    "source": "ketr.org",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   }
+  ],
   "BE": [
+   {
+    "title": "India stabilising factor , useful counterweight to China dominance in Asia : Belgium Defence Minister",
+    "url": "http://www.shanghaisun.com/news/279284438/india-stabilising-factor-useful-counterweight-to-china-dominance-in-asia-belgium-defence-minister",
+    "source": "shanghaisun.com",
+    "theme": "press",
+    "date": "2026-09-04T00:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "India stabilising factor , useful counterweight to China dominance in Asia : Belgium Defence Minister",
+    "url": "http://www.beijingbulletin.com/news/279284438/india-stabilising-factor-useful-counterweight-to-china-dominance-in-asia-belgium-defence-minister",
+    "source": "beijingbulletin.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
    {
     "title": "India , Belgium agree to double trade ; PM says nation growth inspires global confidence",
     "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-belgium-agree-to-double-trade-pm-says-nations-growth-inspires-global-confidence/articleshow/133740375.cms",
@@ -505,6 +721,16 @@
     "title": "A stronger India can provide useful counterweight to China dominance in Asia : Belgium minister",
     "url": "https://www.moneycontrol.com/news/india/a-stronger-india-can-provide-useful-counterweight-to-china-s-dominance-in-asia-belgium-minister-14022213.html",
     "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Early Edition : September 3 , 2026",
+    "url": "https://www.justsecurity.org/156150/early-edition-september-3-2026/",
+    "source": "justsecurity.org",
     "theme": "press",
     "date": "2026-09-03T16:15:00+00:00",
     "countries": [
@@ -540,101 +766,101 @@
     "countries": [
      "BE"
     ]
-   },
-   {
-    "title": "Building on 30 years of play : First look at the LEGO® PlayStation™",
-    "url": "https://blog.playstation.com/2026/09/03/building-on-30-years-of-play-first-look-at-the-lego-playstation/",
-    "source": "blog.playstation.com",
-    "theme": "press",
-    "date": "2026-09-03T15:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "France recorded hottest summer ever : environment minister",
-    "url": "http://thepeninsulaqatar.com/article/03/09/2026/france-recorded-hottest-summer-ever-environment-minister",
-    "source": "thepeninsulaqatar.com",
-    "theme": "press",
-    "date": "2026-09-03T14:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "India , Belgium vow to expand cooperation in trade , defence , critical minerals",
-    "url": "https://www.orissapost.com/india-belgium-vow-to-expand-cooperation-in-trade-defence-critical-minerals/",
-    "source": "orissapost.com",
-    "theme": "press",
-    "date": "2026-09-03T14:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
    }
   ],
   "CH": [
    {
-    "title": "Analyzing Geberit ( GBERF ) and Its Peers",
-    "url": "https://www.tickerreport.com/banking-finance/13572154/analyzing-geberit-gberf-and-its-peers.html",
-    "source": "tickerreport.com",
+    "title": "Research that makes you laugh , then think honored at 2026 Ig Nobel awards",
+    "url": "https://www.wdsu.com/article/research-into-nose-blowing-candy-stealing-splash-free-urinals-honored-at-2026-ig-nobel-awards/73609770",
+    "source": "wdsu.com",
+    "theme": "press",
+    "date": "2026-09-04T00:00:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Festa set to return for another year in Ludlow",
+    "url": "https://www.westernmassnews.com/2026/09/03/festa-set-return-another-year-ludlow/",
+    "source": "westernmassnews.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Fifa accuses Uefa of smear campaign against Infantino in US legal papers",
+    "url": "https://www.thejournal.ie/uefa-fifa-criticism-document-handover-7152146-Sep2026/",
+    "source": "thejournal.ie",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Swiss group CTS , Desert Tech ink 300MW Saudi AI data centre venture",
+    "url": "https://tradearabia.com:443/News/467556/Swiss-group-CTS-Desert-Tech-ink-300MW-Saudi-AI-data-centre-venture/IT",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Swiss group CTS , Desert Tech ink 300MW Saudi AI data centre venture",
+    "url": "https://tradearabia.com:443/News/467556/Swiss-group-CTS-Desert-Tech-ink-300MW-Saudi-AI-data-centre-venture/IND",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Swiss group CTS , Desert Tech ink 300MW Saudi AI data centre venture",
+    "url": "https://tradearabia.com:443/News/467556/Swiss-group-CTS-Desert-Tech-ink-300MW-Saudi-AI-data-centre-venture",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Interview with U . S . Senator Mark Warner - Allegheny Mountain Radio",
+    "url": "https://www.alleghenymountainradio.org/interview-with-u-s-senator-mark-warner/",
+    "source": "alleghenymountainradio.org",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Full Year Financial Results for 2025 | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/ferrexpo--fxpo/full-year-financial-results-for-2025/9754947",
+    "source": "investegate.co.uk",
     "theme": "press",
     "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Foreigners fueling Sudan war : UN - Taipei Times",
-    "url": "https://www.taipeitimes.com/News/world/archives/2026/09/04/2003863679",
-    "source": "taipeitimes.com",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Television Academy and National Academy of Television Arts & Sciences Announce Recipients of 2026 Engineering , Science & Technology Emmy Awards",
-    "url": "https://www.televisionacademy.com/news/features/awards-news/260903-est-recipients",
-    "source": "televisionacademy.com",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Pullback By Treasury Yields May Lead To Initial Strength On Wall Street",
-    "url": "https://www.rttnews.com/3688299/pullback-by-treasury-yields-may-lead-to-initial-strength-on-wall-street.aspx",
-    "source": "rttnews.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "A recorder 100 feet from a floating wind prototype near Naples heard fish choruses , crustacean impulses , and dolphin clicks , while the turbine itself was quieter than the ships and waves around it",
-    "url": "https://www.ecoportal.net/en/recorder-floating-wind-prototype-naples/35748/",
-    "source": "ecoportal.net",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Top 10 : Leading Lithium Mining Companies",
-    "url": "https://miningdigital.com/articles/top-10-leading-lithium-mining-companies",
-    "source": "miningdigital.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
     "countries": [
      "CH"
     ]
    }
   ],
   "AT": [
+   {
+    "title": "Austrian - Kazakh Platform Prepares Austria Economy for the New Silk Road with Middle Corridor - Vindobona . org",
+    "url": "https://www.vindobona.org/article/austrian-kazakh-platform-prepares-austrias-economy-for-the-new-silk-road-with-middle-corridor",
+    "source": "vindobona.org",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
    {
     "title": "Austria GDP Shrinks 0 . 1 % In Q2",
     "url": "https://www.rttnews.com/story.aspx?Id=3688250",
@@ -684,47 +910,221 @@
     "countries": [
      "AT"
     ]
-   },
-   {
-    "title": "A minute with : Danja Bauer , voice & presence mentor & professional singer",
-    "url": "https://cyprus-mail.com/2026/09/03/a-minute-with-danja-bauer-voice-presence-mentor-professional-singer",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-09-03T12:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
    }
   ],
-  "GR": [
+  "ES": [
    {
-    "title": "Best Books Set at Vacation Homes and Summer Houses",
-    "url": "https://www.marieclaire.com/culture/books/books-about-vacation-homes-summer-houses/",
-    "source": "marieclaire.com",
+    "title": "Total Wine in Rochester Hosts Whiskey and Wine Classes & Tastings",
+    "url": "https://power96radio.com/ixp/670/p/wine-whiskey-classes-total-wine-rochester/",
+    "source": "power96radio.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Mas attack as Spanish rider extends lead",
+    "url": "https://www.easternriverinachronicle.com.au/story/9343571/mas-attack-as-spanish-rider-extends-lead/",
+    "source": "easternriverinachronicle.com.au",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Engie starts up 251MW BESS projects in Chile , Grenergy sells fourth phase of Atacama solar - plus - storage complex",
+    "url": "https://www.energy-storage.news/engie-starts-up-251mw-bess-projects-in-chile-grenergy-sells-fourth-phase-of-atacama-solar-plus-storage-complex/",
+    "source": "energy-storage.news",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Ford Wants To Somehow Sell 100 , 000 Ford Fathom EVs In Its First Year",
+    "url": "https://www.jalopnik.com/2250302/ford-wants-seel-100-000-fathom-evs-first-year/",
+    "source": "jalopnik.com",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Disney+ Strikes Deal For Key Shows From France M6",
+    "url": "https://deadline.com/2026/09/disney-groupe-m6-content-deal-1237066894/",
+    "source": "deadline.com",
+    "theme": "press",
+    "date": "2026-09-03T15:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Humble exoskeletons work better than combat supersuits",
+    "url": "https://www.hindustantimes.com/science/humble-exoskeletons-work-better-than-combat-supersuits-101788424183422.html",
+    "source": "hindustantimes.com",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Spain : Tens of Thousands Rally over Ceuta Crisis",
+    "url": "https://en.tempo.co/read/2118891/spain-tens-of-thousands-rally-over-ceuta-crisis",
+    "source": "en.tempo.co",
     "theme": "press",
     "date": "2026-09-03T15:15:00+00:00",
     "countries": [
-     "GR"
+     "ES"
     ]
-   },
+   }
+  ],
+  "IT": [
    {
-    "title": "Calculated time",
-    "url": "https://www.sb.by/en/calculated-time.html",
-    "source": "sb.by",
+    "title": "6 Countries Where Homes Still Sell for Under $50 , 000",
+    "url": "https://travel.yahoo.com/guides/articles/6-countries-where-homes-still-212001885.html",
+    "source": "travel.yahoo.com",
     "theme": "press",
-    "date": "2026-09-03T14:30:00+00:00",
+    "date": "2026-09-03T22:30:00+00:00",
     "countries": [
-     "GR"
+     "IT"
     ]
    },
    {
-    "title": "Arab News | Luma AI CEO says Humain pact vital for next era of AI - powered storytelling",
-    "url": "https://www.arabnews.com/saudi-arabia/luma-ai-ceo-says-humain-pact-vital-for-next-era-of-ai-powered-storytelling-3000124",
-    "source": "arabnews.com",
+    "title": "Gas Line Near Endicott Huron Campus Damaged",
+    "url": "https://981thehawk.com/ixp/499/p/endicott-gas-line-damaged/",
+    "source": "981thehawk.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Gas Line Near Endicott Huron Campus Damaged",
+    "url": "https://991thewhale.com/ixp/499/p/endicott-gas-line-damaged/",
+    "source": "991thewhale.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "In the 70s , the Venice Film Festival Nearly Died . One Man Revived It .",
+    "url": "https://observer.com/2026/09/cinema-history-carlo-lizzani-saved-the-venice-film-festival/",
+    "source": "observer.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "John Legend , Chrissy Teigen 4 Kids Pose in Rare School Photo",
+    "url": "https://www.eonline.com/news/1435727/john-legend-chrissy-teigens-4-kids-pose-in-rare-school-photo",
+    "source": "eonline.com",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Top Genre Filmmakers of 2026 : From Curry Barker to Guillermo del Toro",
+    "url": "https://www.hollywoodreporter.com/lists/top-genre-filmmakers-2026-curry-barker-guillermo-del-toro/",
+    "source": "hollywoodreporter.com",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Netflix Just Dropped 8 More Episodes of a Popular Show & Officially Sealed Its Future",
+    "url": "https://gamerant.com/the-gentlemen-returns-netflix-season3-confirmed/",
+    "source": "gamerant.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
+  "PL": [
+   {
+    "title": "Ukraine hails India as",
+    "url": "http://www.russiaherald.com/news/279284394/ukraine-hails-india-as-global-superpower-welcomes-pm-modi-appeal-to-move-from-endless-war-to-end-of-war",
+    "source": "russiaherald.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Orlen - ORLEN forges new Baltic energy alliance",
+    "url": "https://www.euro-petrole.com/orlen-forges-new-baltic-energy-alliance-n-i-30586",
+    "source": "euro-petrole.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Ukraine hails India as global superpower , welcomes PM Modis appeal to move from endless war to end of war",
+    "url": "https://news.webindia123.com/news/Articles/World/20260903/4494340.html",
+    "source": "news.webindia123.com",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Faked Polling Numbers",
+    "url": "https://pjmedia.com/eric-florack/2026/09/03/faked-polling-numbers-n4956846",
+    "source": "pjmedia.com",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Mkango Resources Limited Announces Filing of Amended Form F - 4",
+    "url": "http://www.torontotelegraph.com/news/279283437/mkango-resources-limited-announces-filing-of-amended-form-f-4",
+    "source": "torontotelegraph.com",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Apple Lawsuit : Apple Faces $2 . 7 Billion Lawsuit Over Unfair App Tracking Rules , ETTelecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/mvas-apps/apple-facing-2-7-billion-uk-lawsuit-over-unfair-app-tracking-rules/133735040",
+    "source": "telecom.economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-03T15:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
+    "url": "http://www.rockymounttelegram.com/news/national/russia-will-close-german-cultural-centers-as-moscow-and-europe-spar-over-ukraine/article_20821878-f4ea-53ee-b4c5-8bd6f2c6f0d8.html",
+    "source": "rockymounttelegram.com",
     "theme": "press",
     "date": "2026-09-03T14:00:00+00:00",
     "countries": [
-     "GR"
+     "PL"
     ]
    },
    {
@@ -734,17 +1134,133 @@
     "theme": "press",
     "date": "2026-09-03T13:30:00+00:00",
     "countries": [
-     "GR"
+     "PL"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "Václav Bartuška : The revolution was too velvety | Radio Prague International",
+    "url": "https://english.radio.cz/vaclav-bartuska-revolution-was-too-velvety-8896348",
+    "source": "english.radio.cz",
+    "theme": "press",
+    "date": "2026-09-03T12:15:00+00:00",
+    "countries": [
+     "CZ"
     ]
    },
    {
-    "title": "The big rerating is coming – The cheap Greek stocks foreign capital will chase after the Stoxx upgrade",
-    "url": "https://www.bankingnews.gr/xrimatistirio/articles/897219/the-big-rerating-is-coming-the-cheap-greek-stocks-foreign-capital-will-chase-after-the-stoxx-upgrade",
-    "source": "bankingnews.gr",
+    "title": "What perspectives from Central and Eastern Europe can teach us about decolonising degrowth movements",
+    "url": "https://www.resilience.org/stories/2026-09-03/what-perspectives-from-central-and-eastern-europe-can-teach-us-about-decolonising-degrowth-movements/",
+    "source": "resilience.org",
     "theme": "press",
-    "date": "2026-09-03T13:00:00+00:00",
+    "date": "2026-09-03T10:15:00+00:00",
     "countries": [
-     "GR"
+     "CZ"
+    ]
+   },
+   {
+    "title": "Skoda Peaq Electric 7 - Seat SUV Goes 582 miles On One Charge",
+    "url": "https://www.motor1.com:443/news/806991/skoda-peaq-electric-7-seat/",
+    "source": "motor1.com",
+    "theme": "press",
+    "date": "2026-09-03T10:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   }
+  ],
+  "SK": [
+   {
+    "title": "Asia premier fashion event CENTRESTAGE officially kicks off – IT Business Net",
+    "url": "https://itbusinessnet.com/2026/09/asias-premier-fashion-event-centrestage-officially-kicks-off/",
+    "source": "itbusinessnet.com",
+    "theme": "press",
+    "date": "2026-09-03T09:15:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Hyundai Mobis Accelerates Electrification Push in Europe with Opening of New Plant in Slovakia",
+    "url": "http://www.prnewswire.com/news-releases/hyundai-mobis-accelerates-electrification-push-in-europe-with-opening-of-new-plant-in-slovakia-302868354.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-03T03:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Hyundai Mobis Accelerates Electrification Push in Europe with Opening of New Plant in Slovakia",
+    "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/pr-newswire/hyundai-mobis-accelerates-electrification-push-in-europe-with-opening-of-new-plant-in-slovakia/2417597",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-09-03T03:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Financial Contrast : Raiffeisen Bank International ( OTCMKTS : RAIFY ) vs . First Northwest Bancorp ( NASDAQ : FNWB )",
+    "url": "https://www.themarketsdaily.com/2026/09/03/financial-contrast-raiffeisen-bank-international-otcmktsraify-vs-first-northwest-bancorp-nasdaqfnwb.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-09-03T00:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "They backed Russia into the corner knowing what would happen",
+    "url": "https://www.sott.net/article/508208-They-backed-Russia-into-the-corner-knowing-what-would-happen",
+    "source": "sott.net",
+    "theme": "press",
+    "date": "2026-09-02T23:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "The MAGA Right Is Only Pretending to Be Censored",
+    "url": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/",
+    "source": "theatlantic.com",
+    "theme": "press",
+    "date": "2026-09-02T22:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Czech minister body exhumed to resolve doubts over 1948 death",
+    "url": "https://www.citizen.co.za/news/news-world/czech-ministers-body-exhumed-to-resolve-doubts-over-1948-death/",
+    "source": "citizen.co.za",
+    "theme": "press",
+    "date": "2026-09-02T16:15:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "I could outwork anybody – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/featured/2026/08/31/i-could-outwork-anybody",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-09-02T15:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Hungary Orbán - style media takeover playbook lands in Serbia before elections – EUobserver",
+    "url": "https://euobserver.com/234674/hungarys-orban-style-media-takeover-playbook-lands-in-serbia-before-elections/",
+    "source": "euobserver.com",
+    "theme": "press",
+    "date": "2026-09-03T12:45:00+00:00",
+    "countries": [
+     "HU"
     ]
    },
    {
@@ -754,35 +1270,125 @@
     "theme": "press",
     "date": "2026-09-03T12:45:00+00:00",
     "countries": [
-     "GR"
+     "HU"
     ]
    },
    {
-    "title": "Combination supplement shows promise for obesity , but individual roles unclear",
-    "url": "https://www.nutraingredients.com/Article/2026/09/03/combination-supplement-shows-promise-for-obesity-but-individual-roles-unclear/",
-    "source": "nutraingredients.com",
+    "title": "Aston Martin not planning additional upgrades for 2026",
+    "url": "https://www.sbnation.com/formula-one/1127076/aston-martin-f1-italian-grand-prix",
+    "source": "sbnation.com",
     "theme": "press",
     "date": "2026-09-03T12:45:00+00:00",
     "countries": [
-     "GR"
+     "HU"
     ]
    },
    {
-    "title": "Giorgia Meloni is Italy longest - serving postwar leader . Will that stability last ?",
-    "url": "https://www.cbc.ca/news/world/giorgia-meloni-italy-longest-pm-analysis-9.7329936",
-    "source": "cbc.ca",
+    "title": "World Premiere : Historic Jewels to be Unveiled to the Public at the Musée national des beaux - arts du Québec",
+    "url": "https://thestarphoenix.com/press-releases/pr-newswire/world-premiere-historic-jewels-to-be-unveiled-to-the-public-at-the-musee-national-des-beaux-arts-du-quebec/",
+    "source": "thestarphoenix.com",
     "theme": "press",
-    "date": "2026-09-03T10:15:00+00:00",
+    "date": "2026-09-03T10:45:00+00:00",
     "countries": [
-     "GR"
+     "HU"
+    ]
+   },
+   {
+    "title": "The threat to German democracy does not come from the AfD",
+    "url": "https://www.spiked-online.com/2026/09/03/the-threat-to-german-democracy-does-not-come-from-the-afd/",
+    "source": "spiked-online.com",
+    "theme": "press",
+    "date": "2026-09-03T09:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "McLaren bring new low - drag rear wing and H - Wing for Italian Grand Prix at Monza",
+    "url": "https://www.grandprix247.com/formula-1-news/mclaren-bring-new-low-drag-rear-wing-and-h-wing-for-italian-grand-prix-at-monza",
+    "source": "grandprix247.com",
+    "theme": "press",
+    "date": "2026-09-03T07:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "The Search For Noah Ark",
+    "url": "https://afr.net/podcasts/todays-issues-with-tim-wildmon-and-company/2026/september/the-search-for-noahs-ark/",
+    "source": "afr.net",
+    "theme": "press",
+    "date": "2026-09-03T05:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Disaster Communication Network : India to Launch Public Protection and Disaster Relief Network in October 2023 , ETTelecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/policy/public-protection-disaster-relief-network-pilot-from-oct-deployment-by-2027-mha-official/133723358",
+    "source": "telecom.economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-03T05:45:00+00:00",
+    "countries": [
+     "HU"
     ]
    }
   ],
   "NO": [
    {
+    "title": "Russia Demands Immediate Release of Ship Seized by Norway",
+    "url": "https://www.kyivpost.com/post/83707",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-03T23:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Norway seizes Russian ship at Svalbard",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/03/norway-russian-ship-seized-svalbard/7501788471447/",
+    "source": "upi.com",
+    "theme": "press",
+    "date": "2026-09-03T22:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Norway seizes Russian ship at Svalbard",
+    "url": "https://www.yahoo.com/news/world/articles/norway-seizes-russian-ship-svalbard-214755486.html",
+    "source": "yahoo.com",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Norway seizes Russian vessel to enforce $4 . 22 bil Ukrainian arbitration claim",
+    "url": "https://japantoday.com/category/world/norway-seizes-russian-vessel-to-enforce-4.22b-ukrainian-arbitration-claim",
+    "source": "japantoday.com",
+    "theme": "press",
+    "date": "2026-09-03T22:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
     "title": "Sam Altman Sees Unsustainable Silliness in AI Compute Spending . These Are the Stocks Traders Are Watching .",
     "url": "https://www.aol.com/articles/sam-altman-sees-unsustainable-silliness-153539000.html",
     "source": "aol.com",
+    "theme": "press",
+    "date": "2026-09-03T16:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "WW3 fears explode as Russian sabotage plan exposed by NATO | World | News",
+    "url": "https://www.express.co.uk/news/world/2245295/ww3-fears-explode-russian-sabotage-vladimir-putin",
+    "source": "express.co.uk",
     "theme": "press",
     "date": "2026-09-03T16:15:00+00:00",
     "countries": [
@@ -798,79 +1404,9 @@
     "countries": [
      "NO"
     ]
-   },
-   {
-    "title": "Orlen - ORLEN forges new Baltic energy alliance",
-    "url": "https://www.euro-petrole.com/orlen-forges-new-baltic-energy-alliance-n-i-30586",
-    "source": "euro-petrole.com",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Norway and Taiwan join forces to develop floating offshore wind - Global Construction Review",
-    "url": "https://www.globalconstructionreview.com/norway-and-taiwan-join-forces-to-develop-floating-offshore-wind/",
-    "source": "globalconstructionreview.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Empire State Plaza Looking For This Years Christmas Tree",
-    "url": "https://961theeagle.com/ixp/39/p/christmas-tree-search-new-york-albany/",
-    "source": "961theeagle.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Pages from the Past : Sept . 2 , 2026 - Church centennial , half ton of beef and burglary",
-    "url": "https://www.pineandlakes.com/community/pages-from-the-past-sept-2-2026-church-centennial-half-ton-of-beef-and-burglary",
-    "source": "pineandlakes.com",
-    "theme": "press",
-    "date": "2026-09-03T15:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "What if the AI boom never turns a profit ?",
-    "url": "https://www.marketplace.org/episode/2026/09/03/what-if-the-ai-boom-never-turns-a-profit",
-    "source": "marketplace.org",
-    "theme": "press",
-    "date": "2026-09-03T14:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian ship seized to enforce $4 . 2b compensation claim",
-    "url": "https://www.naroomanewsonline.com.au/story/9343528/russian-ship-seized-to-enforce-42b-compensation-claim/",
-    "source": "naroomanewsonline.com.au",
-    "theme": "press",
-    "date": "2026-09-03T14:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
    }
   ],
   "SE": [
-   {
-    "title": "Ford Wants To Somehow Sell 100 , 000 Ford Fathom EVs In Its First Year",
-    "url": "https://www.jalopnik.com/2250302/ford-wants-seel-100-000-fathom-evs-first-year/",
-    "source": "jalopnik.com",
-    "theme": "press",
-    "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
    {
     "title": "Studsvik Selects GE Vernova Hitachi , Samsung C & T for 1 . 2 - GW Swedish BWRX - 300 Project",
     "url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
@@ -887,16 +1423,6 @@
     "source": "news.tuoitre.vn",
     "theme": "press",
     "date": "2026-09-03T15:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Faked Polling Numbers",
-    "url": "https://pjmedia.com/eric-florack/2026/09/03/faked-polling-numbers-n4956846",
-    "source": "pjmedia.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
     "countries": [
      "SE"
     ]
@@ -932,127 +1458,249 @@
     ]
    }
   ],
-  "DK": [
+  "SI": [
    {
-    "title": "Denmark warns of Russian sabotage - Taipei Times",
-    "url": "https://www.taipeitimes.com/News/world/archives/2026/09/04/2003863678",
-    "source": "taipeitimes.com",
-    "theme": "press",
-    "date": "2026-09-03T16:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Innovation , lifestyle redraw global perceptions of China",
-    "url": "http://www.mexicostar.com/news/279283439/innovation-lifestyle-redraw-global-perceptions-of-china",
-    "source": "mexicostar.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Humble exoskeletons work better than combat supersuits",
-    "url": "https://www.hindustantimes.com/science/humble-exoskeletons-work-better-than-combat-supersuits-101788424183422.html",
-    "source": "hindustantimes.com",
-    "theme": "press",
-    "date": "2026-09-03T15:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Zalando at the Copenhagen Half - Marathon",
-    "url": "https://www.highsnobiety.com/p/zalando-run-like-a-local-copenhagen/",
-    "source": "highsnobiety.com",
-    "theme": "press",
-    "date": "2026-09-03T15:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "The ONLY Fit : ONLY India New Denim Collaboration with Smriti Mandhana",
-    "url": "https://news.webindia123.com/news/Articles/Business/20260903/4494312.html",
-    "source": "news.webindia123.com",
-    "theme": "press",
-    "date": "2026-09-03T14:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
-    "url": "http://www.rockymounttelegram.com/news/national/russia-will-close-german-cultural-centers-as-moscow-and-europe-spar-over-ukraine/article_20821878-f4ea-53ee-b4c5-8bd6f2c6f0d8.html",
-    "source": "rockymounttelegram.com",
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.hongkongherald.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "hongkongherald.com",
     "theme": "press",
     "date": "2026-09-03T14:00:00+00:00",
     "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "Experts : Productivity , Not GDP Rankings , Will Define Kazakhstan as GDP Nears $469 Billion",
-    "url": "https://astanatimes.com/2026/09/experts-productivity-not-gdp-rankings-will-define-kazakhstan-as-gdp-nears-469-billion/",
-    "source": "astanatimes.com",
-    "theme": "press",
-    "date": "2026-09-03T13:30:00+00:00",
-    "countries": [
-     "FI"
+     "SI"
     ]
    },
    {
-    "title": "Russia to close Germany cultural centers amid tension",
-    "url": "https://nypost.com/2026/09/03/world-news/russia-to-close-germanys-cultural-centers-amid-tension/",
-    "source": "nypost.com",
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.kenyastar.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "kenyastar.com",
     "theme": "press",
-    "date": "2026-09-03T13:30:00+00:00",
+    "date": "2026-09-03T14:00:00+00:00",
     "countries": [
-     "FI"
+     "SI"
     ]
    },
    {
-    "title": "Russia will close German cultural centers as Moscow and Europe spar over Ukraine",
-    "url": "https://www.inquirer.com/news/nation-world/russia-germany-cultural-centers-closed-ukraine-20260903.html",
-    "source": "inquirer.com",
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.chinanationalnews.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "chinanationalnews.com",
+    "theme": "press",
+    "date": "2026-09-03T14:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.azerbaijannews.net/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "azerbaijannews.net",
+    "theme": "press",
+    "date": "2026-09-03T13:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.jamaicantimes.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "jamaicantimes.com",
+    "theme": "press",
+    "date": "2026-09-03T13:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.africaleader.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "africaleader.com",
+    "theme": "press",
+    "date": "2026-09-03T13:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.trinidadtimes.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "trinidadtimes.com",
     "theme": "press",
     "date": "2026-09-03T12:45:00+00:00",
     "countries": [
-     "FI"
+     "SI"
     ]
    },
    {
-    "title": "ERC Grants Awarded to Five Helsinki University Scholars",
-    "url": "https://www.miragenews.com/erc-grants-awarded-to-five-helsinki-university-1738229/",
+    "title": "Iran Claims Attacks On US Bases In Kuwait , UAE",
+    "url": "http://www.newyorktelegraph.com/news/279283322/iran-claims-attacks-on-us-bases-in-kuwait-uae",
+    "source": "newyorktelegraph.com",
+    "theme": "press",
+    "date": "2026-09-03T12:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "FAO Urges Systemic Action for Rural Generational Renewal",
+    "url": "https://www.miragenews.com/fao-urges-systemic-action-for-rural-1738597/",
     "source": "miragenews.com",
     "theme": "press",
-    "date": "2026-09-03T10:45:00+00:00",
+    "date": "2026-09-03T22:15:00+00:00",
     "countries": [
-     "FI"
+     "HR"
     ]
    },
    {
-    "title": "François Arnaud Shares There More Skip in Heated Rivalry S2",
-    "url": "https://instinctmagazine.com/francois-arnaud-leather-daddy/",
-    "source": "instinctmagazine.com",
+    "title": "Croatia Industrial Output Growth Hits 8 - month High",
+    "url": "https://www.rttnews.com/story.aspx?Id=3688329",
+    "source": "rttnews.com",
     "theme": "press",
-    "date": "2026-09-03T10:45:00+00:00",
+    "date": "2026-09-03T15:30:00+00:00",
     "countries": [
-     "FI"
+     "HR"
     ]
    },
    {
-    "title": "With a wary eye on Russia , Finland runs Europe largest civil defense exercise since WWII",
-    "url": "http://www.sitkasentinel.com/stories/with-a-wary-eye-on-russia-finland-runs-europes-largest-civil-defense-exercise-since-wwii,168129",
-    "source": "sitkasentinel.com",
+    "title": "Ready for Take - off : Air Canada Expands Global Reach with New Routes and Flights to Asia , Europe and Latin America",
+    "url": "https://leaderpost.com/press-releases/globe-newswire/ready-for-take-off-air-canada-expands-global-reach-with-new-routes-and-flights-to-asia-europe-and-latin-america/",
+    "source": "leaderpost.com",
     "theme": "press",
-    "date": "2026-09-03T10:15:00+00:00",
+    "date": "2026-09-03T13:30:00+00:00",
     "countries": [
-     "FI"
+     "HR"
+    ]
+   },
+   {
+    "title": "The Next Climate Challenge Is Not Setting Targets . It Is Financing Them .",
+    "url": "https://www.hurriyetdailynews.com/the-next-climate-challenge-is-not-setting-targets-it-is-financing-them-226388",
+    "source": "hurriyetdailynews.com",
+    "theme": "press",
+    "date": "2026-09-03T09:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Wike Says He Asked Adeleke To Reaffirm Support For Tinubu After Osun Election Victory",
+    "url": "https://naija247news.com/wike-says-he-asked-adeleke-to-reaffirm-support-for-tinubu-after-osun-election-victory/",
+    "source": "naija247news.com",
+    "theme": "press",
+    "date": "2026-09-03T06:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Toronto and province won big at World Cup : Report",
+    "url": "https://torontosun.com/news/toronto-province-won-big-world-cup-report",
+    "source": "torontosun.com",
+    "theme": "press",
+    "date": "2026-09-02T21:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Leipzig airport attack fallout lays bare Germany polarisation on Russia",
+    "url": "https://www.aol.co.uk/articles/leipzig-airport-attack-fallout-lays-170721000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-09-02T17:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Stephen Loman Assembles Elite Corner For BRAVE CF 108 Campaign",
+    "url": "https://journal.com.ph/stephen-loman-assembles-elite-corner-for-brave-cf-108-campaign/",
+    "source": "journal.com.ph",
+    "theme": "press",
+    "date": "2026-09-02T16:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Quectel Expands RG660Qx 5G Module Capabilities for Future Railway Mobile Communication System Evaluation and Railway Applications",
+    "url": "https://www.owensoundsuntimes.com/press-releases/business-wire/quectel-expands-rg660qx-5g-module-capabilities-for-future-railway-mobile-communication-system-evaluation-and-railway-applications/",
+    "source": "owensoundsuntimes.com",
+    "theme": "press",
+    "date": "2026-09-03T09:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Quectel Expands RG660Qx 5G Module Capabilities for Future Railway Mobile Communication System Evaluation and Railway Applications",
+    "url": "https://www.recorder.ca/press-releases/business-wire/quectel-expands-rg660qx-5g-module-capabilities-for-future-railway-mobile-communication-system-evaluation-and-railway-applications/",
+    "source": "recorder.ca",
+    "theme": "press",
+    "date": "2026-09-03T09:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "German government provokes escalation of Ukraine war",
+    "url": "https://www.wsws.org/en/articles/2026/09/03/iglm-s03.html",
+    "source": "wsws.org",
+    "theme": "press",
+    "date": "2026-09-03T07:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Spanish Airbus indefinite strike continues - Workers Revolutionary Party",
+    "url": "https://wrp.org.uk/features/spanish-airbus-indefinite-strike-continues/",
+    "source": "wrp.org.uk",
+    "theme": "press",
+    "date": "2026-09-03T03:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "India : Tariq Ali Plan for Pakistan – Standpoint Magazine",
+    "url": "https://www.standpointmag.co.uk/2026/09/02/dispatches-april-09-tariq-ali-pakistan/",
+    "source": "standpointmag.co.uk",
+    "theme": "press",
+    "date": "2026-09-02T22:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Civil Society Donors Should Heed the Risks of FATF Grey List - Induced Panic",
+    "url": "https://www.justsecurity.org/150151/africa-fatf-civic-impact/",
+    "source": "justsecurity.org",
+    "theme": "press",
+    "date": "2026-09-02T15:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Caryn Dolley : The unbearable weight of the untouchables",
+    "url": "https://www.dailymaverick.co.za/article/2026-09-02-caryn-dolley-the-unbearable-weight-of-the-untouchables/",
+    "source": "dailymaverick.co.za",
+    "theme": "press",
+    "date": "2026-09-02T13:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Why a sovereign rating is not the last word on a nation creditworthiness",
+    "url": "https://www.livemint.com/economy/sovereign-credit-ratings-india-rating-bias-careedge-fitch-s-p-global-11788339860235.html",
+    "source": "livemint.com",
+    "theme": "press",
+    "date": "2026-09-02T13:00:00+00:00",
+    "countries": [
+     "RS"
     ]
    }
   ]
@@ -1115,21 +1763,13 @@
   }
  },
  "errors": [
-  "gdelt/NL: HTTPError",
-  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/LT: HTTPError"
  ]
 }

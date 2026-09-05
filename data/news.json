@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-05T08:26:27+00:00",
+ "generated": "2026-09-05T12:30:09+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T08:26:27+00:00",
+   "date": "2026-09-05T12:30:09+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T08:26:27+00:00",
+   "date": "2026-09-05T12:30:09+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T08:26:27+00:00",
+   "date": "2026-09-05T12:30:09+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T08:26:27+00:00",
+   "date": "2026-09-05T12:30:09+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T08:26:27+00:00",
+    "date": "2026-09-05T12:30:09+00:00",
     "countries": [
      "RO"
     ]
@@ -228,19 +228,49 @@
     "countries": [
      "GB"
     ]
-   },
-   {
-    "title": "Energy security boost as National Gas announces £55 million investment in Aberdeen",
-    "url": "https://www.nationalgas.com/media/news/energy-security-boost-national-gas-announces-ps55-million-investment-aberdeen",
-    "source": "National Gas",
-    "theme": "grid",
-    "date": "2026-08-26T08:45:30+00:00",
-    "countries": [
-     "GB"
-    ]
    }
   ],
-  "GR": [
+  "BG": [
+   {
+    "title": "Greece , Spain and Italy oppose Von der Leyen curbs on Russian entry into EU",
+    "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/897552/greece-spain-and-italy-oppose-von-der-leyen-curbs-on-russian-entry-into-eu",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Best VPS Hosting ( 2026 ): Virterion Recognized for Performance , Reliability , and Scalability by Expert Consumers",
+    "url": "http://www.prnewswire.com/news-releases/best-vps-hosting-2026-virterion-recognized-for-performance-reliability-and-scalability-by-expert-consumers-302870035.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Greece , Spain and Italy oppose Von der Leyen curbs on Russian entry into EU",
+    "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/897552/greece-spain-and-italy-oppose-von-der-leyen-curbs-on-russian-entry-into-eu%20title=",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Best VPS Hosting ( 2026 ): Virterion Recognized for Performance , Reliability , and Scalability by Expert Consumers",
+    "url": "https://www.prnewswire.com/news-releases/best-vps-hosting-2026-virterion-recognized-for-performance-reliability-and-scalability-by-expert-consumers-302870035.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-05T11:15:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
    {
     "title": "North Macedonia gas link to Greece to open access to LNG and Azerbaijani Gas",
     "url": "https://www.azernews.az/oil_and_gas/263424.html",
@@ -248,27 +278,89 @@
     "theme": "press",
     "date": "2026-09-05T08:00:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "Liberia Elevates Diplomatic Standing as August E10 UN Security Council Coordinator",
-    "url": "https://frontpageafricaonline.com/liberia-elevates-diplomatic-standing-as-august-e10-un-security-council-coordinator/",
-    "source": "frontpageafricaonline.com",
+    "title": "Spectrum Misses Again as Isar Goes Silent : Six Days , Three Contracts , No Orbit Yet",
+    "url": "https://www.techtimes.com/articles/326735/20260904/spectrum-misses-again-isar-goes-silent-six-days-three-contracts-no-orbit-yet.htm",
+    "source": "techtimes.com",
     "theme": "press",
-    "date": "2026-09-05T07:15:00+00:00",
+    "date": "2026-09-05T00:30:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "Liberia Champions Key Discussions on Preventive Diplomacy and a Robust E10 Voice at the 9th E10 & I5 Annual Dialogue in Panama",
-    "url": "https://frontpageafricaonline.com/liberia-champions-key-discussions-on-preventive-diplomacy-and-a-robust-e10-voice-at-the-9th-e10-i5-annual-dialogue-in-panama/",
-    "source": "frontpageafricaonline.com",
+    "title": "Bulgaria Producer Prices Rise 12 . 5 % Year - on - Year - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=240448",
+    "source": "novinite.com",
     "theme": "press",
-    "date": "2026-09-05T07:15:00+00:00",
+    "date": "2026-09-04T23:30:00+00:00",
     "countries": [
-     "GR"
+     "BG"
+    ]
+   },
+   {
+    "title": "Sofia Begins Countdown to EuroVolley 2026 - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=240477",
+    "source": "novinite.com",
+    "theme": "press",
+    "date": "2026-09-04T23:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Budrys : Lithuania strongly supports Moldova EU membership",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260904-lithuania-mfa01.htm",
+    "source": "globalsecurity.org",
+    "theme": "press",
+    "date": "2026-09-05T12:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "UN backs effort to drop Mercator map and show size of Africa more accurately",
+    "url": "https://www.aol.co.uk/articles/un-backs-effort-drop-mercator-104103000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-09-05T11:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "NB8 Nations Secure $1B for Ukraine Winter Energy Needs",
+    "url": "https://www.kyivpost.com/post/83815",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-05T09:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "UN tells the world : Stop making Africa look small",
+    "url": "https://www.globalissues.org/news/2026/09/04/43974",
+    "source": "globalissues.org",
+    "theme": "press",
+    "date": "2026-09-05T09:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Age of conscription amid new escalation and fears of World War Three",
+    "url": "https://www.getsurrey.co.uk/news/uk-world-news/age-conscription-amid-new-escalation-34569921",
+    "source": "getsurrey.co.uk",
+    "theme": "press",
+    "date": "2026-09-05T09:00:00+00:00",
+    "countries": [
+     "LT"
     ]
    },
    {
@@ -278,47 +370,171 @@
     "theme": "press",
     "date": "2026-09-05T06:45:00+00:00",
     "countries": [
-     "GR"
+     "LT"
     ]
    },
    {
-    "title": "Overnight News Digest : Hot enough for you ?",
-    "url": "https://www.dailykos.com/stories/2026/9/4/800094253/community/overnight-news-digest-hot-enough-for-you/",
-    "source": "dailykos.com",
+    "title": "Lithuanian comedians take stage at Edinburgh Fringe : Here you are naked",
+    "url": "https://www.lrt.lt/en/news-in-english/19/3042171/lithuanian-comedians-take-stage-at-edinburgh-fringe-here-you-are-naked",
+    "source": "lrt.lt",
     "theme": "press",
-    "date": "2026-09-05T05:30:00+00:00",
+    "date": "2026-09-05T06:30:00+00:00",
     "countries": [
-     "GR"
+     "LT"
     ]
    },
    {
-    "title": "The 26 factor : Nepal floods add to deadly trail of disasters that struck on 26th",
-    "url": "https://www.hindustantimes.com/ht-explainers/the-26-factor-nepal-floods-add-to-deadly-trail-of-disasters-that-struck-on-26th-101788581601053.html",
-    "source": "hindustantimes.com",
+    "title": "Who really benefits from the CIA chief Moscow trip ?",
+    "url": "http://www.europesun.com/news/279286984/who-really-benefits-from-the-cia-chief-moscow-trip",
+    "source": "europesun.com",
     "theme": "press",
-    "date": "2026-09-05T05:30:00+00:00",
+    "date": "2026-09-05T02:00:00+00:00",
     "countries": [
-     "GR"
+     "LT"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Local couple take trip from the Alps to Auschwitz",
+    "url": "https://www.dglobe.com/news/local/local-couple-take-trip-from-the-alps-to-auschwitz",
+    "source": "dglobe.com",
+    "theme": "press",
+    "date": "2026-09-04T22:30:00+00:00",
+    "countries": [
+     "HR"
     ]
    },
    {
-    "title": "Sebastian Barry : My mother was interesting , extravagant . It was difficult to be a child of such a person – The Irish Times",
-    "url": "https://www.irishtimes.com/culture/books/2026/09/05/sebastian-barry-my-mother-was-interesting-extravagant-it-was-difficult-to-be-a-child-of-such-a-person/",
-    "source": "irishtimes.com",
+    "title": "Senior EU officials retierate need for new Europe - wide taxes",
+    "url": "https://www.euronews.com/my-europe/2026/09/04/senior-eu-officials-retierate-need-for-new-europe-wide-taxes-in-next-budget",
+    "source": "euronews.com",
     "theme": "press",
-    "date": "2026-09-05T05:15:00+00:00",
+    "date": "2026-09-04T18:45:00+00:00",
     "countries": [
-     "GR"
+     "HR"
     ]
    },
    {
-    "title": "Olympic swimmer , silver medalist Maritza McClendon joins Chicago River Swim Sept . 20 in the fight against ALS",
-    "url": "https://abc7chicago.com/post/olympic-swimmer-silver-medalist-maritza-mcclendon-joins-chicago-river-swim-sept-20-fight-als/19792775/",
-    "source": "abc7chicago.com",
+    "title": "Ottawa pledges $11 . 6M for Saskatoon businesses , highlights mining role in Canada future | 620 CKRM - The Voice of Saskatchewan",
+    "url": "https://www.620ckrm.com/2026/09/04/ottawa-pledges-11-6m-for-saskatoon-businesses-highlights-minings-role-in-canadas-future/",
+    "source": "620ckrm.com",
     "theme": "press",
-    "date": "2026-09-05T04:00:00+00:00",
+    "date": "2026-09-04T16:45:00+00:00",
     "countries": [
-     "GR"
+     "HR"
+    ]
+   },
+   {
+    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
+    "url": "http://www.kenyastar.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
+    "source": "kenyastar.com",
+    "theme": "press",
+    "date": "2026-09-04T09:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
+    "url": "http://www.newyorkstatesman.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
+    "source": "newyorkstatesman.com",
+    "theme": "press",
+    "date": "2026-09-04T09:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
+    "url": "http://www.austinglobe.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
+    "source": "austinglobe.com",
+    "theme": "press",
+    "date": "2026-09-04T08:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Ukraine wins three European science - fiction , fantasy awards – The Ukrainian Weekly",
+    "url": "https://subscription.ukrweekly.com/ukraine-wins-three-european-science-fiction-fantasy-awards/",
+    "source": "subscription.ukrweekly.com",
+    "theme": "press",
+    "date": "2026-09-04T08:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
+    "url": "http://www.middleeaststar.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
+    "source": "middleeaststar.com",
+    "theme": "press",
+    "date": "2026-09-04T08:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "America Superpower Isnt Military Might , It Economics | Opinion",
+    "url": "https://www.newsweek.com/americas-superpower-isnt-military-might-its-economics-opinion-12394392",
+    "source": "newsweek.com",
+    "theme": "press",
+    "date": "2026-09-05T09:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Ratko Mladic : Bosnian Serb commander to convicted war criminal",
+    "url": "https://www.justiceinfo.net/en/164624-ratko-mladic-bosnian-serb-commander-to-convicted-war-criminal.html",
+    "source": "justiceinfo.net",
+    "theme": "press",
+    "date": "2026-09-05T07:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Denmark to introduce new immigration pathway in 2027 for foreign workers , India among eligible countries",
+    "url": "https://economictimes.indiatimes.com/nri/work/denmark-to-introduce-new-immigration-pathway-in-2027-for-foreign-workers-india-among-eligible-countries/articleshow/133790060.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-05T06:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "UN tells the world : Stop making Africa look small",
+    "url": "http://www.irishsun.com/news/279286983/un-tells-the-world-stop-making-africa-look-small",
+    "source": "irishsun.com",
+    "theme": "press",
+    "date": "2026-09-05T02:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "China Launches 30 - Satellite Lunar Safety Net to Guard Moon Crews from Solar Storms",
+    "url": "https://www.techtimes.com/articles/326732/20260904/china-launches-30-satellite-lunar-safety-net-guard-moon-crews-solar-storms.htm",
+    "source": "techtimes.com",
+    "theme": "press",
+    "date": "2026-09-05T00:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "UN Urges World : Stop Undermining Africa Significance",
+    "url": "https://www.miragenews.com/un-urges-world-stop-undermining-africas-1739240/",
+    "source": "miragenews.com",
+    "theme": "press",
+    "date": "2026-09-04T20:30:00+00:00",
+    "countries": [
+     "RS"
     ]
    }
   ]
@@ -389,25 +605,22 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/BG: HTTPError",
+  "gdelt/ES: URLError",
+  "gdelt/PT: URLError",
+  "gdelt/IT: URLError",
+  "gdelt/PL: URLError",
+  "gdelt/CZ: URLError",
+  "gdelt/SK: URLError",
+  "gdelt/HU: URLError",
+  "gdelt/RO: URLError",
+  "gdelt/GR: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-05T04:26:25+00:00",
+ "generated": "2026-09-05T08:26:27+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T04:26:25+00:00",
+   "date": "2026-09-05T08:26:27+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T04:26:25+00:00",
+   "date": "2026-09-05T08:26:27+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T04:26:25+00:00",
+   "date": "2026-09-05T08:26:27+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T04:26:25+00:00",
+   "date": "2026-09-05T08:26:27+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T04:26:25+00:00",
+    "date": "2026-09-05T08:26:27+00:00",
     "countries": [
      "RO"
     ]
@@ -240,413 +240,85 @@
     ]
    }
   ],
-  "BG": [
+  "GR": [
    {
-    "title": "Spectrum Misses Again as Isar Goes Silent : Six Days , Three Contracts , No Orbit Yet",
-    "url": "https://www.techtimes.com/articles/326735/20260904/spectrum-misses-again-isar-goes-silent-six-days-three-contracts-no-orbit-yet.htm",
-    "source": "techtimes.com",
+    "title": "North Macedonia gas link to Greece to open access to LNG and Azerbaijani Gas",
+    "url": "https://www.azernews.az/oil_and_gas/263424.html",
+    "source": "azernews.az",
     "theme": "press",
-    "date": "2026-09-05T00:30:00+00:00",
+    "date": "2026-09-05T08:00:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Bulgaria Producer Prices Rise 12 . 5 % Year - on - Year - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240448",
-    "source": "novinite.com",
+    "title": "Liberia Elevates Diplomatic Standing as August E10 UN Security Council Coordinator",
+    "url": "https://frontpageafricaonline.com/liberia-elevates-diplomatic-standing-as-august-e10-un-security-council-coordinator/",
+    "source": "frontpageafricaonline.com",
     "theme": "press",
-    "date": "2026-09-04T23:30:00+00:00",
+    "date": "2026-09-05T07:15:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Sofia Begins Countdown to EuroVolley 2026 - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240477",
-    "source": "novinite.com",
+    "title": "Liberia Champions Key Discussions on Preventive Diplomacy and a Robust E10 Voice at the 9th E10 & I5 Annual Dialogue in Panama",
+    "url": "https://frontpageafricaonline.com/liberia-champions-key-discussions-on-preventive-diplomacy-and-a-robust-e10-voice-at-the-9th-e10-i5-annual-dialogue-in-panama/",
+    "source": "frontpageafricaonline.com",
     "theme": "press",
-    "date": "2026-09-04T23:30:00+00:00",
+    "date": "2026-09-05T07:15:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Three Bulgarians Detained in Munich Amid Russian Sabotage Probe - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240457",
-    "source": "novinite.com",
+    "title": "Age of conscription amid new escalation and fears of World War Three",
+    "url": "https://www.belfastlive.co.uk/news/uk-world-news/age-conscription-amid-new-escalation-34569921",
+    "source": "belfastlive.co.uk",
     "theme": "press",
-    "date": "2026-09-04T23:30:00+00:00",
+    "date": "2026-09-05T06:45:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Radev Says Bulgaria Cannot Unilaterally Lift Russian Oil Sanctions - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240470",
-    "source": "novinite.com",
+    "title": "Overnight News Digest : Hot enough for you ?",
+    "url": "https://www.dailykos.com/stories/2026/9/4/800094253/community/overnight-news-digest-hot-enough-for-you/",
+    "source": "dailykos.com",
     "theme": "press",
-    "date": "2026-09-04T23:30:00+00:00",
+    "date": "2026-09-05T05:30:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "The EU wanted a green revolution . It may get a rust belt instead",
-    "url": "https://www.sott.net/article/508246-The-EU-wanted-a-green-revolution-It-may-get-a-rust-belt-instead",
-    "source": "sott.net",
+    "title": "The 26 factor : Nepal floods add to deadly trail of disasters that struck on 26th",
+    "url": "https://www.hindustantimes.com/ht-explainers/the-26-factor-nepal-floods-add-to-deadly-trail-of-disasters-that-struck-on-26th-101788581601053.html",
+    "source": "hindustantimes.com",
     "theme": "press",
-    "date": "2026-09-04T23:00:00+00:00",
+    "date": "2026-09-05T05:30:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Deadline",
-    "url": "https://deadline.com/print-article/1237068285/",
-    "source": "deadline.com",
+    "title": "Sebastian Barry : My mother was interesting , extravagant . It was difficult to be a child of such a person – The Irish Times",
+    "url": "https://www.irishtimes.com/culture/books/2026/09/05/sebastian-barry-my-mother-was-interesting-extravagant-it-was-difficult-to-be-a-child-of-such-a-person/",
+    "source": "irishtimes.com",
     "theme": "press",
-    "date": "2026-09-04T22:45:00+00:00",
+    "date": "2026-09-05T05:15:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Mark Leonard – European Security in a Post - American Order • Stimson Center",
-    "url": "https://www.stimson.org/2026/mark-leonard-european-security-in-a-post-american-order/",
-    "source": "stimson.org",
+    "title": "Olympic swimmer , silver medalist Maritza McClendon joins Chicago River Swim Sept . 20 in the fight against ALS",
+    "url": "https://abc7chicago.com/post/olympic-swimmer-silver-medalist-maritza-mcclendon-joins-chicago-river-swim-sept-20-fight-als/19792775/",
+    "source": "abc7chicago.com",
     "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
+    "date": "2026-09-05T04:00:00+00:00",
     "countries": [
-     "BG"
-    ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "Opponents Seek Emergency Order to Stop Trump Arch",
-    "url": "https://www.theepochtimes.com/us/opponents-seek-emergency-order-to-stop-trumps-arch-6083640",
-    "source": "theepochtimes.com",
-    "theme": "press",
-    "date": "2026-09-05T03:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Wall Street indecisive after gold price rollercoaster ride , Main Street clings to bullish majority as CPI takes center stage",
-    "url": "http://www.kitco.com/news/article/2026-09-04/wall-street-indecisive-after-gold-price-rollercoaster-ride-main-street",
-    "source": "kitco.com",
-    "theme": "press",
-    "date": "2026-09-05T02:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Trump says MAGA Inc . will spend up to $500M in House , Senate elections",
-    "url": "https://www.yahoo.com/news/politics/articles/trump-says-maga-inc-spend-194427871.html",
-    "source": "yahoo.com",
-    "theme": "press",
-    "date": "2026-09-05T02:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
-    "url": "https://www.theadvocate.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
-    "source": "theadvocate.com.au",
-    "theme": "press",
-    "date": "2026-09-05T01:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "As glaciers melt near mountains , risks multiply and Canada isnt prepared , scientists warn",
-    "url": "https://www.theglobeandmail.com/canada/article-himalayan-glaciers-nepal-climate-crisis-canada/",
-    "source": "theglobeandmail.com",
-    "theme": "press",
-    "date": "2026-09-05T01:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Politics Insider : PQ Leader cries foul about Carney involvement",
-    "url": "https://www.theglobeandmail.com/politics/article-politics-insider-pq-leader-cries-foul-about-carneys-involvement/",
-    "source": "theglobeandmail.com",
-    "theme": "press",
-    "date": "2026-09-05T01:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
-    "url": "https://www.sconeadvocate.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
-    "source": "sconeadvocate.com.au",
-    "theme": "press",
-    "date": "2026-09-05T01:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
-    "url": "https://www.maitlandmercury.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
-    "source": "maitlandmercury.com.au",
-    "theme": "press",
-    "date": "2026-09-05T01:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "SE": [
-   {
-    "title": "GreenNet celebrates 40 years : A pioneering internet service provider still building digital communications for everyone , everywhere",
-    "url": "https://www.apc.org/en/news/greennet-celebrates-40-years-pioneering-internet-service-provider-still-building-digital",
-    "source": "apc.org",
-    "theme": "press",
-    "date": "2026-09-05T02:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Caesarstone Premium Multi - Material & Differentiated Model Proposition – Initiation Report",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/caesarstone-premium-multi-material-differentiated-205526725.html",
-    "source": "finance.yahoo.com",
-    "theme": "press",
-    "date": "2026-09-05T02:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Column : Where is your happy place ? Maybe it Slovenia – The Virginian - Pilot",
-    "url": "https://www.pilotonline.com/2026/09/04/column-where-is-your-happy-place-maybe-its-slovenia/",
-    "source": "pilotonline.com",
-    "theme": "press",
-    "date": "2026-09-04T23:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Algonquin Power & Utilities ( NYSE : AQN ) and E . On ( OTCMKTS : EONGY ) Head to Head Contrast",
-    "url": "https://www.dailypolitical.com/2026/09/04/algonquin-power-utilities-nyseaqn-and-e-on-otcmktseongy-head-to-head-contrast.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-09-04T22:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Huskers Travel to Texas for Fall Opener",
-    "url": "https://huskers.com/news/2026/09/4/huskers-travel-to-texas-for-fall-opener",
-    "source": "huskers.com",
-    "theme": "press",
-    "date": "2026-09-04T22:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Finland stages Europe biggest defence drills since WW2",
-    "url": "https://www.the-sun.com/news/16946442/",
-    "source": "the-sun.com",
-    "theme": "press",
-    "date": "2026-09-04T21:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Folk Artist Irish Millie Releases New Album Can You See Me ? Featuring Single Boy At My Funeral",
-    "url": "https://cashboxcanada.ca/reviews-album/folk-artist-irish-millie-releases-new-album-can-you-see-me-featuring-single-boy-my",
-    "source": "cashboxcanada.ca",
-    "theme": "press",
-    "date": "2026-09-04T21:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Chisago County Press",
-    "url": "https://chisagocountypress.com/news/2026/sep/04/morton-ford/",
-    "source": "chisagocountypress.com",
-    "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "Windsor : Parenting through the fall of democracy is no easy feat",
-    "url": "https://www.pressdemocrat.com/2026/09/03/windsor-parenting-through-the-fall-of-democracy-is-no-easy-feat/",
-    "source": "pressdemocrat.com",
-    "theme": "press",
-    "date": "2026-09-05T02:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "An Eco - Journalist Warning ! - WMNF 88 . 5 FM",
-    "url": "https://www.wmnf.org/an-eco-journalists-warning/",
-    "source": "wmnf.org",
-    "theme": "press",
-    "date": "2026-09-05T00:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - Boston News , Weather , Sports",
-    "url": "https://whdh.com/news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-the-war-are-expected/",
-    "source": "whdh.com",
-    "theme": "press",
-    "date": "2026-09-04T23:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "DSA plan has a $212T price tag and all of us will pay",
-    "url": "https://nypost.com/2026/09/04/opinion/dsa-plan-has-a-212t-price-tag-and-all-of-us-will-pay/",
-    "source": "nypost.com",
-    "theme": "press",
-    "date": "2026-09-04T23:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-    "url": "https://www.local10.com/news/2026/09/04/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-the-war-are-expected/",
-    "source": "local10.com",
-    "theme": "press",
-    "date": "2026-09-04T23:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - Las Vegas Sun News",
-    "url": "https://lasvegassun.com/news/2026/sep/04/russian-drone-strikes-ukraine-security-service-hea/",
-    "source": "lasvegassun.com",
-    "theme": "press",
-    "date": "2026-09-04T21:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Argentina has threatened to seize the Falklands . There is one problem : their military is in tatters",
-    "url": "https://www.aol.com/articles/argentina-threatened-seize-falklands-one-142653000.html",
-    "source": "aol.com",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Metso Expands Lokotrack Portfolio with Two New Mobile Crushing Plants - Mining / Metal / Mineral - Metso Corporation",
-    "url": "https://www.newswiretoday.com/news/186785/",
-    "source": "newswiretoday.com",
-    "theme": "press",
-    "date": "2026-09-04T19:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "LT": [
-   {
-    "title": "Who really benefits from the CIA chief Moscow trip ?",
-    "url": "http://www.europesun.com/news/279286984/who-really-benefits-from-the-cia-chief-moscow-trip",
-    "source": "europesun.com",
-    "theme": "press",
-    "date": "2026-09-05T02:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "UN tells the world : Stop making Africa look small",
-    "url": "http://www.irishsun.com/news/279286983/un-tells-the-world-stop-making-africa-look-small",
-    "source": "irishsun.com",
-    "theme": "press",
-    "date": "2026-09-05T02:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chiefs Moscow trip",
-    "url": "http://www.arabherald.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
-    "source": "arabherald.com",
-    "theme": "press",
-    "date": "2026-09-05T00:30:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chiefs Moscow trip",
-    "url": "http://www.iraqsun.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
-    "source": "iraqsun.com",
-    "theme": "press",
-    "date": "2026-09-05T00:15:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chiefs Moscow trip",
-    "url": "http://www.kenyastar.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
-    "source": "kenyastar.com",
-    "theme": "press",
-    "date": "2026-09-05T00:15:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chiefs Moscow trip",
-    "url": "http://www.russiaherald.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
-    "source": "russiaherald.com",
-    "theme": "press",
-    "date": "2026-09-04T23:15:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chief Moscow trip ?",
-    "url": "http://www.bignewsnetwork.com/news/279286984/who-really-benefits-from-the-cia-chief-moscow-trip",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-09-04T23:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chiefs Moscow trip",
-    "url": "http://www.bignewsnetwork.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-09-04T23:00:00+00:00",
-    "countries": [
-     "LT"
+     "GR"
     ]
    }
   ]
@@ -725,10 +397,14 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",

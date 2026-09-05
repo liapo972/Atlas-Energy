@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-04T20:26:35+00:00",
+ "generated": "2026-09-05T00:36:01+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T20:26:35+00:00",
+   "date": "2026-09-05T00:36:01+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T20:26:35+00:00",
+   "date": "2026-09-05T00:36:01+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T20:26:35+00:00",
+   "date": "2026-09-05T00:36:01+00:00",
    "countries": []
   },
   {
@@ -30,155 +30,40 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-04T20:26:35+00:00",
+   "date": "2026-09-05T00:36:01+00:00",
    "countries": []
   },
   {
-   "title": "Banking ​‌⁠⁠​‍⁠⁠‌‍‌‍⁠​​‍‌‌​System Liquidity Falls N930bn , Overnight Rate Rises – THISDAYLIVE",
-   "url": "https://www.thisdaylive.com/2026/09/04/banking-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0system-liquidity-fall/",
-   "source": "thisdaylive.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
+   "title": "Daily News 04 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1797",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-04T07:28:08+00:00",
+   "countries": []
   },
   {
-   "title": "Diesel prices hit record high , raising supply costs for many products – KTBB News , Weather , Talk",
-   "url": "https://ktbb.com/post/?p=1538723",
-   "source": "ktbb.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
+   "title": "Daily News 03 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1795",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-03T09:26:46+00:00",
+   "countries": []
   },
   {
-   "title": "IMF Commits to Engaging Member - Countries to Tackle Global Imbalances – THISDAYLIVE",
-   "url": "https://www.thisdaylive.com/2026/09/04/imf-commits-to-engaging-member-countries-to-tackle-global-imbalances/",
-   "source": "thisdaylive.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
+   "title": "Commission adopts EU Guidelines on exclusionary abuses of dominance",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1769",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-02T22:00:00+00:00",
+   "countries": []
   },
   {
-   "title": "From NIMBY to PIMFY : South Korea community - based approach to climate change mitigation",
-   "url": "https://www.ft.lk/columns/From-NIMBY-to-PIMFY-South-Korea-s-community-based-approach-to-climate-change-mitigation/4-796857",
-   "source": "ft.lk",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Hiring blew past expectations in August , jobs report shows – KTBB News , Weather , Talk",
-   "url": "https://ktbb.com/post/?p=1538745",
-   "source": "ktbb.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Duncan Garner : This decision just made life even tougher for homeowners and small businesses",
-   "url": "https://www.nzherald.co.nz/the-listener/opinion/duncan-garner-this-decision-just-made-life-even-tougher-for-homeowners-and-small-businesses/premium/73TYSBI7GZB4XNNP5JQHW7DXDE/",
-   "source": "nzherald.co.nz",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike",
-   "url": "https://www.mankatofreepress.com/news/state_national_news/stocks-fall-after-a-surprisingly-strong-jobs-report-raises-prospects-of-an-interest-rate-hike/article_7ccfbc82-d0f9-5371-b120-eb840283384e.html",
-   "source": "mankatofreepress.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Wildfire risks are driving up costs for Northwest utilities",
-   "url": "https://www.bellevuereporter.com/2026/09/04/wildfire-risks-are-driving-up-costs-for-northwest-utilities/",
-   "source": "bellevuereporter.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Do you like the new money ?",
-   "url": "https://www.cruzfm.com/2026/09/04/do-you-like-the-new-money/",
-   "source": "cruzfm.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Canada loses 42 , 000 jobs in August , 18 , 000 in Ontario",
-   "url": "https://www.theifp.ca/news/statistics-canada-unemployment-numbers-august/article_c728985b-3bf6-566a-a389-082b51c455ff.html",
-   "source": "theifp.ca",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Trump Fires Off Deranged Ultimatum in All - Caps Meltdown",
-   "url": "https://www.thedailybeast.com/trump-fires-off-deranged-ultimatum-in-all-caps-meltdown/",
-   "source": "thedailybeast.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike",
-   "url": "https://www.durangoherald.com/articles/associated-press/stocks-wobble-after-a-surprisingly-strong-jobs-report-raises-prospects-of-an-interest-rate-hike/",
-   "source": "durangoherald.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "ComBank takes Q+ digital payments drive to Jaffna ahead of Nallur Festival",
-   "url": "https://www.ft.lk/business/ComBank-takes-Q-digital-payments-drive-to-Jaffna-ahead-of-Nallur-Festival/34-796838",
-   "source": "ft.lk",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Dollar bounces on job gains , then pares ahead of CPI",
-   "url": "https://finance.yahoo.com/markets/currencies/articles/yen-heads-best-week-month-113956915.html",
-   "source": "finance.yahoo.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike – KTBB News , Weather , Talk",
-   "url": "https://ktbb.com/post/?p=1538792",
-   "source": "ktbb.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Trump Calls For Interest Rate Cut | NewsTalk 1240 WSFC",
-   "url": "https://wsfcam.iheart.com/content/2026-09-04-trump-calls-for-interest-rate-cut/",
-   "source": "wsfcam.iheart.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "The Latest : US tightens economic squeeze on Iran after a week of renewed strikes",
-   "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-us-tightens-economic-squeeze-on-iran-after-a-week-of-renewed-strikes/article_bac23c2e-eec6-55f1-a39c-6497212fd04e.html",
-   "source": "messenger-inquirer.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Trump latest threat has MAGA saying he totally unhinged",
-   "url": "https://www.alternet.org/trump-economy-2677820434/",
-   "source": "alternet.org",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "US Fed Waller says August inflation data will determine stance on September rate hike",
-   "url": "http://www.utahindependent.com/news/279286622/us-fed-waller-says-august-inflation-data-will-determine-stance-on-september-rate-hike",
-   "source": "utahindependent.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "Nifty , Sensex end higher as Fed rate hike concerns ease , gains capped by profit booking",
-   "url": "http://www.calcuttanews.net/news/279286592/nifty-sensex-end-higher-as-fed-rate-hike-concerns-ease-gains-capped-by-profit-booking",
-   "source": "calcuttanews.net",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
-  },
-  {
-   "title": "OCR Back on the Rise : Seymour Seizes on Rate Hike to Warn Against Labour Spending - Waatea News : Māori Radio Station",
-   "url": "https://waateanews.com/2026/09/05/ocr-back-on-the-rise-seymour-seizes-on-rate-hike-to-warn-against-labour-spending/",
-   "source": "waateanews.com",
-   "theme": "press",
-   "date": "2026-09-04T20:00:00+00:00"
+   "title": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-02T10:28:49+00:00",
+   "countries": []
   }
  ],
  "countries": {
@@ -188,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "FR"
     ]
@@ -210,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -220,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -230,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -240,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -250,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -260,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -270,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "DE"
     ]
@@ -282,57 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-04T20:26:35+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "E . ON Energie Romania funnels more than RON 1 . 1 bln to state budget",
-    "url": "https://www.stiripesurse.ro/eon-energie-romania-funnels-more-than-ron-11-bln-to-state-budget_3917492",
-    "source": "stiripesurse.ro",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "President Nicusor Dan welcomes newly appointed ambassadors at Cotroceni Palace , focuses on economic ties",
-    "url": "https://www.stiripesurse.ro/president-nicusor-dan-welcomes-newly-appointed-ambassadors-at-cotroceni-palace-focuses-on-economic-ties_3917487",
-    "source": "stiripesurse.ro",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "NuScale Just Turned AI on Itself . Here What That Means for the Stock .",
-    "url": "https://www.aol.com/articles/nuscale-just-turned-ai-itself-175200000.html",
-    "source": "aol.com",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Down 84 % From Its High , Is NuScale Power a Bargain Hiding in Plain Sight ?",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/down-84-high-nuscale-power-173500854.html",
-    "source": "finance.yahoo.com",
-    "theme": "press",
-    "date": "2026-09-04T18:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Down 84 % From Its High , Is NuScale Power a Bargain Hiding in Plain Sight ?",
-    "url": "https://www.aol.com/articles/down-84-high-nuscale-power-173500000.html",
-    "source": "aol.com",
-    "theme": "press",
-    "date": "2026-09-04T18:00:00+00:00",
+    "date": "2026-09-05T00:36:01+00:00",
     "countries": [
      "RO"
     ]
@@ -405,435 +240,85 @@
     ]
    }
   ],
-  "IT": [
+  "LV": [
    {
-    "title": "Traveller Letters : Warning over mistakes with codeshare bookings through Qantas Frequent Flyer points",
-    "url": "https://www.smh.com.au/traveller/travel-news/a-one-letter-mistake-on-my-booking-meant-cancelling-my-entire-holiday-20260902-p60tvi.html",
-    "source": "smh.com.au",
+    "title": "Who really benefits from the CIA chiefs Moscow trip",
+    "url": "http://www.iraqsun.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
+    "source": "iraqsun.com",
     "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
+    "date": "2026-09-05T00:15:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Strong smell of marijuana means Aryna Sabalenka halts US Open match",
-    "url": "https://www.the42.ie/strong-smell-of-marijuana-means-aryna-sabalenka-halts-us-open-match-7153007-Sep2026/",
-    "source": "the42.ie",
+    "title": "Who really benefits from the CIA chiefs Moscow trip",
+    "url": "http://www.kenyastar.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
+    "source": "kenyastar.com",
     "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
+    "date": "2026-09-05T00:15:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Traveller Letters : Warning over mistakes with codeshare bookings through Qantas Frequent Flyer points",
-    "url": "https://www.watoday.com.au/traveller/travel-news/a-one-letter-mistake-on-my-booking-meant-cancelling-my-entire-holiday-20260902-p60tvi.html",
-    "source": "watoday.com.au",
+    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
+    "url": "https://www.queanbeyanage.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
+    "source": "queanbeyanage.com.au",
     "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
+    "date": "2026-09-05T00:00:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Meloni thanks President Aliyev as Italy , Azerbaijan look to expand strategic ties",
-    "url": "https://www.azernews.az/nation/263415.html",
-    "source": "azernews.az",
+    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
+    "url": "https://www.merimbulanewsweekly.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
+    "source": "merimbulanewsweekly.com.au",
     "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
+    "date": "2026-09-04T23:30:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Mark Leonard – European Security in a Post - American Order • Stimson Center",
-    "url": "https://www.stimson.org/2026/mark-leonard-european-security-in-a-post-american-order/",
-    "source": "stimson.org",
+    "title": "Who really benefits from the CIA chiefs Moscow trip",
+    "url": "http://www.russiaherald.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
+    "source": "russiaherald.com",
     "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
+    "date": "2026-09-04T23:15:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Freedom Flotilla announces new mission to Gaza in October",
-    "url": "https://aa.com.tr/en/world/freedom-flotilla-announces-new-mission-to-gaza-in-october/4047646",
-    "source": "aa.com.tr",
+    "title": "Muddy but alive : two workers rescued from Nepal tunnel",
+    "url": "https://www.bordermail.com.au/story/9344289/muddy-but-alive-two-workers-rescued-from-nepal-tunnel/",
+    "source": "bordermail.com.au",
     "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
+    "date": "2026-09-04T23:15:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "Skywatch for the week of August 31 , 2026",
-    "url": "https://www.wqcs.org/skywatch/2026-09-04/skywatch-for-the-week-of-august-31-2026",
-    "source": "wqcs.org",
+    "title": "Who really benefits from the CIA chief Moscow trip ?",
+    "url": "http://www.bignewsnetwork.com/news/279286984/who-really-benefits-from-the-cia-chief-moscow-trip",
+    "source": "bignewsnetwork.com",
     "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
+    "date": "2026-09-04T23:00:00+00:00",
     "countries": [
-     "IT"
+     "LV"
     ]
    },
    {
-    "title": "MAN Partners Step Up Investment in Service Network - Automotive / Trucking / RV - MAN Group",
-    "url": "https://www.newswiretoday.com/news/186789/",
-    "source": "newswiretoday.com",
+    "title": "Who really benefits from the CIA chiefs Moscow trip",
+    "url": "http://www.bignewsnetwork.com/news/279286974/who-really-benefits-from-the-cia-chiefs-moscow-trip",
+    "source": "bignewsnetwork.com",
     "theme": "press",
-    "date": "2026-09-04T19:15:00+00:00",
+    "date": "2026-09-04T23:00:00+00:00",
     "countries": [
-     "IT"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "India working with Moscow , Kyiv to end war : EAM",
-    "url": "https://timesofindia.indiatimes.com/india/india-working-with-moscow-kyiv-to-end-war-eam/articleshow/133776510.cms",
-    "source": "timesofindia.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Australia appears confused about its place in the global world order",
-    "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
-    "source": "abc.net.au",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-    "url": "http://www.thegazette.com/news/world/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-the-war-are-expected/article_4725a9a3-0eaf-5510-b4d8-747a4d09775a.html",
-    "source": "thegazette.com",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Senior EU officials retierate need for new Europe - wide taxes",
-    "url": "https://www.euronews.com/my-europe/2026/09/04/senior-eu-officials-retierate-need-for-new-europe-wide-taxes-in-next-budget",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-    "url": "https://www.2news.com/news/national/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-the-war-are-expected/article_984a2840-64c2-50ea-b95c-1f72a7e73fd3.html",
-    "source": "2news.com",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Saskatchewan Premier Scott Moe heading to U . K . for nuclear symposium",
-    "url": "https://www.stcatharinesstandard.ca/news/canada/saskatchewan-premier-scott-moe-heading-to-u-k-for-nuclear-symposium/article_93e93c7d-4f92-5e4c-a759-73372b9e6002.html",
-    "source": "stcatharinesstandard.ca",
-    "theme": "press",
-    "date": "2026-09-04T18:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Saskatchewan Premier Scott Moe heading to U . K . for nuclear symposium",
-    "url": "https://www.therecord.com/news/canada/saskatchewan-premier-scott-moe-heading-to-u-k-for-nuclear-symposium/article_37b5624d-3f12-5883-89bd-70df214c960e.html",
-    "source": "therecord.com",
-    "theme": "press",
-    "date": "2026-09-04T18:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "CZ": [
-   {
-    "title": "Heatwaves and secret emissions : Why nuclear power may not be as green as you think « nuclear - news",
-    "url": "https://nuclear-news.net/2026/09/04/4-a-heatwaves-and-secret-emissions-why-nuclear-power-may-not-be-as-green-as-you-think/",
-    "source": "nuclear-news.net",
-    "theme": "press",
-    "date": "2026-09-04T09:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "The US and its allies are considering how to respond to Russian moves",
-    "url": "https://www.csmonitor.com/Perspectives/Essays/2026/0904/russia-nato-ukraine-attacks-us-response",
-    "source": "csmonitor.com",
-    "theme": "press",
-    "date": "2026-09-04T09:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Václav Bartuška : The revolution was too velvety | Radio Prague International",
-    "url": "https://english.radio.cz/vaclav-bartuska-revolution-was-too-velvety-8896348",
-    "source": "english.radio.cz",
-    "theme": "press",
-    "date": "2026-09-03T12:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "What perspectives from Central and Eastern Europe can teach us about decolonising degrowth movements",
-    "url": "https://www.resilience.org/stories/2026-09-03/what-perspectives-from-central-and-eastern-europe-can-teach-us-about-decolonising-degrowth-movements/",
-    "source": "resilience.org",
-    "theme": "press",
-    "date": "2026-09-03T10:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Skoda Peaq Electric 7 - Seat SUV Goes 582 miles On One Charge",
-    "url": "https://www.motor1.com:443/news/806991/skoda-peaq-electric-7-seat/",
-    "source": "motor1.com",
-    "theme": "press",
-    "date": "2026-09-03T10:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   }
-  ],
-  "SK": [
-   {
-    "title": "Pierre Gasly stripped of Monaco GP result as full FIA verdict emerges",
-    "url": "https://www.planetf1.com/news/pierre-gasly-monaco-grand-prix-2026-fia-verdict",
-    "source": "planetf1.com",
-    "theme": "press",
-    "date": "2026-09-04T12:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "How this summer heat and drought impacted crops in Europe – in six charts",
-    "url": "https://www.carbonbrief.org/how-this-summers-heat-and-drought-impacted-crops-in-europe-in-six-charts",
-    "source": "carbonbrief.org",
-    "theme": "press",
-    "date": "2026-09-04T12:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Asia premier fashion event CENTRESTAGE officially kicks off",
-    "url": "https://en.antaranews.com/news/429896/asias-premier-fashion-event-centrestage-officially-kicks-off",
-    "source": "en.antaranews.com",
-    "theme": "press",
-    "date": "2026-09-04T09:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Miley & Beyoncé Lead Best New Music : Friday Music Guide",
-    "url": "https://www.billboard.com/music/music-news/miley-beyonce-adela-new-music-friday-guide-1236333273/",
-    "source": "billboard.com",
-    "theme": "press",
-    "date": "2026-09-04T07:30:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Germany far - right moment hastens EU push for €2T budget deal – POLITICO",
-    "url": "https://www.politico.eu/article/germany-far-right-moment-hastens-eu-push-e2t-budget-deal/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-09-04T04:15:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Rising Slovakian singer Adéla makes a splash with her debut album Prima",
-    "url": "https://www.theartsdesk.com/new-music/rising-slovakian-singer-adela-makes-splash-her-debut-album-prima",
-    "source": "theartsdesk.com",
-    "theme": "press",
-    "date": "2026-09-04T02:30:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Asia premier fashion event CENTRESTAGE officially kicks off – IT Business Net",
-    "url": "https://itbusinessnet.com/2026/09/asias-premier-fashion-event-centrestage-officially-kicks-off/",
-    "source": "itbusinessnet.com",
-    "theme": "press",
-    "date": "2026-09-03T09:15:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Hyundai Mobis Accelerates Electrification Push in Europe with Opening of New Plant in Slovakia",
-    "url": "http://www.prnewswire.com/news-releases/hyundai-mobis-accelerates-electrification-push-in-europe-with-opening-of-new-plant-in-slovakia-302868354.html",
-    "source": "prnewswire.com",
-    "theme": "press",
-    "date": "2026-09-03T03:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   }
-  ],
-  "HU": [
-   {
-    "title": "Carsten : Weathering the shocks | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/carsten-weathering-the-shocks/",
-    "source": "hellenicshippingnews.com",
-    "theme": "press",
-    "date": "2026-09-04T18:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "JA Takes Integrated Solar - Plus - Storage Solutions on the Road Across Europe",
-    "url": "http://www.philippinetimes.com/news/279285982/ja-takes-integrated-solar-plus-storage-solutions-on-the-road-across-europe",
-    "source": "philippinetimes.com",
-    "theme": "press",
-    "date": "2026-09-04T16:45:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "JA Takes Integrated Solar - Plus - Storage Solutions on the Road Across Europe",
-    "url": "http://www.sydneysun.com/news/279285982/ja-takes-integrated-solar-plus-storage-solutions-on-the-road-across-europe",
-    "source": "sydneysun.com",
-    "theme": "press",
-    "date": "2026-09-04T15:00:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "JA Takes Integrated Solar - Plus - Storage Solutions on the Road Across Europe",
-    "url": "http://www.vietnamtribune.com/news/279285982/ja-takes-integrated-solar-plus-storage-solutions-on-the-road-across-europe",
-    "source": "vietnamtribune.com",
-    "theme": "press",
-    "date": "2026-09-04T14:45:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "JA Takes Integrated Solar - Plus - Storage Solutions on the Road Across Europe",
-    "url": "http://www.asiabulletin.com/news/279285982/ja-takes-integrated-solar-plus-storage-solutions-on-the-road-across-europe",
-    "source": "asiabulletin.com",
-    "theme": "press",
-    "date": "2026-09-04T14:45:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "God , Satan , Red Menace : choose",
-    "url": "https://www.catholicregister.org/item/4330-god-satan-red-menace-choose",
-    "source": "catholicregister.org",
-    "theme": "press",
-    "date": "2026-09-04T10:00:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "How solar bond could cut your energy bills without upfront installation costs",
-    "url": "https://www.euronews.com/2026/09/04/how-solar-bonds-could-cut-your-energy-bills-without-upfront-installation-costs",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-09-04T09:00:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Hit this Fremantle cafe for ace brunching , then return after dark for modern bistro thrills ( if you can get a seat )",
-    "url": "https://www.watoday.com.au/goodfood/perth-eating-out/hit-this-fremantle-cafe-for-ace-brunching-then-return-after-dark-for-modern-bistro-thrills-if-you-can-get-a-seat-20260904-p60ukq.html",
-    "source": "watoday.com.au",
-    "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "What on in Auckland this Father Day weekend : Motat messy fun , rooftop burgers and more",
-    "url": "https://www.nzherald.co.nz/lifestyle/whats-on-in-auckland-this-fathers-day-weekend-motat-messy-fun-rooftop-burgers-and-more/RWG4IWPDN5BWTBLGNTABJHAJUI/",
-    "source": "nzherald.co.nz",
-    "theme": "press",
-    "date": "2026-09-04T20:00:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Senate and the National Assembly by a two - thirds majority",
-    "url": "https://www.pakistantoday.com.pk/2026/09/04/the-remedy",
-    "source": "pakistantoday.com.pk",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Argentina has threatened to seize the Falklands . There is one problem : their military is in tatters",
-    "url": "https://www.aol.com/articles/argentina-threatened-seize-falklands-one-142653000.html",
-    "source": "aol.com",
-    "theme": "press",
-    "date": "2026-09-04T19:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Hit this Fremantle cafe for ace brunching , then return after dark for modern bistro thrills ( if you can get a seat )",
-    "url": "https://www.brisbanetimes.com.au/goodfood/perth-eating-out/hit-this-fremantle-cafe-for-ace-brunching-then-return-after-dark-for-modern-bistro-thrills-if-you-can-get-a-seat-20260904-p60ukq.html",
-    "source": "brisbanetimes.com.au",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Hit this Fremantle cafe for ace brunching , then return after dark for modern bistro thrills ( if you can get a seat )",
-    "url": "https://www.theage.com.au/goodfood/perth-eating-out/hit-this-fremantle-cafe-for-ace-brunching-then-return-after-dark-for-modern-bistro-thrills-if-you-can-get-a-seat-20260904-p60ukq.html",
-    "source": "theage.com.au",
-    "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Europe on Track For Record Wind Year",
-    "url": "https://www.renewableenergymagazine.com/wind/europe-on-track-for-record-wind-year-20260904",
-    "source": "renewableenergymagazine.com",
-    "theme": "press",
-    "date": "2026-09-04T18:15:00+00:00",
-    "countries": [
-     "DK"
+     "LV"
     ]
    }
   ]
@@ -906,16 +391,23 @@
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/RS: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

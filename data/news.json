@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-05T12:30:09+00:00",
+ "generated": "2026-09-05T16:26:08+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T12:30:09+00:00",
+   "date": "2026-09-05T16:26:08+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T12:30:09+00:00",
+   "date": "2026-09-05T16:26:08+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T12:30:09+00:00",
+   "date": "2026-09-05T16:26:08+00:00",
    "countries": []
   },
   {
@@ -30,40 +30,155 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-05T12:30:09+00:00",
+   "date": "2026-09-05T16:26:08+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 04 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1797",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-04T07:28:08+00:00",
-   "countries": []
+   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+   "url": "https://abc13.com/post/us-military-hits-3-iranian-oil-tankers-saying-navy-warships-were-targeted-missiles/19795020/",
+   "source": "abc13.com",
+   "theme": "press",
+   "date": "2026-09-05T16:00:00+00:00"
   },
   {
-   "title": "Daily News 03 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1795",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-03T09:26:46+00:00",
-   "countries": []
+   "title": "US dollar exchange rates in Baghdad , Erbil , and Basra",
+   "url": "https://www.iraqinews.com/iraq/us-dollar-exchange-rates-iraq-baghdad-erbil-basra-september-5-2026/",
+   "source": "iraqinews.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
   },
   {
-   "title": "Commission adopts EU Guidelines on exclusionary abuses of dominance",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1769",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T22:00:00+00:00",
-   "countries": []
+   "title": "Integrity probes liquidity drain and 1B+ dinar loans at Rafidain and Rasheed",
+   "url": "https://www.iraqinews.com/iraq/iraq-integrity-commission-probes-liquidity-loans-rafidain-rasheed-banks-2026/",
+   "source": "iraqinews.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
   },
   {
-   "title": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T10:28:49+00:00",
-   "countries": []
+   "title": "Gunter : Eastern pipeline trumps oil tariffs in Canada - U . S . trade war",
+   "url": "https://edmontonsun.com/opinion/columnists/lorne-gunter-eastern-pipeline-more-effective-than-oil-tariffs-in-canada-u-s-trade-war",
+   "source": "edmontonsun.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Energy industry group backs oil and gas hunt in South Africa",
+   "url": "https://www.timeslive.co.za/news/business/2026-09-05-energy-industry-group-backs-oil-and-gas-hunt-in-sa/",
+   "source": "timeslive.co.za",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Trump threatens trade cutoffs if Fed doesnt lower interest rates",
+   "url": "https://www.kpax.com/politics/economy/trump-threatens-trade-cutoffs-if-fed-doesnt-lower-interest-rates",
+   "source": "kpax.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Analyzing Ultrapar Participacoes ( NYSE : UGP ) and Scorpio Tankers ( NYSE : STNG )",
+   "url": "https://www.themarketsdaily.com/2026/09/05/analyzing-ultrapar-participacoes-nyseugp-and-scorpio-tankers-nysestng.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+   "url": "https://www.stcatharinesstandard.ca/news/world/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/article_c6f25ec4-c989-51ba-ba8b-435d9c29c204.html",
+   "source": "stcatharinesstandard.ca",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Bitcoin Price Reaches $79 , 741 . 57 on Major Exchanges ( BTC )",
+   "url": "https://www.themarketsdaily.com/2026/09/05/bitcoin-price-reaches-79741-57-on-major-exchanges-btc.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Personal loans drive rise in individual debt to JD14 . 3 billion in Q1 CBJ",
+   "url": "https://jordantimes.com/news/business/personal-loans-drive-rise-in-individual-debt-to-jd143-billion-in-q1-cbj",
+   "source": "jordantimes.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "S & P Affirms UAE AA Credit Rating with Stable Outlook as Strong Fiscal Buffers , Hydrocarbon Expansion and Resilient Banking Sector Support Growth",
+   "url": "https://gulfnews.com/uae/sp-global-uae-possesses-a-solid-financial-shield-against-shocks-1.500664253",
+   "source": "gulfnews.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+   "url": "https://www.whec.com/ap-top-news/ap-top-news-international/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/",
+   "source": "whec.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Qatar rejects Iran claim missile strikes targeted only US interests , cites UN records of civilian and infrastructure damage",
+   "url": "https://gulfnews.com/world/gulf/qatar/qatar-rejects-iran-claim-that-strikes-only-targeted-us-interests-1.500664079",
+   "source": "gulfnews.com",
+   "theme": "press",
+   "date": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles – Brandon Sun",
+   "url": "https://www.brandonsun.com/lifestyles/2026/09/05/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles",
+   "source": "brandonsun.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "Theyre going to need to hike rate : Wall Street weighs in on Fed next policy decision after blowout jobs report",
+   "url": "https://finance.yahoo.com/news/theyre-going-to-need-to-hike-rates-wall-street-weighs-in-on-feds-next-policy-decision-after-blowout-jobs-report-142243899.html",
+   "source": "finance.yahoo.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "Trump threatens trade cutoffs if Fed doesnt lower interest rates",
+   "url": "https://www.kbzk.com/politics/economy/trump-threatens-trade-cutoffs-if-fed-doesnt-lower-interest-rates",
+   "source": "kbzk.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "Ill Stop Trading : Donald Trump Threatens Complete Global Trade Ban if the Fed Wont Lower Rates",
+   "url": "https://www.ibtimes.co.uk/trump-threatens-trade-halt-interest-rates-job-growth-1818046",
+   "source": "ibtimes.co.uk",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "Annuities have gotten a bad rap . Here why Jean Chatzky likes them .",
+   "url": "https://finance.yahoo.com/economy/article/annuities-have-gotten-a-bad-rap-heres-why-jean-chatzky-likes-them-142246170.html",
+   "source": "finance.yahoo.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "The Fed Meets in Two Weeks . Here the ETF Id Buy Today Regardless of What It Does .",
+   "url": "https://www.fool.com/investing/2026/09/05/the-fed-meets-in-two-weeks-here-s-the-etf-i-d-buy-today-regardless-of-what-it-does/",
+   "source": "fool.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "The energy future : Made in China – by coal | The Highland County Press",
+   "url": "https://highlandcountypress.com/opinions/energy-future-made-china-coal",
+   "source": "highlandcountypress.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
+  },
+  {
+   "title": "Chevron Iraq Bet Isnt the Real Dividend Growth Story . Here What Is .",
+   "url": "https://www.fool.com/investing/2026/09/05/chevrons-iraq-bet-isnt-the-real-dividend-growth-st/",
+   "source": "fool.com",
+   "theme": "press",
+   "date": "2026-09-05T14:45:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +188,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +210,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +220,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +230,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +240,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +250,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +260,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +270,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +282,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-05T12:30:09+00:00",
+    "date": "2026-09-05T16:26:08+00:00",
     "countries": [
      "RO"
     ]
@@ -230,7 +345,47 @@
     ]
    }
   ],
-  "BG": [
+  "GR": [
+   {
+    "title": "Russian Peak : Peak Oil Discussion - Page 11 - Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/forums/viewtopic.php?p=1504276",
+    "source": "peakoil.com",
+    "theme": "press",
+    "date": "2026-09-05T14:45:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Cyprus energy paradox : Gas beneath the sea , isolation on the grid – Middle East Monitor",
+    "url": "https://www.middleeastmonitor.com/20260905-cypruss-energy-paradox-gas-beneath-the-sea-isolation-on-the-grid/",
+    "source": "middleeastmonitor.com",
+    "theme": "press",
+    "date": "2026-09-05T14:45:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Gerapetritis : Greece Must Champion International Law , Strategic Autonomy in New World Order",
+    "url": "https://www.iefimerida.gr/english/gerapetritis-greece-must-champion-international-law",
+    "source": "iefimerida.gr",
+    "theme": "press",
+    "date": "2026-09-05T13:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Outcome of Seoul Diplomacy Forum 2026 Hosted by Korea National Diplomatic Academy",
+    "url": "https://www.globalsecurity.org/wmd/library/news/rok/2026/rok-260903-rok-mfa02.htm",
+    "source": "globalsecurity.org",
+    "theme": "press",
+    "date": "2026-09-05T12:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
    {
     "title": "Greece , Spain and Italy oppose Von der Leyen curbs on Russian entry into EU",
     "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/897552/greece-spain-and-italy-oppose-von-der-leyen-curbs-on-russian-entry-into-eu",
@@ -238,23 +393,45 @@
     "theme": "press",
     "date": "2026-09-05T11:30:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
-    "title": "Best VPS Hosting ( 2026 ): Virterion Recognized for Performance , Reliability , and Scalability by Expert Consumers",
-    "url": "http://www.prnewswire.com/news-releases/best-vps-hosting-2026-virterion-recognized-for-performance-reliability-and-scalability-by-expert-consumers-302870035.html",
-    "source": "prnewswire.com",
+    "title": "Tomb Raider : Legacy of Atlantis Features Food Only a Brit Could Eat",
+    "url": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-impressions",
+    "source": "ign.com",
     "theme": "press",
     "date": "2026-09-05T11:30:00+00:00",
     "countries": [
-     "BG"
+     "GR"
     ]
    },
    {
     "title": "Greece , Spain and Italy oppose Von der Leyen curbs on Russian entry into EU",
     "url": "https://www.bankingnews.gr/amyna-diplomatia/articles/897552/greece-spain-and-italy-oppose-von-der-leyen-curbs-on-russian-entry-into-eu%20title=",
     "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Swiss Projects Offer Wide Range at Venice Gap - Financing Showcase",
+    "url": "https://variety.com/2026/film/global/switzerland-venice-film-festival-gap-financing-market-1236841524/",
+    "source": "variety.com",
+    "theme": "press",
+    "date": "2026-09-05T09:45:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "BG": [
+   {
+    "title": "Best VPS Hosting ( 2026 ): Virterion Recognized for Performance , Reliability , and Scalability by Expert Consumers",
+    "url": "http://www.prnewswire.com/news-releases/best-vps-hosting-2026-virterion-recognized-for-performance-reliability-and-scalability-by-expert-consumers-302870035.html",
+    "source": "prnewswire.com",
     "theme": "press",
     "date": "2026-09-05T11:30:00+00:00",
     "countries": [
@@ -267,16 +444,6 @@
     "source": "prnewswire.com",
     "theme": "press",
     "date": "2026-09-05T11:15:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "North Macedonia gas link to Greece to open access to LNG and Azerbaijani Gas",
-    "url": "https://www.azernews.az/oil_and_gas/263424.html",
-    "source": "azernews.az",
-    "theme": "press",
-    "date": "2026-09-05T08:00:00+00:00",
     "countries": [
      "BG"
     ]
@@ -310,231 +477,189 @@
     "countries": [
      "BG"
     ]
-   }
-  ],
-  "LT": [
+   },
    {
-    "title": "Budrys : Lithuania strongly supports Moldova EU membership",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260904-lithuania-mfa01.htm",
-    "source": "globalsecurity.org",
+    "title": "Three Bulgarians Detained in Munich Amid Russian Sabotage Probe - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=240457",
+    "source": "novinite.com",
     "theme": "press",
-    "date": "2026-09-05T12:00:00+00:00",
+    "date": "2026-09-04T23:30:00+00:00",
     "countries": [
-     "LT"
+     "BG"
     ]
    },
    {
-    "title": "UN backs effort to drop Mercator map and show size of Africa more accurately",
-    "url": "https://www.aol.co.uk/articles/un-backs-effort-drop-mercator-104103000.html",
-    "source": "aol.co.uk",
+    "title": "Radev Says Bulgaria Cannot Unilaterally Lift Russian Oil Sanctions - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=240470",
+    "source": "novinite.com",
     "theme": "press",
-    "date": "2026-09-05T11:15:00+00:00",
+    "date": "2026-09-04T23:30:00+00:00",
     "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "NB8 Nations Secure $1B for Ukraine Winter Energy Needs",
-    "url": "https://www.kyivpost.com/post/83815",
-    "source": "kyivpost.com",
-    "theme": "press",
-    "date": "2026-09-05T09:45:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "UN tells the world : Stop making Africa look small",
-    "url": "https://www.globalissues.org/news/2026/09/04/43974",
-    "source": "globalissues.org",
-    "theme": "press",
-    "date": "2026-09-05T09:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Age of conscription amid new escalation and fears of World War Three",
-    "url": "https://www.getsurrey.co.uk/news/uk-world-news/age-conscription-amid-new-escalation-34569921",
-    "source": "getsurrey.co.uk",
-    "theme": "press",
-    "date": "2026-09-05T09:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Age of conscription amid new escalation and fears of World War Three",
-    "url": "https://www.belfastlive.co.uk/news/uk-world-news/age-conscription-amid-new-escalation-34569921",
-    "source": "belfastlive.co.uk",
-    "theme": "press",
-    "date": "2026-09-05T06:45:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Lithuanian comedians take stage at Edinburgh Fringe : Here you are naked",
-    "url": "https://www.lrt.lt/en/news-in-english/19/3042171/lithuanian-comedians-take-stage-at-edinburgh-fringe-here-you-are-naked",
-    "source": "lrt.lt",
-    "theme": "press",
-    "date": "2026-09-05T06:30:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Who really benefits from the CIA chief Moscow trip ?",
-    "url": "http://www.europesun.com/news/279286984/who-really-benefits-from-the-cia-chief-moscow-trip",
-    "source": "europesun.com",
-    "theme": "press",
-    "date": "2026-09-05T02:00:00+00:00",
-    "countries": [
-     "LT"
+     "BG"
     ]
    }
   ],
-  "HR": [
+  "NO": [
    {
-    "title": "Local couple take trip from the Alps to Auschwitz",
-    "url": "https://www.dglobe.com/news/local/local-couple-take-trip-from-the-alps-to-auschwitz",
-    "source": "dglobe.com",
+    "title": "New releases August - September 2026 , H - L",
+    "url": "https://jazzjournal.co.uk/2026/09/05/new-releases-august-september-2026-h-l/",
+    "source": "jazzjournal.co.uk",
     "theme": "press",
-    "date": "2026-09-04T22:30:00+00:00",
+    "date": "2026-09-05T16:00:00+00:00",
     "countries": [
-     "HR"
+     "NO"
     ]
    },
    {
-    "title": "Senior EU officials retierate need for new Europe - wide taxes",
-    "url": "https://www.euronews.com/my-europe/2026/09/04/senior-eu-officials-retierate-need-for-new-europe-wide-taxes-in-next-budget",
-    "source": "euronews.com",
+    "title": "Why trees downed in Toronto storm might be a sign of what to come",
+    "url": "https://www.stcatharinesstandard.ca/news/ontario/why-trees-downed-in-toronto-s-storm-might-be-a-sign-of-what-s-to-come-it-s-a-wake-up-call/article_cd62b2e6-43f0-55c4-b1ee-dd7dea3bb66a.html",
+    "source": "stcatharinesstandard.ca",
     "theme": "press",
-    "date": "2026-09-04T18:45:00+00:00",
+    "date": "2026-09-05T15:00:00+00:00",
     "countries": [
-     "HR"
+     "NO"
     ]
    },
    {
-    "title": "Ottawa pledges $11 . 6M for Saskatoon businesses , highlights mining role in Canada future | 620 CKRM - The Voice of Saskatchewan",
-    "url": "https://www.620ckrm.com/2026/09/04/ottawa-pledges-11-6m-for-saskatoon-businesses-highlights-minings-role-in-canadas-future/",
-    "source": "620ckrm.com",
+    "title": "Trump tariff trade war may impact Canada investment summit",
+    "url": "https://www.cp24.com/news/canada/2026/09/03/can-the-first-ever-investment-summit-reach-its-bold-goal-amid-a-broadening-trade-war/",
+    "source": "cp24.com",
     "theme": "press",
-    "date": "2026-09-04T16:45:00+00:00",
+    "date": "2026-09-05T15:00:00+00:00",
     "countries": [
-     "HR"
+     "NO"
     ]
    },
    {
-    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
-    "url": "http://www.kenyastar.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
-    "source": "kenyastar.com",
-    "theme": "press",
-    "date": "2026-09-04T09:15:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
-    "url": "http://www.newyorkstatesman.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
-    "source": "newyorkstatesman.com",
-    "theme": "press",
-    "date": "2026-09-04T09:15:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
-    "url": "http://www.austinglobe.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
-    "source": "austinglobe.com",
-    "theme": "press",
-    "date": "2026-09-04T08:45:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Ukraine wins three European science - fiction , fantasy awards – The Ukrainian Weekly",
-    "url": "https://subscription.ukrweekly.com/ukraine-wins-three-european-science-fiction-fantasy-awards/",
-    "source": "subscription.ukrweekly.com",
-    "theme": "press",
-    "date": "2026-09-04T08:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "UN Women at the 81st session of the UN General Assembly ( UNGA 81 )",
-    "url": "http://www.middleeaststar.com/news/279285627/un-women-at-the-81st-session-of-the-un-general-assembly-unga-81",
-    "source": "middleeaststar.com",
-    "theme": "press",
-    "date": "2026-09-04T08:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "America Superpower Isnt Military Might , It Economics | Opinion",
-    "url": "https://www.newsweek.com/americas-superpower-isnt-military-might-its-economics-opinion-12394392",
-    "source": "newsweek.com",
-    "theme": "press",
-    "date": "2026-09-05T09:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Ratko Mladic : Bosnian Serb commander to convicted war criminal",
-    "url": "https://www.justiceinfo.net/en/164624-ratko-mladic-bosnian-serb-commander-to-convicted-war-criminal.html",
-    "source": "justiceinfo.net",
-    "theme": "press",
-    "date": "2026-09-05T07:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Denmark to introduce new immigration pathway in 2027 for foreign workers , India among eligible countries",
-    "url": "https://economictimes.indiatimes.com/nri/work/denmark-to-introduce-new-immigration-pathway-in-2027-for-foreign-workers-india-among-eligible-countries/articleshow/133790060.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-05T06:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "UN tells the world : Stop making Africa look small",
-    "url": "http://www.irishsun.com/news/279286983/un-tells-the-world-stop-making-africa-look-small",
-    "source": "irishsun.com",
-    "theme": "press",
-    "date": "2026-09-05T02:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "China Launches 30 - Satellite Lunar Safety Net to Guard Moon Crews from Solar Storms",
-    "url": "https://www.techtimes.com/articles/326732/20260904/china-launches-30-satellite-lunar-safety-net-guard-moon-crews-solar-storms.htm",
+    "title": "Japan Contracts AI Targeting Satellite : Human Authorization Not Disclosed",
+    "url": "https://www.techtimes.com/articles/326748/20260905/japan-contracts-ai-targeting-satellite-human-authorization-not-disclosed.htm",
     "source": "techtimes.com",
     "theme": "press",
-    "date": "2026-09-05T00:30:00+00:00",
+    "date": "2026-09-05T14:30:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "UN Urges World : Stop Undermining Africa Significance",
-    "url": "https://www.miragenews.com/un-urges-world-stop-undermining-africas-1739240/",
-    "source": "miragenews.com",
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.merimbulanewsweekly.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "merimbulanewsweekly.com.au",
     "theme": "press",
-    "date": "2026-09-04T20:30:00+00:00",
+    "date": "2026-09-05T14:30:00+00:00",
     "countries": [
-     "RS"
+     "NO"
+    ]
+   },
+   {
+    "title": "Governments continue to fail : Freedom Flotilla sails again , vowing to challenge Israel Gaza blockade",
+    "url": "https://www.middleeasteye.net/news/freedom-flotilla-sails-again-vows-challenge-israels-gaza-blockade",
+    "source": "middleeasteye.net",
+    "theme": "press",
+    "date": "2026-09-05T13:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Why trees downed in Toronto storm might be a sign of what to come",
+    "url": "https://www.niagarafallsreview.ca/news/ontario/why-trees-downed-in-toronto-s-storm-might-be-a-sign-of-what-s-to-come-it-s-a-wake-up-call/article_20be8fff-eb43-5d1c-9619-2dcb189c8088.html",
+    "source": "niagarafallsreview.ca",
+    "theme": "press",
+    "date": "2026-09-05T13:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "As Donald Trump trade war rages , Mark Carney looks to the European Union and it looking back",
+    "url": "https://www.wellandtribune.ca/politics/federal/as-donald-trump-s-trade-war-rages-mark-carney-looks-to-the-european-union-and-it-s-looking-back/article_18dc0751-8d38-5e2f-8028-b7c3beac95e3.html",
+    "source": "wellandtribune.ca",
+    "theme": "press",
+    "date": "2026-09-05T13:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://therockofrochester.com/ixp/295/p/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "therockofrochester.com",
+    "theme": "press",
+    "date": "2026-09-05T16:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://kmhk.com/ixp/295/p/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "kmhk.com",
+    "theme": "press",
+    "date": "2026-09-05T15:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Saab Owner NEVS Signs Qingdao Investment Deal",
+    "url": "https://www.inautonews.com/saab-owner-signs-investment-deal-with-chinese-city-of-qingdao",
+    "source": "inautonews.com",
+    "theme": "press",
+    "date": "2026-09-05T15:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://kdat.com/ixp/295/p/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "kdat.com",
+    "theme": "press",
+    "date": "2026-09-05T15:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://b1027.com/ixp/295/p/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "b1027.com",
+    "theme": "press",
+    "date": "2026-09-05T15:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://ultimateclassicrock.com/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "ultimateclassicrock.com",
+    "theme": "press",
+    "date": "2026-09-05T14:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Cloud and AI Development Act Gets Lead Drafter Via Party Vote , Not Public Process",
+    "url": "https://www.techtimes.com/articles/326756/20260905/cloud-ai-development-act-gets-lead-drafter-via-party-vote-not-public-process.htm",
+    "source": "techtimes.com",
+    "theme": "press",
+    "date": "2026-09-05T14:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a Small Oklahoma Town Became a Rock Mecca",
+    "url": "https://kool1079.com/ixp/295/p/rocklahoma-20th-anniversary-interview-2026/",
+    "source": "kool1079.com",
+    "theme": "press",
+    "date": "2026-09-05T13:45:00+00:00",
+    "countries": [
+     "SE"
     ]
    }
   ]
@@ -605,22 +730,21 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: URLError",
-  "gdelt/PT: URLError",
-  "gdelt/IT: URLError",
-  "gdelt/PL: URLError",
-  "gdelt/CZ: URLError",
-  "gdelt/SK: URLError",
-  "gdelt/HU: URLError",
-  "gdelt/RO: URLError",
-  "gdelt/GR: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
+  "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError"
  ]
 }

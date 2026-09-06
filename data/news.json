@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-06T04:27:17+00:00",
+ "generated": "2026-09-06T08:27:48+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T04:27:17+00:00",
+   "date": "2026-09-06T08:27:48+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T04:27:17+00:00",
+   "date": "2026-09-06T08:27:48+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T04:27:17+00:00",
+   "date": "2026-09-06T08:27:48+00:00",
    "countries": []
   },
   {
@@ -30,40 +30,155 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T04:27:17+00:00",
+   "date": "2026-09-06T08:27:48+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 04 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1797",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-04T07:28:08+00:00",
-   "countries": []
+   "title": "Prime Minister unveils €2 . 2 billion tax relief package for businesses at Thessaloniki fair",
+   "url": "https://sofokleous10.gr/2026/09/06/prime-minister-unveils-e2-2-billion-tax-relief-package-for-businesses-at-thessaloniki-fair/",
+   "source": "sofokleous10.gr",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
   },
   {
-   "title": "Daily News 03 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1795",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-03T09:26:46+00:00",
-   "countries": []
+   "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+   "url": "https://www.clickondetroit.com/business/2026/09/06/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/",
+   "source": "clickondetroit.com",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
   },
   {
-   "title": "Commission adopts EU Guidelines on exclusionary abuses of dominance",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1769",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T22:00:00+00:00",
-   "countries": []
+   "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+   "url": "https://www.2news.com/news/national/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/article_009d0f12-c535-59eb-91ff-cd6f96412e10.html",
+   "source": "2news.com",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
   },
   {
-   "title": "Statement by President von der Leyen with NATO Secretary-General Mark Rutte",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1790",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-02T10:28:49+00:00",
-   "countries": []
+   "title": "Financial analyst on ECB hike : Interest rates are rising ... what should you do ?",
+   "url": "https://www.thejournal.ie/readme/ecb-interest-rate-hikes-2-7151490-Sep2026/",
+   "source": "thejournal.ie",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
+  },
+  {
+   "title": "Cold start to nation normally hot home sales season",
+   "url": "https://www.yasstribune.com.au/story/9344722/cold-start-to-nations-normally-hot-home-sales-season/",
+   "source": "yasstribune.com.au",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
+  },
+  {
+   "title": "Naira records N8 . 21 appreciation against dollar in first week of September",
+   "url": "https://dailypost.ng/2026/09/06/naira-records-n8-21-appreciation-against-dollar-in-first-week-of-september/",
+   "source": "dailypost.ng",
+   "theme": "press",
+   "date": "2026-09-06T08:00:00+00:00"
+  },
+  {
+   "title": "Cold start to nation normally hot home sales season",
+   "url": "https://www.greatlakesadvocate.com.au/story/9344722/cold-start-to-nations-normally-hot-home-sales-season/",
+   "source": "greatlakesadvocate.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:45:00+00:00"
+  },
+  {
+   "title": "Thornbury and Yate MP Claire Young latest column",
+   "url": "https://www.gazetteseries.co.uk/news/26516626.thornbury-yate-mp-claire-youngs-latest-column/",
+   "source": "gazetteseries.co.uk",
+   "theme": "press",
+   "date": "2026-09-06T07:45:00+00:00"
+  },
+  {
+   "title": "ONGC chairman selection : Seven shortlisted candidates to face second round of interviews",
+   "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ongc-chairman-selection-seven-shortlisted-candidates-to-face-second-round-of-interviews/articleshow/133829523.cms",
+   "source": "economictimes.indiatimes.com",
+   "theme": "press",
+   "date": "2026-09-06T07:45:00+00:00"
+  },
+  {
+   "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+   "url": "http://www.somdnews.com/ap/world/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/article_128f02e9-b0f1-59f3-86d0-43842bebc19e.html",
+   "source": "somdnews.com",
+   "theme": "press",
+   "date": "2026-09-06T07:45:00+00:00"
+  },
+  {
+   "title": "Byelection boom : Secret Harbour median house price hits million - dollar mark",
+   "url": "https://www.theage.com.au/property/news/byelection-boom-secret-harbour-median-house-price-hits-million-dollar-mark-20260906-p60uvo.html",
+   "source": "theage.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "The maths behind a mortgage - Jamaica Observer",
+   "url": "https://www.jamaicaobserver.com/2026/09/06/maths-behind-mortgage/",
+   "source": "jamaicaobserver.com",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates – Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/business/2026/09/06/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates",
+   "source": "winnipegfreepress.com",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "In War Crime , Trump sinks Civilian Iranian Tanker , disables 2 Others",
+   "url": "https://www.juancole.com/2026/09/civilian-iranian-disables.html",
+   "source": "juancole.com",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Byelection boom : Secret Harbour median house price hits million - dollar mark",
+   "url": "https://www.brisbanetimes.com.au/property/news/byelection-boom-secret-harbour-median-house-price-hits-million-dollar-mark-20260906-p60uvo.html",
+   "source": "brisbanetimes.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Cold start to nation normally hot home sales season",
+   "url": "https://www.nvi.com.au/story/9344722/cold-start-to-nations-normally-hot-home-sales-season/",
+   "source": "nvi.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Byelection boom : Secret Harbour median house price hits million - dollar mark",
+   "url": "https://www.watoday.com.au/property/news/byelection-boom-secret-harbour-median-house-price-hits-million-dollar-mark-20260906-p60uvo.html",
+   "source": "watoday.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Iran claims strike on US ship in Strait of Hormuz as fighting escalates",
+   "url": "http://www.goskagit.com/news/world/iran-claims-strike-on-us-ship-in-strait-of-hormuz-as-fighting-escalates/article_81bfb9ef-9519-5699-8e1f-2a3961f4cea5.html",
+   "source": "goskagit.com",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Byelection boom : Secret Harbour median house price hits million - dollar mark",
+   "url": "https://www.smh.com.au/property/news/byelection-boom-secret-harbour-median-house-price-hits-million-dollar-mark-20260906-p60uvo.html",
+   "source": "smh.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:30:00+00:00"
+  },
+  {
+   "title": "Cold start to nation normally hot home sales season",
+   "url": "https://www.camdencourier.com.au/story/9344722/cold-start-to-nations-normally-hot-home-sales-season/",
+   "source": "camdencourier.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:15:00+00:00"
+  },
+  {
+   "title": "Key RBA speakers , consumer behaviour on the agenda",
+   "url": "https://www.camdencourier.com.au/story/9344628/key-rba-speakers-consumer-behaviour-on-the-agenda/",
+   "source": "camdencourier.com.au",
+   "theme": "press",
+   "date": "2026-09-06T07:15:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +188,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +210,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +220,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +230,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +240,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +250,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +260,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +270,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +282,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T04:27:17+00:00",
+    "date": "2026-09-06T08:27:48+00:00",
     "countries": [
      "RO"
     ]
@@ -230,85 +345,85 @@
     ]
    }
   ],
-  "GR": [
+  "LV": [
    {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.kob.com/ap-top-news/greeks-promised-tax-relief-wage-hikes-as-protesters-take-to-the-streets-over-cost-of-living-crunch/",
-    "source": "kob.com",
+    "title": "Cyprus Business Now : weekly wrap - up",
+    "url": "https://cyprus-mail.com/2026/09/06/cyprus-business-now-weekly-wrap-up-177",
+    "source": "cyprus-mail.com",
     "theme": "press",
-    "date": "2026-09-06T01:15:00+00:00",
+    "date": "2026-09-06T07:00:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "Greek PM rolls out major aid package ahead of elections",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/09/06/greek-pm-rolls-out-major-aid-package-ahead-of-elections",
-    "source": "freemalaysiatoday.com",
-    "theme": "press",
-    "date": "2026-09-06T00:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.wboc.com/news/international/greeks-promised-tax-relief-wage-hikes-as-protesters-take-to-the-streets-over-cost-of/article_74a894ff-9284-549f-8ec3-8248f4e33f76.html",
-    "source": "wboc.com",
-    "theme": "press",
-    "date": "2026-09-06T00:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Kelly Tomblin",
-    "url": "https://www.elpasoinc.com/special_sections/women_of_impact/kelly-tomblin/article_f9664168-ed86-45ba-acf4-49476de7c101.html",
-    "source": "elpasoinc.com",
+    "title": "Who really benefits from the CIA chief Moscow trip ?",
+    "url": "https://weeklyblitz.net/2026/09/06/who-really-benefits-from-the-cia-chiefs-moscow-trip/",
+    "source": "weeklyblitz.net",
     "theme": "press",
     "date": "2026-09-05T23:00:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.news4jax.com/business/2026/09/05/greeks-promised-tax-relief-wage-hikes-as-protesters-take-to-the-streets-over-cost-of-living-crunch/",
-    "source": "news4jax.com",
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.merimbulanewsweekly.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "merimbulanewsweekly.com.au",
     "theme": "press",
-    "date": "2026-09-05T23:00:00+00:00",
+    "date": "2026-09-05T14:30:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.stcatharinesstandard.ca/business/greeks-promised-tax-relief-wage-hikes-as-protesters-take-to-the-streets-over-cost-of-living-crunch/article_b634c205-f8f5-58a5-815d-d8a99bcbd81e.html",
-    "source": "stcatharinesstandard.ca",
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.sconeadvocate.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "sconeadvocate.com.au",
     "theme": "press",
-    "date": "2026-09-05T21:30:00+00:00",
+    "date": "2026-09-05T11:45:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.clickorlando.com/business/2026/09/05/greeks-promised-tax-relief-wage-hikes-as-protesters-take-to-the-streets-over-cost-of-living-crunch/",
-    "source": "clickorlando.com",
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.westernadvocate.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "westernadvocate.com.au",
     "theme": "press",
-    "date": "2026-09-05T21:30:00+00:00",
+    "date": "2026-09-05T11:45:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "Greeks promised tax relief , wage hikes as protesters take to the streets over cost of living crunch",
-    "url": "https://www.yahoo.com/news/world/articles/greeks-promised-tax-relief-wage-192356554.html",
-    "source": "yahoo.com",
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.bordermail.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "bordermail.com.au",
     "theme": "press",
-    "date": "2026-09-05T20:00:00+00:00",
+    "date": "2026-09-05T11:45:00+00:00",
     "countries": [
-     "GR"
+     "LV"
+    ]
+   },
+   {
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.newcastleherald.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "newcastleherald.com.au",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Woman and Nepal hydropower tunnel worker rescued alive",
+    "url": "https://www.theadvocate.com.au/story/9344289/woman-and-nepal-hydropower-tunnel-worker-rescued-alive/",
+    "source": "theadvocate.com.au",
+    "theme": "press",
+    "date": "2026-09-05T11:30:00+00:00",
+    "countries": [
+     "LV"
     ]
    }
   ]
@@ -387,17 +502,16 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }

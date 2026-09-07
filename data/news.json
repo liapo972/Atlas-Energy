@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-06T20:26:20+00:00",
+ "generated": "2026-09-07T00:38:57+00:00",
  "world": [
   {
    "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T20:26:20+00:00",
+   "date": "2026-09-07T00:38:57+00:00",
    "countries": []
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T20:26:20+00:00",
+   "date": "2026-09-07T00:38:57+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T20:26:20+00:00",
+   "date": "2026-09-07T00:38:57+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-calls-transparent-eu-infrastructure-scenarios-aligned-energy-and-climate-targets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-06T20:26:20+00:00",
+   "date": "2026-09-07T00:38:57+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "FR"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -105,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -115,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-06T20:26:20+00:00",
+    "date": "2026-09-07T00:38:57+00:00",
     "countries": [
      "RO"
     ]
@@ -217,170 +217,6 @@
     "date": "2026-09-02T15:31:51+00:00",
     "countries": [
      "GB"
-    ]
-   }
-  ],
-  "HU": [
-   {
-    "title": "Russell aims to trim Antonelli F1 lead at Italian GP , but starts behind surprise polesitter Gasly",
-    "url": "http://www.sitkasentinel.com/stories/russell-aims-to-trim-antonellis-f1-lead-at-italian-gp-but-starts-behind-surprise-polesitter-gasly,168850",
-    "source": "sitkasentinel.com",
-    "theme": "press",
-    "date": "2026-09-06T14:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Dogs can tell when youre happy , sad or frustrated , study shows – The Oakland Press",
-    "url": "https://www.theoaklandpress.com/2026/09/06/dogs-can-tell-when-youre-happy-sad-or-frustrated-study-shows/",
-    "source": "theoaklandpress.com",
-    "theme": "press",
-    "date": "2026-09-06T11:45:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "How £6bn will change Manchester forgotten about area forever in one of united kingdom most ambitiou projects",
-    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/how-6bn-change-manchesters-forgotten-34571172",
-    "source": "manchestereveningnews.co.uk",
-    "theme": "press",
-    "date": "2026-09-06T08:30:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Cyprus Business Now : weekly wrap - up",
-    "url": "https://cyprus-mail.com/2026/09/06/cyprus-business-now-weekly-wrap-up-177",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-09-06T07:00:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Magyar promises cheaper fuel but wont say how - The Budapest Times",
-    "url": "https://www.budapesttimes.hu/hungary/magyar-promises-cheaper-fuel-but-wont-say-how/",
-    "source": "budapesttimes.hu",
-    "theme": "press",
-    "date": "2026-09-06T06:30:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Mercedes admits Red Bull faster at 2015",
-    "url": "https://www.inautonews.com/mercedes-says-red-bull-faster-than-us-in-hungary",
-    "source": "inautonews.com",
-    "theme": "press",
-    "date": "2026-09-06T05:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Russian Peak : Peak Oil Discussion - Page 11 - Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/forums/viewtopic.php?p=1504276",
-    "source": "peakoil.com",
-    "theme": "press",
-    "date": "2026-09-05T14:45:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Article : Ireland pushes for sanctions on Israel as the EU divides over Palestine",
-    "url": "https://www.opednews.com/populum/page.php?f=Ireland-pushes-for-sanctio-Israel_Israel-Firsters_Israel-Spying_Israeli-Attack-On-Convoy-260905-475.html",
-    "source": "opednews.com",
-    "theme": "press",
-    "date": "2026-09-05T13:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "What Ails Our Democracy",
-    "url": "https://www.livelaw.in/articles/what-ails-our-democracy-548768",
-    "source": "livelaw.in",
-    "theme": "press",
-    "date": "2026-09-06T19:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Out and About : What Happening in Philly",
-    "url": "https://www.phillytrib.com/lifestyle/out_and_about/out-and-about-whats-happening-in-philly/article_c90ccc71-6c18-4b3a-8f50-b30962d7dd98.html",
-    "source": "phillytrib.com",
-    "theme": "press",
-    "date": "2026-09-06T18:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "MAGA Rep Took Wife on Lavish Trip During Gov Shutdown",
-    "url": "https://www.thedailybeast.com/maga-rep-took-wife-on-lavish-trip-during-gov-shutdown/",
-    "source": "thedailybeast.com",
-    "theme": "press",
-    "date": "2026-09-06T18:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Recalling the disaster of Jagdeo personal summitry",
-    "url": "https://kaieteurnewsonline.com/2026/09/06/recalling-the-disaster-of-jagdeos-personal-summitry/",
-    "source": "kaieteurnewsonline.com",
-    "theme": "press",
-    "date": "2026-09-06T17:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Dont blame austerity or Brexit for Britain economic woes",
-    "url": "https://www.spiked-online.com/2026/09/06/dont-blame-austerity-or-brexit-for-britains-economic-woes/",
-    "source": "spiked-online.com",
-    "theme": "press",
-    "date": "2026-09-06T16:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "The Islamization of Europe - American Renaissance",
-    "url": "https://www.amren.com/news/2026/09/the-islamization-of-europe-2/",
-    "source": "amren.com",
-    "theme": "press",
-    "date": "2026-09-06T15:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "What archaeology reveals about the rise of all - powerful rulers",
-    "url": "https://www.scientificamerican.com/article/what-archaeology-reveals-about-the-rise-of-all-powerful-rulers/",
-    "source": "scientificamerican.com",
-    "theme": "press",
-    "date": "2026-09-06T12:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Ducati Once Built A Ferrari V8 Engine For A Lancia Sedan",
-    "url": "https://www.jalopnik.com/2249915/ducati-built-ferrari-308-v8-lancia-thema-8-32/",
-    "source": "jalopnik.com",
-    "theme": "press",
-    "date": "2026-09-06T10:15:00+00:00",
-    "countries": [
-     "GR"
     ]
    }
   ]
@@ -457,7 +293,9 @@
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",

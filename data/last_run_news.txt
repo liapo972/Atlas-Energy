@@ -14,18 +14,30 @@ Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 7 titres
-  pays servis : 20 / 28
-  duree       : 117s
+  pays servis : 13 / 28
+  duree       : 143s
 
---- 11 avertissements ---
-  ! gdelt/IT: HTTPError
+--- 23 avertissements ---
+  ! gdelt/FR: URLError
+  ! gdelt/DE: HTTPError
+  ! gdelt/NL: URLError
+  ! gdelt/BE: HTTPError
+  ! gdelt/GB: HTTPError
+  ! gdelt/IE: HTTPError
+  ! gdelt/CH: HTTPError
+  ! gdelt/AT: HTTPError
+  ! gdelt/ES: HTTPError
+  ! gdelt/PT: HTTPError
   ! gdelt/PL: HTTPError
   ! gdelt/CZ: HTTPError
   ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
+  ! gdelt/GR: HTTPError
+  ! gdelt/BG: HTTPError
   ! gdelt/DK: HTTPError
   ! gdelt/FI: HTTPError
   ! gdelt/EE: HTTPError
   ! gdelt/LV: HTTPError
-  ! gdelt/LT: HTTPError
+  ! gdelt/HR: HTTPError
+  ! gdelt/RS: HTTPError
   ! gdelt/world: HTTPError

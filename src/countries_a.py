@@ -24,8 +24,8 @@ A = {
      {"fr": "conso, mix, prix", "en": "demand, mix, prices"}],
     ["GRTgaz — Smart", "https://www.smart.grtgaz.com/en",
      {"fr": "flux, équilibrage, prix TRF", "en": "flows, balancing, TRF price"}],
-    ["Teréga — Data", "https://www.terega.fr/en/data",
-     {"fr": "sud-ouest, stockages", "en": "south-west, storage"}]
+    ["ODRÉ — Open Data Réseaux Énergies", "https://odre.opendatasoft.com/",
+     {"fr": "200+ jeux de données gaz et élec", "en": "200+ gas and power datasets"}]
   ],
   "notes": {
     "fr": [

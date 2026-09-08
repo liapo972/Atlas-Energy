@@ -247,8 +247,9 @@ function renderDetail(){
   const l = document.createElement("div");
   l.className = "links";
   (c.tso || []).forEach(s => l.appendChild(linkEl(s[0], s[1], s[2][lang])));
-  l.appendChild(linkEl(t().eexPower, "https://www.eex.com/en/markets/power/power-derivatives", t().lSettlement));
-  if (c.hub) l.appendChild(linkEl(t().eexGas, "https://www.eex.com/en/markets/natural-gas", t().lSettlement));
+  // Un seul point d'entree EEX : le Market Data Hub porte les prix de
+  // settlement et les indices, electricite comme gaz.
+  l.appendChild(linkEl(t().eexHub, "https://www.eex.com/en/market-data/market-data-hub", t().lSettlement));
   l.appendChild(linkEl(t().entsoe, "https://transparency.entsoe.eu/", t().lOpen));
   if (c.agsi) l.appendChild(linkEl(t().agsi, "https://agsi.gie.eu/", t().lOpen));
   b2.appendChild(l);

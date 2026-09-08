@@ -1,0 +1,45 @@
+name: Verifier les liens
+
+# Lancement manuel : les URL des fiches pays vieillissent, on les teste
+# quand on veut faire le menage plutot qu'a chaque run.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlas-data
+  cancel-in-progress: false
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Tester tous les liens
+        run: python check_links.py
+
+      - name: Commit et push
+        run: |
+          git config user.name "atlas-bot"
+          git config user.email "atlas-bot@users.noreply.github.com"
+          git add data/link_status.txt
+          if git diff --staged --quiet; then
+            echo "Aucun changement"
+            exit 0
+          fi
+          git commit -m "liens: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push refuse, integration des commits distants (essai $i)"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git merge -X ours --no-edit "origin/${GITHUB_REF_NAME}" || exit 1
+          done
+          exit 1

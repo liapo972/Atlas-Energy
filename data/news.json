@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T00:38:16+00:00",
+ "generated": "2026-09-09T04:28:34+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-09T00:38:16+00:00",
+   "date": "2026-09-09T04:28:34+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-09T00:38:16+00:00",
+   "date": "2026-09-09T04:28:34+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-09T00:38:16+00:00",
+   "date": "2026-09-09T04:28:34+00:00",
    "countries": []
   },
   {
@@ -65,7 +65,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "PT"
     ]
@@ -88,7 +88,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "FR"
     ]
@@ -110,7 +110,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -120,7 +120,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -130,7 +130,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -140,7 +140,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -150,7 +150,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -160,7 +160,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -170,7 +170,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -182,77 +182,7 @@
     "url": "https://www.acer.europa.eu/news/romanian-adequacy-assessment-delayed-energy-transition-affects-security-supply-decisions",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-09T00:38:16+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "NIBIRU concludes its first season : 53 days in which audiences validated the experience economy as a business model for the Romanian seaside",
-    "url": "https://nineoclock.ro/nibiru-concludes-its-first-season-53-days-in-which-audiences-validated-the-experience-economy-as-a-business-model-for-the-romanian-seaside/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-09-08T22:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Kremlin says Putin assured Trump on Russian intentions in Europe",
-    "url": "https://www.orlandosentinel.com/2026/09/08/zelenskyy-us-envoys-russia-ukraine-war/",
-    "source": "orlandosentinel.com",
-    "theme": "press",
-    "date": "2026-09-08T18:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Hungary Expels 10 Russian Diplomats As It Shifts Away From Previous Pro - Moscow Stance",
-    "url": "https://www.theyeshivaworld.com/news/general/2595621/hungary-expels-10-russian-diplomats-as-it-shifts-away-from-previous-pro-moscow-stance.html",
-    "source": "theyeshivaworld.com",
-    "theme": "press",
-    "date": "2026-09-08T18:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Putin assures Trump that Moscow doesnt have aggressive plans toward Europe , Kremlin says | World",
-    "url": "http://www.rockymounttelegram.com/news/world/putin-assures-trump-that-moscow-doesn-t-have-aggressive-plans-toward-europe-kremlin-says/article_163f08f9-3f5b-5fd6-b77f-076d5e949be5.html",
-    "source": "rockymounttelegram.com",
-    "theme": "press",
-    "date": "2026-09-08T18:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Agence Kampuchea Presse",
-    "url": "https://www.akp.gov.kh/post/detail/380527",
-    "source": "akp.gov.kh",
-    "theme": "press",
-    "date": "2026-09-08T07:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Frames : Romania has entered stagflation , with economic stagnation and inflation hitting consumption , competitiveness",
-    "url": "https://actmedia.eu/daily/frames-romania-has-entered-stagflation-with-economic-stagnation-and-inflation-hitting-consumption-competitiveness/121558",
-    "source": "actmedia.eu",
-    "theme": "press",
-    "date": "2026-09-08T06:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Chasing side deals , flexing influence : Lewandowski power moves at DHS",
-    "url": "https://www.livemint.com/global/chasing-side-deals-flexing-influence-lewandowski-s-power-moves-at-dhs-11788830070055.html",
-    "source": "livemint.com",
-    "theme": "press",
-    "date": "2026-09-08T04:00:00+00:00",
+    "date": "2026-09-09T04:28:34+00:00",
     "countries": [
      "RO"
     ]
@@ -332,249 +262,167 @@
     ]
    }
   ],
-  "SI": [
+  "HU": [
    {
-    "title": "Who are the extremist settler sanctioned by Britain ?",
-    "url": "https://www.ynetnews.com/article/bkeacc6uzx",
-    "source": "ynetnews.com",
+    "title": "War starts when deterrence stops working",
+    "url": "https://www.hani.co.kr/arti/english_edition/e_international/1276940.html",
+    "source": "hani.co.kr",
     "theme": "press",
-    "date": "2026-09-08T23:00:00+00:00",
+    "date": "2026-09-09T03:30:00+00:00",
     "countries": [
-     "SI"
+     "HU"
     ]
    },
    {
-    "title": "Stocks fall and crude gains amid escalating geopolitics - Newsquawk US Market Wrap",
-    "url": "https://www.zerohedge.com/markets/stocks-fall-and-crude-gains-amid-escalating-geopolitics-newsquawk-us-market-wrap",
-    "source": "zerohedge.com",
+    "title": "The Serpent egg German vote shows rise of far - right in Europe , but it hasnt been a steady march",
+    "url": "https://macaudailytimes.com.mo/the-serpents-egg-german-vote-shows-rise-of-far-right-in-europe-but-it-hasnt-been-a-steady-march.html",
+    "source": "macaudailytimes.com.mo",
+    "theme": "press",
+    "date": "2026-09-09T03:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "New York Liberty Satou Sabally done due to head injury",
+    "url": "https://brooklyneagle.com/413636/new-york-libertys-satou-sabally-done-due-to-head-injury/",
+    "source": "brooklyneagle.com",
+    "theme": "press",
+    "date": "2026-09-09T00:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Hungary Expels 10 Russian Diplomats as Budapest Breaks With Moscow - Era Policy",
+    "url": "http://sunatimes.com/articles/6616/Hungary-Expels-10-Russian-Diplomats-as-Budapest-Breaks-With-Moscow-Era-Policy",
+    "source": "sunatimes.com",
+    "theme": "press",
+    "date": "2026-09-09T00:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Why the AfD win in Germany is a victory for Trump plan to destabilize Europe | U . S .",
+    "url": "https://english.elpais.com/usa/2026-09-08/why-the-afds-win-in-germany-is-a-victory-for-trumps-plan-to-destabilize-europe.html",
+    "source": "english.elpais.com",
+    "theme": "press",
+    "date": "2026-09-08T23:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Hungary Blocks Ukraine EU Accession Clusters for Fourth Time , Withholds Its Demands",
+    "url": "https://www.kyivpost.com/post/84061",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-08T23:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "German Establishment Responds To Its Ballot Box Drubbing In Most Predictable Way Possible",
+    "url": "https://dailycaller.com/2026/09/08/german-establishment-afd-election-2026/",
+    "source": "dailycaller.com",
     "theme": "press",
     "date": "2026-09-08T22:00:00+00:00",
     "countries": [
-     "SI"
+     "HU"
     ]
    },
    {
-    "title": "McTominay heart procedure a complete succes - Blueprint Newspapers Limited",
-    "url": "https://blueprint.ng/mctominays-heart-procedure-a-complete-success/",
-    "source": "blueprint.ng",
+    "title": "Hungary Expels 10 Russian Diplomats As It Shifts Away From Previous Pro - Moscow Stance",
+    "url": "https://www.theyeshivaworld.com/news/general/2595621/hungary-expels-10-russian-diplomats-as-it-shifts-away-from-previous-pro-moscow-stance.html",
+    "source": "theyeshivaworld.com",
     "theme": "press",
-    "date": "2026-09-08T18:30:00+00:00",
+    "date": "2026-09-08T18:15:00+00:00",
     "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "2027 Dacia Spring Debut : Specs , Price , Details , Photos",
-    "url": "https://www.motor1.com:443/news/807429/2027-dacia-spring-price-details-photos/",
-    "source": "motor1.com",
-    "theme": "press",
-    "date": "2026-09-08T04:30:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Macedonia has one of the lowest inflation rates in Europe",
-    "url": "https://english.republika.mk/economy/macedonia-has-one-of-the-lowest-inflation-rates-in-europe/",
-    "source": "english.republika.mk",
-    "theme": "press",
-    "date": "2026-09-07T21:15:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Spectrum Rocket Achieves Orbit : First Private Launch From Continental Europe",
-    "url": "https://www.techtimes.com/articles/326890/20260907/spectrum-rocket-achieves-orbit-first-private-launch-continental-europe.htm",
-    "source": "techtimes.com",
-    "theme": "press",
-    "date": "2026-09-07T21:15:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Arte France Tax Me ( If You Can ) Sells Strongly",
-    "url": "https://variety.com/2026/tv/global/arte-france-tax-me-if-you-can-the-party-film-sales-1236853372/",
-    "source": "variety.com",
-    "theme": "press",
-    "date": "2026-09-07T07:00:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Modi Tells Putin to End the War , but Stays Silent on Trump and Netanyahu",
-    "url": "https://countercurrents.org/2026/09/modi-tells-putin-to-end-the-war-but-stays-silent-on-trump-and-netanyahu/",
-    "source": "countercurrents.org",
-    "theme": "press",
-    "date": "2026-09-06T08:30:00+00:00",
-    "countries": [
-     "SI"
+     "HU"
     ]
    }
   ],
-  "HR": [
+  "LT": [
    {
-    "title": "German vote shows rise of far right in Europe , but it hasnt been a steady march | National",
-    "url": "http://www.reflector.com/news/national/german-vote-shows-rise-of-far-right-in-europe-but-it-hasn-t-been-a/article_b81493e3-b112-5491-8812-572065f97778.html",
-    "source": "reflector.com",
+    "title": "Climate change forcing WI fish fry to find new catch",
+    "url": "http://www.mainemirror.com/news/279295236/climate-change-forcing-wi-fish-fry-to-find-new-catch",
+    "source": "mainemirror.com",
     "theme": "press",
-    "date": "2026-09-08T13:00:00+00:00",
+    "date": "2026-09-09T04:00:00+00:00",
     "countries": [
-     "HR"
+     "LT"
     ]
    },
    {
-    "title": "IN FINE FORM : Liberian Forward Sylvanus Nimely Emerges as Key Figure for Kokand 1912 in Uzbekistan",
-    "url": "https://frontpageafricaonline.com/in-fine-form-liberian-forward-sylvanus-nimely-emerges-as-key-figure-for-kokand-1912-in-uzbekistan/",
-    "source": "frontpageafricaonline.com",
+    "title": "To A - Level and beyond at Sunway College",
+    "url": "https://www.thestar.com.my/starpicks/2026/09/09/to-a-level-and-beyond-at-sunway-college",
+    "source": "thestar.com.my",
+    "theme": "press",
+    "date": "2026-09-09T01:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Berlin Is Shedding Light on the Gray Zone",
+    "url": "https://foreignpolicy.com/2026/09/08/germany-russia-drones-gray-zone-hybrid-warfare-putin/",
+    "source": "foreignpolicy.com",
+    "theme": "press",
+    "date": "2026-09-08T23:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Abuse cases revive calls for independent investigation of Lithuanian Church",
+    "url": "https://www.thetablet.co.uk/news/abuse-cases-revive-calls-for-independent-investigation-of-lithuanian-church/",
+    "source": "thetablet.co.uk",
+    "theme": "press",
+    "date": "2026-09-08T23:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "NRD Cyber Security : AI is accelerating the cyber race for attackers and defenders",
+    "url": "https://www.baltictimes.com/nrd_cyber_security__ai_is_accelerating_the_cyber_race_for_attackers_and_defenders/",
+    "source": "baltictimes.com",
+    "theme": "press",
+    "date": "2026-09-08T18:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "The case of Bogdan Syrotiuk shows : War abroad requires repression at home",
+    "url": "https://www.wsws.org/en/articles/2026/09/07/fbhn-s07.html",
+    "source": "wsws.org",
     "theme": "press",
     "date": "2026-09-08T06:45:00+00:00",
     "countries": [
-     "HR"
+     "LT"
     ]
    },
    {
-    "title": "The far right win in Germany is sending a chill through the establishment in Europe",
-    "url": "https://us.cnn.com/2026/09/08/europe/germany-far-right-afd-election-europe-intl",
-    "source": "us.cnn.com",
+    "title": "Ukraine … Russia Evening Number 1 , 657 … Putin selling Things that Aint Happening ….",
+    "url": "https://politicaldog101.com/2026/09/ukrainerussia-evening-number-1657-putin-selling-things-that-aint-happening/",
+    "source": "politicaldog101.com",
     "theme": "press",
-    "date": "2026-09-08T06:00:00+00:00",
+    "date": "2026-09-08T05:30:00+00:00",
     "countries": [
-     "HR"
+     "LT"
     ]
    },
    {
-    "title": "The far right win in Germany is sending a chill through the establishment in Europe",
-    "url": "https://www.cnn.com/2026/09/08/europe/germany-far-right-afd-election-europe-intl",
-    "source": "cnn.com",
-    "theme": "press",
-    "date": "2026-09-08T06:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Morning Briefing : Sept 8 , 2026",
-    "url": "https://aa.com.tr/en/world/morning-briefing-sept-8-2026/4050216",
-    "source": "aa.com.tr",
-    "theme": "press",
-    "date": "2026-09-08T06:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Conscription age in united kingdom and Europe amid fears of World War 3 and new escalation",
-    "url": "https://www.aol.co.uk/articles/conscription-age-uk-europe-amid-202600000.html",
+    "title": "Ukraine war briefing : New political turmoil in Kyiv as prosecutor general resigns",
+    "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-political-turmoil-011556000.html",
     "source": "aol.co.uk",
     "theme": "press",
-    "date": "2026-09-07T21:15:00+00:00",
+    "date": "2026-09-08T04:00:00+00:00",
     "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Cristiano Ronaldo and the final chapter of an extraordinary career",
-    "url": "https://en.mercopress.com/2026/09/06/cristiano-ronaldo-and-the-final-chapter-of-an-extraordinary-career",
-    "source": "en.mercopress.com",
-    "theme": "press",
-    "date": "2026-09-07T21:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Montenegrin Journalist : The 1990s Never Left Montenegro , Society Remains in Political Limbo",
-    "url": "http://www.bgnes.com/no-filter/montenegrin-journalist-the-1990s-never-left-montenegro-society-remains-in-political-limbo",
-    "source": "bgnes.com",
-    "theme": "press",
-    "date": "2026-09-07T12:45:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "Serbia , Uzbekistan establish strategic partnership",
-    "url": "http://www.bignewsnetwork.com/news/279294643/serbia-uzbekistan-establish-strategic-partnership",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-09-08T20:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "China works to build a more just and equitable global governance system",
-    "url": "http://www.australiannews.net/news/279294145/china-works-to-build-a-more-just-and-equitable-global-governance-system",
-    "source": "australiannews.net",
-    "theme": "press",
-    "date": "2026-09-08T18:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "China works to build a more just and equitable global governance system",
-    "url": "http://www.sydneysun.com/news/279294145/china-works-to-build-a-more-just-and-equitable-global-governance-system",
-    "source": "sydneysun.com",
-    "theme": "press",
-    "date": "2026-09-08T17:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "EU , united kingdom express dismay over Mladic funeral in Serbia",
-    "url": "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233",
-    "source": "dw.com",
-    "theme": "press",
-    "date": "2026-09-08T17:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "UN High Commissioner For Human Rights Volker Türk - Global Update To The 63rd Session Of The Human Rights Council",
-    "url": "https://www.scoop.co.nz/stories/WO2609/S00061/un-high-commissioner-for-human-rights-volker-turk-global-update-to-the-63rd-session-of-the-human-rights-council.htm",
-    "source": "scoop.co.nz",
-    "theme": "press",
-    "date": "2026-09-08T07:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "When Genocidaires Become Heroes : The Collapse of Global Morality",
-    "url": "https://countercurrents.org/2026/09/when-genocidaires-become-heroes-the-collapse-of-global-morality/",
-    "source": "countercurrents.org",
-    "theme": "press",
-    "date": "2026-09-08T06:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "The Librarians : The Next Chapter : Here Our Season 2 Finale Preview",
-    "url": "https://bleedingcool.com/tv/the-librarians-the-next-chapter-heres-our-season-2-finale-preview/",
-    "source": "bleedingcool.com",
-    "theme": "press",
-    "date": "2026-09-08T02:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Celeste White Historic Preservation Work Across Napa",
-    "url": "https://www.openpr.com/news/4624184/celeste-white-s-historic-preservation-work-across-napa",
-    "source": "openpr.com",
-    "theme": "press",
-    "date": "2026-09-07T22:00:00+00:00",
-    "countries": [
-     "RS"
+     "LT"
     ]
    }
   ]
@@ -651,7 +499,7 @@
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
@@ -660,7 +508,9 @@
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

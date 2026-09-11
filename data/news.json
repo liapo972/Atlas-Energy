@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T08:29:47+00:00",
+ "generated": "2026-09-11T12:33:43+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-11T08:29:47+00:00",
+   "date": "2026-09-11T12:33:43+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-11T08:29:47+00:00",
+   "date": "2026-09-11T12:33:43+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,31 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-11T08:29:47+00:00",
+   "date": "2026-09-11T12:33:43+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 11 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1856",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-11T10:01:31+00:00",
+   "countries": []
+  },
+  {
+   "title": "Factsheet - EU solidarity with Ukraine",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_22_3862",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-10T22:00:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Commission presents landmark India trade deal to Council for signature",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-10T22:00:00+00:00",
    "countries": []
   },
   {
@@ -39,30 +63,6 @@
    "source": "BCE",
    "theme": "policy",
    "date": "2026-09-10T13:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Monetary policy decisions",
-   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-10T12:15:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Daily News 10 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1841",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-10T10:57:43+00:00",
-   "countries": []
-  },
-  {
-   "title": "Commission sets out next chapter for European Capitals of Culture after over 40 years of success",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1833",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-10T07:38:40+00:00",
    "countries": []
   }
  ],
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +113,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -123,7 +123,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -133,7 +133,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -143,7 +143,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +155,37 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Russian drones target Kyiv gas stations , aiming to rattle civilians",
+    "url": "https://www.clickondetroit.com/news/world/2026/09/11/russian-drones-target-kyiv-gas-stations-aiming-to-rattle-civilians/",
+    "source": "clickondetroit.com",
+    "theme": "press",
+    "date": "2026-09-11T12:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Stock Market Today Highlights , Sept 11 : Sensex down 120 pts , Nifty closes at 23 , 398 , logs 5th weekly loss as oil fears grip markets",
+    "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-11th-september-2026/article71453005.ece",
+    "source": "thehindubusinessline.com",
+    "theme": "press",
+    "date": "2026-09-11T12:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Russian drones target Kyiv gas stations , aiming to rattle civilians",
+    "url": "https://www.news4jax.com/news/world/2026/09/11/russian-drones-target-kyiv-gas-stations-aiming-to-rattle-civilians/",
+    "source": "news4jax.com",
+    "theme": "press",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
      "PT"
     ]
@@ -199,36 +229,6 @@
     "countries": [
      "PT"
     ]
-   },
-   {
-    "title": "Rome Gets Its First Ten - Minute Play Festival",
-    "url": "https://www.wantedinrome.com/whatson/rome-gets-its-first-ten-minute-play-festival.html",
-    "source": "wantedinrome.com",
-    "theme": "press",
-    "date": "2026-09-11T03:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "A new path to power for the far right : Dont moderate . Stay radical . – POLITICO",
-    "url": "https://www.politico.eu/article/a-new-path-to-power-for-the-far-right-dont-moderate-stay-radical/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-09-11T02:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Living next door to the narcos : Southern Spain invisible war | Spain",
-    "url": "https://english.elpais.com/spain/2026-09-10/living-next-door-to-the-narcos-southern-spains-invisible-war.html",
-    "source": "english.elpais.com",
-    "theme": "press",
-    "date": "2026-09-11T02:15:00+00:00",
-    "countries": [
-     "PT"
-    ]
    }
   ],
   "FR": [
@@ -237,83 +237,25 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-11T08:29:47+00:00",
+    "date": "2026-09-11T12:33:43+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
+  "IE": [
+   {
+    "title": "Speech by Executive Vice-President Virkkunen at Irish Presidency's Conference on Online Safety for Children and Young People",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1846",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-09-11T07:01:28+00:00",
+    "countries": [
+     "IE"
+    ]
+   }
+  ],
   "RO": [
-   {
-    "title": "Romania News | Today Nine OClock PDF Edition : Top Headlines – 11 September 2026 – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
-    "url": "https://nineoclock.ro/romania-news-todays-nine-oclock-pdf-edition-top-headlines-11-september-2026/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-09-11T07:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "EU largest offshore gas project races toward first production",
-    "url": "https://www.upstreamonline.com/field-development/eus-largest-offshore-gas-project-races-toward-first-production/2-1-2040289",
-    "source": "upstreamonline.com",
-    "theme": "press",
-    "date": "2026-09-11T05:00:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Cheshire sculptor sets new record with chainsaw carving | Runcorn and Widnes World",
-    "url": "https://www.runcornandwidnesworld.co.uk/news/26536815.knutsford-sculptor-sets-new-record-chainsaw-carving/",
-    "source": "runcornandwidnesworld.co.uk",
-    "theme": "press",
-    "date": "2026-09-11T05:00:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy Visits Canada To Seek Further Military Support For Ukraine",
-    "url": "https://www.theyeshivaworld.com/news/general/2596922/zelenskyy-visits-canada-to-seek-further-military-support-for-ukraine.html",
-    "source": "theyeshivaworld.com",
-    "theme": "press",
-    "date": "2026-09-11T02:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Romania : DRI Refinances EUR50 . 6M Debt For Its 60 - MW Ruginoasa Wind Farm In (…)",
-    "url": "https://www.romaniapress.com/news=196287",
-    "source": "romaniapress.com",
-    "theme": "press",
-    "date": "2026-09-11T01:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Which European countries import the most crude oil ? | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/which-european-countries-import-the-most-crude-oil/",
-    "source": "hellenicshippingnews.com",
-    "theme": "press",
-    "date": "2026-09-10T22:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Low Incomes Leave Portuguese Struggling",
-    "url": "https://www.theportugalnews.com/news/2026-09-10/low-incomes-leave-portuguese-struggling/1084382",
-    "source": "theportugalnews.com",
-    "theme": "press",
-    "date": "2026-09-10T21:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
    {
     "title": "Press Remarks by Commissioner Lahbib in Romania",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1845",
@@ -325,31 +267,17 @@
     ]
    }
   ],
-  "IT": [
+  "GB": [
    {
-    "title": "Speech by Commissioner Kubilius at the International Space Summit",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1839",
-    "source": "Commission européenne",
+    "title": "National Gas announces Chief Executive to retire",
+    "url": "https://www.nationalgas.com/media/news/national-gas-announces-chief-executive-retire",
+    "source": "National Gas",
     "theme": "grid",
-    "date": "2026-09-10T09:48:02+00:00",
+    "date": "2026-09-11T08:58:45+00:00",
     "countries": [
-     "DE",
-     "IT"
+     "GB"
     ]
    },
-   {
-    "title": "Speech by President von der Leyen at the International Space Summit",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1830",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-09-09T22:00:00+00:00",
-    "countries": [
-     "DE",
-     "IT"
-    ]
-   }
-  ],
-  "GB": [
    {
     "title": "Announcement of the publication of the Governor's interview transcript",
     "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
@@ -381,151 +309,201 @@
     ]
    }
   ],
-  "PL": [
+  "ES": [
    {
-    "title": "Democracy Digest : Hungary Begins Clear - out of Russian Spies",
-    "url": "https://balkaninsight.com/2026/09/11/democracy-digest-hungary-begins-clear-out-of-russian-spies/rd/",
-    "source": "balkaninsight.com",
+    "title": "Europe spends record €7 . 3bn on Russian Arctic gas in just eight months , surpassing 2025 total",
+    "url": "https://www.euronews.com/my-europe/2026/09/11/europe-spends-record-73bn-on-russian-arctic-gas-in-just-eight-months-surpassing-2025-total",
+    "source": "euronews.com",
     "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
-     "PL"
+     "ES"
     ]
    },
    {
-    "title": "Slow Horses to Neagley : the seven best shows to stream this week",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/11/slow-horses-to-neagley-the-seven-best-shows-to-stream-this-week",
-    "source": "theguardian.com",
+    "title": "Cotati busy September Culture , Conservation and Community | Community",
+    "url": "https://www.thecommunityvoice.com/community/cotati-s-busy-september-culture-conservation-and-community/article_febc4c0e-3033-4fb1-8129-e29d3695a830.html",
+    "source": "thecommunityvoice.com",
     "theme": "press",
-    "date": "2026-09-11T07:15:00+00:00",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
-     "PL"
+     "ES"
     ]
    },
    {
-    "title": "In interview , German Foreign Minister Wadephul takes the war course against Russia to the extreme",
-    "url": "https://www.wsws.org/en/articles/2026/09/11/oczp-s11.html",
-    "source": "wsws.org",
+    "title": "The lonely , exhausting fan reality of following your NFL team from Europe",
+    "url": "https://fansided.com/nfl/what-it-s-really-like-following-the-nfl-from-halfway-around-the-world",
+    "source": "fansided.com",
     "theme": "press",
-    "date": "2026-09-11T05:00:00+00:00",
+    "date": "2026-09-11T11:45:00+00:00",
     "countries": [
-     "PL"
+     "ES"
     ]
    },
    {
-    "title": "Twice , they offered to end my son life",
-    "url": "https://www.christianpost.com/voice/twice-they-offered-to-end-my-sons-life.html",
-    "source": "christianpost.com",
+    "title": "Secretary of State Marco Rubio Remarks to Press",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-state03.htm",
+    "source": "globalsecurity.org",
     "theme": "press",
-    "date": "2026-09-11T04:15:00+00:00",
+    "date": "2026-09-11T11:00:00+00:00",
     "countries": [
-     "PL"
+     "ES"
     ]
    },
    {
-    "title": "Russia : Recruitment of foreign nationals to fight in Ukraine amounts to human trafficking",
-    "url": "https://www.amnesty.org.au/russia-recruitment-of-foreign-nationals-to-fight-in-ukraine-amounts-to-human-trafficking/",
-    "source": "amnesty.org.au",
+    "title": "F1 : Madring gives F1 a blind date with Monumental mayhem",
+    "url": "https://www.gdnonline.com:443/Details/1406096/Madring-gives-F1-a-blind-date-with-Monumental-mayhem",
+    "source": "gdnonline.com",
     "theme": "press",
-    "date": "2026-09-11T04:00:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "PL"
+     "ES"
     ]
    },
    {
-    "title": "Ukraine war briefing : Nato foils Russian undersea cable sabotage drill",
-    "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-nato-foils-023150000.html",
-    "source": "aol.co.uk",
+    "title": "Renewables news : Mercury NZ , Uungula Wind Farm , Alfa Laval",
+    "url": "https://greentechlead.com/energy-news/renewables-news-mercury-nz-uungula-wind-farm-alfa-laval-55322",
+    "source": "greentechlead.com",
     "theme": "press",
-    "date": "2026-09-11T04:00:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "PL"
+     "ES"
+    ]
+   },
+   {
+    "title": "Economic growth : France lags behind its European neighbours",
+    "url": "https://finance.yahoo.com/economy/articles/growth-france-lags-behind-european-074839513.html",
+    "source": "finance.yahoo.com",
+    "theme": "press",
+    "date": "2026-09-11T10:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Hot summer hits Twinings sales",
+    "url": "https://www.beveragedaily.com/Article/2026/09/10/hot-summer-hits-twinings-sales/",
+    "source": "beveragedaily.com",
+    "theme": "press",
+    "date": "2026-09-11T09:45:00+00:00",
+    "countries": [
+     "ES"
     ]
    }
   ],
-  "CZ": [
+  "IT": [
    {
-    "title": "LOSA",
-    "url": "https://6000.co.za/losa/",
-    "source": "6000.co.za",
+    "title": "The Gentlemen Just Set Up 6 Unexpected Season 3 Mysteries",
+    "url": "https://collider.com/the-gentlemen-netflix-season-3-mysteries/",
+    "source": "collider.com",
     "theme": "press",
-    "date": "2026-09-10T18:15:00+00:00",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "robben island",
-    "url": "https://6000.co.za/tag/robben-island/",
-    "source": "6000.co.za",
+    "title": "Global experts chart cooperation on cultural heritage digitization",
+    "url": "http://www.shanghaisun.com/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
+    "source": "shanghaisun.com",
     "theme": "press",
-    "date": "2026-09-10T18:15:00+00:00",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "lighthouses",
-    "url": "https://6000.co.za/tag/lighthouses/",
-    "source": "6000.co.za",
+    "title": "Is the Greek Cypriot administration entering dangerous waters ?",
+    "url": "https://news.az/news/is-the-greek-cypriot-administration-entering-dangerous-waters",
+    "source": "news.az",
     "theme": "press",
-    "date": "2026-09-10T18:15:00+00:00",
+    "date": "2026-09-11T12:00:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "The 2026 Closing Night Film Wicker , Centerpiece Screenings and Full Lineup | Arts & Living",
-    "url": "https://www.27east.com/arts-living/article_e15e104d-87da-483a-b850-a62542da28cf.html",
-    "source": "27east.com",
+    "title": "Policy Push Meets Production Scale as electronica India and productronica India 2026 Return to Bengaluru with 750+ Exhibitors from 30+ Countries",
+    "url": "https://news.webindia123.com/news/Articles/Business/20260911/4497376.html",
+    "source": "news.webindia123.com",
     "theme": "press",
-    "date": "2026-09-10T18:00:00+00:00",
+    "date": "2026-09-11T11:45:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "Colette Commentary : A new era for Team united states with familiar faces for UConn",
-    "url": "https://dailycampus.com/2026/09/10/colettes-commentary-a-new-era-for-team-usa-with-familiar-faces-for-uconn/",
-    "source": "dailycampus.com",
+    "title": "Policy Push Meets Production Scale as electronica India and productronica India 2026 Return to Bengaluru with 750+ Exhibitors from 30+ Countries",
+    "url": "https://aninews.in/news/business/policy-push-meets-production-scale-as-electronica-india-and-productronica-india-2026-return-to-bengaluru-with-750-exhibitors-from-30-countries20260911160107/",
+    "source": "aninews.in",
     "theme": "press",
-    "date": "2026-09-10T14:15:00+00:00",
+    "date": "2026-09-11T11:45:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "Are electric cars really bad for the environment ?",
-    "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336",
-    "source": "dw.com",
+    "title": "Today in Italy : A roundup of the latest news on Friday",
+    "url": "https://www.thelocal.it/20260911/today-in-italy-a-roundup-of-the-latest-news-on-friday-127",
+    "source": "thelocal.it",
     "theme": "press",
-    "date": "2026-09-10T14:15:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "Proposed JSW - Volkswagen tie - up aims to shield both from Chinese carmakers",
-    "url": "https://www.livemint.com/companies/news/jsw-volkswagen-joint-venture-india-11788942462139.html",
-    "source": "livemint.com",
+    "title": "Global experts chart cooperation on cultural heritage digitization",
+    "url": "http://www.centralasiatimes.com/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
+    "source": "centralasiatimes.com",
     "theme": "press",
-    "date": "2026-09-09T12:30:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    },
    {
-    "title": "Key parts for a new united kingdom nuclear power station will be made in the North East .",
-    "url": "https://nuclear-news.net/2026/09/09/6-b-key-parts-for-a-new-uk-nuclear-power-station-will-be-made-in-the-north-east/",
-    "source": "nuclear-news.net",
+    "title": "Battery storage project news : Redelfi , Axpo , energieUri , Delta Capacity , Centrica",
+    "url": "https://greentechlead.com/energy-news/battery-storage-project-news-redelfi-axpo-energieuri-delta-capacity-centrica-55320",
+    "source": "greentechlead.com",
     "theme": "press",
-    "date": "2026-09-09T08:00:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "CZ"
+     "IT"
     ]
    }
   ],
   "GR": [
+   {
+    "title": "China Focus : Global experts chart cooperation on cultural heritage digitization - Xinhua",
+    "url": "https://english.news.cn/20260911/d1113664833d45dc979405314dc4b629/c.html",
+    "source": "english.news.cn",
+    "theme": "press",
+    "date": "2026-09-11T09:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Publication of monthly factsheet | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/utilico-emerging-markets-ltd-di---uem/publication-of-monthly-factsheet-/9767546",
+    "source": "investegate.co.uk",
+    "theme": "press",
+    "date": "2026-09-11T08:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Global experts chart cooperation on cultural heritage digitization",
+    "url": "http://www.afghanistannews.net/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
+    "source": "afghanistannews.net",
+    "theme": "press",
+    "date": "2026-09-11T08:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
    {
     "title": "Global experts chart cooperation on cultural heritage digitization",
     "url": "http://www.greekherald.com/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
@@ -535,79 +513,151 @@
     "countries": [
      "GR"
     ]
-   },
+   }
+  ],
+  "BG": [
    {
-    "title": "Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://en.people.cn/n3/2026/0911/c90000-20498652.html",
-    "source": "en.people.cn",
+    "title": "Power line from Azerbaijan - Armenia border to Nakhchivan reaches design completion – AzerEnerji",
+    "url": "https://www.trend.az/azerbaijan/4222989.html",
+    "source": "trend.az",
     "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
+    "date": "2026-09-11T10:45:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://www.bignewsnetwork.com/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
+    "title": "Minister : Electric version of TANAP will connect Azerbaijan with Bulgaria",
+    "url": "https://en.apa.az/energy-and-industry/minister-electric-version-of-tanap-will-connect-azerbaijan-with-bulgaria-523842",
+    "source": "en.apa.az",
+    "theme": "press",
+    "date": "2026-09-11T10:45:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Azerbaijan , Türkiye , Georgia and Bulgaria may sign agreement on green electricity project",
+    "url": "https://en.apa.az/energy-and-industry/azerbaijan-turkiye-georgia-and-bulgaria-may-sign-agreement-on-green-electricity-project-523824",
+    "source": "en.apa.az",
+    "theme": "press",
+    "date": "2026-09-11T10:45:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Azerbaijan , Türkiye seek to connect Eurasia through electricity links",
+    "url": "https://www.trend.az/business/energy/4222983.html",
+    "source": "trend.az",
+    "theme": "press",
+    "date": "2026-09-11T10:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "OMV Petrom acquires a 20 MW battery energy storage system for the Ișalnița solar park",
+    "url": "https://www.thediplomat.ro/2026/09/11/omv-petrom-acquires-a-20-mw-battery-energy-storage-system-for-the-isalnita-solar-park/",
+    "source": "thediplomat.ro",
+    "theme": "press",
+    "date": "2026-09-11T10:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Xinhua Headlines : Multinationals bank on new opportunities as China upgrades services sector",
+    "url": "http://www.bignewsnetwork.com/news/279300319/xinhua-headlines-multinationals-bank-on-new-opportunities-as-china-upgrades-services-sector",
     "source": "bignewsnetwork.com",
     "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
+    "date": "2026-09-11T08:45:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "China Focus : Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://www.greekherald.com/news/279300033/china-focus-global-experts-chart-cooperation-on-cultural-heritage-digitization",
-    "source": "greekherald.com",
+    "title": "Armenia imports nearly $18 mln in fuel from Azerbaijan",
+    "url": "https://www.pan.am/en/625023",
+    "source": "pan.am",
     "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
+    "date": "2026-09-11T07:45:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://www.azerbaijannews.net/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
-    "source": "azerbaijannews.net",
+    "title": "TTW Names Top 50 Shopping Destinations in the World for 2026",
+    "url": "http://www.prnewswire.com/news-releases/ttw-names-top-50-shopping-destinations-in-the-world-for-2026-302875836.html",
+    "source": "prnewswire.com",
     "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
+    "date": "2026-09-11T00:45:00+00:00",
     "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://www.australiannews.net/news/279300118/global-experts-chart-cooperation-on-cultural-heritage-digitization",
-    "source": "australiannews.net",
-    "theme": "press",
-    "date": "2026-09-11T08:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "China Focus : Global experts chart cooperation on cultural heritage digitization",
-    "url": "http://www.bignewsnetwork.com/news/279300033/china-focus-global-experts-chart-cooperation-on-cultural-heritage-digitization",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-09-11T06:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Cyprus has won the alignment argument , the harder question is what it buys",
-    "url": "https://cyprus-mail.com/2026/09/11/cyprus-has-won-the-alignment-argument-the-harder-question-is-what-it-buys",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-09-11T06:45:00+00:00",
-    "countries": [
-     "GR"
+     "BG"
     ]
    }
   ],
   "NO": [
+   {
+    "title": "Zelenskyy meets Carney to seek more military aid for Ukraine",
+    "url": "https://jamaica-gleaner.com/article/world-news/20260911/zelenskyy-meets-carney-seek-more-military-aid-ukraine",
+    "source": "jamaica-gleaner.com",
+    "theme": "press",
+    "date": "2026-09-11T10:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Sweden risks falling behind on circular electronics",
+    "url": "https://evertiq.com/news/2026-09-11-sweden-risks-falling-behind-on-circular-electronics",
+    "source": "evertiq.com",
+    "theme": "press",
+    "date": "2026-09-11T09:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Cruise report Hywind Tampen December 2025 and Mach 2026",
+    "url": "https://www.hi.no/hi/nettrapporter/toktrapport-en-2026-19",
+    "source": "hi.no",
+    "theme": "press",
+    "date": "2026-09-11T09:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "In 2018 , Burberry disclosed destroying £28 . 6 million of unsold clothing , perfume and accessories ; the company said the practice helped protect brand exclusivity",
+    "url": "https://timesofindia.indiatimes.com/world/us/in-2018-burberry-burned-its-own-products-to-protect-exclusivity-disclosed-destroying-28-6-million-of-unsold-clothing-perfume-and-accessories/articleshow/134002188.cms",
+    "source": "timesofindia.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-11T08:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky Says No Three - Way Talks Until Russian Elections",
+    "url": "https://www.kyivpost.com/post/84242",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-11T08:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "China could take down united kingdom National Grid as ex MI6 chief issues horrifying warning | World | News",
+    "url": "https://www.express.co.uk/news/world/2247587/china-could-take-down-uk-national-grid-warning",
+    "source": "express.co.uk",
+    "theme": "press",
+    "date": "2026-09-11T08:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
    {
     "title": "2026 China International Fair for Trade in Services ( CIFTIS ): Deepening Trade in Services , Unleashing Cooperation Potential : Norway Guest of Honor Event at CIFTIS Boosts Business Cooperation",
     "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69552988-2026-china-international-fair-for-trade-in-services-ciftis-deepening-trade-in-services-unleashing-cooperation-potential-norway-guest-of-honor-eve-399.htm",
@@ -627,127 +677,87 @@
     "countries": [
      "NO"
     ]
-   },
+   }
+  ],
+  "SI": [
    {
-    "title": "Ukraine - Russia war latest : Children among five killed and 67 injured as Putin strikes shopping centre",
-    "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-shopping-centre-attack-drones-b3048352.html",
-    "source": "independent.co.uk",
+    "title": "Israel opens embassy in Slovenia as small EU nation shifts policies",
+    "url": "https://naharnet.com/stories/en/322393-israel-opens-embassy-in-slovenia-as-small-eu-nation-shifts-policies",
+    "source": "naharnet.com",
     "theme": "press",
-    "date": "2026-09-11T07:45:00+00:00",
+    "date": "2026-09-11T10:15:00+00:00",
     "countries": [
-     "NO"
+     "SI"
     ]
    },
    {
-    "title": "Brazil Largest FPSO to be Fitted with Seven Oil Mist Separators from FRANKE - Filter",
-    "url": "https://www.power-technology.com/contractors/filtration/franke/pressreleases/brazils-largest-fpso-to-be-fitted-seven-oil-mist-separators-franke-filter/",
-    "source": "power-technology.com",
+    "title": "ECB Policymakers Open Door to More Rate Hikes on Energy Risk",
+    "url": "https://english.aawsat.com/business/5317064-ecb-policymakers-open-door-more-rate-hikes-energy-risk",
+    "source": "english.aawsat.com",
     "theme": "press",
-    "date": "2026-09-11T07:00:00+00:00",
+    "date": "2026-09-11T08:45:00+00:00",
     "countries": [
-     "NO"
+     "SI"
     ]
    },
    {
-    "title": "AJA Newsbites – September 11 , 2026",
-    "url": "https://theasian.asia/archives/205143",
-    "source": "theasian.asia",
+    "title": "ECB policymakers open door to more rate hikes on energy risk",
+    "url": "https://finance.yahoo.com/economy/policy/articles/ecb-might-mildly-restrictive-policy-071410650.html",
+    "source": "finance.yahoo.com",
     "theme": "press",
-    "date": "2026-09-11T06:45:00+00:00",
+    "date": "2026-09-11T08:15:00+00:00",
     "countries": [
-     "NO"
+     "SI"
     ]
    },
    {
-    "title": "Trump new Ukraine push is already being undermined",
-    "url": "https://www.cnn.com/2026/09/11/politics/trump-russia-ukraine-war-zelensky-putin",
-    "source": "cnn.com",
+    "title": "EU should treat Israeli settlements like Russian - occupied Crimea , says bloc top diplomat – The Irish Times",
+    "url": "https://www.irishtimes.com/world/europe/2026/09/11/eu-should-treat-israeli-settlements-like-russian-occupied-crimea-says-blocs-top-diplomat/",
+    "source": "irishtimes.com",
     "theme": "press",
     "date": "2026-09-11T05:30:00+00:00",
     "countries": [
-     "NO"
+     "SI"
     ]
    },
    {
-    "title": "Trump new Ukraine push is already being undermined",
-    "url": "https://us.cnn.com/2026/09/11/politics/trump-russia-ukraine-war-zelensky-putin",
-    "source": "us.cnn.com",
+    "title": "TAP expansion strengthens Azerbaijan - Albania energy links",
+    "url": "https://www.azernews.az/analysis/263700.html",
+    "source": "azernews.az",
     "theme": "press",
     "date": "2026-09-11T05:00:00+00:00",
     "countries": [
-     "NO"
+     "SI"
     ]
    },
    {
-    "title": "Enough books to fill the entire world",
-    "url": "https://www.americamagazine.org/many-things/2026/09/10/enough-books-to-fill-the-entire-world/",
-    "source": "americamagazine.org",
+    "title": "Yokogawa Sign Memorandum of Understanding to Advance Nationwide Hydrogen Ecosystem in Slovenia - Energy / Hydrogen - Yokogawa Electric Corporation",
+    "url": "https://www.newswiretoday.com/news/186829/Yokogawa-Sign-Memorandum-of-Understanding-to-Advance-Nationwide-Hydrogen-Ecosystem-in-Slovenia/",
+    "source": "newswiretoday.com",
     "theme": "press",
-    "date": "2026-09-11T03:30:00+00:00",
+    "date": "2026-09-11T01:15:00+00:00",
     "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "The key number is four : This is how Danish giant monitors its suppliers in accordance with NIS2",
-    "url": "https://ing.dk/artikel/key-number-four-how-danish-giant-monitors-its-suppliers-accordance-nis2",
-    "source": "ing.dk",
-    "theme": "press",
-    "date": "2026-09-11T07:45:00+00:00",
-    "countries": [
-     "DK"
+     "SI"
     ]
    },
    {
-    "title": "Twenty - Five Years After 9 / 11 , the Enemy Is Far from Defeated",
-    "url": "https://jewishpress.com/twenty-five-years-after-9-11-the-enemy-is-far-from-defeated/",
-    "source": "jewishpress.com",
+    "title": "Yokogawa Sign Memorandum of Understanding to Advance Nationwide Hydrogen Ecosystem in Slovenia - Energy / Hydrogen - Yokogawa Electric Corporation",
+    "url": "https://www.newswiretoday.com/news/186829/",
+    "source": "newswiretoday.com",
     "theme": "press",
-    "date": "2026-09-11T06:15:00+00:00",
+    "date": "2026-09-11T01:15:00+00:00",
     "countries": [
-     "DK"
+     "SI"
     ]
    },
    {
-    "title": "Minister wants to end advance electricity billing - The Copenhagen Post",
-    "url": "https://cphpost.dk/2026-09-11/news/round-up/minister-wants-to-end-advance-electricity-billing/",
-    "source": "cphpost.dk",
+    "title": "School Assembly News Headlines ( September 11 , 2026 ): PM Modi ISS Address , IMD Odisha Heavy Rain , NEET UG Counselling Round 2 & Other News",
+    "url": "https://www.jagranjosh.com/articles/school-assembly-news-headlines-september-11-2026-pm-modi-iss-address-imd-odisha-heavy-rain-neet-ug-counselling-round-2-other-news-1800016419-1",
+    "source": "jagranjosh.com",
     "theme": "press",
-    "date": "2026-09-11T04:45:00+00:00",
+    "date": "2026-09-10T15:30:00+00:00",
     "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Ørsted Gets Favorable Tax Opinion on Two united kingdom Offshore Wind Farms",
-    "url": "https://oilprice.com/Company-News/rsted-Gets-Favorable-Tax-Opinion-on-Two-UK-Offshore-Wind-Farms.html",
-    "source": "oilprice.com",
-    "theme": "press",
-    "date": "2026-09-11T04:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "JULIAN DISPATCH Russia : it takes a village – The Greanville Post",
-    "url": "https://www.greanvillepost.com/julians-dispatch-russia-it-takes-a-village/",
-    "source": "greanvillepost.com",
-    "theme": "press",
-    "date": "2026-09-11T00:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "The long shadow of 9 / 11 and the retreat of an independent New Zealand foreign policy",
-    "url": "https://theconversation.com/the-long-shadow-of-9-11-and-the-retreat-of-an-independent-new-zealand-foreign-policy-291648",
-    "source": "theconversation.com",
-    "theme": "press",
-    "date": "2026-09-10T23:45:00+00:00",
-    "countries": [
-     "DK"
+     "SI"
     ]
    }
   ]
@@ -811,23 +821,24 @@
  },
  "errors": [
   "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
-  "gdelt/BE: URLError",
+  "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
-  "gdelt/IE: URLError",
+  "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
-  "gdelt/BG: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

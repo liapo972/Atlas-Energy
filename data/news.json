@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T04:27:16+00:00",
+ "generated": "2026-09-13T08:28:03+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -7,30 +7,6 @@
    "source": "ENTSO-E",
    "theme": "grid",
    "date": "2026-09-25T15:00:58+00:00",
-   "countries": []
-  },
-  {
-   "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
-   "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-09-13T04:27:16+00:00",
-   "countries": []
-  },
-  {
-   "title": "High energy bills and fixed contracts continue to prevail in EU retail energy markets",
-   "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-09-13T04:27:16+00:00",
-   "countries": []
-  },
-  {
-   "title": "ACER updates Core region’s electricity rules to support long-term flow-based capacity calculation",
-   "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-09-13T04:27:16+00:00",
    "countries": []
   },
   {
@@ -64,6 +40,30 @@
    "theme": "grid",
    "date": "2026-09-10T22:00:00+00:00",
    "countries": []
+  },
+  {
+   "title": "Commission presents landmark India trade deal to Council for signature",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-10T22:00:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+   "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-10T13:00:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Monetary policy decisions",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-10T12:15:00+00:00",
+   "countries": []
   }
  ],
  "countries": {
@@ -79,61 +79,11 @@
     ]
    },
    {
-    "title": "Christof Lessenich to become the new ACER Director",
-    "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
-    "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
-    "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER amends cost sharing rules for electricity redispatching and countertrading in the Core region",
-    "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
-    "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
     "title": "Szenariorahmen 2027-2040/2045",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
+    "date": "2026-09-13T08:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -143,43 +93,59 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
+    "date": "2026-09-13T08:28:03+00:00",
     "countries": [
      "DE"
     ]
-   }
-  ],
-  "PT": [
+   },
    {
-    "title": "ACER calls for better market modelling as data centre demand outpaces electricity supply in Portugal",
-    "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
-    "source": "ACER",
+    "title": "Teilnehmerentwicklung im Mobilfunk",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Marktdaten/Mobilfunkteilnehmer/artikel.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
+    "date": "2026-09-13T08:28:03+00:00",
     "countries": [
-     "PT"
-    ]
-   }
-  ],
-  "FR": [
-   {
-    "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
-    "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-13T04:27:16+00:00",
-    "countries": [
-     "FR"
+     "DE"
     ]
    },
    {
-    "title": "Christine Lagarde: Interview with Ouest-France",
-    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-    "source": "BCE",
-    "theme": "policy",
-    "date": "2026-09-12T20:00:00+00:00",
+    "title": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-13T08:28:03+00:00",
     "countries": [
-     "FR"
+     "DE"
+    ]
+   },
+   {
+    "title": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-13T08:28:03+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Ausschreibung Solaranlagen zweites Segment: Gebotstermin 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-13T08:28:03+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Ausschreibung Biomasse: Gebotstermin 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-13T08:28:03+00:00",
+    "countries": [
+     "DE"
     ]
    }
   ],
@@ -204,6 +170,18 @@
     "date": "2026-09-10T16:31:18+00:00",
     "countries": [
      "RO"
+    ]
+   }
+  ],
+  "FR": [
+   {
+    "title": "Christine Lagarde: Interview with Ouest-France",
+    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+    "source": "BCE",
+    "theme": "policy",
+    "date": "2026-09-12T20:00:00+00:00",
+    "countries": [
+     "FR"
     ]
    }
   ],
@@ -238,423 +216,12 @@
      "GB"
     ]
    }
-  ],
-  "GR": [
-   {
-    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
-    "url": "https://www.watoday.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
-    "source": "watoday.com.au",
-    "theme": "press",
-    "date": "2026-09-13T03:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "From Hermès to Dior , double - finger ring designs are making a bold fashion statement",
-    "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3367039/hermes-dior-double-finger-ring-designs-are-making-bold-fashion-statement",
-    "source": "scmp.com",
-    "theme": "press",
-    "date": "2026-09-12T21:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
-    "url": "https://www.smh.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
-    "source": "smh.com.au",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Portugal , Greece or Switzerland ? Americans on the pros and cons of moving to Europe",
-    "url": "https://kvia.com/entertainment/cnn-style/2026/09/12/portugal-greece-or-switzerland-americans-on-the-pros-and-cons-of-moving-to-europe/",
-    "source": "kvia.com",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "How America misunderstood Iran monarchy - and the Reza Pahlavi legacy",
-    "url": "https://www.jpost.com/opinion/article-908202",
-    "source": "jpost.com",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
-    "url": "https://www.theage.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
-    "source": "theage.com.au",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Europe spends record €7 . 3bn on Russian Arctic gas in just eight months , surpassing 2025 total",
-    "url": "https://peakoil.com/publicpolicy/europe-spends-record-e7-3bn-on-russian-arctic-gas-in-just-eight-months-surpassing-2025-total",
-    "source": "peakoil.com",
-    "theme": "press",
-    "date": "2026-09-12T17:15:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Senegalese president welcomes Youth Olympic flame for Dakar 2026",
-    "url": "http://www.sierraleonetimes.com/news/279302910/senegalese-president-welcomes-youth-olympic-flame-for-dakar-2026",
-    "source": "sierraleonetimes.com",
-    "theme": "press",
-    "date": "2026-09-12T16:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   }
-  ],
-  "BG": [
-   {
-    "title": "Bulgarian Farm Costs Rise Four Times Faster Than Prices - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240558",
-    "source": "novinite.com",
-    "theme": "press",
-    "date": "2026-09-12T22:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Athens , Bucharest deepen energy connectivity",
-    "url": "https://www.azernews.az/region/263774.html",
-    "source": "azernews.az",
-    "theme": "press",
-    "date": "2026-09-12T14:15:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Volodymyr Zelenskyy says he is willing to meet Vladimir Putin at G20 Summit in Miami",
-    "url": "https://www.abc.net.au/news/2026-09-12/zelenskyy-willing-to-meet-putin-at-g20/107146956",
-    "source": "abc.net.au",
-    "theme": "press",
-    "date": "2026-09-12T12:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Azerbaijan green energy policy opens up new options linking Caspian , Central Asia , and Europe – analyst",
-    "url": "https://www.trend.az/azerbaijan/4223312.html",
-    "source": "trend.az",
-    "theme": "press",
-    "date": "2026-09-12T12:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "3D - printed food : from niche technology to a potential future",
-    "url": "https://www.euronews.com/next/2026/09/12/3d-printed-food-from-niche-technology-to-a-potential-future",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-09-12T12:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bayraktar outlines three power projects with Azerbaijan",
-    "url": "https://www.hurriyetdailynews.com/bayraktar-outlines-three-power-projects-with-azerbaijan-226793",
-    "source": "hurriyetdailynews.com",
-    "theme": "press",
-    "date": "2026-09-12T12:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "9 / 11 at 25 : How the War on Terror helped mainstream Europe far right | Opinions",
-    "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-09-12T11:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Multinationals bank on new opportunities as China upgrades services sector",
-    "url": "http://en.people.cn/n3/2026/0912/c90000-20498910.html",
-    "source": "en.people.cn",
-    "theme": "press",
-    "date": "2026-09-12T09:30:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "ANS - 256 AMSAT News Service Weekly Bulletins – AMSAT",
-    "url": "https://www.amsat.org/ans-256-amsat-news-service-weekly-bulletins-2/",
-    "source": "amsat.org",
-    "theme": "press",
-    "date": "2026-09-13T01:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian attacks kill nine , injure dozens in Ukraine",
-    "url": "https://www.dailyliberal.com.au/story/9349032/russian-attacks-kill-nine-injure-dozens-in-ukraine/",
-    "source": "dailyliberal.com.au",
-    "theme": "press",
-    "date": "2026-09-12T22:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian attacks kill nine , injure dozens in Ukraine",
-    "url": "https://www.edenmagnet.com.au/story/9349032/russian-attacks-kill-nine-injure-dozens-in-ukraine/",
-    "source": "edenmagnet.com.au",
-    "theme": "press",
-    "date": "2026-09-12T22:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian attacks kill nine , injure dozens in Ukraine",
-    "url": "https://www.crookwellgazette.com.au/story/9349032/russian-attacks-kill-nine-injure-dozens-in-ukraine/",
-    "source": "crookwellgazette.com.au",
-    "theme": "press",
-    "date": "2026-09-12T21:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian attacks kill nine , injure dozens in Ukraine",
-    "url": "https://www.sconeadvocate.com.au/story/9349032/russian-attacks-kill-nine-injure-dozens-in-ukraine/",
-    "source": "sconeadvocate.com.au",
-    "theme": "press",
-    "date": "2026-09-12T21:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Russian attacks kill nine , injure dozens in Ukraine",
-    "url": "https://www.standard.net.au/story/9349032/russian-attacks-kill-nine-injure-dozens-in-ukraine/",
-    "source": "standard.net.au",
-    "theme": "press",
-    "date": "2026-09-12T21:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Bob Dylans 1976 Live Album Hard Rain Turns 50 Amid Mixed Reception and Chart Success",
-    "url": "https://www.artistdirect.com/news/2026-09-12-bob-dylans-1976-live-album-hard-rain-turns-50-amid-mixed-reception-and-chart-success",
-    "source": "artistdirect.com",
-    "theme": "press",
-    "date": "2026-09-12T20:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.nashvilleherald.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "nashvilleherald.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "LV": [
-   {
-    "title": "When Eastern Europe appeared to be going Protestant",
-    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
-    "source": "christiantoday.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Chronicle . lu",
-    "url": "https://www.chronicle.lu/opinion/23182-from-drones-to-politics-europes-security-landscape-is-shifting",
-    "source": "chronicle.lu",
-    "theme": "press",
-    "date": "2026-09-12T18:00:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
-    "url": "https://www.goderichsignalstar.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
-    "source": "goderichsignalstar.com",
-    "theme": "press",
-    "date": "2026-09-11T23:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
-    "url": "https://www.seaforthhuronexpositor.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
-    "source": "seaforthhuronexpositor.com",
-    "theme": "press",
-    "date": "2026-09-11T23:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
-    "url": "https://www.mitchelladvocate.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
-    "source": "mitchelladvocate.com",
-    "theme": "press",
-    "date": "2026-09-11T23:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton",
-    "url": "https://www.owensoundsuntimes.com/news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton/",
-    "source": "owensoundsuntimes.com",
-    "theme": "press",
-    "date": "2026-09-11T22:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Army shakeup risks turning troops into clean - up crews , expert says",
-    "url": "https://torontosun.com/news/canadian-army-shakeup-could-turn-soldiers-into-provincial-clean-up-crews-expert-warns",
-    "source": "torontosun.com",
-    "theme": "press",
-    "date": "2026-09-11T21:15:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
-    "url": "https://www.lakeshoreadvance.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
-    "source": "lakeshoreadvance.com",
-    "theme": "press",
-    "date": "2026-09-11T20:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "Kazakhstan : A Responsible Middle Power And Strategic Connector Of Eurasia - Analysis",
-    "url": "https://www.eurasiareview.com/13092026-kazakhstan-a-responsible-middle-power-and-strategic-connector-of-eurasia-analysis/",
-    "source": "eurasiareview.com",
-    "theme": "press",
-    "date": "2026-09-13T02:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.africaleader.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "africaleader.com",
-    "theme": "press",
-    "date": "2026-09-12T23:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.australianherald.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "australianherald.com",
-    "theme": "press",
-    "date": "2026-09-12T21:45:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.shanghainews.net/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "shanghainews.net",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.shanghaisun.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "shanghaisun.com",
-    "theme": "press",
-    "date": "2026-09-12T19:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "https://www.2lt.com.au/chinese-solutions-power-global-mining-green-transition/",
-    "source": "2lt.com.au",
-    "theme": "press",
-    "date": "2026-09-12T19:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.chinanationalnews.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "chinanationalnews.com",
-    "theme": "press",
-    "date": "2026-09-12T17:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Chinese solutions power global mining green transition",
-    "url": "http://www.russiaherald.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
-    "source": "russiaherald.com",
-    "theme": "press",
-    "date": "2026-09-12T17:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   }
   ]
  },
  "feed_status": {
   "ACER": {
-   "ok": true,
-   "url": "https://www.acer.europa.eu/rss.xml",
-   "items": 10
+   "ok": false,
+   "tried": "https://www.acer.europa.eu/rss.xml -> TimeoutError"
   },
   "ENTSOG": {
    "ok": true,
@@ -708,6 +275,7 @@
   }
  },
  "errors": [
+  "ACER: https://www.acer.europa.eu/rss.xml -> TimeoutError",
   "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
@@ -724,13 +292,18 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

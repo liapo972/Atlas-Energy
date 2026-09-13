@@ -13,24 +13,17 @@ Flux RSS : 11 sources
 Requetes GDELT pays : 28
 
 --- Resultat ---
-  fil monde   : 25 titres
-  pays servis : 13 / 28
-  duree       : 104s
+  fil monde   : 8 titres
+  pays servis : 21 / 28
+  duree       : 107s
 
---- 16 avertissements ---
+--- 9 avertissements ---
+  ! gdelt/NL: HTTPError
   ! gdelt/ES: HTTPError
-  ! gdelt/IT: HTTPError
-  ! gdelt/PL: HTTPError
-  ! gdelt/CZ: HTTPError
-  ! gdelt/SK: HTTPError
-  ! gdelt/HU: HTTPError
-  ! gdelt/RO: HTTPError
-  ! gdelt/NO: HTTPError
-  ! gdelt/SE: HTTPError
-  ! gdelt/DK: HTTPError
+  ! gdelt/PT: HTTPError
+  ! gdelt/GR: HTTPError
+  ! gdelt/BG: HTTPError
   ! gdelt/FI: HTTPError
-  ! gdelt/EE: HTTPError
   ! gdelt/LV: HTTPError
-  ! gdelt/SI: HTTPError
-  ! gdelt/HR: HTTPError
-  ! gdelt/RS: HTTPError
+  ! gdelt/LT: HTTPError
+  ! gdelt/world: HTTPError

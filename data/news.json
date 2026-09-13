@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T08:28:03+00:00",
+ "generated": "2026-09-13T12:31:16+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -7,6 +7,30 @@
    "source": "ENTSO-E",
    "theme": "grid",
    "date": "2026-09-25T15:00:58+00:00",
+   "countries": []
+  },
+  {
+   "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
+   "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-09-13T12:31:16+00:00",
+   "countries": []
+  },
+  {
+   "title": "High energy bills and fixed contracts continue to prevail in EU retail energy markets",
+   "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-09-13T12:31:16+00:00",
+   "countries": []
+  },
+  {
+   "title": "ACER updates Core region’s electricity rules to support long-term flow-based capacity calculation",
+   "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-09-13T12:31:16+00:00",
    "countries": []
   },
   {
@@ -40,30 +64,6 @@
    "theme": "grid",
    "date": "2026-09-10T22:00:00+00:00",
    "countries": []
-  },
-  {
-   "title": "Commission presents landmark India trade deal to Council for signature",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-10T22:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-   "url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-10T13:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Monetary policy decisions",
-   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-10T12:15:00+00:00",
-   "countries": []
   }
  ],
  "countries": {
@@ -79,11 +79,61 @@
     ]
    },
    {
+    "title": "Christof Lessenich to become the new ACER Director",
+    "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
+    "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
+    "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "ACER amends cost sharing rules for electricity redispatching and countertrading in the Core region",
+    "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
+    "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
     "title": "Szenariorahmen 2027-2040/2045",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
+    "date": "2026-09-13T12:31:16+00:00",
     "countries": [
      "DE"
     ]
@@ -93,59 +143,43 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
+    "date": "2026-09-13T12:31:16+00:00",
     "countries": [
      "DE"
     ]
-   },
+   }
+  ],
+  "PT": [
    {
-    "title": "Teilnehmerentwicklung im Mobilfunk",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Marktdaten/Mobilfunkteilnehmer/artikel.html",
-    "source": "Bundesnetzagentur",
+    "title": "ACER calls for better market modelling as data centre demand outpaces electricity supply in Portugal",
+    "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
+    "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
+    "date": "2026-09-13T12:31:16+00:00",
     "countries": [
-     "DE"
+     "PT"
+    ]
+   }
+  ],
+  "FR": [
+   {
+    "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
+    "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-13T12:31:16+00:00",
+    "countries": [
+     "FR"
     ]
    },
    {
-    "title": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
-    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
+    "title": "Christine Lagarde: Interview with Ouest-France",
+    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+    "source": "BCE",
+    "theme": "policy",
+    "date": "2026-09-12T20:00:00+00:00",
     "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
-    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Ausschreibung Solaranlagen zweites Segment: Gebotstermin 1. Oktober 2026",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Ausschreibung Biomasse: Gebotstermin 1. Oktober 2026",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-13T08:28:03+00:00",
-    "countries": [
-     "DE"
+     "FR"
     ]
    }
   ],
@@ -170,18 +204,6 @@
     "date": "2026-09-10T16:31:18+00:00",
     "countries": [
      "RO"
-    ]
-   }
-  ],
-  "FR": [
-   {
-    "title": "Christine Lagarde: Interview with Ouest-France",
-    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-    "source": "BCE",
-    "theme": "policy",
-    "date": "2026-09-12T20:00:00+00:00",
-    "countries": [
-     "FR"
     ]
    }
   ],
@@ -216,12 +238,455 @@
      "GB"
     ]
    }
+  ],
+  "NO": [
+   {
+    "title": "World Largest Fully Electric Ferry Unveiled as Global Shipping Pushes Toward Clean Energy",
+    "url": "https://www.khaama.com/worlds-largest-fully-electric-ferry-unveiled-as-global-shipping-pushes-toward-clean-energy/",
+    "source": "khaama.com",
+    "theme": "press",
+    "date": "2026-09-13T09:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "krdo.com",
+    "theme": "press",
+    "date": "2026-09-13T07:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://ktvz.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "ktvz.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Can Europe recharge its battery industry ?",
+    "url": "http://www.businessghana.com/site/news/Technology/356027/Can-Europe-recharge-its-battery-industry",
+    "source": "businessghana.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "abc17news.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "I watched Thatcher slash the NHS – here my warning for John Swinney",
+    "url": "https://www.thenational.scot/politics/26545005.watched-thatcher-slash-nhs---warning-john-swinney/",
+    "source": "thenational.scot",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "India joins 24 nations in global 6G leadership and security",
+    "url": "https://organiser.org/2026/09/13/380298/bharat/india-joins-24-nations-in-global-6g-push-endorses-call-for-secure-and-resilient-networks/",
+    "source": "organiser.org",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Ukraine reports first battle between naval drones",
+    "url": "https://www.canberratimes.com.au/story/9349032/ukraine-reports-first-battle-between-naval-drones/",
+    "source": "canberratimes.com.au",
+    "theme": "press",
+    "date": "2026-09-13T05:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "Sweden votes in election thriller , far right eyes govt role",
+    "url": "https://www.hurriyetdailynews.com/sweden-votes-in-election-thriller-far-right-eyes-govt-role-226809",
+    "source": "hurriyetdailynews.com",
+    "theme": "press",
+    "date": "2026-09-13T08:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Swedish Voters Go to Polls to Choose a New Parliament as Hard Right Bids for Role in Government",
+    "url": "https://english.aawsat.com/world/5317674-swedish-voters-go-polls-choose-new-parliament-hard-right-bids-role-government",
+    "source": "english.aawsat.com",
+    "theme": "press",
+    "date": "2026-09-13T08:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Arab News | Sweden votes in election thriller , far right eyes govt role",
+    "url": "https://www.arabnews.com/world/sweden-votes-in-election-thriller-far-right-eyes-govt-role-3001536",
+    "source": "arabnews.com",
+    "theme": "press",
+    "date": "2026-09-13T08:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Middle powers guarding Europe eastern flank – opinion",
+    "url": "https://www.lrt.lt/en/news-in-english/19/3047171/middle-powers-guarding-europe-s-eastern-flank-opinion",
+    "source": "lrt.lt",
+    "theme": "press",
+    "date": "2026-09-13T08:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Swedish voters go to polls to choose a new parliament as hard right bids for role in government",
+    "url": "http://www.thegazette.com/news/world/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for/article_51edb7d3-c518-59d3-ba92-7dbfd9ad76e3.html",
+    "source": "thegazette.com",
+    "theme": "press",
+    "date": "2026-09-13T08:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Bitcoin billionaires give Nigel Farage Reform united kingdom £72 million in 48 hours",
+    "url": "https://www.brisbanetimes.com.au/world/europe/bitcoin-billionaires-give-nigel-farage-s-reform-uk-72m-in-48-hours-20260913-p60wx5.html",
+    "source": "brisbanetimes.com.au",
+    "theme": "press",
+    "date": "2026-09-13T07:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Bitcoin billionaires give Nigel Farage Reform united kingdom £72 million in 48 hours",
+    "url": "https://www.smh.com.au/world/europe/bitcoin-billionaires-give-nigel-farage-s-reform-uk-72m-in-48-hours-20260913-p60wx5.html",
+    "source": "smh.com.au",
+    "theme": "press",
+    "date": "2026-09-13T07:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Swedish voters go to polls to choose a new parliament as hard right bids for role in government",
+    "url": "https://www.goshennews.com/news/national_news/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for/article_b9b3f8a4-caab-51b8-b8f3-6f0f4122ad3f.html",
+    "source": "goshennews.com",
+    "theme": "press",
+    "date": "2026-09-13T07:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "European Arctic Summit in Rovaniemi : Nicușor Dan to Address Security Challenges from the Arctic to the Black Sea",
+    "url": "https://nineoclock.ro/european-arctic-summit-in-rovaniemi-nicusor-dan-to-address-security-challenges-from-the-arctic-to-the-black-sea/",
+    "source": "nineoclock.ro",
+    "theme": "press",
+    "date": "2026-09-13T08:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Overnight News Digest : September 12 , 2026",
+    "url": "https://www.dailykos.com/stories/2026/9/12/800097546/community/overnight-news-digest-september-12-2026/",
+    "source": "dailykos.com",
+    "theme": "press",
+    "date": "2026-09-13T07:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Charting the global economy : Oil surge fans global inflation",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-oil-surge-fans-global-inflation/articleshow/134175593.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Trump tough talk accelerates Greenland investment push",
+    "url": "https://www.thenationalnews.com/business/2026/09/13/trumps-tough-talk-accelerates-greenland-investment-push/",
+    "source": "thenationalnews.com",
+    "theme": "press",
+    "date": "2026-09-13T05:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Fiction in translation : Hafni Says by Danish writer Helle Helle is close to perfection",
+    "url": "https://www.irishtimes.com/culture/books/review/2026/09/13/fiction-in-translation-hafni-says-by-danish-writer-helle-helle-is-close-to-perfection/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-09-13T04:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "AP Entertainment SummaryBrief at 6 : 17 p . m . EDT",
+    "url": "https://santamariatimes.com/ap/entertainment/ap-entertainment-summarybrief-at-6-17-p-m-edt/article_5ab7aa85-d607-5b75-a4c2-9ca1f2d26840.html",
+    "source": "santamariatimes.com",
+    "theme": "press",
+    "date": "2026-09-13T02:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "French military jets launch 40 - day global flight to project power , strengthen alliances",
+    "url": "https://www.dailyexcelsior.com/french-military-jets-launch-40-day-global-flight-to-project-power-strengthen-alliances/",
+    "source": "dailyexcelsior.com",
+    "theme": "press",
+    "date": "2026-09-13T02:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "FI": [
+   {
+    "title": "2026 ILCA 6 Women World Championship at Dún Laoghaire , Ireland",
+    "url": "https://www.sail-world.com/news/299775/2026-ILCA-6-Womens-Worlds-overall",
+    "source": "sail-world.com",
+    "theme": "press",
+    "date": "2026-09-13T09:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
+    "url": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
+    "source": "israelherald.com",
+    "theme": "press",
+    "date": "2026-09-13T08:45:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "A taste of home : discovering Sweden local food heroes | Sweden holidays",
+    "url": "https://www.theguardian.com/travel/2026/sep/13/a-taste-of-home-discovering-swedens-local-food-heroes",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "From tiny houses to skis : This Swedish company is finding creative uses for retired wind turbines",
+    "url": "https://www.euronews.com/2026/09/13/from-tiny-houses-to-skis-this-swedish-company-is-finding-creative-uses-for-retired-wind-tu",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "The party in Sweden is over : anti - Islam metal keyboardist Jimmie Åkesson closes in",
+    "url": "https://www.ynetnews.com/article/skwjc8qkzl",
+    "source": "ynetnews.com",
+    "theme": "press",
+    "date": "2026-09-13T03:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Europe boosts LNG trade ahead of the ban | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/publicpolicy/europe-boosts-lng-trade-ahead-of-the-ban",
+    "source": "peakoil.com",
+    "theme": "press",
+    "date": "2026-09-13T00:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "The Race to Solve Nuclear Energy Biggest Problem",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+    "source": "oilprice.com",
+    "theme": "press",
+    "date": "2026-09-12T19:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Chronicle . lu",
+    "url": "https://www.chronicle.lu/opinion/23182-from-drones-to-politics-europes-security-landscape-is-shifting",
+    "source": "chronicle.lu",
+    "theme": "press",
+    "date": "2026-09-12T18:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   }
+  ],
+  "EE": [
+   {
+    "title": "When Eastern Europe appeared to be going Protestant",
+    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
+    "source": "christiantoday.com",
+    "theme": "press",
+    "date": "2026-09-13T00:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "France inflation rate in August 2026 : How it compares with the eurozone",
+    "url": "https://www.connexionfrance.com/news/eurozone-inflation-reaches-33-see-how-france-compares-with-its-neighbours/812620",
+    "source": "connexionfrance.com",
+    "theme": "press",
+    "date": "2026-09-12T14:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Canada Was the Best Country in the World to Live . What Happened ?",
+    "url": "https://thewalrus.ca/canada-was-the-best-country-in-the-world-to-live/",
+    "source": "thewalrus.ca",
+    "theme": "press",
+    "date": "2026-09-12T13:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "3D - printed food : from niche technology to a potential future",
+    "url": "https://www.euronews.com/next/2026/09/12/3d-printed-food-from-niche-technology-to-a-potential-future",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-09-12T12:45:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Water Shortages Now Hitting Russia Hard Across The Board - Analysis",
+    "url": "https://www.eurasiareview.com/12092026-water-shortages-now-hitting-russia-hard-across-the-board-analysis/",
+    "source": "eurasiareview.com",
+    "theme": "press",
+    "date": "2026-09-12T03:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   }
+  ],
+  "LV": [
+   {
+    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
+    "url": "https://www.goderichsignalstar.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
+    "source": "goderichsignalstar.com",
+    "theme": "press",
+    "date": "2026-09-11T23:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
+    "url": "https://www.seaforthhuronexpositor.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
+    "source": "seaforthhuronexpositor.com",
+    "theme": "press",
+    "date": "2026-09-11T23:15:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
+    "url": "https://www.mitchelladvocate.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
+    "source": "mitchelladvocate.com",
+    "theme": "press",
+    "date": "2026-09-11T23:15:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton",
+    "url": "https://www.owensoundsuntimes.com/news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton/",
+    "source": "owensoundsuntimes.com",
+    "theme": "press",
+    "date": "2026-09-11T22:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Army shakeup risks turning troops into clean - up crews , expert says",
+    "url": "https://torontosun.com/news/canadian-army-shakeup-could-turn-soldiers-into-provincial-clean-up-crews-expert-warns",
+    "source": "torontosun.com",
+    "theme": "press",
+    "date": "2026-09-11T21:15:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "The countdown is on for the 2026 International Plowing Match near Walkerton - Owen Sound Sun - Times",
+    "url": "https://www.lakeshoreadvance.com:443/owen-sound-region-news/the-countdown-is-on-for-the-2026-international-plowing-match-near-walkerton",
+    "source": "lakeshoreadvance.com",
+    "theme": "press",
+    "date": "2026-09-11T20:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "NATO member risking nuclear standoff",
+    "url": "http://www.europesun.com/news/279300595/nato-member-risking-nuclear-standoff-kremlin",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-09-11T15:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   }
   ]
  },
  "feed_status": {
   "ACER": {
-   "ok": false,
-   "tried": "https://www.acer.europa.eu/rss.xml -> TimeoutError"
+   "ok": true,
+   "url": "https://www.acer.europa.eu/rss.xml",
+   "items": 10
   },
   "ENTSOG": {
    "ok": true,
@@ -275,15 +740,14 @@
   }
  },
  "errors": [
-  "ACER: https://www.acer.europa.eu/rss.xml -> TimeoutError",
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
+  "gdelt/FR: URLError",
+  "gdelt/DE: URLError",
+  "gdelt/NL: URLError",
+  "gdelt/BE: URLError",
+  "gdelt/GB: URLError",
+  "gdelt/IE: URLError",
+  "gdelt/CH: URLError",
+  "gdelt/AT: URLError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
@@ -294,12 +758,6 @@
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",

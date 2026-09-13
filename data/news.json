@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T12:31:16+00:00",
+ "generated": "2026-09-13T16:27:36+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-13T12:31:16+00:00",
+   "date": "2026-09-13T16:27:36+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-13T12:31:16+00:00",
+   "date": "2026-09-13T16:27:36+00:00",
    "countries": []
   },
   {
@@ -30,40 +30,155 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-core-regions-electricity-rules-support-long-term-flow-based-capacity-calculation",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-13T12:31:16+00:00",
+   "date": "2026-09-13T16:27:36+00:00",
    "countries": []
   },
   {
-   "title": "Christine Lagarde: Europe seen from Normandy",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-12T10:15:00+00:00",
-   "countries": []
+   "title": "Comparing Mammoth Energy Services ( NASDAQ : TUSK ) & united states Compression Partners ( NYSE : USAC )",
+   "url": "https://www.themarketsdaily.com/2026/09/13/comparing-mammoth-energy-services-nasdaqtusk-usa-compression-partners-nyseusac.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "Press Remarks by Commissioner Lahbib in Moldova",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1862",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-11T15:34:00+00:00",
-   "countries": []
+   "title": "China , Russia , India seek economic cooperation at BRICS",
+   "url": "https://www.straitstimes.com/asia/south-asia/china-russia-india-seek-economic-cooperation-at-brics",
+   "source": "straitstimes.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "Daily News 11 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1856",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-11T10:01:31+00:00",
-   "countries": []
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.newsshopper.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "newsshopper.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "Factsheet - EU solidarity with Ukraine",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_22_3862",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-10T22:00:00+00:00",
-   "countries": []
+   "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead , Iranian media say",
+   "url": "http://www.stardem.com/ap/world/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-with-1-dead-iranian-media/article_7b7994df-d263-5fa0-ba4d-eb8d6ea21f22.html",
+   "source": "stardem.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "39 , 700 Shares in Noble Corporation PLC $NE Purchased by VIRGINIA RETIREMENT SYSTEMS ET Al",
+   "url": "https://www.themarketsdaily.com/2026/09/13/39700-shares-in-noble-corporation-plc-ne-purchased-by-virginia-retirement-systems-et-al.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.clactonandfrintongazette.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "clactonandfrintongazette.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+   "url": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+   "source": "zimbabwestar.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.lbc.co.uk/article/092f5f97f79e4e5b9cf7304cc7b30d43-5HjdhLC_2/",
+   "source": "lbc.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.southwalesargus.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "southwalesargus.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.denbighshirefreepress.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "denbighshirefreepress.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Weekly review of Azerbaijan precious metals market",
+   "url": "https://www.trend.az/azerbaijan/4223254.html",
+   "source": "trend.az",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "HD Hyundai , Hanwha Ocean to showcase next - gen gas tech in Bangkok",
+   "url": "https://www.koreatimes.co.kr/business/companies/20260913/hd-hyundai-hanwha-ocean-to-showcase-next-gen-gas-tech-in-bangkok",
+   "source": "koreatimes.co.kr",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.keighleynews.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "keighleynews.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.eastlothiancourier.com/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "eastlothiancourier.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "World braces for Big Jump in Oil Prices after Saudi Pipeline Shutdown due to Houthi Threats",
+   "url": "https://en.dailypakistan.com.pk/13-Sep-2026/world-braces-for-big-jump-in-oil-prices-after-saudi-pipeline-shutdown-due-to-houthi-threats",
+   "source": "en.dailypakistan.com.pk",
+   "theme": "press",
+   "date": "2026-09-13T09:00:00+00:00"
+  },
+  {
+   "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
+   "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-interest-rate-082602228.html",
+   "source": "finance.yahoo.com",
+   "theme": "press",
+   "date": "2026-09-13T09:00:00+00:00"
+  },
+  {
+   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+   "url": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+   "source": "israelherald.com",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
+  },
+  {
+   "title": "Want $1 , 000 a Year in Passive Income from Energy Transfer LP ( ET ) Stock ? Here How Many Shares Youd Need .",
+   "url": "https://www.fool.com/investing/2026/09/13/1000-a-year-in-dividends-from-energy-transfer-et/",
+   "source": "fool.com",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
+  },
+  {
+   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+   "url": "http://www.iranherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+   "source": "iranherald.com",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.thewestmorlandgazette.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "thewestmorlandgazette.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.dunfermlinepress.com/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "dunfermlinepress.com",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
   }
  ],
  "countries": {
@@ -83,7 +198,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +208,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +218,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +228,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -123,7 +238,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -133,7 +248,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -143,7 +258,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "DE"
     ]
@@ -155,7 +270,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "PT"
     ]
@@ -167,7 +282,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-13T12:31:16+00:00",
+    "date": "2026-09-13T16:27:36+00:00",
     "countries": [
      "FR"
     ]
@@ -227,15 +342,159 @@
     "countries": [
      "GB"
     ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Latin America : Patterns and Pendulum",
+    "url": "https://internationalviewpoint.org/Latin-America-Patterns-and-Pendulum",
+    "source": "internationalviewpoint.org",
+    "theme": "press",
+    "date": "2026-09-13T09:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
    },
    {
-    "title": "Back the Humber to create thousands of jobs in Britain’s first hydrogen heartland",
-    "url": "https://www.nationalgas.com/media/news/back-humber-create-thousands-jobs-britains-first-hydrogen-heartland",
-    "source": "National Gas",
-    "theme": "grid",
-    "date": "2026-09-03T14:59:29+00:00",
+    "title": "A Romani artist in Hungary reclaims his identity",
+    "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-09-13T08:45:00+00:00",
     "countries": [
-     "GB"
+     "HU"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "krdo.com",
+    "theme": "press",
+    "date": "2026-09-13T07:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://ktvz.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "ktvz.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Ready player one : Orbán says Fidesz is gearing up for its comeback",
+    "url": "https://www.budapesttimes.hu/hungary/ready-player-one-orban-says-fidesz-is-gearing-up-for-its-comeback/",
+    "source": "budapesttimes.hu",
+    "theme": "press",
+    "date": "2026-09-13T07:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "abc17news.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "The united kingdom Banned Audi Greatest Performance Engine , But The united states Isnt Letting It Die Yet",
+    "url": "https://carbuzz.com/audi-five-cylinder-rs3-engine-kept-alive-usa/",
+    "source": "carbuzz.com",
+    "theme": "press",
+    "date": "2026-09-13T05:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "When Eastern Europe appeared to be going Protestant",
+    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
+    "source": "christiantoday.com",
+    "theme": "press",
+    "date": "2026-09-13T00:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "Brexiteer fury over calls to rejoin the EU customs union",
+    "url": "https://www.aol.co.uk/articles/brexiteer-fury-over-calls-rejoin-072400000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-09-13T08:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Pearls of Wisdom : The Post - 50s Syndrome The Life That Happened in a Few Seconds",
+    "url": "https://indianewengland.com/pearls-of-wisdom-the-post-50s-syndrome-the-life-that-happened-in-a-few-seconds/",
+    "source": "indianewengland.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Cyprus Business Now : weekly wrap - up",
+    "url": "https://cyprus-mail.com/2026/09/13/cyprus-business-now-weekly-wrap-up-178",
+    "source": "cyprus-mail.com",
+    "theme": "press",
+    "date": "2026-09-13T07:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "India joins 24 nations in global 6G leadership and security",
+    "url": "https://organiser.org/2026/09/13/380298/bharat/india-joins-24-nations-in-global-6g-push-endorses-call-for-secure-and-resilient-networks/",
+    "source": "organiser.org",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "The People Republic : How they rule - Tribune Online",
+    "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
+    "source": "tribuneonlineng.com",
+    "theme": "press",
+    "date": "2026-09-13T05:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
+    "url": "https://www.watoday.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
+    "source": "watoday.com.au",
+    "theme": "press",
+    "date": "2026-09-13T03:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "From Hermès to Dior , double - finger ring designs are making a bold fashion statement",
+    "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3367039/hermes-dior-double-finger-ring-designs-are-making-bold-fashion-statement",
+    "source": "scmp.com",
+    "theme": "press",
+    "date": "2026-09-12T21:00:00+00:00",
+    "countries": [
+     "GR"
     ]
    }
   ],
@@ -251,39 +510,9 @@
     ]
    },
    {
-    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-    "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-    "source": "krdo.com",
-    "theme": "press",
-    "date": "2026-09-13T07:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-    "url": "https://ktvz.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-    "source": "ktvz.com",
-    "theme": "press",
-    "date": "2026-09-13T07:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
     "title": "Can Europe recharge its battery industry ?",
     "url": "http://www.businessghana.com/site/news/Technology/356027/Can-Europe-recharge-its-battery-industry",
     "source": "businessghana.com",
-    "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-    "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-    "source": "abc17news.com",
     "theme": "press",
     "date": "2026-09-13T06:15:00+00:00",
     "countries": [
@@ -301,19 +530,19 @@
     ]
    },
    {
-    "title": "India joins 24 nations in global 6G leadership and security",
-    "url": "https://organiser.org/2026/09/13/380298/bharat/india-joins-24-nations-in-global-6g-push-endorses-call-for-secure-and-resilient-networks/",
-    "source": "organiser.org",
+    "title": "Ukraine reports first battle between naval drones",
+    "url": "https://www.canberratimes.com.au/story/9349032/ukraine-reports-first-battle-between-naval-drones/",
+    "source": "canberratimes.com.au",
     "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
+    "date": "2026-09-13T05:30:00+00:00",
     "countries": [
      "NO"
     ]
    },
    {
     "title": "Ukraine reports first battle between naval drones",
-    "url": "https://www.canberratimes.com.au/story/9349032/ukraine-reports-first-battle-between-naval-drones/",
-    "source": "canberratimes.com.au",
+    "url": "https://www.naroomanewsonline.com.au/story/9349032/ukraine-reports-first-battle-between-naval-drones/",
+    "source": "naroomanewsonline.com.au",
     "theme": "press",
     "date": "2026-09-13T05:30:00+00:00",
     "countries": [
@@ -559,16 +788,6 @@
   ],
   "EE": [
    {
-    "title": "When Eastern Europe appeared to be going Protestant",
-    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
-    "source": "christiantoday.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
     "title": "France inflation rate in August 2026 : How it compares with the eurozone",
     "url": "https://www.connexionfrance.com/news/eurozone-inflation-reaches-33-see-how-france-compares-with-its-neighbours/812620",
     "source": "connexionfrance.com",
@@ -740,28 +959,25 @@
   }
  },
  "errors": [
-  "gdelt/FR: URLError",
-  "gdelt/DE: URLError",
-  "gdelt/NL: URLError",
-  "gdelt/BE: URLError",
-  "gdelt/GB: URLError",
-  "gdelt/IE: URLError",
-  "gdelt/CH: URLError",
-  "gdelt/AT: URLError",
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }

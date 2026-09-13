@@ -1,87 +1,38 @@
-Journee visee : 2026-09-11
+Journee visee : 2026-09-12
 Butoir global : 420 secondes
 Token ENTSO-E : present (36 caracteres)
 Cle GIE       : presente (32 caracteres)
 Sonde ENTSO-E (France)...
-  OK -> {'value': 171.48, 'currency': 'EUR'}
+  OK -> {'value': 164.23, 'currency': 'EUR'}
 Sonde GIE AGSI+ (France)...
-  OK -> full = 75.4 au 2026-09-10
+  OK -> full = 75.77 au 2026-09-11
 Sonde GIE ALSI (terminaux GNL, France)...
-  OK -> sendOut = 776.7 GWh/j au 2026-09-10
+  OK -> sendOut = 726.1 GWh/j au 2026-09-11
 
 Requetes a lancer : 110
-   ... requetes 20/110 (402s restantes)
-   ... requetes 40/110 (382s restantes)
-   ... requetes 60/110 (124s restantes)
-   ... requetes 80/110 (0s restantes)
-   ... requetes 100/110 (0s restantes)
+   ... requetes 20/110 (411s restantes)
+   ... requetes 40/110 (392s restantes)
+   ... requetes 60/110 (391s restantes)
+   ... requetes 80/110 (383s restantes)
+   ... requetes 100/110 (376s restantes)
 
 --- Resultat ---
-  price     27 valeurs (2 du jour, 25 reportees)
-  load      26 valeurs (2 du jour, 24 reportees)
+  price     27 valeurs (27 du jour, 0 reportees)
+  load      26 valeurs (26 du jour, 0 reportees)
   storage   17 valeurs (17 du jour, 0 reportees)
   netwd     17 valeurs (17 du jour, 0 reportees)
   lng       12 valeurs (12 du jour, 0 reportees)
-  duree     420s
+  duree     47s
 
---- 60 erreurs ---
+--- 11 erreurs ---
   ! gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
   ! netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
-  ! lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "United Kingdom (Pre-Brexit)", "code": "GB", "url": "GB", "updatedAt": "2026-09-12 09:02:25", "gasDayStart": "2026-09-10", "gasDayEnd": "2026-09-11", "inventory": {"lng": "-", "gwh": "-"}, "sendOut": "-", "dtmi": {"lng": "-", "gwh": "-"}, "dtrs": "-", "contractedCapacity": "-", "availableCapacity": "-", "coveredCapacity": "-", "info": [], "status": "N"}
+  ! lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "United Kingdom (Pre-Brexit)", "code": "GB", "url": "GB", "updatedAt": "2026-09-12 22:02:05", "gasDayStart": "2026-09-11", "gasDayEnd": "2026-09-12", "inventory": {"lng": "-", "gwh": "-"}, "sendOut": "-", "dtmi": {"lng": "-", "gwh": "-"}, "dtrs": "-", "contractedCapacity": "-", "availableCapacity": "-", "coveredCapacity": "-", "info": [], "status": "N"}
   ! gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url
   ! netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url
-  ! lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "SE", "code": "SE", "url": "SE", "gasDayStart": "2026-09-10", "inventory": "-", "sendOut": "-", "dtmi": "-", "dtrs": "-", "info": [], "status": "N"}
+  ! lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "SE", "code": "SE", "url": "SE", "gasDayStart": "2026-09-11", "inventory": "-", "sendOut": "-", "dtmi": "-", "dtrs": "-", "info": [], "status": "N"}
   ! gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
   ! netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
-  ! load/FR: RuntimeError: TimeoutError: The read operation timed out
-  ! price/NL: RuntimeError: TimeoutError: The read operation timed out
-  ! load/NL: RuntimeError: TimeoutError: The read operation timed out
-  ! price/BE: RuntimeError: TimeoutError: The read operation timed out
-  ! price/GB: RuntimeError: TimeoutError: The read operation timed out
-  ! load/GB: RuntimeError: TimeoutError: The read operation timed out
-  ! price/IE: RuntimeError: TimeoutError: The read operation timed out
-  ! load/IE: butoir atteint
-  ! price/CH: butoir atteint
-  ! load/CH: butoir atteint
-  ! price/AT: butoir atteint
-  ! load/AT: butoir atteint
-  ! price/ES: butoir atteint
-  ! load/ES: butoir atteint
-  ! price/PT: butoir atteint
-  ! load/PT: butoir atteint
-  ! price/IT: butoir atteint
-  ! load/IT: butoir atteint
-  ! price/PL: butoir atteint
-  ! load/PL: butoir atteint
-  ! price/CZ: butoir atteint
-  ! load/CZ: butoir atteint
-  ! price/SK: butoir atteint
-  ! load/SK: butoir atteint
-  ! price/HU: butoir atteint
-  ! load/HU: butoir atteint
-  ! price/RO: butoir atteint
-  ! load/RO: butoir atteint
-  ! price/GR: butoir atteint
-  ! load/GR: butoir atteint
-  ! price/BG: butoir atteint
-  ! load/BG: butoir atteint
-  ! price/NO: butoir atteint
-  ! load/NO: butoir atteint
-  ! price/SE: butoir atteint
-  ! load/SE: butoir atteint
-  ! price/DK: butoir atteint
-  ! load/DK: butoir atteint
-  ! price/FI: butoir atteint
-  ! load/FI: butoir atteint
-  ! price/EE: butoir atteint
-  ! load/EE: butoir atteint
-  ! price/LV: butoir atteint
-  ! load/LV: butoir atteint
-  ! price/LT: butoir atteint
-  ! load/LT: butoir atteint
-  ! price/SI: butoir atteint
-  ! load/SI: butoir atteint
-  ! price/HR: butoir atteint
-  ! load/HR: butoir atteint
-  ! price/RS: butoir atteint
-  ! load/RS: butoir atteint
+  ! price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-09-12T00:00:00Z/2026-09-13T00:00:00Z.
+  ! load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-09-12T00:00:00Z/2026-09-13T00:00:00Z.
+  ! load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-09-12T00:00:00Z/2026-09-13T00:00:00Z.

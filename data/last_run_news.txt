@@ -1,6 +1,6 @@
 Flux RSS : 11 sources
   OK   ACER                     https://www.acer.europa.eu/rss.xml
-  OK   ENTSOG                   https://www.entsog.eu/rss.xml
+  MORT ENTSOG                   https://www.entsog.eu/rss.xml -> ParseError
   OK   ENTSO-E                  https://www.entsoe.eu/rss.xml
   OK   Commission européenne    https://ec.europa.eu/commission/presscorner/api/rss?language=en
   OK   BCE                      https://www.ecb.europa.eu/rss/press.html
@@ -13,11 +13,12 @@ Flux RSS : 11 sources
 Requetes GDELT pays : 28
 
 --- Resultat ---
-  fil monde   : 25 titres
-  pays servis : 10 / 28
-  duree       : 114s
+  fil monde   : 8 titres
+  pays servis : 12 / 28
+  duree       : 141s
 
---- 24 avertissements ---
+--- 26 avertissements ---
+  ! ENTSOG: https://www.entsog.eu/rss.xml -> ParseError
   ! gdelt/FR: HTTPError
   ! gdelt/DE: HTTPError
   ! gdelt/NL: HTTPError
@@ -31,14 +32,15 @@ Requetes GDELT pays : 28
   ! gdelt/IT: HTTPError
   ! gdelt/PL: HTTPError
   ! gdelt/CZ: HTTPError
-  ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
   ! gdelt/RO: HTTPError
+  ! gdelt/GR: HTTPError
+  ! gdelt/BG: HTTPError
+  ! gdelt/NO: HTTPError
+  ! gdelt/SE: HTTPError
   ! gdelt/DK: HTTPError
-  ! gdelt/FI: HTTPError
-  ! gdelt/EE: HTTPError
   ! gdelt/LV: HTTPError
   ! gdelt/LT: HTTPError
-  ! gdelt/SI: HTTPError
   ! gdelt/HR: HTTPError
   ! gdelt/RS: HTTPError
+  ! gdelt/world: HTTPError

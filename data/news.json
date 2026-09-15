@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T12:33:21+00:00",
+ "generated": "2026-09-15T16:28:34+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-15T12:33:21+00:00",
+   "date": "2026-09-15T16:28:34+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,39 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-15T12:33:21+00:00",
+   "date": "2026-09-15T16:28:34+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 15 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1883",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-15T15:05:31+00:00",
+   "countries": []
+  },
+  {
+   "title": "Commission issues €11 billion in its 8th syndicated transaction of 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1879",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-15T12:53:40+00:00",
+   "countries": []
+  },
+  {
+   "title": "Questions and Answers on Fair Labour Mobility Package",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_1852",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-14T22:00:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Factsheet: A digital European Social Security Pass",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_1854",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-14T22:00:00+00:00",
    "countries": []
   },
   {
@@ -34,36 +66,123 @@
    "countries": []
   },
   {
-   "title": "Daily News 14 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1864",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-14T09:36:39+00:00",
-   "countries": []
+   "title": "Comparing Mammoth Energy Services ( NASDAQ : TUSK ) & united states Compression Partners ( NYSE : USAC )",
+   "url": "https://www.themarketsdaily.com/2026/09/13/comparing-mammoth-energy-services-nasdaqtusk-usa-compression-partners-nyseusac.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-14T09:15:00+00:00",
-   "countries": []
+   "title": "China , Russia , India seek economic cooperation at BRICS",
+   "url": "https://www.straitstimes.com/asia/south-asia/china-russia-india-seek-economic-cooperation-at-brics",
+   "source": "straitstimes.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "EU Missions drive systemic change, new assessment shows",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1863",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-14T08:32:17+00:00",
-   "countries": []
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.newsshopper.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "newsshopper.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
   },
   {
-   "title": "Christine Lagarde: Europe seen from Normandy",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-12T10:15:00+00:00",
-   "countries": []
+   "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead , Iranian media say",
+   "url": "http://www.stardem.com/ap/world/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-with-1-dead-iranian-media/article_7b7994df-d263-5fa0-ba4d-eb8d6ea21f22.html",
+   "source": "stardem.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "39 , 700 Shares in Noble Corporation PLC $NE Purchased by VIRGINIA RETIREMENT SYSTEMS ET Al",
+   "url": "https://www.themarketsdaily.com/2026/09/13/39700-shares-in-noble-corporation-plc-ne-purchased-by-virginia-retirement-systems-et-al.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.clactonandfrintongazette.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "clactonandfrintongazette.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+   "url": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+   "source": "zimbabwestar.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.lbc.co.uk/article/092f5f97f79e4e5b9cf7304cc7b30d43-5HjdhLC_2/",
+   "source": "lbc.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.southwalesargus.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "southwalesargus.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.denbighshirefreepress.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "denbighshirefreepress.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Weekly review of Azerbaijan precious metals market",
+   "url": "https://www.trend.az/azerbaijan/4223254.html",
+   "source": "trend.az",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "HD Hyundai , Hanwha Ocean to showcase next - gen gas tech in Bangkok",
+   "url": "https://www.koreatimes.co.kr/business/companies/20260913/hd-hyundai-hanwha-ocean-to-showcase-next-gen-gas-tech-in-bangkok",
+   "source": "koreatimes.co.kr",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.keighleynews.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "keighleynews.co.uk",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
+   "url": "https://www.eastlothiancourier.com/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
+   "source": "eastlothiancourier.com",
+   "theme": "press",
+   "date": "2026-09-13T09:15:00+00:00"
+  },
+  {
+   "title": "World braces for Big Jump in Oil Prices after Saudi Pipeline Shutdown due to Houthi Threats",
+   "url": "https://en.dailypakistan.com.pk/13-Sep-2026/world-braces-for-big-jump-in-oil-prices-after-saudi-pipeline-shutdown-due-to-houthi-threats",
+   "source": "en.dailypakistan.com.pk",
+   "theme": "press",
+   "date": "2026-09-13T09:00:00+00:00"
+  },
+  {
+   "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
+   "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-interest-rate-082602228.html",
+   "source": "finance.yahoo.com",
+   "theme": "press",
+   "date": "2026-09-13T09:00:00+00:00"
+  },
+  {
+   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
+   "url": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
+   "source": "israelherald.com",
+   "theme": "press",
+   "date": "2026-09-13T08:45:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +192,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "AT",
      "SI"
@@ -86,29 +205,9 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "AT",
-     "SI"
-    ]
-   },
-   {
-    "title": "Kazakhstan : A Responsible Middle Power And Strategic Connector Of Eurasia - Analysis",
-    "url": "https://www.eurasiareview.com/13092026-kazakhstan-a-responsible-middle-power-and-strategic-connector-of-eurasia-analysis/",
-    "source": "eurasiareview.com",
-    "theme": "press",
-    "date": "2026-09-13T02:45:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Miss Teen Universe Singapore 2026 is also an AI researcher and international model",
-    "url": "https://www.asiaone.com/lifestyle/riona-krishnan-dighe-miss-teen-universe-singapore-2026-ai-researcher-international-model",
-    "source": "asiaone.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
      "SI"
     ]
    }
@@ -129,7 +228,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -139,7 +238,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -149,7 +248,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -159,7 +258,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -169,7 +268,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -179,7 +278,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -189,7 +288,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "DE"
     ]
@@ -201,7 +300,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "PT"
     ]
@@ -283,7 +382,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-15T12:33:21+00:00",
+    "date": "2026-09-15T16:28:34+00:00",
     "countries": [
      "FR"
     ]
@@ -299,96 +398,15 @@
     ]
    }
   ],
-  "RO": [
-   {
-    "title": "Commission approves €52 million Romanian State aid for cattle farmers facing increased fuel and fertiliser prices",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1835",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-09-13T22:00:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.nashvilleherald.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "nashvilleherald.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.brazilsun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "brazilsun.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Another Viewpoint or Three",
-    "url": "https://www.independent.com/2026/09/12/another-viewpoint-or-three/",
-    "source": "independent.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.sanantoniopost.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "sanantoniopost.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.stlouisstar.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "stlouisstar.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.oklahomacitysun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "oklahomacitysun.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.neworleanssun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "neworleanssun.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   }
-  ],
   "IT": [
    {
-    "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of International Day of Democracy",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1861",
+    "title": "Remarks by Commissioner Brunner at the European Parliament Plenary debate on the situation in Ceuta and strengthening the EU's external borders",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1878",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-09-13T22:00:00+00:00",
+    "date": "2026-09-15T12:52:08+00:00",
     "countries": [
+     "DE",
      "IT"
     ]
    },
@@ -619,16 +637,6 @@
     "countries": [
      "SK"
     ]
-   },
-   {
-    "title": "A 6 , 500 - Year - Old Monument Older Than Stonehenge Was Found With Human Bones in Its Ditch",
-    "url": "https://dailygalaxy.com/2026/09/monument-with-human-bones-found-czechia/",
-    "source": "dailygalaxy.com",
-    "theme": "press",
-    "date": "2026-09-12T14:15:00+00:00",
-    "countries": [
-     "SK"
-    ]
    }
   ],
   "HU": [
@@ -693,6 +701,88 @@
     ]
    }
   ],
+  "RO": [
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.nashvilleherald.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "nashvilleherald.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.brazilsun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "brazilsun.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Another Viewpoint or Three",
+    "url": "https://www.independent.com/2026/09/12/another-viewpoint-or-three/",
+    "source": "independent.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.sanantoniopost.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "sanantoniopost.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.stlouisstar.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "stlouisstar.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.oklahomacitysun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "oklahomacitysun.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.neworleanssun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "neworleanssun.com",
+    "theme": "press",
+    "date": "2026-09-12T20:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Zelenskyy to discuss winter defense with Canada Carney",
+    "url": "http://www.cincinnatisun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
+    "source": "cincinnatisun.com",
+    "theme": "press",
+    "date": "2026-09-12T20:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   }
+  ],
   "GR": [
    {
     "title": "Brexiteer fury over calls to rejoin the EU customs union",
@@ -735,177 +825,13 @@
     ]
    }
   ],
-  "DK": [
-   {
-    "title": "World Largest Fully Electric Ferry Unveiled as Global Shipping Pushes Toward Clean Energy",
-    "url": "https://www.khaama.com/worlds-largest-fully-electric-ferry-unveiled-as-global-shipping-pushes-toward-clean-energy/",
-    "source": "khaama.com",
-    "theme": "press",
-    "date": "2026-09-13T09:00:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Overnight News Digest : September 12 , 2026",
-    "url": "https://www.dailykos.com/stories/2026/9/12/800097546/community/overnight-news-digest-september-12-2026/",
-    "source": "dailykos.com",
-    "theme": "press",
-    "date": "2026-09-13T07:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Trump tough talk accelerates Greenland investment push",
-    "url": "https://www.thenationalnews.com/business/2026/09/13/trumps-tough-talk-accelerates-greenland-investment-push/",
-    "source": "thenationalnews.com",
-    "theme": "press",
-    "date": "2026-09-13T05:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Fiction in translation : Hafni Says by Danish writer Helle Helle is close to perfection",
-    "url": "https://www.irishtimes.com/culture/books/review/2026/09/13/fiction-in-translation-hafni-says-by-danish-writer-helle-helle-is-close-to-perfection/",
-    "source": "irishtimes.com",
-    "theme": "press",
-    "date": "2026-09-13T04:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "AP Entertainment SummaryBrief at 6 : 17 p . m . EDT",
-    "url": "https://santamariatimes.com/ap/entertainment/ap-entertainment-summarybrief-at-6-17-p-m-edt/article_5ab7aa85-d607-5b75-a4c2-9ca1f2d26840.html",
-    "source": "santamariatimes.com",
-    "theme": "press",
-    "date": "2026-09-13T02:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "French military jets launch 40 - day global flight to project power , strengthen alliances",
-    "url": "https://www.dailyexcelsior.com/french-military-jets-launch-40-day-global-flight-to-project-power-strengthen-alliances/",
-    "source": "dailyexcelsior.com",
-    "theme": "press",
-    "date": "2026-09-13T02:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "2026 ILCA 6 Women World Championship at Dún Laoghaire , Ireland",
-    "url": "https://www.sail-world.com/news/299775/2026-ILCA-6-Womens-Worlds-overall",
-    "source": "sail-world.com",
-    "theme": "press",
-    "date": "2026-09-13T09:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "One Reportedly Killed After Iranian Commercial Vessel Hit Near Qeshm",
-    "url": "http://www.israelherald.com/news/279304278/one-reportedly-killed-after-iranian-commercial-vessel-hit-near-qeshm",
-    "source": "israelherald.com",
-    "theme": "press",
-    "date": "2026-09-13T08:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "A taste of home : discovering Sweden local food heroes | Sweden holidays",
-    "url": "https://www.theguardian.com/travel/2026/sep/13/a-taste-of-home-discovering-swedens-local-food-heroes",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-09-13T07:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "From tiny houses to skis : This Swedish company is finding creative uses for retired wind turbines",
-    "url": "https://www.euronews.com/2026/09/13/from-tiny-houses-to-skis-this-swedish-company-is-finding-creative-uses-for-retired-wind-tu",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-09-13T07:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "The party in Sweden is over : anti - Islam metal keyboardist Jimmie Åkesson closes in",
-    "url": "https://www.ynetnews.com/article/skwjc8qkzl",
-    "source": "ynetnews.com",
-    "theme": "press",
-    "date": "2026-09-13T03:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Europe boosts LNG trade ahead of the ban | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/publicpolicy/europe-boosts-lng-trade-ahead-of-the-ban",
-    "source": "peakoil.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "The Race to Solve Nuclear Energy Biggest Problem",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
-    "source": "oilprice.com",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
+  "EE": [
    {
     "title": "Chronicle . lu",
     "url": "https://www.chronicle.lu/opinion/23182-from-drones-to-politics-europes-security-landscape-is-shifting",
     "source": "chronicle.lu",
     "theme": "press",
     "date": "2026-09-12T18:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "EE": [
-   {
-    "title": "France inflation rate in August 2026 : How it compares with the eurozone",
-    "url": "https://www.connexionfrance.com/news/eurozone-inflation-reaches-33-see-how-france-compares-with-its-neighbours/812620",
-    "source": "connexionfrance.com",
-    "theme": "press",
-    "date": "2026-09-12T14:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Canada Was the Best Country in the World to Live . What Happened ?",
-    "url": "https://thewalrus.ca/canada-was-the-best-country-in-the-world-to-live/",
-    "source": "thewalrus.ca",
-    "theme": "press",
-    "date": "2026-09-12T13:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "3D - printed food : from niche technology to a potential future",
-    "url": "https://www.euronews.com/next/2026/09/12/3d-printed-food-from-niche-technology-to-a-potential-future",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-09-12T12:45:00+00:00",
     "countries": [
      "EE"
     ]
@@ -982,10 +908,12 @@
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }

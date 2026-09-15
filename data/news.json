@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T16:28:34+00:00",
+ "generated": "2026-09-15T20:26:46+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -7,22 +7,6 @@
    "source": "ENTSO-E",
    "theme": "grid",
    "date": "2026-09-25T15:00:58+00:00",
-   "countries": []
-  },
-  {
-   "title": "ACER unveils first EU-wide dataset on investment costs for long-term electricity system modelling",
-   "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-09-15T16:28:34+00:00",
-   "countries": []
-  },
-  {
-   "title": "High energy bills and fixed contracts continue to prevail in EU retail energy markets",
-   "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-09-15T16:28:34+00:00",
    "countries": []
   },
   {
@@ -66,152 +50,23 @@
    "countries": []
   },
   {
-   "title": "Comparing Mammoth Energy Services ( NASDAQ : TUSK ) & united states Compression Partners ( NYSE : USAC )",
-   "url": "https://www.themarketsdaily.com/2026/09/13/comparing-mammoth-energy-services-nasdaqtusk-usa-compression-partners-nyseusac.html",
-   "source": "themarketsdaily.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
+   "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-14T09:15:00+00:00",
+   "countries": []
   },
   {
-   "title": "China , Russia , India seek economic cooperation at BRICS",
-   "url": "https://www.straitstimes.com/asia/south-asia/china-russia-india-seek-economic-cooperation-at-brics",
-   "source": "straitstimes.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.newsshopper.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "newsshopper.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead , Iranian media say",
-   "url": "http://www.stardem.com/ap/world/an-iranian-commercial-ship-is-struck-near-strait-of-hormuz-with-1-dead-iranian-media/article_7b7994df-d263-5fa0-ba4d-eb8d6ea21f22.html",
-   "source": "stardem.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "39 , 700 Shares in Noble Corporation PLC $NE Purchased by VIRGINIA RETIREMENT SYSTEMS ET Al",
-   "url": "https://www.themarketsdaily.com/2026/09/13/39700-shares-in-noble-corporation-plc-ne-purchased-by-virginia-retirement-systems-et-al.html",
-   "source": "themarketsdaily.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.clactonandfrintongazette.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "clactonandfrintongazette.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
-   "url": "http://www.zimbabwestar.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
-   "source": "zimbabwestar.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.lbc.co.uk/article/092f5f97f79e4e5b9cf7304cc7b30d43-5HjdhLC_2/",
-   "source": "lbc.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.southwalesargus.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "southwalesargus.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.denbighshirefreepress.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "denbighshirefreepress.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Weekly review of Azerbaijan precious metals market",
-   "url": "https://www.trend.az/azerbaijan/4223254.html",
-   "source": "trend.az",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "HD Hyundai , Hanwha Ocean to showcase next - gen gas tech in Bangkok",
-   "url": "https://www.koreatimes.co.kr/business/companies/20260913/hd-hyundai-hanwha-ocean-to-showcase-next-gen-gas-tech-in-bangkok",
-   "source": "koreatimes.co.kr",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.keighleynews.co.uk/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "keighleynews.co.uk",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "Bank set to hold interest rates but needs to be ready to act on inflation",
-   "url": "https://www.eastlothiancourier.com/news/national/26545670.bank-set-hold-interest-rates-needs-ready-act-inflation/",
-   "source": "eastlothiancourier.com",
-   "theme": "press",
-   "date": "2026-09-13T09:15:00+00:00"
-  },
-  {
-   "title": "World braces for Big Jump in Oil Prices after Saudi Pipeline Shutdown due to Houthi Threats",
-   "url": "https://en.dailypakistan.com.pk/13-Sep-2026/world-braces-for-big-jump-in-oil-prices-after-saudi-pipeline-shutdown-due-to-houthi-threats",
-   "source": "en.dailypakistan.com.pk",
-   "theme": "press",
-   "date": "2026-09-13T09:00:00+00:00"
-  },
-  {
-   "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
-   "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-interest-rate-082602228.html",
-   "source": "finance.yahoo.com",
-   "theme": "press",
-   "date": "2026-09-13T09:00:00+00:00"
-  },
-  {
-   "title": "BRICS Declaration reflects India concerns : JNU professor Srikanth Kondapalli amid ongoing Summit",
-   "url": "http://www.israelherald.com/news/279304172/brics-declaration-reflects-india-concerns-jnu-professor-srikanth-kondapalli-amid-ongoing-summit",
-   "source": "israelherald.com",
-   "theme": "press",
-   "date": "2026-09-13T08:45:00+00:00"
+   "title": "Christine Lagarde: Europe seen from Normandy",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-12T10:15:00+00:00",
+   "countries": []
   }
  ],
  "countries": {
-  "AT": [
-   {
-    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
-    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "AT",
-     "SI"
-    ]
-   }
-  ],
-  "SI": [
-   {
-    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
-    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "AT",
-     "SI"
-    ]
-   }
-  ],
   "DE": [
    {
     "title": "ENTSO-E, ENTSOG and ENNOH invite you to the TYNDP2028 Scenario kick-off workshop",
@@ -224,61 +79,11 @@
     ]
    },
    {
-    "title": "Christof Lessenich to become the new ACER Director",
-    "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER to decide on changes to the methodology for EU day-ahead and intraday market algorithms",
-    "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Regulators seek more time to decide on the amendment to the Core intraday capacity calculation methodology",
-    "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER amends cost sharing rules for electricity redispatching and countertrading in the Core region",
-    "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
-    "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
     "title": "Termine für Amateurfunkprüfungen (Stand 15. September 2026)",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
+    "date": "2026-09-15T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -288,113 +93,59 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
+    "date": "2026-09-15T20:26:46+00:00",
     "countries": [
      "DE"
     ]
-   }
-  ],
-  "PT": [
+   },
    {
-    "title": "ACER calls for better market modelling as data centre demand outpaces electricity supply in Portugal",
-    "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
-    "source": "ACER",
+    "title": "Szenariorahmen 2027-2040/2045",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NEP/SR_2040/artikel.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
+    "date": "2026-09-15T20:26:46+00:00",
     "countries": [
-     "PT"
+     "DE"
     ]
    },
    {
-    "title": "The People Republic : How they rule - Tribune Online",
-    "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
-    "source": "tribuneonlineng.com",
-    "theme": "press",
-    "date": "2026-09-13T05:30:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
-    "url": "https://www.watoday.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
-    "source": "watoday.com.au",
-    "theme": "press",
-    "date": "2026-09-13T03:00:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "10 Mysterious Libraries",
-    "url": "https://listverse.com/2016/12/09/10-mysterious-libraries/",
-    "source": "listverse.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "When Eastern Europe appeared to be going Protestant",
-    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
-    "source": "christiantoday.com",
-    "theme": "press",
-    "date": "2026-09-13T00:30:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Six rescued in seven hour North Coast rescue operation after becoming trapped on yacht",
-    "url": "https://www.belfastlive.co.uk/news/northern-ireland/six-rescued-seven-hour-operation-34608903",
-    "source": "belfastlive.co.uk",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Neoclouds : The Next Opportunity in Digital Infrastructure and Real Estate",
-    "url": "https://www.theportugalnews.com/news/2026-09-12/neoclouds-the-next-opportunity-in-digital-infrastructure-and-real-estate/1085600",
-    "source": "theportugalnews.com",
-    "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
-    "url": "https://www.smh.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
-    "source": "smh.com.au",
-    "theme": "press",
-    "date": "2026-09-12T19:30:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   }
-  ],
-  "FR": [
-   {
-    "title": "Algorithmic trading in energy markets features again in ACER's latest REMIT Quarterly",
-    "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
-    "source": "ACER",
+    "title": "Teilnehmerentwicklung im Mobilfunk",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Marktdaten/Mobilfunkteilnehmer/artikel.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-15T16:28:34+00:00",
+    "date": "2026-09-15T20:26:46+00:00",
     "countries": [
-     "FR"
+     "DE"
     ]
    },
    {
-    "title": "Christine Lagarde: Interview with Ouest-France",
-    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-    "source": "BCE",
-    "theme": "policy",
-    "date": "2026-09-12T20:00:00+00:00",
+    "title": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-15T20:26:46+00:00",
     "countries": [
-     "FR"
+     "DE"
+    ]
+   },
+   {
+    "title": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-15T20:26:46+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Ausschreibung Solaranlagen zweites Segment: Gebotstermin 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-15T20:26:46+00:00",
+    "countries": [
+     "DE"
     ]
    }
   ],
@@ -409,75 +160,17 @@
      "DE",
      "IT"
     ]
-   },
+   }
+  ],
+  "FR": [
    {
-    "title": "The Gentlemen Season 3 : What Have The Cast Said So Far ? | HuffPost united kingdom Entertainment",
-    "url": "https://www.huffingtonpost.co.uk/entry/the-gentlemen-season-3-cast-netflix_uk_6aa4132de4b09fd4319e9c95",
-    "source": "huffingtonpost.co.uk",
-    "theme": "press",
-    "date": "2026-09-13T08:45:00+00:00",
+    "title": "Christine Lagarde: Interview with Ouest-France",
+    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+    "source": "BCE",
+    "theme": "policy",
+    "date": "2026-09-12T20:00:00+00:00",
     "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Swedish Voters Go to Polls to Choose a New Parliament as Hard Right Bids for Role in Government",
-    "url": "https://english.aawsat.com/world/5317674-swedish-voters-go-polls-choose-new-parliament-hard-right-bids-role-government",
-    "source": "english.aawsat.com",
-    "theme": "press",
-    "date": "2026-09-13T08:45:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Germany : Lower Saxony local polls in focus after AfD win",
-    "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427",
-    "source": "dw.com",
-    "theme": "press",
-    "date": "2026-09-13T08:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Middle powers guarding Europe eastern flank – opinion",
-    "url": "https://www.lrt.lt/en/news-in-english/19/3047171/middle-powers-guarding-europe-s-eastern-flank-opinion",
-    "source": "lrt.lt",
-    "theme": "press",
-    "date": "2026-09-13T08:00:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Nine F1 drivers have shared feelings on car killer Spanish GP track as danger obvious",
-    "url": "https://www.aol.co.uk/articles/nine-f1-drivers-shared-feelings-070000000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-09-13T08:00:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "The powerful people watching Tottenham and whether Richarlison can face Liverpool in Carabao Cup",
-    "url": "https://www.aol.co.uk/articles/powerful-people-watching-tottenham-whether-070000000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-09-13T08:00:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Swedish voters go to polls to choose a new parliament as hard right bids for role in government",
-    "url": "http://www.thegazette.com/news/world/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for/article_51edb7d3-c518-59d3-ba92-7dbfd9ad76e3.html",
-    "source": "thegazette.com",
-    "theme": "press",
-    "date": "2026-09-13T08:00:00+00:00",
-    "countries": [
-     "IT"
+     "FR"
     ]
    }
   ],
@@ -523,263 +216,147 @@
     ]
    }
   ],
-  "PL": [
+  "BE": [
    {
-    "title": "Not just Flock : AI - powered surveillance is becoming more common in Maine",
-    "url": "https://www.centralmaine.com/2026/09/13/not-just-flock-ai-powered-surveillance-is-becoming-more-common-in-maine/",
-    "source": "centralmaine.com",
-    "theme": "press",
-    "date": "2026-09-13T08:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "European Arctic Summit in Rovaniemi : Nicușor Dan to Address Security Challenges from the Arctic to the Black Sea",
-    "url": "https://nineoclock.ro/european-arctic-summit-in-rovaniemi-nicusor-dan-to-address-security-challenges-from-the-arctic-to-the-black-sea/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-09-13T08:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-    "url": "https://www.messenger-inquirer.com/news/national/8-killed-in-russian-strikes-on-ukraine-as-putin-warns-europe-against-sending-troops/article_f61eb600-6d73-50e7-9956-850a1a4db0e4.html",
-    "source": "messenger-inquirer.com",
-    "theme": "press",
-    "date": "2026-09-13T06:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "8 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
-    "url": "https://www.asiaone.com:443/world/8-killed-russian-strikes-ukraine-putin-warns-europe-against-sending-troops",
-    "source": "asiaone.com",
-    "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Charting the global economy : Oil surge fans global inflation",
-    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-oil-surge-fans-global-inflation/articleshow/134175593.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Tech explores Argentina Patagonia for mega data centers",
-    "url": "https://cyprus-mail.com/2026/09/13/tech-explores-argentinas-patagonia-for-mega-data-centers",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-09-13T06:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "8 killed in Russian strikes on Ukraine",
-    "url": "https://www.wmur.com/article/8-killed-in-russian-strikes-on-ukraine/73703865",
-    "source": "wmur.com",
-    "theme": "press",
-    "date": "2026-09-13T05:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "8 killed in Russian strikes on Ukraine",
-    "url": "https://www.wtae.com/article/8-killed-in-russian-strikes-on-ukraine/73703865",
-    "source": "wtae.com",
-    "theme": "press",
-    "date": "2026-09-13T05:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "CZ": [
-   {
-    "title": "Latin America : Patterns and Pendulum",
-    "url": "https://internationalviewpoint.org/Latin-America-Patterns-and-Pendulum",
-    "source": "internationalviewpoint.org",
+    "title": "Myanmar says UN envoy illegitimate ahead of credentials decision",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/09/13/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision",
+    "source": "freemalaysiatoday.com",
     "theme": "press",
     "date": "2026-09-13T09:15:00+00:00",
     "countries": [
-     "CZ"
+     "BE"
     ]
    },
    {
-    "title": "India joins 24 nations in global 6G leadership and security",
-    "url": "https://organiser.org/2026/09/13/380298/bharat/india-joins-24-nations-in-global-6g-push-endorses-call-for-secure-and-resilient-networks/",
-    "source": "organiser.org",
-    "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   }
-  ],
-  "SK": [
-   {
-    "title": "Ready player one : Orbán says Fidesz is gearing up for its comeback",
-    "url": "https://www.budapesttimes.hu/hungary/ready-player-one-orban-says-fidesz-is-gearing-up-for-its-comeback/",
-    "source": "budapesttimes.hu",
-    "theme": "press",
-    "date": "2026-09-13T07:00:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   }
-  ],
-  "HU": [
-   {
-    "title": "A Romani artist in Hungary reclaims his identity",
-    "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266",
-    "source": "dw.com",
+    "title": "Arab News | Myanmar says UN envoy illegitimate ahead of credentials decision",
+    "url": "https://www.arabnews.com/world/myanmar-says-un-envoy-illegitimate-ahead-of-credentials-decision-3001534",
+    "source": "arabnews.com",
     "theme": "press",
     "date": "2026-09-13T08:45:00+00:00",
     "countries": [
-     "HU"
+     "BE"
     ]
    },
    {
-    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-    "url": "https://ktvz.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-    "source": "ktvz.com",
-    "theme": "press",
-    "date": "2026-09-13T07:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
-    "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
-    "source": "abc17news.com",
-    "theme": "press",
-    "date": "2026-09-13T06:15:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "The united kingdom Banned Audi Greatest Performance Engine , But The united states Isnt Letting It Die Yet",
-    "url": "https://carbuzz.com/audi-five-cylinder-rs3-engine-kept-alive-usa/",
-    "source": "carbuzz.com",
+    "title": "The People Republic : How they rule - Tribune Online",
+    "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
+    "source": "tribuneonlineng.com",
     "theme": "press",
     "date": "2026-09-13T05:30:00+00:00",
     "countries": [
-     "HU"
+     "BE"
     ]
    },
    {
-    "title": "Why Lando Norri masterpiece Madrid pole lap was almost unrepeatable",
-    "url": "https://www.formula1.com/en/latest/article/how-norris-pulled-off-his-masterpiece-madring-pole-lap.2nquRrW1MoiEWfwN8zuW1K",
-    "source": "formula1.com",
+    "title": "European cities without the crowds : 20 great places to visit from Malmo to Ghent and Trieste to Zagreb",
+    "url": "https://www.watoday.com.au/traveller/inspiration/skip-the-crowds-at-these-20-spectacularly-underrated-european-cities-20260907-p60v3q.html",
+    "source": "watoday.com.au",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T03:00:00+00:00",
     "countries": [
-     "HU"
+     "BE"
     ]
    },
    {
-    "title": "FIA confirms Kimi Antonelli punishment after double Spanish GP investigation",
-    "url": "https://www.planetf1.com/news/fia-kimi-antonelli-spanish-grand-prix-2026-qualifying",
-    "source": "planetf1.com",
+    "title": "UN Climate Chief : the climate crisis is now a continent - wide economic security emergency",
+    "url": "https://wattsupwiththat.com/2026/09/12/un-climate-chief-the-climate-crisis-is-now-a-continent-wide-economic-security-emergency/",
+    "source": "wattsupwiththat.com",
     "theme": "press",
-    "date": "2026-09-12T19:45:00+00:00",
+    "date": "2026-09-13T01:00:00+00:00",
     "countries": [
-     "HU"
+     "BE"
+    ]
+   },
+   {
+    "title": "14 German Candies To Look For On Your Next Shopping Trip",
+    "url": "https://www.thedailymeal.com/2252775/german-candies-next-shopping-trip/",
+    "source": "thedailymeal.com",
+    "theme": "press",
+    "date": "2026-09-13T01:00:00+00:00",
+    "countries": [
+     "BE"
     ]
    }
   ],
-  "RO": [
+  "IE": [
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.nashvilleherald.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "nashvilleherald.com",
+    "title": "Iran authorities say one dead after ship struck in Hormuz",
+    "url": "https://www.rte.ie/news/2026/0913/1591336-iran-war/",
+    "source": "rte.ie",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T09:15:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.brazilsun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "brazilsun.com",
+    "title": "2026 ILCA 6 Women World Championship at Dún Laoghaire , Ireland",
+    "url": "https://www.sail-world.com/news/299775/2026-ILCA-6-Womens-Worlds-overall",
+    "source": "sail-world.com",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T09:15:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Another Viewpoint or Three",
-    "url": "https://www.independent.com/2026/09/12/another-viewpoint-or-three/",
-    "source": "independent.com",
+    "title": "AP News Summary at 12 : 56 a . m . EDT",
+    "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-12-56-a-m-edt/article_91c0a554-be0e-5fa8-83ed-1bb12be0e6a8.html",
+    "source": "ktvo.com",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T09:00:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.sanantoniopost.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "sanantoniopost.com",
+    "title": "Business . Scoop » Winston Peter Speech – Cool Heads , Rational Judgement",
+    "url": "https://business.scoop.co.nz/2026/09/13/winston-peters-speech-cool-heads-rational-judgement/",
+    "source": "business.scoop.co.nz",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T08:45:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.stlouisstar.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "stlouisstar.com",
+    "title": "Donald Trump Sparks US united kingdom Row Over Ireland Comments",
+    "url": "https://www.huffingtonpost.co.uk/entry/donald-trump-triggers-fresh-us-uk-row-by-saying-hed-love-to-see-united-ireland_uk_6aa63a1ee4b054da7a22c04d",
+    "source": "huffingtonpost.co.uk",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T08:45:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.oklahomacitysun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "oklahomacitysun.com",
+    "title": "Quote of the day by Oscar Wilde : With freedom , books , flowers , and the moon , who could not be happy ? - Famous Irish author on how true joy is hidden in simple pleasures",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-oscar-wilde-with-freedom-books-flowers-and-the-moon-who-could-not-be-happy-famous-irish-author-on-how-true-joy-is-hidden-in-simple-pleasures/articleshow/134186331.cms",
+    "source": "economictimes.indiatimes.com",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T08:15:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.neworleanssun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "neworleanssun.com",
+    "title": "Strait of Hormuz shipping attacks fuel oil supply fears",
+    "url": "https://www.theadvocate.com.au/story/9349038/strait-of-hormuz-shipping-attacks-fuel-oil-supply-fears/",
+    "source": "theadvocate.com.au",
     "theme": "press",
-    "date": "2026-09-12T20:15:00+00:00",
+    "date": "2026-09-13T08:15:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    },
    {
-    "title": "Zelenskyy to discuss winter defense with Canada Carney",
-    "url": "http://www.cincinnatisun.com/news/279299253/zelenskyy-to-discuss-winter-defense-with-canada-s-carney",
-    "source": "cincinnatisun.com",
+    "title": "Strait of Hormuz shipping attacks fuel oil supply fears",
+    "url": "https://www.newcastleherald.com.au/story/9349038/strait-of-hormuz-shipping-attacks-fuel-oil-supply-fears/",
+    "source": "newcastleherald.com.au",
     "theme": "press",
-    "date": "2026-09-12T20:00:00+00:00",
+    "date": "2026-09-13T08:15:00+00:00",
     "countries": [
-     "RO"
+     "IE"
     ]
    }
   ],
@@ -790,6 +367,26 @@
     "source": "aol.co.uk",
     "theme": "press",
     "date": "2026-09-13T08:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://krdo.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "krdo.com",
+    "theme": "press",
+    "date": "2026-09-13T07:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://ktvz.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "ktvz.com",
+    "theme": "press",
+    "date": "2026-09-13T07:15:00+00:00",
     "countries": [
      "GR"
     ]
@@ -815,6 +412,26 @@
     ]
    },
    {
+    "title": "An ambassador in Ljubljana , but not in London : Israel foreign policy shifts away from longstanding allies",
+    "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/12/an-ambassador-in-ljubljana-but-not-in-london-israels-foreign-policy-shifts-away-from-longstanding-allies/",
+    "source": "abc17news.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "India joins 24 nations in global 6G leadership and security",
+    "url": "https://organiser.org/2026/09/13/380298/bharat/india-joins-24-nations-in-global-6g-push-endorses-call-for-secure-and-resilient-networks/",
+    "source": "organiser.org",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
     "title": "From Hermès to Dior , double - finger ring designs are making a bold fashion statement",
     "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3367039/hermes-dior-double-finger-ring-designs-are-making-bold-fashion-statement",
     "source": "scmp.com",
@@ -825,24 +442,99 @@
     ]
    }
   ],
-  "EE": [
+  "LV": [
    {
-    "title": "Chronicle . lu",
-    "url": "https://www.chronicle.lu/opinion/23182-from-drones-to-politics-europes-security-landscape-is-shifting",
-    "source": "chronicle.lu",
+    "title": "When Eastern Europe appeared to be going Protestant",
+    "url": "https://www.christiantoday.com/news/when-eastern-europe-appeared-to-be-going-protestant",
+    "source": "christiantoday.com",
     "theme": "press",
-    "date": "2026-09-12T18:00:00+00:00",
+    "date": "2026-09-13T00:30:00+00:00",
     "countries": [
-     "EE"
+     "LV"
+    ]
+   }
+  ],
+  "SI": [
+   {
+    "title": "Kazakhstan : A Responsible Middle Power And Strategic Connector Of Eurasia - Analysis",
+    "url": "https://www.eurasiareview.com/13092026-kazakhstan-a-responsible-middle-power-and-strategic-connector-of-eurasia-analysis/",
+    "source": "eurasiareview.com",
+    "theme": "press",
+    "date": "2026-09-13T02:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Miss Teen Universe Singapore 2026 is also an AI researcher and international model",
+    "url": "https://www.asiaone.com/lifestyle/riona-krishnan-dighe-miss-teen-universe-singapore-2026-ai-researcher-international-model",
+    "source": "asiaone.com",
+    "theme": "press",
+    "date": "2026-09-13T00:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "The party in Sweden is over : anti - Islam metal keyboardist Jimmie Åkesson closes in",
+    "url": "https://www.ynetnews.com/article/skwjc8qkzl",
+    "source": "ynetnews.com",
+    "theme": "press",
+    "date": "2026-09-13T03:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Germany : Lower Saxony local polls in focus after AfD win",
+    "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-09-13T08:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Charting the global economy : Oil surge fans global inflation",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-oil-surge-fans-global-inflation/articleshow/134175593.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-13T06:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Chinese solutions power global mining green transition",
+    "url": "http://www.africaleader.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
+    "source": "africaleader.com",
+    "theme": "press",
+    "date": "2026-09-12T23:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Chinese solutions power global mining green transition",
+    "url": "http://www.australianherald.com/news/279303027/chinese-solutions-power-global-mining-green-transition",
+    "source": "australianherald.com",
+    "theme": "press",
+    "date": "2026-09-12T21:45:00+00:00",
+    "countries": [
+     "RS"
     ]
    }
   ]
  },
  "feed_status": {
   "ACER": {
-   "ok": true,
-   "url": "https://www.acer.europa.eu/rss.xml",
-   "items": 10
+   "ok": false,
+   "tried": "https://www.acer.europa.eu/rss.xml -> TimeoutError"
   },
   "ENTSOG": {
    "ok": false,
@@ -895,25 +587,28 @@
   }
  },
  "errors": [
+  "ACER: https://www.acer.europa.eu/rss.xml -> TimeoutError",
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
   "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/EE: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

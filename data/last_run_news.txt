@@ -13,20 +13,21 @@ Flux RSS : 11 sources
 Requetes GDELT pays : 28
 
 --- Resultat ---
-  fil monde   : 25 titres
-  pays servis : 10 / 28
-  duree       : 124s
+  fil monde   : 8 titres
+  pays servis : 7 / 28
+  duree       : 123s
 
---- 16 avertissements ---
+--- 19 avertissements ---
   ! ENTSOG: https://www.entsog.eu/rss.xml -> ParseError
+  ! gdelt/ES: HTTPError
+  ! gdelt/PT: HTTPError
   ! gdelt/IT: HTTPError
   ! gdelt/PL: HTTPError
-  ! gdelt/CZ: URLError
+  ! gdelt/CZ: HTTPError
   ! gdelt/SK: HTTPError
-  ! gdelt/HU: HTTPError
-  ! gdelt/RO: HTTPError
   ! gdelt/GR: HTTPError
   ! gdelt/BG: HTTPError
+  ! gdelt/NO: HTTPError
   ! gdelt/SE: HTTPError
   ! gdelt/DK: HTTPError
   ! gdelt/FI: HTTPError
@@ -34,3 +35,5 @@ Requetes GDELT pays : 28
   ! gdelt/LV: HTTPError
   ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
+  ! gdelt/HR: HTTPError
+  ! gdelt/world: HTTPError

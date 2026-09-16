@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T12:34:17+00:00",
+ "generated": "2026-09-16T16:28:03+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-16T12:34:17+00:00",
+   "date": "2026-09-16T16:28:03+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,15 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-16T12:34:17+00:00",
+   "date": "2026-09-16T16:28:03+00:00",
+   "countries": []
+  },
+  {
+   "title": "Discours du Commissaire Hansen au forum économique de rentrée de la Chambre de Commerce du Luxembourg \"Réformer l'Europe\"",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/fr/speech_26_1888",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-16T12:14:11+00:00",
    "countries": []
   },
   {
@@ -56,43 +64,9 @@
    "theme": "grid",
    "date": "2026-09-15T12:53:40+00:00",
    "countries": []
-  },
-  {
-   "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-14T15:15:00+00:00",
-   "countries": []
   }
  ],
  "countries": {
-  "AT": [
-   {
-    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
-    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
-    "countries": [
-     "AT",
-     "SI"
-    ]
-   }
-  ],
-  "SI": [
-   {
-    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
-    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
-    "countries": [
-     "AT",
-     "SI"
-    ]
-   }
-  ],
   "DE": [
    {
     "title": "ENTSO-E, ENTSOG and ENNOH invite you to the TYNDP2028 Scenario kick-off workshop",
@@ -105,11 +79,22 @@
     ]
    },
    {
+    "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
+    "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-16T16:28:03+00:00",
+    "countries": [
+     "DE",
+     "IE"
+    ]
+   },
+   {
     "title": "Christof Lessenich to become the new ACER Director",
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -119,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -129,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -139,17 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER to decide on the minimum activation period of frequency containment reserves providers",
-    "url": "https://www.acer.europa.eu/news/acer-decide-minimum-activation-period-frequency-containment-reserves-providers",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -159,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
     ]
@@ -169,9 +144,48 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "DE"
+    ]
+   }
+  ],
+  "IE": [
+   {
+    "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
+    "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-16T16:28:03+00:00",
+    "countries": [
+     "DE",
+     "IE"
+    ]
+   }
+  ],
+  "AT": [
+   {
+    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
+    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-16T16:28:03+00:00",
+    "countries": [
+     "AT",
+     "SI"
+    ]
+   }
+  ],
+  "SI": [
+   {
+    "title": "ACER supports exemption from bi-directional gas flow between Austria and Slovenia",
+    "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-09-16T16:28:03+00:00",
+    "countries": [
+     "AT",
+     "SI"
     ]
    }
   ],
@@ -181,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "PT"
     ]
@@ -193,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T12:34:17+00:00",
+    "date": "2026-09-16T16:28:03+00:00",
     "countries": [
      "FR"
     ]
@@ -223,6 +237,16 @@
    }
   ],
   "GB": [
+   {
+    "title": "Chancellor announces Bank of England appointments",
+    "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-16T14:03:08+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
     "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
@@ -323,12 +347,14 @@
  },
  "errors": [
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
+  "gdelt/DE: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/IE: HTTPError",
   "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
@@ -340,6 +366,6 @@
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T16:28:03+00:00",
+ "generated": "2026-09-16T20:28:00+00:00",
  "world": [
   {
    "title": "Annual Work Programme 2027 webinar",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-16T16:28:03+00:00",
+   "date": "2026-09-16T20:28:00+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,15 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-16T16:28:03+00:00",
+   "date": "2026-09-16T20:28:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Fed — politique monétaire",
+   "theme": "policy",
+   "date": "2026-09-16T18:00:00+00:00",
    "countries": []
   },
   {
@@ -56,14 +64,6 @@
    "theme": "grid",
    "date": "2026-09-15T15:05:31+00:00",
    "countries": []
-  },
-  {
-   "title": "Commission issues €11 billion in its 8th syndicated transaction of 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1879",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-15T12:53:40+00:00",
-   "countries": []
   }
  ],
  "countries": {
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE",
      "IE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,8 +195,19 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Commission sends Statement of Objections over the proposed acquisition of Anglo American's nickel business by MMG",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1877",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-09-15T22:00:00+00:00",
+    "countries": [
+     "DE",
      "PT"
     ]
    }
@@ -207,7 +218,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-16T16:28:03+00:00",
+    "date": "2026-09-16T20:28:00+00:00",
     "countries": [
      "FR"
     ]
@@ -220,19 +231,6 @@
     "date": "2026-09-12T20:00:00+00:00",
     "countries": [
      "FR"
-    ]
-   }
-  ],
-  "IT": [
-   {
-    "title": "Remarks by Commissioner Brunner at the European Parliament Plenary debate on the situation in Ceuta and strengthening the EU's external borders",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1878",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-09-15T12:52:08+00:00",
-    "countries": [
-     "DE",
-     "IT"
     ]
    }
   ],
@@ -347,14 +345,22 @@
  },
  "errors": [
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
+  "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
@@ -363,9 +369,7 @@
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/RS: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

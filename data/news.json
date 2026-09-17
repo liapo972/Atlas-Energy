@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T08:29:55+00:00",
+ "generated": "2026-09-17T12:33:38+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-17T08:29:55+00:00",
+   "date": "2026-09-17T12:33:38+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,15 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-17T08:29:55+00:00",
+   "date": "2026-09-17T12:33:38+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 17 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1894",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-17T08:22:32+00:00",
    "countries": []
   },
   {
@@ -56,14 +64,6 @@
    "theme": "grid",
    "date": "2026-09-16T12:14:11+00:00",
    "countries": []
-  },
-  {
-   "title": "Daily News 16 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1886",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-16T09:39:26+00:00",
-   "countries": []
   }
  ],
  "countries": {
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,17 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260917_Wind.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE"
     ]
@@ -134,17 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Termine für Amateurfunkprüfungen (Stand 15. September 2026)",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,20 +195,21 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "PT"
     ]
    },
    {
-    "title": "Commission sends Statement of Objections over the proposed acquisition of Anglo American's nickel business by MMG",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1877",
+    "title": "Commission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1896",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-09-15T22:00:00+00:00",
+    "date": "2026-09-17T09:27:17+00:00",
     "countries": [
-     "DE",
-     "PT"
+     "ES",
+     "PT",
+     "IT"
     ]
    }
   ],
@@ -218,7 +219,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-17T08:29:55+00:00",
+    "date": "2026-09-17T12:33:38+00:00",
     "countries": [
      "FR"
     ]
@@ -234,7 +235,85 @@
     ]
    }
   ],
+  "ES": [
+   {
+    "title": "Commission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1896",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-09-17T09:27:17+00:00",
+    "countries": [
+     "ES",
+     "PT",
+     "IT"
+    ]
+   }
+  ],
+  "IT": [
+   {
+    "title": "Commission proposes €489 million to help Portugal, Spain, Italy and Malta recover from severe storms",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1896",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-09-17T09:27:17+00:00",
+    "countries": [
+     "ES",
+     "PT",
+     "IT"
+    ]
+   }
+  ],
   "GB": [
+   {
+    "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+    "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-17T11:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+    "url": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-17T11:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+    "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-17T11:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-17T11:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "The next phase of Britain’s national hydrogen network takes major step forward to connect Scottish industrial clusters to Teesside",
+    "url": "https://www.nationalgas.com/media/news/next-phase-britains-national-hydrogen-network-takes-major-step-forward-connect-scottish",
+    "source": "National Gas",
+    "theme": "grid",
+    "date": "2026-09-16T17:15:42+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "Chancellor announces Bank of England appointments",
     "url": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
@@ -261,26 +340,6 @@
     "source": "Bank of England",
     "theme": "policy",
     "date": "2026-09-15T08:09:58+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "National Gas announces Chief Executive to retire",
-    "url": "https://www.nationalgas.com/media/news/national-gas-announces-chief-executive-retire",
-    "source": "National Gas",
-    "theme": "grid",
-    "date": "2026-09-11T08:58:45+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Announcement of the publication of the Governor's interview transcript",
-    "url": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-10T09:00:00+00:00",
     "countries": [
      "GB"
     ]
@@ -345,26 +404,16 @@
  },
  "errors": [
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
-  "gdelt/FR: URLError",
-  "gdelt/DE: URLError",
-  "gdelt/NL: URLError",
-  "gdelt/BE: URLError",
-  "gdelt/GB: URLError",
-  "gdelt/IE: URLError",
-  "gdelt/CH: URLError",
-  "gdelt/AT: URLError",
-  "gdelt/PT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: URLError",
-  "gdelt/BG: URLError",
-  "gdelt/FI: URLError",
-  "gdelt/EE: URLError",
-  "gdelt/LV: URLError",
-  "gdelt/HR: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

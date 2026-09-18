@@ -17,7 +17,7 @@ Requetes GDELT pays : 28
   pays servis : 9 / 28
   duree       : 112s
 
---- 21 avertissements ---
+--- 24 avertissements ---
   ! ENTSOG: https://www.entsog.eu/rss.xml -> ParseError
   ! gdelt/FR: HTTPError
   ! gdelt/DE: HTTPError
@@ -27,7 +27,6 @@ Requetes GDELT pays : 28
   ! gdelt/IE: HTTPError
   ! gdelt/CH: HTTPError
   ! gdelt/AT: HTTPError
-  ! gdelt/ES: HTTPError
   ! gdelt/PT: HTTPError
   ! gdelt/IT: HTTPError
   ! gdelt/PL: HTTPError
@@ -35,7 +34,11 @@ Requetes GDELT pays : 28
   ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
   ! gdelt/RO: HTTPError
-  ! gdelt/LT: HTTPError
+  ! gdelt/GR: HTTPError
+  ! gdelt/FI: HTTPError
+  ! gdelt/EE: HTTPError
+  ! gdelt/LT: TimeoutError
   ! gdelt/SI: HTTPError
   ! gdelt/HR: HTTPError
   ! gdelt/RS: HTTPError
+  ! gdelt/world: HTTPError

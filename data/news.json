@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T04:27:28+00:00",
+ "generated": "2026-09-20T08:27:42+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-20T04:27:28+00:00",
+   "date": "2026-09-20T08:27:42+00:00",
    "countries": []
   },
   {
@@ -30,155 +30,40 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-20T04:27:28+00:00",
+   "date": "2026-09-20T08:27:42+00:00",
    "countries": []
   },
   {
-   "title": "Australia auction market gets a reality check",
-   "url": "https://www.macrobusiness.com.au/2026/09/australias-auction-market-gets-a-reality-check/",
-   "source": "macrobusiness.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
+   "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1905",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-18T10:53:32+00:00",
+   "countries": []
   },
   {
-   "title": "Fed hawkish rate hike leaves investors bracing for more",
-   "url": "http://www.bostonstar.com/news/279313401/fed-s-hawkish-rate-hike-leaves-investors-bracing-for-more",
-   "source": "bostonstar.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
+   "title": "Daily News 18 / 09 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1902",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-18T09:20:07+00:00",
+   "countries": []
   },
   {
-   "title": "Prayer walk protests Constitution Pipeline proposal",
-   "url": "https://www.wbng.com/2026/09/19/prayer-walk-protests-constitution-pipeline-proposal/",
-   "source": "wbng.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
+   "title": "ECB Consumer Expectations Survey results – August 2026",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-18T08:00:00+00:00",
+   "countries": []
   },
   {
-   "title": "Dollar Climbs While Euro Holds Steady in Cuba Informal Market",
-   "url": "https://www.cubaheadlines.com/articles/340739",
-   "source": "cubaheadlines.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "NIGERIA : AN INTRACTABLE SOCIO - ECONOMIC CRISIS - Afriques en Lutte",
-   "url": "http://www.afriquesenlutte.org/afrique-de-l-ouest/nigeria/article/nigeria-an-intractable-socio",
-   "source": "afriquesenlutte.org",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia says Houthis tried to attack its capital , and other Mideast developments",
-   "url": "http://www.hngnews.com/nation_world/saudi-arabia-says-houthis-tried-to-attack-its-capital-and-other-mideast-developments/article_3c3b728e-f80f-533e-b0ba-9b2f3fef525c.html",
-   "source": "hngnews.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Double whammy as Trump extends H - 1B fee , signs Russia sanctions Act",
-   "url": "https://www.newindianexpress.com/thesundaystandard/2026/Sep/20/double-whammy-as-trump-extends-h-1b-fee-signs-russia-sanctions-act",
-   "source": "newindianexpress.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia says Houthis tried to attack its capital , and other Mideast developments",
-   "url": "https://www.weny.com/wires/saudi-arabia-says-houthis-tried-to-attack-its-capital-and-other-mideast-developments/article_da7cc5ac-b6e9-5c57-a840-c5cd56a535c2.html",
-   "source": "weny.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Fed hawkish rate hike leaves investors bracing for more",
-   "url": "http://www.saltlakecitysun.com/news/279313401/fed-s-hawkish-rate-hike-leaves-investors-bracing-for-more",
-   "source": "saltlakecitysun.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Jobs data last piece in puzzle for Reserve Bank board",
-   "url": "https://www.irrigator.com.au/story/9353678/jobs-data-last-piece-in-puzzle-for-reserve-bank-board/",
-   "source": "irrigator.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Jobs data last piece in puzzle for Reserve Bank board",
-   "url": "https://www.muswellbrookchronicle.com.au/story/9353678/jobs-data-last-piece-in-puzzle-for-reserve-bank-board/",
-   "source": "muswellbrookchronicle.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Jobs data last piece in puzzle for Reserve Bank board",
-   "url": "https://www.lithgowmercury.com.au/story/9353678/jobs-data-last-piece-in-puzzle-for-reserve-bank-board/",
-   "source": "lithgowmercury.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Fed hawkish rate hike leaves investors bracing for more",
-   "url": "http://www.afghanistansun.com/news/279313401/fed-s-hawkish-rate-hike-leaves-investors-bracing-for-more",
-   "source": "afghanistansun.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Jobs data last piece in puzzle for Reserve Bank board",
-   "url": "https://www.juneesoutherncross.com.au/story/9353678/jobs-data-last-piece-in-puzzle-for-reserve-bank-board/",
-   "source": "juneesoutherncross.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Saudi Arabia says Houthis tried to attack its capital , and other Mideast developments",
-   "url": "https://www.erienewsnow.com/news/national/saudi-arabia-says-houthis-tried-to-attack-its-capital-and-other-mideast-developments/article_7534ced3-00f4-52b9-ad5d-618ad6845fe2.html",
-   "source": "erienewsnow.com",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "Jobs data last piece in puzzle for Reserve Bank board",
-   "url": "https://www.centralwesterndaily.com.au/story/9353678/jobs-data-last-piece-in-puzzle-for-reserve-bank-board/",
-   "source": "centralwesterndaily.com.au",
-   "theme": "press",
-   "date": "2026-09-20T03:15:00+00:00"
-  },
-  {
-   "title": "China keeps benchmark lending rates unchanged for 16th month in September",
-   "url": "https://www.aol.com/articles/china-keeps-benchmark-lending-rates-013349000.html",
-   "source": "aol.com",
-   "theme": "press",
-   "date": "2026-09-20T03:00:00+00:00"
-  },
-  {
-   "title": "Goldman Sachs gold price target takes a turn after Fed rate hike",
-   "url": "https://www.aol.com/articles/goldman-sachs-gold-price-target-231700000.html",
-   "source": "aol.com",
-   "theme": "press",
-   "date": "2026-09-20T03:00:00+00:00"
-  },
-  {
-   "title": "Fed hawkish rate hike leaves investors bracing for more",
-   "url": "http://www.nepalnational.com/news/279313401/fed-s-hawkish-rate-hike-leaves-investors-bracing-for-more",
-   "source": "nepalnational.com",
-   "theme": "press",
-   "date": "2026-09-20T03:00:00+00:00"
-  },
-  {
-   "title": "Bank holidays this week : SBI , HDFC , ICICI , PNB closed on up to 4 days from 21 – 27 September ; check city - wise RBI list",
-   "url": "https://www.livemint.com/industry/banking/bank-holidays-this-week-sbi-hdfc-icici-pnb-closed-on-up-to-4-days-from-21-27-september-check-city-wise-rbi-list-11789866975944.html",
-   "source": "livemint.com",
-   "theme": "press",
-   "date": "2026-09-20T03:00:00+00:00"
-  },
-  {
-   "title": "8 - year - old among 2 dead in electrocution incident in Ganapati pandal in Mumbai Lalbaug ; 4 injured",
-   "url": "https://www.livemint.com/news/india/8yearold-among-2-dead-in-electrocution-incident-in-ganapati-pandal-in-mumbais-lalbaug-4-injured-11789867307292.html",
-   "source": "livemint.com",
-   "theme": "press",
-   "date": "2026-09-20T03:00:00+00:00"
+   "title": "Commission disburses €3.3 billion in defence funding to Ukraine",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1900",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-09-18T07:30:35+00:00",
+   "countries": []
   }
  ],
  "countries": {
@@ -198,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE",
      "IE"
@@ -209,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -219,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -229,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -239,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -249,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260917_Wind.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -259,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE"
     ]
@@ -271,9 +156,79 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "Trump is only amping up his antics ahead of the midterm election",
+    "url": "https://www.egyptindependent.com/trump-is-only-amping-up-his-antics-ahead-of-the-midterm-election/",
+    "source": "egyptindependent.com",
+    "theme": "press",
+    "date": "2026-09-20T08:00:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Labour Burnham bounce continues as the party are now four points ahead of Reform ahead of conference",
+    "url": "https://www.lbc.co.uk/article/labours-burnham-bounce-continues-as-the-party-are-now-four-points-ahead-of-refor-5HjdhgS_2/",
+    "source": "lbc.co.uk",
+    "theme": "press",
+    "date": "2026-09-20T08:00:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Vermilion Energy Inc . ( NYSE : VET ) Given Consensus Recommendation of Hold by Analysts",
+    "url": "https://www.dailypolitical.com/2026/09/19/vermilion-energy-inc-nysevet-given-consensus-recommendation-of-hold-by-analysts.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-20T07:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
+    "url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/",
+    "source": "gcaptain.com",
+    "theme": "press",
+    "date": "2026-09-20T07:15:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "5 Near - Perfect Psychological Thriller Shows That are Streaming For Free",
+    "url": "https://www.polygon.com/best-psychological-thriller-shows-free-streaming/",
+    "source": "polygon.com",
+    "theme": "press",
+    "date": "2026-09-20T06:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Trump is only amping up his antics ahead of the midterm election",
+    "url": "https://www.cnn.com/2026/09/20/politics/trump-antics-midterms",
+    "source": "cnn.com",
+    "theme": "press",
+    "date": "2026-09-20T06:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Trump is only amping up his antics ahead of the midterm election",
+    "url": "https://us.cnn.com/2026/09/20/politics/trump-antics-midterms",
+    "source": "us.cnn.com",
+    "theme": "press",
+    "date": "2026-09-20T06:15:00+00:00",
+    "countries": [
      "IE"
     ]
    }
@@ -284,7 +239,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "AT",
      "SI"
@@ -297,7 +252,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "AT",
      "SI"
@@ -310,7 +265,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "PT"
     ]
@@ -322,7 +277,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T04:27:28+00:00",
+    "date": "2026-09-20T08:27:42+00:00",
     "countries": [
      "FR"
     ]
@@ -420,7 +375,103 @@
     ]
    }
   ],
+  "CH": [
+   {
+    "title": "Ed Sheeran opens solo concert with comments on Gaza",
+    "url": "https://www.cp24.com/news/entertainment/2026/09/19/ed-sheeran-returns-to-stage-after-palestinian-controversy/",
+    "source": "cp24.com",
+    "theme": "press",
+    "date": "2026-09-20T02:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "QR Code to be installed at private doctor practices , says Health Minister",
+    "url": "https://www.keeptalkinggreece.com/2026/09/17/greece-qr-code-at-private-doctros-practices-after-mazonakis-death/",
+    "source": "keeptalkinggreece.com",
+    "theme": "press",
+    "date": "2026-09-20T07:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Mecca Alliance will be game - changing platform : Turkish foreign minister – The Frontier Post",
+    "url": "https://thefrontierpost.com/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/",
+    "source": "thefrontierpost.com",
+    "theme": "press",
+    "date": "2026-09-20T04:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Mecca Alliance will be game - changing platform : Turkish foreign minister",
+    "url": "https://aa.com.tr/en/world/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/4062212",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-09-20T04:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Why Chinese philosophy still matters - CKGSB Knowledge",
+    "url": "https://english.ckgsb.edu.cn/knowledge/article/why-chinese-philosophy-still-matters/",
+    "source": "english.ckgsb.edu.cn",
+    "theme": "press",
+    "date": "2026-09-20T02:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "BG": [
+   {
+    "title": "Pronostic politic lansat de Sever Voinescu : „ Așa cum arată lucrurile , vor cîștiga impostorii",
+    "url": "https://www.ziarulprofit.ro/pronostic-politic-lansat-de-sever-voinescu-asa-cum-arata-lucrurile-vor-cistiga-impostorii/",
+    "source": "ziarulprofit.ro",
+    "theme": "press",
+    "date": "2026-09-20T07:30:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Trump vrea să numească un „ țar al inteligenței artificiale : „ Înființez Forța AI",
+    "url": "https://www.ziarulprofit.ro/trump-vrea-sa-numeasca-un-tar-al-inteligentei-artificiale-infiintez-forta-ai/",
+    "source": "ziarulprofit.ro",
+    "theme": "press",
+    "date": "2026-09-20T02:45:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   }
+  ],
   "NO": [
+   {
+    "title": "Europe Outbids Asia for LNG as Prices Surge 150 % | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/consumption/europe-outbids-asia-for-lng-as-prices-surge-150",
+    "source": "peakoil.com",
+    "theme": "press",
+    "date": "2026-09-20T08:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Mark Carney relationship with Trump is changing in real time . Is anyone keeping up ?",
+    "url": "https://www.niagarafallsreview.ca/politics/federal/mark-carney-s-relationship-with-trump-is-changing-in-real-time-is-anyone-keeping-up/article_1d7c6b84-bf35-5a67-a251-aad5147befe0.html",
+    "source": "niagarafallsreview.ca",
+    "theme": "press",
+    "date": "2026-09-20T07:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
    {
     "title": "Scientists compared 179 saithe , tusk , and ling around Norway Hywind Tampen and beyond , and found limited diet differences overall but ling caught at the floating wind farm showed lower body condition",
     "url": "https://www.ecoportal.net/en/scientists-saithe-tusk-ling-norway/36849/",
@@ -439,184 +490,6 @@
     "date": "2026-09-20T00:30:00+00:00",
     "countries": [
      "NO"
-    ]
-   }
-  ],
-  "SE": [
-   {
-    "title": "Iran Says Man Executed Over Alleged Links To Mossad",
-    "url": "http://www.pakistantelegraph.com/news/279316914/iran-says-man-executed-over-alleged-links-to-mossad",
-    "source": "pakistantelegraph.com",
-    "theme": "press",
-    "date": "2026-09-20T00:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Why People Dont Drink Korea Safe Tap Water",
-    "url": "https://koreabridge.net/post/why-people-dont-drink-koreas-safe-tap-water",
-    "source": "koreabridge.net",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "EU fuel prices hit records as ECB experts see diesel margins peak in October | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/consumption/eu-fuel-prices-hit-records-as-ecb-experts-see-diesel-margins-peak-in-october",
-    "source": "peakoil.com",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Evening Shade - Resistance Rising - Saturday , September 19th , 2026 ( Regional edition )",
-    "url": "https://www.dailykos.com/stories/2026/9/19/800100274/community/evening-shade-resistance-rising-saturday-september-19th-2026-regional-edition/",
-    "source": "dailykos.com",
-    "theme": "press",
-    "date": "2026-09-20T02:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "What Does Trump Want With Greenland ?",
-    "url": "https://www.courant.com/2026/09/19/what-does-trump-want-with-greenland/",
-    "source": "courant.com",
-    "theme": "press",
-    "date": "2026-09-20T02:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "World News : US deal wont compromise sovereignty say Greenland and Denmark",
-    "url": "https://www.gdnonline.com:443/Details/1407045",
-    "source": "gdnonline.com",
-    "theme": "press",
-    "date": "2026-09-20T02:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Trump has a deal to build US military presence in Greenland while leaving island in Denmark hands",
-    "url": "https://www.stcatharinesstandard.ca/news/world/trump-says-he-has-a-deal-with-denmark-to-bolster-us-military-presence-in-greenland/article_8c2060a0-05cc-544a-ab83-f9aa650c50f3.html",
-    "source": "stcatharinesstandard.ca",
-    "theme": "press",
-    "date": "2026-09-20T00:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "World News : US deal wont compromise sovereignty say Greenland and Denmark",
-    "url": "https://www.gdnonline.com:443/Details/1407045/US-deal-won%E2%80%99t-compromise-sovereignty-say-Greenland-and-Denmark",
-    "source": "gdnonline.com",
-    "theme": "press",
-    "date": "2026-09-20T00:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.lithgowmercury.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "lithgowmercury.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.irrigator.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "irrigator.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.juneesoutherncross.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "juneesoutherncross.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.muswellbrookchronicle.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "muswellbrookchronicle.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.therural.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "therural.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.narrominenewsonline.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "narrominenewsonline.com.au",
-    "theme": "press",
-    "date": "2026-09-20T03:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.redlandcitybulletin.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "redlandcitybulletin.com.au",
-    "theme": "press",
-    "date": "2026-09-20T02:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Australia urges middle - power push for security council",
-    "url": "https://www.nvi.com.au/story/9353558/australia-urges-middle-power-push-for-security-council/",
-    "source": "nvi.com.au",
-    "theme": "press",
-    "date": "2026-09-20T02:30:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "HR": [
-   {
-    "title": "Battle with Leukaemia inspired my AFWL collection - Osime Saibu",
-    "url": "https://thesun.ng/battle-with-leukaemia-inspired-my-afwl-collection-osime-saibu/",
-    "source": "thesun.ng",
-    "theme": "press",
-    "date": "2026-09-20T00:15:00+00:00",
-    "countries": [
-     "HR"
     ]
    }
   ]
@@ -684,8 +557,6 @@
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
@@ -695,11 +566,15 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

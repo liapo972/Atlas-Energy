@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T08:27:42+00:00",
+ "generated": "2026-09-20T12:31:04+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-20T08:27:42+00:00",
+   "date": "2026-09-20T12:31:04+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-20T08:27:42+00:00",
+   "date": "2026-09-20T12:31:04+00:00",
    "countries": []
   },
   {
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE",
      "IE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-cost-sharing-rules-electricity-redispatching-and-countertrading-core-region",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260917_Wind.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE"
     ]
@@ -156,79 +156,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Trump is only amping up his antics ahead of the midterm election",
-    "url": "https://www.egyptindependent.com/trump-is-only-amping-up-his-antics-ahead-of-the-midterm-election/",
-    "source": "egyptindependent.com",
-    "theme": "press",
-    "date": "2026-09-20T08:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Labour Burnham bounce continues as the party are now four points ahead of Reform ahead of conference",
-    "url": "https://www.lbc.co.uk/article/labours-burnham-bounce-continues-as-the-party-are-now-four-points-ahead-of-refor-5HjdhgS_2/",
-    "source": "lbc.co.uk",
-    "theme": "press",
-    "date": "2026-09-20T08:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Vermilion Energy Inc . ( NYSE : VET ) Given Consensus Recommendation of Hold by Analysts",
-    "url": "https://www.dailypolitical.com/2026/09/19/vermilion-energy-inc-nysevet-given-consensus-recommendation-of-hold-by-analysts.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-09-20T07:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "US Tariffs Threaten Great Lakes Shipping Tied To Canada Trade",
-    "url": "https://gcaptain.com/us-tariffs-threaten-great-lakes-shipping-tied-to-canada-trade/",
-    "source": "gcaptain.com",
-    "theme": "press",
-    "date": "2026-09-20T07:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "5 Near - Perfect Psychological Thriller Shows That are Streaming For Free",
-    "url": "https://www.polygon.com/best-psychological-thriller-shows-free-streaming/",
-    "source": "polygon.com",
-    "theme": "press",
-    "date": "2026-09-20T06:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Trump is only amping up his antics ahead of the midterm election",
-    "url": "https://www.cnn.com/2026/09/20/politics/trump-antics-midterms",
-    "source": "cnn.com",
-    "theme": "press",
-    "date": "2026-09-20T06:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Trump is only amping up his antics ahead of the midterm election",
-    "url": "https://us.cnn.com/2026/09/20/politics/trump-antics-midterms",
-    "source": "us.cnn.com",
-    "theme": "press",
-    "date": "2026-09-20T06:15:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -239,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "AT",
      "SI"
@@ -252,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "AT",
      "SI"
@@ -265,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "PT"
     ]
@@ -277,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-20T08:27:42+00:00",
+    "date": "2026-09-20T12:31:04+00:00",
     "countries": [
      "FR"
     ]
@@ -335,6 +265,16 @@
     ]
    },
    {
+    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-09-17T11:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
     "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
     "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
     "source": "Bank of England",
@@ -355,16 +295,6 @@
     ]
    },
    {
-    "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-17T11:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
     "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
     "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
     "source": "Bank of England",
@@ -375,61 +305,69 @@
     ]
    }
   ],
-  "CH": [
+  "PL": [
    {
-    "title": "Ed Sheeran opens solo concert with comments on Gaza",
-    "url": "https://www.cp24.com/news/entertainment/2026/09/19/ed-sheeran-returns-to-stage-after-palestinian-controversy/",
-    "source": "cp24.com",
+    "title": "Poland says Russia plans to strike Ukraine NATO allies | Jefferson City News Tribune",
+    "url": "https://www.newstribune.com/news/2026/sep/20/poland-says-russia-plans-to-strike-ukraines-nato/",
+    "source": "newstribune.com",
     "theme": "press",
-    "date": "2026-09-20T02:30:00+00:00",
+    "date": "2026-09-20T11:30:00+00:00",
     "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "QR Code to be installed at private doctor practices , says Health Minister",
-    "url": "https://www.keeptalkinggreece.com/2026/09/17/greece-qr-code-at-private-doctros-practices-after-mazonakis-death/",
-    "source": "keeptalkinggreece.com",
-    "theme": "press",
-    "date": "2026-09-20T07:30:00+00:00",
-    "countries": [
-     "GR"
+     "PL"
     ]
    },
    {
-    "title": "Mecca Alliance will be game - changing platform : Turkish foreign minister – The Frontier Post",
-    "url": "https://thefrontierpost.com/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/",
-    "source": "thefrontierpost.com",
+    "title": "The Precarious Future of Vote by Mail",
+    "url": "https://washingtonmonthly.com/2026/09/20/the-precarious-future-of-vote-by-mail/",
+    "source": "washingtonmonthly.com",
     "theme": "press",
-    "date": "2026-09-20T04:30:00+00:00",
+    "date": "2026-09-20T10:45:00+00:00",
     "countries": [
-     "GR"
+     "PL"
     ]
    },
    {
-    "title": "Mecca Alliance will be game - changing platform : Turkish foreign minister",
-    "url": "https://aa.com.tr/en/world/mecca-alliance-will-be-game-changing-platform-turkish-foreign-minister/4062212",
-    "source": "aa.com.tr",
+    "title": "Inside Vladimir Putin world of bunkers , body doubles and growing paranoia",
+    "url": "https://www.rnz.co.nz/news/world/1481316/inside-vladimir-putin-s-world-of-bunkers-body-doubles-and-growing-paranoia",
+    "source": "rnz.co.nz",
+    "theme": "press",
+    "date": "2026-09-20T09:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "A Nazi Officer Saved My Mother Life . So , I Tracked Down His Daughter .",
+    "url": "https://www.huffingtonpost.co.uk/entry/nazi-saved-mums-life_uk_6aac0474e4b05a5eaee408b9",
+    "source": "huffingtonpost.co.uk",
+    "theme": "press",
+    "date": "2026-09-20T08:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Joynext Jeffrey Wang : Central Computing Platform Is the Digital Foundation of AI - Defined Cars",
+    "url": "https://autonews.gasgoo.com/articles/news/joynexts-jeffrey-wang-central-computing-platform-is-the-digital-foundation-of-ai-defined-cars-2101520232731840512",
+    "source": "autonews.gasgoo.com",
     "theme": "press",
     "date": "2026-09-20T04:15:00+00:00",
     "countries": [
-     "GR"
+     "PL"
     ]
    },
    {
-    "title": "Why Chinese philosophy still matters - CKGSB Knowledge",
-    "url": "https://english.ckgsb.edu.cn/knowledge/article/why-chinese-philosophy-still-matters/",
-    "source": "english.ckgsb.edu.cn",
+    "title": "Alonzo Menifield Fights Through Broken Thumb To Snap Iwo Baraniewski Undefeated Record At UFC 331",
+    "url": "https://www.lowkickmma.com/alonzo-menifield-fights-through-broken-thumb-to-snap-iwo-baraniewskis-undefeated-record-at-ufc-331/",
+    "source": "lowkickmma.com",
     "theme": "press",
     "date": "2026-09-20T02:30:00+00:00",
     "countries": [
-     "GR"
+     "PL"
     ]
    }
   ],
-  "BG": [
+  "RO": [
    {
     "title": "Pronostic politic lansat de Sever Voinescu : „ Așa cum arată lucrurile , vor cîștiga impostorii",
     "url": "https://www.ziarulprofit.ro/pronostic-politic-lansat-de-sever-voinescu-asa-cum-arata-lucrurile-vor-cistiga-impostorii/",
@@ -437,7 +375,57 @@
     "theme": "press",
     "date": "2026-09-20T07:30:00+00:00",
     "countries": [
-     "BG"
+     "RO"
+    ]
+   },
+   {
+    "title": "LEPAS Expands Global Presence with Progress Across Multiple Markets",
+    "url": "https://www.intelligencer.ca/press-releases/globe-newswire/lepas-expands-global-presence-with-progress-across-multiple-markets/",
+    "source": "intelligencer.ca",
+    "theme": "press",
+    "date": "2026-09-20T06:45:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "LEPAS Expands Global Presence with Progress Across Multiple Markets",
+    "url": "https://www.mykxlg.com/online_features/press_releases/lepas-expands-global-presence-with-progress-across-multiple-markets/article_c83da538-dcf9-5ad1-9341-d08467081dbf.html",
+    "source": "mykxlg.com",
+    "theme": "press",
+    "date": "2026-09-20T06:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "LEPAS Expands Global Presence with Progress Across Multiple Markets",
+    "url": "https://www.chathamdailynews.ca/press-releases/globe-newswire/lepas-expands-global-presence-with-progress-across-multiple-markets/",
+    "source": "chathamdailynews.ca",
+    "theme": "press",
+    "date": "2026-09-20T05:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "LEPAS Expands Global Presence with Progress Across Multiple Markets",
+    "url": "https://www.thewhig.com/press-releases/globe-newswire/lepas-expands-global-presence-with-progress-across-multiple-markets/",
+    "source": "thewhig.com",
+    "theme": "press",
+    "date": "2026-09-20T05:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "LEPAS Expands Global Presence with Progress Across Multiple Markets",
+    "url": "https://www.standard-freeholder.com/press-releases/globe-newswire/lepas-expands-global-presence-with-progress-across-multiple-markets/",
+    "source": "standard-freeholder.com",
+    "theme": "press",
+    "date": "2026-09-20T05:00:00+00:00",
+    "countries": [
+     "RO"
     ]
    },
    {
@@ -447,21 +435,11 @@
     "theme": "press",
     "date": "2026-09-20T02:45:00+00:00",
     "countries": [
-     "BG"
+     "RO"
     ]
    }
   ],
-  "NO": [
-   {
-    "title": "Europe Outbids Asia for LNG as Prices Surge 150 % | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/consumption/europe-outbids-asia-for-lng-as-prices-surge-150",
-    "source": "peakoil.com",
-    "theme": "press",
-    "date": "2026-09-20T08:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
+  "LV": [
    {
     "title": "Mark Carney relationship with Trump is changing in real time . Is anyone keeping up ?",
     "url": "https://www.niagarafallsreview.ca/politics/federal/mark-carney-s-relationship-with-trump-is-changing-in-real-time-is-anyone-keeping-up/article_1d7c6b84-bf35-5a67-a251-aad5147befe0.html",
@@ -469,17 +447,7 @@
     "theme": "press",
     "date": "2026-09-20T07:15:00+00:00",
     "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Scientists compared 179 saithe , tusk , and ling around Norway Hywind Tampen and beyond , and found limited diet differences overall but ling caught at the floating wind farm showed lower body condition",
-    "url": "https://www.ecoportal.net/en/scientists-saithe-tusk-ling-norway/36849/",
-    "source": "ecoportal.net",
-    "theme": "press",
-    "date": "2026-09-20T00:30:00+00:00",
-    "countries": [
-     "NO"
+     "LV"
     ]
    },
    {
@@ -489,7 +457,51 @@
     "theme": "press",
     "date": "2026-09-20T00:30:00+00:00",
     "countries": [
-     "NO"
+     "LV"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Putin will win Russia sham election . What happens next terrifies Europe",
+    "url": "https://www.smh.com.au/world/europe/putin-will-win-russia-s-sham-election-what-happens-next-terrifies-europe-20260920-p60yoa.html",
+    "source": "smh.com.au",
+    "theme": "press",
+    "date": "2026-09-20T11:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Putin will win Russia sham election . What happens next terrifies Europe",
+    "url": "https://www.theage.com.au/world/europe/putin-will-win-russia-s-sham-election-what-happens-next-terrifies-europe-20260920-p60yoa.html",
+    "source": "theage.com.au",
+    "theme": "press",
+    "date": "2026-09-20T10:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Vermilion Energy Inc . ( NYSE : VET ) Given Consensus Recommendation of Hold by Analysts",
+    "url": "https://www.dailypolitical.com/2026/09/19/vermilion-energy-inc-nysevet-given-consensus-recommendation-of-hold-by-analysts.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-20T07:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Battle with Leukaemia inspired my AFWL collection - Osime Saibu",
+    "url": "https://thesun.ng/battle-with-leukaemia-inspired-my-afwl-collection-osime-saibu/",
+    "source": "thesun.ng",
+    "theme": "press",
+    "date": "2026-09-20T00:15:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
@@ -557,23 +569,20 @@
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

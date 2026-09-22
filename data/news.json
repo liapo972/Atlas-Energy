@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T16:29:03+00:00",
+ "generated": "2026-09-22T20:26:46+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-22T16:29:03+00:00",
+   "date": "2026-09-22T20:26:46+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-22T16:29:03+00:00",
+   "date": "2026-09-22T20:26:46+00:00",
    "countries": []
   },
   {
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE",
      "IE"
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260922_OpenAccess.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE"
     ]
@@ -156,9 +156,79 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "Staff and students protest over Carlow College closure",
+    "url": "https://www.rte.ie/news/education/2026/0922/1592561-carlow-college-protest/",
+    "source": "rte.ie",
+    "theme": "press",
+    "date": "2026-09-22T19:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Shares advance as falling oil prices relieve pressure",
+    "url": "https://www.irishtimes.com/business/2026/09/22/shares-advance-as-falling-oil-prices-relieve-pressure/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-09-22T18:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Traitors Ireland star Kayleigh FINALLY breaks silence on intense feud with co - star Pauric O",
+    "url": "https://goss.ie/showbiz/traitors-ireland-star-kayleigh-finally-breaks-silence-on-intense-feud-with-co-star-pauric-o-486194",
+    "source": "goss.ie",
+    "theme": "press",
+    "date": "2026-09-22T18:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Octopus Renewables Infrastructure Trust H1 Earnings Call Highlights",
+    "url": "https://www.dailypolitical.com/2026/09/22/octopus-renewables-infrastructure-trust-h1-earnings-call-highlights.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-22T18:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Is Europe restraining Israel or merely protecting the two - state illusion ?",
+    "url": "https://peoplesworld.org/article/is-europe-restraining-israel-or-merely-protecting-the-two-state-illusion/",
+    "source": "peoplesworld.org",
+    "theme": "press",
+    "date": "2026-09-22T18:15:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Review : Amanda",
+    "url": "https://www.filmireland.net/review-amanda-2/",
+    "source": "filmireland.net",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Casement , McNulty and the border poll bluff : has nationalism lost its map ?",
+    "url": "https://sluggerotoole.com/2026/09/22/nationalism-fantasyland-burrows-border-poll/",
+    "source": "sluggerotoole.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
      "IE"
     ]
    }
@@ -169,10 +239,80 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "AT",
      "SI"
+    ]
+   },
+   {
+    "title": "India , OPEC hold 7th high - level dialogue on energy security and market stability",
+    "url": "http://www.indiagazette.com/news/279323968/india-opec-hold-7th-high-level-dialogue-on-energy-security-and-market-stability",
+    "source": "indiagazette.com",
+    "theme": "press",
+    "date": "2026-09-22T19:30:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Why are Hungary and Ukraine fighting again",
+    "url": "http://www.russiaherald.com/news/279324061/why-are-hungary-and-ukraine-fighting-again",
+    "source": "russiaherald.com",
+    "theme": "press",
+    "date": "2026-09-22T18:30:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Will the U . S . Send Troops to Die for Estonia ? Putin Doesnt Think So .",
+    "url": "https://pjmedia.com/rick-moran/2026/09/22/will-the-us-send-troops-to-die-for-estonia-putin-doesnt-think-so-n4957504",
+    "source": "pjmedia.com",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Why are Hungary and Ukraine fighting again ?",
+    "url": "http://www.bignewsnetwork.com/news/279324077/why-are-hungary-and-ukraine-fighting-again",
+    "source": "bignewsnetwork.com",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Why are Hungary and Ukraine fighting again",
+    "url": "http://www.bignewsnetwork.com/news/279324061/why-are-hungary-and-ukraine-fighting-again",
+    "source": "bignewsnetwork.com",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "India , OPEC deepen dialogue on energy stability",
+    "url": "https://ibcworldnews.com/2026/09/22/india-opec-deepen-dialogue-on-energy-stability/",
+    "source": "ibcworldnews.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "India , Opec discuss oil market stability , seek closer energy ties",
+    "url": "https://www.livemint.com/industry/energy/india-opec-discuss-oil-market-stability-and-energy-security-11790084268850.html",
+    "source": "livemint.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "AT"
     ]
    }
   ],
@@ -182,7 +322,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,77 +335,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
-    "url": "https://www.military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
-    "source": "military.com",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-    "url": "http://www.reflector.com/news/national/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump/article_2175cec1-662e-5e67-a2f1-bdf1825edaac.html",
-    "source": "reflector.com",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-    "url": "https://www.therecord.com/business/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump/article_96624044-6abb-59a5-8ebc-1d5bfe1284d7.html",
-    "source": "therecord.com",
-    "theme": "press",
-    "date": "2026-09-22T11:00:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Ukraine Super Tucano Plan Hits Brazil Veto",
-    "url": "https://www.riotimesonline.com/ukraine-super-tucano-poroshenko-brazil-veto-2026/",
-    "source": "riotimesonline.com",
-    "theme": "press",
-    "date": "2026-09-22T11:00:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Endesa S . A . – Unsponsored ADR ( OTCMKTS : ELEZY ) Given Consensus Recommendation of Strong Sell by Brokerages",
-    "url": "https://www.dailypolitical.com/2026/09/22/endesa-s-a-unsponsored-adr-otcmktselezy-given-consensus-recommendation-of-strong-sell-by-brokerages.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-09-22T11:00:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-    "url": "https://www.mankatofreepress.com/news/business/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump/article_0a5af3d2-332f-5c8e-9514-15f184e4bec7.html",
-    "source": "mankatofreepress.com",
-    "theme": "press",
-    "date": "2026-09-22T11:00:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Markup Languages and Simulators for Molecular Communications",
-    "url": "https://link.springer.com/book/9783032330390",
-    "source": "link.springer.com",
-    "theme": "press",
-    "date": "2026-09-22T08:45:00+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "PT"
     ]
@@ -277,17 +347,77 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-22T16:29:03+00:00",
+    "date": "2026-09-22T20:26:46+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Christine Lagarde: Interview with Ouest-France",
-    "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-    "source": "BCE",
-    "theme": "policy",
-    "date": "2026-09-12T20:00:00+00:00",
+    "title": "Judas Priest Announces First Performances for 2027",
+    "url": "https://991thewhale.com/ixp/295/p/judas-priest-2027-concerts/",
+    "source": "991thewhale.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Is Europe restraining Israel or merely protecting the two - state illusion ?",
+    "url": "https://www.peoplesworld.org/article/is-europe-restraining-israel-or-merely-protecting-the-two-state-illusion/",
+    "source": "peoplesworld.org",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Long Arm of Somali Fraud Diaspora Could Upend Last Week Swedish Election Results",
+    "url": "https://hotair.com/tree-hugging-sister/2026/09/22/long-arm-of-somali-fraud-diaspora-could-up-end-last-weeks-swedish-election-results-n3819227",
+    "source": "hotair.com",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Russia war : Trump suggests Ukraine deal close with Zelenskyy",
+    "url": "https://www.cp24.com/news/world/2026/09/22/trump-suggests-ukraine-deal-on-russias-war-could-be-close-while-meeting-with-zelenskyy/",
+    "source": "cp24.com",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Meet the future of the LA Philharmonic and San Francisco Symphony",
+    "url": "https://www.kzyx.org/npr-news/2026-09-22/meet-the-future-of-the-la-philharmonic-and-san-francisco-symphony",
+    "source": "kzyx.org",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Meet the future of the LA Philharmonic and San Francisco Symphony",
+    "url": "https://www.ksut.org/2026-09-22/meet-the-future-of-the-la-philharmonic-and-san-francisco-symphony",
+    "source": "ksut.org",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Meet the future of the LA Philharmonic and San Francisco Symphony",
+    "url": "https://www.klcc.org/npr-music/2026-09-22/meet-the-future-of-the-la-philharmonic-and-san-francisco-symphony",
+    "source": "klcc.org",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
     "countries": [
      "FR"
     ]
@@ -295,177 +425,271 @@
   ],
   "GB": [
    {
-    "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
-    "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-22T15:30:00+00:00",
+    "title": "See the Full Schedule for RGPS St . Louis",
+    "url": "https://www.pokernews.com/news/2026/09/rgps-st-louis-full-schedule-52417.htm",
+    "source": "pokernews.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Bank of England announces new office space in Leeds",
-    "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-21T12:00:00+00:00",
+    "title": "Diesel prices surge to record highs as global supplies shrink",
+    "url": "http://www.orlandoecho.com/news/279321934/diesel-prices-surge-to-record-highs-as-global-supplies-shrink",
+    "source": "orlandoecho.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-    "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-21T11:30:00+00:00",
+    "title": "Ed Davey pledges tax cuts as Lib Dems are in fight of our lives",
+    "url": "https://www.ledburyreporter.co.uk/news/national/26572808.ed-davey-pledges-tax-cuts-lib-dems-fight-lives/",
+    "source": "ledburyreporter.co.uk",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-18T11:00:00+00:00",
+    "title": "Diesel prices surge to record highs as global supplies shrink",
+    "url": "http://www.singaporestar.com/news/279321934/diesel-prices-surge-to-record-highs-as-global-supplies-shrink",
+    "source": "singaporestar.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "£30 million National Gas investment to boost jobs, skills and energy security in Derbyshire",
-    "url": "https://www.nationalgas.com/media/news/ps30-million-national-gas-investment-boost-jobs-skills-and-energy-security-derbyshire",
-    "source": "National Gas",
-    "theme": "grid",
-    "date": "2026-09-17T14:56:15+00:00",
+    "title": "Diesel prices surge to record highs as global supplies shrink",
+    "url": "http://www.pakistantelegraph.com/news/279321934/diesel-prices-surge-to-record-highs-as-global-supplies-shrink",
+    "source": "pakistantelegraph.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
-    "url": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-17T13:30:00+00:00",
+    "title": "US - UK relationship more up with Burnham than Starmer , Trump claims",
+    "url": "https://www.bucksfreepress.co.uk/news/national/26573270.us-uk-relationship-more-up-burnham-starmer-trump-claims/",
+    "source": "bucksfreepress.co.uk",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Monetary Policy Committee dates for 2027",
-    "url": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-17T13:30:00+00:00",
+    "title": "US - UK relationship more up with Burnham than Starmer , Trump claims",
+    "url": "https://www.ilfordrecorder.co.uk/news/national/26573270.us-uk-relationship-more-up-burnham-starmer-trump-claims/",
+    "source": "ilfordrecorder.co.uk",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-    "url": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-17T11:00:00+00:00",
+    "title": "290 jobs lost after glass manufacturer sold out of administration",
+    "url": "https://www.thebusinessdesk.com/yorkshire/news/2160530-290-jobs-lost-after-glass-manufacturer-sold-out-of-administration/",
+    "source": "thebusinessdesk.com",
+    "theme": "press",
+    "date": "2026-09-22T19:45:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
-  "ES": [
+  "BE": [
    {
-    "title": "5 household essentials will cost more this winter due to war and weather",
-    "url": "https://www.leicestermercury.co.uk/news/uk-world-news/5-household-essentials-cost-more-11166616",
-    "source": "leicestermercury.co.uk",
+    "title": "Promising Nuclear Stocks To Consider – September 22nd",
+    "url": "https://www.themarketsdaily.com/2026/09/22/promising-nuclear-stocks-to-consider-september-22nd.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-09-22T18:45:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Oakland People Arms Embargo Coalition Demands End to Military Shipments Thru Oakland",
+    "url": "https://www.postnewsgroup.com/oakland-peoples-arms-embargo-coalition-demands-end-to-military-shipments-thru-oakland/",
+    "source": "postnewsgroup.com",
+    "theme": "press",
+    "date": "2026-09-22T18:15:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "PPA taps EU port giant for terminal upgrades",
+    "url": "https://www.philstar.com/business/2026/09/23/2558144/ppa-taps-eu-port-giant-terminal-upgrades",
+    "source": "philstar.com",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Queen Mathilde turns heads in New York with an unexpected twist on the classic pantsuit",
+    "url": "https://www.hola.com/us/royals/20260922924843/queen-mathilde-unexpected-twist-classic-pantsuit/",
+    "source": "hola.com",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Singapore Nexstrom wants to bring 2D semiconductors to chip fabs",
+    "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+    "source": "techcrunch.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Want to change Pak existing corrupt political system : Muttahida Qaumi Movement founder Altaf Hussain",
+    "url": "http://www.southeastasiapost.com/news/279323216/want-to-change-pak-existing-corrupt-political-system-muttahida-qaumi-movement-founder-altaf-hussain",
+    "source": "southeastasiapost.com",
     "theme": "press",
     "date": "2026-09-22T16:00:00+00:00",
     "countries": [
-     "ES"
+     "BE"
     ]
    },
    {
-    "title": "Climate Activists Target AI Data Centers & Amazon Plan to Build Largest U . S . Gas Power Plant",
-    "url": "https://www.democracynow.org/2026/9/22/un_climate_week",
-    "source": "democracynow.org",
+    "title": "Want to change Pak existing corrupt political system : Muttahida Qaumi Movement founder Altaf Hussain",
+    "url": "http://www.arabherald.com/news/279323216/want-to-change-pak-existing-corrupt-political-system-muttahida-qaumi-movement-founder-altaf-hussain",
+    "source": "arabherald.com",
     "theme": "press",
     "date": "2026-09-22T16:00:00+00:00",
     "countries": [
-     "ES"
+     "BE"
     ]
    },
    {
-    "title": "Sri Lanka convicts 14 over Easter Sunday massacre",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/09/22/sri-lanka-convicts-14-over-easter-sunday-massacre",
-    "source": "freemalaysiatoday.com",
-    "theme": "press",
-    "date": "2026-09-22T15:30:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "MicroVision Introduces Advanced Photonics Technology for Next - Generation AI Data Center Scale - Up Architecture",
-    "url": "http://www.europesun.com/news/279323380/microvision-introduces-advanced-photonics-technology-for-next-generation-ai-data-center-scale-up-architecture",
-    "source": "europesun.com",
+    "title": "EU Strikes Free Trade Deal With Philippines in Bid to Ease Reliance on Major Powers",
+    "url": "https://www.theepochtimes.com/world/eu-strikes-free-trade-deal-with-philippines-in-bid-to-ease-reliance-on-major-powers-6093211",
+    "source": "theepochtimes.com",
     "theme": "press",
     "date": "2026-09-22T14:45:00+00:00",
     "countries": [
-     "ES"
+     "BE"
+    ]
+   }
+  ],
+  "IT": [
+   {
+    "title": "Battery Council International Announces Inaugural NextGen Leadership Award Recipients",
+    "url": "http://www.californiatelegraph.com/news/279324067/battery-council-international-announces-inaugural-nextgen-leadership-award-recipients",
+    "source": "californiatelegraph.com",
+    "theme": "press",
+    "date": "2026-09-22T20:00:00+00:00",
+    "countries": [
+     "IT"
     ]
    },
    {
-    "title": "Louisiana - loaded LNG tanker under cyberattack alters course",
-    "url": "https://thehayride.com/2026/09/louisiana-loaded-lng-tanker-under-cyberattack-alters-course/",
-    "source": "thehayride.com",
+    "title": "Battery Council International Announces Inaugural NextGen Leadership Award Recipients",
+    "url": "http://www.newjerseytelegraph.com/news/279324067/battery-council-international-announces-inaugural-nextgen-leadership-award-recipients",
+    "source": "newjerseytelegraph.com",
     "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
+    "date": "2026-09-22T19:45:00+00:00",
     "countries": [
-     "ES"
+     "IT"
     ]
    },
    {
-    "title": "Investment Grows for Storage , Renewable Energy Projects in Chile",
-    "url": "https://www.powermag.com/investment-grows-for-storage-renewable-energy-projects-in-chile/",
-    "source": "powermag.com",
+    "title": "LNG tanker loaded in Cameron alters course without delivering load after cyberattack",
+    "url": "https://americanpress.com/2026/09/22/lng-tanker-loaded-in-cameron-alters-course-without-delivering-load-after-cyberattack/",
+    "source": "americanpress.com",
     "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
+    "date": "2026-09-22T19:45:00+00:00",
     "countries": [
-     "ES"
+     "IT"
     ]
    },
    {
-    "title": "Global Commission on Healthy Indoor Air Launches",
-    "url": "https://www.3blmedia.com/news/global-commission-healthy-indoor-air-launches-first-its-kind-framework-coordinated-action",
-    "source": "3blmedia.com",
+    "title": "From the TOP ROPE ! Rubio to NATO : If We Cant Use the Bases , What the Point ? – Twitchy",
+    "url": "https://twitchy.com/samj/2026/09/22/rubio-nato-n2432580",
+    "source": "twitchy.com",
     "theme": "press",
-    "date": "2026-09-22T14:30:00+00:00",
+    "date": "2026-09-22T19:30:00+00:00",
     "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "South Africa : SA Seeks UN Backing for International Panel On Inequality At Unga81",
-    "url": "https://allafrica.com/stories/202609220033.html",
-    "source": "allafrica.com",
-    "theme": "press",
-    "date": "2026-09-22T11:00:00+00:00",
-    "countries": [
-     "ES"
+     "IT"
     ]
    }
   ],
   "PL": [
    {
-    "title": "Daybreak Sept . 22 : Tom seeks to ease tensions on fertilizer",
-    "url": "https://www.agri-pulse.com/articles/25274-daybreak-sept-22-tom-seeks-to-ease-tensions-on-fertilizer",
-    "source": "agri-pulse.com",
+    "title": "The Latest : Trump says US and Iran met shortly after he threatened annihilation in UN speech",
+    "url": "https://www.kob.com/ap-top-news/the-latest-trump-says-us-and-iran-met-shortly-after-he-threatened-annihilation-in-un-speech/",
+    "source": "kob.com",
     "theme": "press",
-    "date": "2026-09-22T16:00:00+00:00",
+    "date": "2026-09-22T19:45:00+00:00",
     "countries": [
      "PL"
+    ]
+   },
+   {
+    "title": "Ukraine Secures Winter LNG , $500 Petroleum Product Deal With Poland",
+    "url": "https://www.kyivpost.com/post/85136",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-22T18:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
+    "url": "http://www.argentinastar.com/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
+    "source": "argentinastar.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "SK": [
+   {
+    "title": "EU Council extends sanctions over violations of Ukraine territorial integrity for 3 years instead of 6 months , removes three individuals , one entity from list",
+    "url": "https://en.interfax.com.ua/news/general/1208316.html",
+    "source": "en.interfax.com.ua",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "On the table or on the menu ? A new power play begins at the UN",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/on-the-table-or-on-the-menu-a-new-power-play-begins-at-the-un/articleshow/134415762.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
+    "url": "http://www.irishsun.com/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
+    "source": "irishsun.com",
+    "theme": "press",
+    "date": "2026-09-22T16:30:00+00:00",
+    "countries": [
+     "SK"
     ]
    },
    {
@@ -475,7 +699,7 @@
     "theme": "press",
     "date": "2026-09-22T16:00:00+00:00",
     "countries": [
-     "PL"
+     "SK"
     ]
    },
    {
@@ -485,7 +709,7 @@
     "theme": "press",
     "date": "2026-09-22T15:45:00+00:00",
     "countries": [
-     "PL"
+     "SK"
     ]
    },
    {
@@ -495,339 +719,41 @@
     "theme": "press",
     "date": "2026-09-22T15:30:00+00:00",
     "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
-    "url": "http://www.newyorktelegraph.com/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
-    "source": "newyorktelegraph.com",
-    "theme": "press",
-    "date": "2026-09-22T15:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
-    "url": "http://www.afghanistannews.net/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
-    "source": "afghanistannews.net",
-    "theme": "press",
-    "date": "2026-09-22T15:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
-    "url": "http://www.brazilsun.com/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
-    "source": "brazilsun.com",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Very productive meeting , Slovak FM Juraj Blanar hails India - Visegard cooperation ; highlights tech , defence cooperation",
-    "url": "http://www.zimbabwestar.com/news/279323219/very-productive-meeting-slovak-fm-juraj-blanar-hails-india-visegard-cooperation-highlights-tech-defence-cooperation",
-    "source": "zimbabwestar.com",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "CZ": [
-   {
-    "title": "India 30 - year wait for a seat has a new twist and an old problem",
-    "url": "https://economictimes.indiatimes.com/news/india/india-unsc-permanent-seat-veto-power-unsc-china-usa-france-uk-russia-on-india-seat-unsc-permanent-member/articleshow/134404979.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-22T07:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Global order under stres : Jaishankar calls for stronger multilateralism at UNGA | India News",
-    "url": "https://timesofindia.indiatimes.com/india/global-order-under-stress-jaishankar-calls-for-stronger-multilateralism-at-unga/articleshow/134400877.cms",
-    "source": "timesofindia.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-22T04:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "4 European nations back India bid for permanent UN seat , Jaishankar calls it historic",
-    "url": "https://timesofindia.indiatimes.com/india/visegrad-four-backs-india-for-permanent-unsc-seat-jaishankar-calls-first-india-v4-meet-historic/articleshow/134397233.cms",
-    "source": "timesofindia.indiatimes.com",
-    "theme": "press",
-    "date": "2026-09-22T02:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Crispin Hull | Freeing ourselves from Donald Trump , Benjamin Netanyahu , Xi Jinping | The Advocate - Hepburn",
-    "url": "https://www.hepburnadvocate.com.au/story/9354245/crispin-hull-freeing-ourselves-from-donald-trump-benjamin-netanyahu-xi-jinping/",
-    "source": "hepburnadvocate.com.au",
-    "theme": "press",
-    "date": "2026-09-22T02:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Crispin Hull | Freeing ourselves from Donald Trump , Benjamin Netanyahu , Xi Jinping | Katherine Times",
-    "url": "https://www.katherinetimes.com.au/story/9354245/crispin-hull-freeing-ourselves-from-donald-trump-benjamin-netanyahu-xi-jinping/",
-    "source": "katherinetimes.com.au",
-    "theme": "press",
-    "date": "2026-09-22T02:00:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Crispin Hull | Freeing ourselves from Donald Trump , Benjamin Netanyahu , Xi Jinping | The Examiner",
-    "url": "https://www.examiner.com.au/story/9354245/crispin-hull-freeing-ourselves-from-donald-trump-benjamin-netanyahu-xi-jinping/",
-    "source": "examiner.com.au",
-    "theme": "press",
-    "date": "2026-09-22T02:00:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Crispin Hull | Freeing ourselves from Donald Trump , Benjamin Netanyahu , Xi Jinping | Mudgee Guardian",
-    "url": "https://www.mudgeeguardian.com.au/story/9354245/crispin-hull-freeing-ourselves-from-donald-trump-benjamin-netanyahu-xi-jinping/",
-    "source": "mudgeeguardian.com.au",
-    "theme": "press",
-    "date": "2026-09-22T02:00:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Crispin Hull | Freeing ourselves from Donald Trump , Benjamin Netanyahu , Xi Jinping | Bega District News",
-    "url": "https://www.begadistrictnews.com.au/story/9354245/crispin-hull-freeing-ourselves-from-donald-trump-benjamin-netanyahu-xi-jinping/",
-    "source": "begadistrictnews.com.au",
-    "theme": "press",
-    "date": "2026-09-22T01:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   }
-  ],
-  "RO": [
-   {
-    "title": "Brazilian National Day : Ambassador Ricardo Guerra de Araújo Speech on the Future of Brazil – Romania Relations – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
-    "url": "https://nineoclock.ro/brazilian-national-day-ambassador-ricardo-guerra-de-araujos-speech-on-the-future-of-brazil-romania-relations/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-09-22T15:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "B+N to lease 1 , 500 sqm at Globalworth Green Court D for its new Bucharest headquarters",
-    "url": "https://business-review.eu/property/offices/bn-to-lease-1500-sqm-at-globalworths-green-court-d-for-its-new-bucharest-headquarters-300793",
-    "source": "business-review.eu",
-    "theme": "press",
-    "date": "2026-09-22T15:30:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "The 17 European Parliament lawmakers you should watch",
-    "url": "https://www.politico.eu/article/the-17-european-parliament-lawmakers-you-should-watch/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-09-22T02:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Russia targets Zaporizhzhia after Ukraine launches 1 , 000 - drone weekend barrage",
-    "url": "https://www.journalgazette.net/news/world/russia-targets-zaporizhzhia-after-ukraine-launches-1-000-drone-weekend-barrage/article_5473e738-7065-525b-8eeb-d02f4247a51e.html",
-    "source": "journalgazette.net",
-    "theme": "press",
-    "date": "2026-09-22T02:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   }
-  ],
-  "FI": [
-   {
-    "title": "Why is energy drink dependency so high among Swedish teenagers ?",
-    "url": "https://www.beveragedaily.com/Article/2026/09/22/why-is-energy-drink-dependency-so-high-among-swedish-teenagers/",
-    "source": "beveragedaily.com",
-    "theme": "press",
-    "date": "2026-09-22T15:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Smilla Sense Of Snow Series Settles At AMC+",
-    "url": "https://deadline.com/2026/09/smillas-sense-of-snow-series-premiere-on-amc-plus-us-canada-1237110075/",
-    "source": "deadline.com",
-    "theme": "press",
-    "date": "2026-09-22T15:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "21 September 2026 - Daily Press Briefing by the Office of the Spokesperson for the Secretary - General",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-unbrief01.htm",
-    "source": "globalsecurity.org",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "UNGA 2026 : Trump address Tuesday , NYC street closures & full speaker list",
-    "url": "https://www.fox5atlanta.com/news/trump-unga-tuesday-schedule-full-speaker-list-2026",
-    "source": "fox5atlanta.com",
-    "theme": "press",
-    "date": "2026-09-22T14:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Covenergo , Delta begin work on 300MWh BESS in Finland",
-    "url": "https://www.energy-storage.news/covenergo-and-delta-capacity-begin-construction-on-300mwh-akku-one-bess-in-finland/",
-    "source": "energy-storage.news",
-    "theme": "press",
-    "date": "2026-09-22T08:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "A Concise History of Everton",
-    "url": "https://www.toffeeweb.com/history/concise/index.php",
-    "source": "toffeeweb.com",
-    "theme": "press",
-    "date": "2026-09-22T07:45:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Tuesday briefing : Europe thinks Russia is preparing to test Nato limits | Russia",
-    "url": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-09-22T06:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "Is Europe Restraining Israel – or Merely Protecting the Two - State Illusion ?",
-    "url": "https://original.antiwar.com/ramzy-baroud/2026/09/21/is-europe-restraining-israel-or-merely-protecting-the-two-state-illusion/",
-    "source": "original.antiwar.com",
-    "theme": "press",
-    "date": "2026-09-22T05:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "EE": [
-   {
-    "title": "Re - engineering the coastline : Insights from the Monaco Smart & Sustainable Marina Rendezvous",
-    "url": "https://monacolife.net/re-engineering-the-coastline-insights-from-the-monaco-smart-sustainable-marina-rendezvous/",
-    "source": "monacolife.net",
-    "theme": "press",
-    "date": "2026-09-22T15:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "As leaders meet in New York , the fate of the world may rest on Trump and Xi",
-    "url": "https://www.abc.net.au/news/2026-09-22/un-general-assembly-meets-amid-changed-world-and-trump-xi-meet/107179452",
-    "source": "abc.net.au",
-    "theme": "press",
-    "date": "2026-09-22T03:45:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Who Had World War III Starting in Estonia on Their 2026 Bingo Card ?",
-    "url": "https://pjmedia.com/vodkapundit/2026/09/21/who-had-world-war-iii-starting-in-estonia-on-their-2026-bingo-card-n4957473",
-    "source": "pjmedia.com",
-    "theme": "press",
-    "date": "2026-09-21T19:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Kansas KidWind teams honored at Statehouse after world championship wins",
-    "url": "https://jcpost.com/posts/dfbcd832-db08-4fbf-95ba-f31f7f54af28",
-    "source": "jcpost.com",
-    "theme": "press",
-    "date": "2026-09-21T18:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Tarmo Soomere elected to the European Academy of Engineering",
-    "url": "https://www.baltictimes.com/tarmo_soomere_elected_to_the_european_academy_of_engineering/",
-    "source": "baltictimes.com",
-    "theme": "press",
-    "date": "2026-09-21T18:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "INGERSOLL : Putin , Trump , Xi , And WWIII . What The Upside ?",
-    "url": "https://dailycaller.com/2026/09/21/xi-jinping-china-taiwan-trump-russia-ukraine-war-world-war-iii-priorities-democrats/",
-    "source": "dailycaller.com",
-    "theme": "press",
-    "date": "2026-09-21T16:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Beyond Ukraine : Why Europe is preparing for a wider conflict",
-    "url": "https://us.cnn.com/2026/09/21/politics/nato-prepares-russia-widen-ukraine-war-mcgurk",
-    "source": "us.cnn.com",
-    "theme": "press",
-    "date": "2026-09-21T06:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "The Other Hormuz : Black Sea Blockade Threatens a Food Supply Shock",
-    "url": "https://finance.yahoo.com/markets/commodities/articles/other-hormuz-black-sea-blockade-230101888.html",
-    "source": "finance.yahoo.com",
-    "theme": "press",
-    "date": "2026-09-21T06:30:00+00:00",
-    "countries": [
-     "EE"
+     "SK"
     ]
    }
   ],
   "LV": [
+   {
+    "title": "EU removes two Russian oligarchs from sanctions list",
+    "url": "http://www.bgnes.com/politics/eu-removes-two-russian-oligarchs-from-sanctions-list",
+    "source": "bgnes.com",
+    "theme": "press",
+    "date": "2026-09-22T19:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Replacing entire supervisory boards of state - owned companies at once creates major shock – Viesturs Liegis , Managing Partner at Amrop , Baltics and Ukraine",
+    "url": "https://en.interfax.com.ua/news/interview/1208291.html",
+    "source": "en.interfax.com.ua",
+    "theme": "press",
+    "date": "2026-09-22T18:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Daybreak Sept . 22 : Tom seeks to ease tensions on fertilizer",
+    "url": "https://www.agri-pulse.com/articles/25274-daybreak-sept-22-tom-seeks-to-ease-tensions-on-fertilizer",
+    "source": "agri-pulse.com",
+    "theme": "press",
+    "date": "2026-09-22T16:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
    {
     "title": "Trump suggests that Iran is not doing well , whilst Pakistan continues to mediate ; European equity futures set to open slightly higher - Newsquawk EU Market Open",
     "url": "https://www.zerohedge.com/markets/trump-suggests-iran-not-doing-well-whilst-pakistan-continues-mediate-european-equity",
@@ -869,41 +795,11 @@
     ]
    },
    {
-    "title": "Moto Wrap Weekly : Webb v Deegan - MXGP - Rally - Trials",
-    "url": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-22-2026/",
-    "source": "mcnews.com.au",
+    "title": "Tuesday briefing : Europe thinks Russia is preparing to test Nato limits | Russia",
+    "url": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits",
+    "source": "theguardian.com",
     "theme": "press",
-    "date": "2026-09-22T02:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "US stocks rallied led by strength in tech and communications , while oil prices and yields declined - Newsquawk Daily Asia - Pac Market Open",
-    "url": "https://www.zerohedge.com/markets/us-stocks-rallied-led-strength-tech-and-communications-while-oil-prices-and-yields-declined",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-09-22T00:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Beyond Ukraine : What to Know About Russia Escalating Confrontation With NATO",
-    "url": "https://www.moroccoworldnews.com/2026/09/339173/beyond-ukraine-what-to-know-about-russias-escalating-confrontation-with-nato/",
-    "source": "moroccoworldnews.com",
-    "theme": "press",
-    "date": "2026-09-21T22:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Bulgaria Renewable Electricity Share Remains Below EU Average - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240676",
-    "source": "novinite.com",
-    "theme": "press",
-    "date": "2026-09-21T21:45:00+00:00",
+    "date": "2026-09-22T06:15:00+00:00",
     "countries": [
      "LV"
     ]
@@ -968,26 +864,24 @@
  },
  "errors": [
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/SK: HTTPError",
+  "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
+  "gdelt/CZ: HTTPError",
   "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
-  "gdelt/LT: URLError",
-  "gdelt/SI: URLError",
-  "gdelt/HR: URLError",
-  "gdelt/RS: URLError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

@@ -14,12 +14,17 @@ Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
-  pays servis : 12 / 28
-  duree       : 130s
+  pays servis : 9 / 28
+  duree       : 145s
 
---- 22 avertissements ---
+--- 29 avertissements ---
   ! ENTSOG: https://www.entsog.eu/rss.xml -> ParseError
+  ! gdelt/FR: HTTPError
+  ! gdelt/DE: HTTPError
   ! gdelt/NL: HTTPError
+  ! gdelt/BE: HTTPError
+  ! gdelt/GB: HTTPError
+  ! gdelt/IE: HTTPError
   ! gdelt/CH: HTTPError
   ! gdelt/AT: HTTPError
   ! gdelt/ES: HTTPError
@@ -29,14 +34,16 @@ Requetes GDELT pays : 28
   ! gdelt/CZ: HTTPError
   ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
-  ! gdelt/GR: HTTPError
-  ! gdelt/BG: HTTPError
-  ! gdelt/NO: HTTPError
+  ! gdelt/RO: HTTPError
+  ! gdelt/GR: URLError
+  ! gdelt/BG: URLError
+  ! gdelt/NO: URLError
   ! gdelt/SE: HTTPError
   ! gdelt/DK: HTTPError
+  ! gdelt/FI: HTTPError
+  ! gdelt/EE: HTTPError
   ! gdelt/LV: HTTPError
   ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
-  ! gdelt/HR: HTTPError
   ! gdelt/RS: HTTPError
-  ! gdelt/world: HTTPError
+  ! gdelt/world: URLError

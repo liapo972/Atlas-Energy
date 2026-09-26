@@ -1,5 +1,5 @@
 Flux RSS : 11 sources
-  MORT ACER                     https://www.acer.europa.eu/rss.xml -> TimeoutError
+  OK   ACER                     https://www.acer.europa.eu/rss.xml
   MORT ENTSOG                   https://www.entsog.eu/rss.xml -> ParseError
   OK   ENTSO-E                  https://www.entsoe.eu/rss.xml
   OK   Commission européenne    https://ec.europa.eu/commission/presscorner/api/rss?language=en
@@ -13,29 +13,34 @@ Flux RSS : 11 sources
 Requetes GDELT pays : 28
 
 --- Resultat ---
-  fil monde   : 25 titres
+  fil monde   : 8 titres
   pays servis : 11 / 28
-  duree       : 133s
+  duree       : 162s
 
---- 21 avertissements ---
-  ! ACER: https://www.acer.europa.eu/rss.xml -> TimeoutError
+--- 26 avertissements ---
   ! ENTSOG: https://www.entsog.eu/rss.xml -> ParseError
-  ! gdelt/FR: HTTPError
-  ! gdelt/DE: HTTPError
-  ! gdelt/NL: HTTPError
-  ! gdelt/BE: HTTPError
-  ! gdelt/GB: HTTPError
-  ! gdelt/IE: HTTPError
-  ! gdelt/CH: HTTPError
-  ! gdelt/AT: HTTPError
-  ! gdelt/PL: HTTPError
-  ! gdelt/CZ: HTTPError
-  ! gdelt/SK: HTTPError
-  ! gdelt/HU: HTTPError
+  ! gdelt/FR: URLError
+  ! gdelt/DE: URLError
+  ! gdelt/NL: URLError
+  ! gdelt/BE: URLError
+  ! gdelt/GB: URLError
+  ! gdelt/IE: URLError
+  ! gdelt/CH: URLError
+  ! gdelt/AT: URLError
+  ! gdelt/ES: URLError
+  ! gdelt/PT: URLError
+  ! gdelt/IT: URLError
+  ! gdelt/PL: URLError
+  ! gdelt/CZ: URLError
+  ! gdelt/SK: URLError
+  ! gdelt/HU: URLError
+  ! gdelt/RO: URLError
   ! gdelt/GR: HTTPError
-  ! gdelt/DK: HTTPError
-  ! gdelt/FI: HTTPError
-  ! gdelt/EE: HTTPError
+  ! gdelt/BG: HTTPError
+  ! gdelt/NO: HTTPError
   ! gdelt/LV: HTTPError
   ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
+  ! gdelt/HR: HTTPError
+  ! gdelt/RS: HTTPError
+  ! gdelt/world: HTTPError

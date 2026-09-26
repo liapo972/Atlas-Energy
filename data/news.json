@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T20:27:08+00:00",
+ "generated": "2026-09-26T00:33:47+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-25T20:27:08+00:00",
+   "date": "2026-09-26T00:33:47+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-25T20:27:08+00:00",
+   "date": "2026-09-26T00:33:47+00:00",
    "countries": []
   },
   {
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260925_Herakles.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "PT"
     ]
@@ -207,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-25T20:27:08+00:00",
+    "date": "2026-09-26T00:33:47+00:00",
     "countries": [
      "FR"
     ]
@@ -295,7 +295,17 @@
     ]
    }
   ],
-  "SE": [
+  "ES": [
+   {
+    "title": "Parvus Energy Efficiency Trust PLC RNS Announcements | AEET RNS Announcements",
+    "url": "https://www.investegate.co.uk/company/AEET",
+    "source": "investegate.co.uk",
+    "theme": "press",
+    "date": "2026-09-25T09:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
    {
     "title": "Publication of Circular & General Meeting Notice | Company Announcement",
     "url": "https://www.investegate.co.uk/announcement/rns/sdcl-efficiency-income-trust--seit/publication-of-circular-general-meeting-notice/9791084",
@@ -303,9 +313,71 @@
     "theme": "press",
     "date": "2026-09-25T09:30:00+00:00",
     "countries": [
-     "SE"
+     "ES"
     ]
    },
+   {
+    "title": "Half - year Financial Report | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/rns/parvus-energy-efficiency-trust-plc--aeet/half-year-financial-report/9790439",
+    "source": "investegate.co.uk",
+    "theme": "press",
+    "date": "2026-09-25T09:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Europe uses subsidies , taxes and policy pauses to offset pain of high fuel prices",
+    "url": "http://www.goskagit.com/news/ap_business/europe-uses-subsidies-taxes-and-policy-pauses-to-offset-pain-of-high-fuel-prices/article_46b5f2d7-2805-5feb-8ad7-27f54aa7a68a.html",
+    "source": "goskagit.com",
+    "theme": "press",
+    "date": "2026-09-25T09:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Strange Horizons - Photon Torpedoes Break the Space Muqarnas : SFF Audiovisuals and Anti - Muslim Violence By Tanvir Ahmed",
+    "url": "https://strangehorizons.com/wordpress/non-fiction/photon-torpedoes-break-the-space-muqarnas-sff-audiovisuals-and-anti-muslim-violence/",
+    "source": "strangehorizons.com",
+    "theme": "press",
+    "date": "2026-09-25T09:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Europe uses subsidies , taxes and policy pauses to offset pain of high fuel prices",
+    "url": "https://www.yakimaherald.com/news/nation_and_world/business/europe-uses-subsidies-taxes-and-policy-pauses-to-offset-pain-of-high-fuel-prices/article_83d0d0a0-af22-5bf4-82cb-44e823cfde51.html",
+    "source": "yakimaherald.com",
+    "theme": "press",
+    "date": "2026-09-25T09:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "World Bank Ecuador Program : Up to US$800 Million for Local Infrastructure",
+    "url": "https://www.riotimesonline.com/world-bank-ecuador-800-million-local-infrastructure-bde-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-25T08:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "How European governments are trying to ease the fuel price shock",
+    "url": "https://www.euronews.com/2026/09/25/how-european-governments-are-trying-to-ease-the-fuel-price-shock",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-09-25T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   }
+  ],
+  "SE": [
    {
     "title": "Misri talks in NYC focus on critical minerals , Pax Silica with Helberg , Russia Sanctions Bill , Energy Security with Hooker",
     "url": "http://www.britainnews.net/news/279330289/misri-talks-in-nyc-focus-on-critical-minerals-pax-silica-with-helberg-russia-sanctions-bill-energy-security-with-hooker",
@@ -370,6 +442,16 @@
     "title": "Misri talks in NYC focus on critical minerals , Pax Silica with Helberg , Russia Sanctions Bill , Energy Security with Hooker",
     "url": "http://www.arabherald.com/news/279330289/misri-talks-in-nyc-focus-on-critical-minerals-pax-silica-with-helberg-russia-sanctions-bill-energy-security-with-hooker",
     "source": "arabherald.com",
+    "theme": "press",
+    "date": "2026-09-25T07:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Misri talks in NYC focus on critical minerals , Pax Silica with Helberg , Russia Sanctions Bill , Energy Security with Hooker",
+    "url": "http://www.shanghainews.net/news/279330289/misri-talks-in-nyc-focus-on-critical-minerals-pax-silica-with-helberg-russia-sanctions-bill-energy-security-with-hooker",
+    "source": "shanghainews.net",
     "theme": "press",
     "date": "2026-09-25T07:00:00+00:00",
     "countries": [
@@ -664,6 +746,170 @@
      "LV"
     ]
    }
+  ],
+  "HR": [
+   {
+    "title": "Armenians await return of detainees held in Azerbaijan , Pashinyan tells UN",
+    "url": "https://www.panorama.am/en/news/2026/09/25/Pashinyan-UN/3169623",
+    "source": "panorama.am",
+    "theme": "press",
+    "date": "2026-09-25T09:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Pashinyan highlights TRIPP , rail links and peace at UN General Assembly",
+    "url": "https://www.azernews.az/karabakh/264437.html",
+    "source": "azernews.az",
+    "theme": "press",
+    "date": "2026-09-25T07:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Project Open Hand at 2026 Hand to Hand Gala Celebrated Delivery of 30 Million Meals - San Francisco Bay Times",
+    "url": "https://sfbaytimes.com/project-open-hand-at-2026-hand-to-hand-gala-celebrated-delivery-of-30-million-meals/",
+    "source": "sfbaytimes.com",
+    "theme": "press",
+    "date": "2026-09-25T01:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "The EU Unfinished Business in the Western Balkans",
+    "url": "https://tol.org/client/article/the-eus-unfinished-business-in-the-western-balkans.html",
+    "source": "tol.org",
+    "theme": "press",
+    "date": "2026-09-25T01:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Kenneth Law sentencing hears from United Kingdom victim families",
+    "url": "https://www.nsnews.com/national-news/kenneth-laws-sentencing-hears-from-united-kingdom-victims-families-12816677",
+    "source": "nsnews.com",
+    "theme": "press",
+    "date": "2026-09-24T22:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Kenneth Law sentencing hears from United Kingdom victim families",
+    "url": "https://www.chch.com/chch-news/kenneth-laws-sentencing-hears-from-united-kingdom-victims-families/",
+    "source": "chch.com",
+    "theme": "press",
+    "date": "2026-09-24T20:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Kenneth Law sentencing hears from United Kingdom victim families - Medicine Hat NewsMedicine Hat News",
+    "url": "https://medicinehatnews.com/news/national-news/2026/09/24/kenneth-laws-sentencing-hears-from-united-kingdom-victims-families/",
+    "source": "medicinehatnews.com",
+    "theme": "press",
+    "date": "2026-09-24T20:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Croatian court approves extradition of Nord Stream blast suspect to Germany",
+    "url": "http://www.sitkasentinel.com/stories/croatian-court-approves-extradition-of-nord-stream-blast-suspect-to-germany,173628",
+    "source": "sitkasentinel.com",
+    "theme": "press",
+    "date": "2026-09-24T19:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Jumbo lines up new Cyprus store as profit reaches €120 . 6m",
+    "url": "https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m",
+    "source": "cyprus-mail.com",
+    "theme": "press",
+    "date": "2026-09-25T07:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "2 . 7 % - EBRD Bulgaria Growth Forecast Unchanged as Electricity Prices Surge 88 % - Novinite . com",
+    "url": "https://www.novinite.com/articles/240761/2.7+-+EBRD",
+    "source": "novinite.com",
+    "theme": "press",
+    "date": "2026-09-25T06:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Giants at the Chessboard : The US and China are using Russia for their own purposes",
+    "url": "https://www.monitor.co.me/giants-at-the-chessboard-the-us-and-china-are-using-russia-for-their-own-purposes/",
+    "source": "monitor.co.me",
+    "theme": "press",
+    "date": "2026-09-25T01:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Mahama Backs Global Push to End US Cuba Embargo",
+    "url": "https://www.riotimesonline.com/mahama-backs-global-push-end-us-cuba-embargo-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-25T00:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "News | CEI",
+    "url": "https://www.cei.int/ansa/180792",
+    "source": "cei.int",
+    "theme": "press",
+    "date": "2026-09-24T19:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Kurti : The fall of Africa Bulnjak fired him as a figure of upholding sovereignty and rule of law",
+    "url": "https://www.kosovarja-ks.com/en/2026/9/kurti-fall-africa-bulnjak-fired-figure-upholding-sovereignty-rule-law/",
+    "source": "kosovarja-ks.com",
+    "theme": "press",
+    "date": "2026-09-24T19:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "London Gets Ready for London Design Festival and London Fashion Week",
+    "url": "https://www.artnews.com/art-news/reviews/vincent-dubourg-london-design-festival-london-fashion-week-1234798974/",
+    "source": "artnews.com",
+    "theme": "press",
+    "date": "2026-09-24T16:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Kosovo Marks Banjska Attack Anniversary as Main Suspects Remain Free",
+    "url": "https://balkaninsight.com/2026/09/24/kosovo-marks-banjska-attack-anniversary-as-main-suspects-remain-free/bi/",
+    "source": "balkaninsight.com",
+    "theme": "press",
+    "date": "2026-09-24T15:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   }
   ]
  },
  "feed_status": {
@@ -732,7 +978,6 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
@@ -742,11 +987,9 @@
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
+  "gdelt/NO: TimeoutError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

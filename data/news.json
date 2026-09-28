@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T20:26:50+00:00",
+ "generated": "2026-09-28T00:37:36+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-27T20:26:50+00:00",
+   "date": "2026-09-28T00:37:36+00:00",
    "countries": []
   },
   {
@@ -22,48 +22,162 @@
    "url": "https://www.acer.europa.eu/news/high-energy-bills-and-fixed-contracts-continue-prevail-eu-retail-energy-markets",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-09-27T20:26:50+00:00",
+   "date": "2026-09-28T00:37:36+00:00",
    "countries": []
   },
   {
-   "title": "Wystąpienie komisarza Piotra Serafina podczas XXVI Międzynarodowej Konferencji „Rola chrześcijan w procesie integracji europejskiej” pt. „Europa skazana na podział czy zjednoczenie?”",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1989",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-26T11:51:24+00:00",
-   "countries": []
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.sconeadvocate.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "sconeadvocate.com.au",
+   "theme": "press",
+   "date": "2026-09-27T22:30:00+00:00"
   },
   {
-   "title": "President von der Leyen announces €710 million to support displaced people in Africa and global crisis relief",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1985",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-25T22:00:00+00:00",
-   "countries": []
+   "title": "Sabarmati Railway station has undergone remarkable transformation under PM Modi : Amit Shah",
+   "url": "http://www.indiagazette.com/news/279335763/sabarmati-railway-station-has-undergone-remarkable-transformation-under-pm-modi-amit-shah",
+   "source": "indiagazette.com",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
   },
   {
-   "title": "Annual Work Programme 2027 webinar",
-   "url": "https://www.entsoe.eu/events/2026/09/25/annual-work-programme-2027-webinar/",
-   "source": "ENTSO-E",
-   "theme": "grid",
-   "date": "2026-09-25T15:00:58+00:00",
-   "countries": []
+   "title": "Korea LNG Carrier Edge Faces China Rise | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/koreas-lng-carrier-edge-faces-chinas-rise/",
+   "source": "hellenicshippingnews.com",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
   },
   {
-   "title": "Daily News 25 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1982",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-25T09:48:32+00:00",
-   "countries": []
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.juneesoutherncross.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "juneesoutherncross.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
   },
   {
-   "title": "Commission greenlights Luxembourg's third payment request for €92.2 million under NextGenerationEU",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1981",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-25T08:21:03+00:00",
-   "countries": []
+   "title": "How ethanol is expanding shipping fuel choices | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/how-ethanol-is-expanding-shippings-fuel-choices/",
+   "source": "hellenicshippingnews.com",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "Inflation gloom prevails despite budget bright spot",
+   "url": "https://www.juneesoutherncross.com.au/story/9358281/inflation-gloom-prevails-despite-budget-bright-spot/",
+   "source": "juneesoutherncross.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "One RBA decision can affect home ownership for more than a decade , research finds",
+   "url": "https://www.realestate.com.au/news/one-rba-decision-can-affect-home-ownership-for-more-than-a-decade-research-finds/",
+   "source": "realestate.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "Inflation gloom prevails despite budget bright spot",
+   "url": "https://www.crookwellgazette.com.au/story/9358281/inflation-gloom-prevails-despite-budget-bright-spot/",
+   "source": "crookwellgazette.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.crookwellgazette.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "crookwellgazette.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "Will European Gas Prices Keep Rising This Winter ? | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/will-european-gas-prices-keep-rising-this-winter/",
+   "source": "hellenicshippingnews.com",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "Tamboran Resources Q4 Earnings Call Highlights",
+   "url": "https://www.themarketsdaily.com/2026/09/27/tamboran-resources-q4-earnings-call-highlights.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-09-27T21:45:00+00:00"
+  },
+  {
+   "title": "150 , 000 words , zero guarantees : Bullock high - stakes interest rate revolution",
+   "url": "https://www.watoday.com.au/politics/federal/150-000-words-zero-guarantees-bullock-s-high-stakes-interest-rate-revolution-20260928-p60tmx.html",
+   "source": "watoday.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:15:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.tenterfieldstar.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "tenterfieldstar.com.au",
+   "theme": "press",
+   "date": "2026-09-27T21:15:00+00:00"
+  },
+  {
+   "title": "FIR against two loan sharks for misusing cheques , extortion",
+   "url": "https://timesofindia.indiatimes.com/city/surat/fir-against-two-loan-sharks-for-misusing-cheques-extortion/articleshow/134525117.cms",
+   "source": "timesofindia.indiatimes.com",
+   "theme": "press",
+   "date": "2026-09-27T21:15:00+00:00"
+  },
+  {
+   "title": "LankaWeb – Sri Lanka Has Regained Credibility Now Where Are the Industries ?",
+   "url": "https://www.lankaweb.com/news/items/2026/09/27/sri-lanka-has-regained-credibility-now-where-are-the-industries/",
+   "source": "lankaweb.com",
+   "theme": "press",
+   "date": "2026-09-27T21:15:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.manningrivertimes.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "manningrivertimes.com.au",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.maitlandmercury.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "maitlandmercury.com.au",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.hardenexpress.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "hardenexpress.com.au",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "Cafes , shoppers at a crossroads as surcharge ban looms",
+   "url": "https://www.gleninnesexaminer.com.au/story/9358280/cafes-shoppers-at-a-crossroads-as-surcharge-ban-looms/",
+   "source": "gleninnesexaminer.com.au",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "Breakfast briefing : Trump deal - making fiascos widen",
+   "url": "https://www.interest.co.nz/economy/140430/eyes-rba-us-jobs-and-chinas-holiday-activity-us-durable-goods-order-data-mixed-us",
+   "source": "interest.co.nz",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "Tinubu Return to Nigeria Slips to Tuesday After Month Away",
+   "url": "https://www.riotimesonline.com/tinubu-extends-working-vacation-return-tuesday-2026/",
+   "source": "riotimesonline.com",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
+  },
+  {
+   "title": "High credit - deposit ratio does not signal funding constraint for banks : RBI bulletin",
+   "url": "http://www.massachusettssun.com/news/279335643/high-credit-deposit-ratio-does-not-signal-funding-constraint-for-banks-rbi-bulletin",
+   "source": "massachusettssun.com",
+   "theme": "press",
+   "date": "2026-09-27T20:15:00+00:00"
   }
  ],
  "countries": {
@@ -93,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +217,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +228,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +238,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +248,7 @@
     "url": "https://www.acer.europa.eu/news/regulators-seek-more-time-decide-amendment-core-intraday-capacity-calculation-methodology",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +258,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260925_Herakles.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +270,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +283,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,9 +296,49 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "AT",
+     "SI"
+    ]
+   },
+   {
+    "title": "Delegates walk out as Netanyahu defends Iran war , rejects Gaza genocide claims at UN",
+    "url": "https://wcyb.com/news/nation-world/israel-prime-minister-benjamin-netanyahu-defends-iran-war-gaza-hamas-offensive-palestinian-deaths-in-high-stakes-un-united-nations-general-assembly-address-new-york-mamdani-conflict",
+    "source": "wcyb.com",
+    "theme": "press",
+    "date": "2026-09-25T04:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Lakers transition from LeBron Era to a Luka Doncic - led squad – Whittier Daily News",
+    "url": "https://www.whittierdailynews.com/2026/09/24/lakers-transition-from-lebron-era-to-a-luka-doncic-led-squad/",
+    "source": "whittierdailynews.com",
+    "theme": "press",
+    "date": "2026-09-25T01:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Bourita Presses Climate , Peacebuilding , and Development at 81st UN Assembly",
+    "url": "https://www.moroccoworldnews.com/2026/09/339696/bourita-presses-climate-peacebuilding-and-development-at-81st-un-assembly/",
+    "source": "moroccoworldnews.com",
+    "theme": "press",
+    "date": "2026-09-25T01:15:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "They said it : Leaders at the UN , in their own words – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/world/2026/09/24/they-said-it-leaders-at-the-un-in-their-own-words-16",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-09-25T00:45:00+00:00",
+    "countries": [
      "SI"
     ]
    }
@@ -195,7 +349,77 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Europe - bound bridegroom excretes 72 cocaine wraps as NDLEA seizes N3bn drugs",
+    "url": "https://pmnewsnigeria.com/2026/09/27/europe-bound-bridegroom-excretes-72-cocaine-wraps-as-ndlea-seizes-n3bn-drugs/",
+    "source": "pmnewsnigeria.com",
+    "theme": "press",
+    "date": "2026-09-27T17:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Anatomy of an inferno : inside the push to map , predict and prevent spread of increasing united kingdom wildfires",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/27/inferno-inside-map-predict-prevent-wildfires-uk",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-09-27T15:45:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Anatomy of an inferno : inside the push to map , predict and prevent spread of increasing united kingdom wildfires",
+    "url": "https://www.aol.co.uk/articles/anatomy-inferno-inside-push-map-150007000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-09-27T15:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Out and About : What Happening in Philly",
+    "url": "https://www.phillytrib.com/lifestyle/out_and_about/out-and-about-whats-happening-in-philly/article_31e83b52-21e1-40da-9b14-6f5d17544ff1.html",
+    "source": "phillytrib.com",
+    "theme": "press",
+    "date": "2026-09-27T15:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Wolves : Ruben Neve stance on Molineux return transfer",
+    "url": "https://the72.co.uk/2026/09/27/wolves-ruben-neves-stance-return-transfer/",
+    "source": "the72.co.uk",
+    "theme": "press",
+    "date": "2026-09-27T14:45:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "The united kingdom - built drone boat that set to bust Vladimir Putin murky shadow fleet",
+    "url": "https://www.aol.co.uk/articles/uk-built-drone-boat-thats-131900000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-09-27T14:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "The united kingdom - built drone boat that set to bust Vladimir Putin murky shadow fleet",
+    "url": "https://www.express.co.uk/news/uk/2252063/uk-built-drone-boat-set-bust-vladimir-putin-shadow-fleet-russia",
+    "source": "express.co.uk",
+    "theme": "press",
+    "date": "2026-09-27T13:45:00+00:00",
     "countries": [
      "PT"
     ]
@@ -207,7 +431,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-09-27T20:26:50+00:00",
+    "date": "2026-09-28T00:37:36+00:00",
     "countries": [
      "FR"
     ]
@@ -262,6 +486,706 @@
     "date": "2026-09-18T11:00:00+00:00",
     "countries": [
      "GB"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "title": "Ford Motor vs . Tesla : What Revenue Trends Reveal About These Automotive Titans",
+    "url": "https://www.fool.com/coverage/charts/2026/09/27/ford-motor-vs-tesla-what-revenue-trends-reveal-about-these-automotive-titans/?source=iedfolrf0000001",
+    "source": "fool.com",
+    "theme": "press",
+    "date": "2026-09-27T21:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Cleveland Cavaliers , Orlando Magic on the front lines of NBA apron navigation",
+    "url": "https://orlandomagicdaily.com/cleveland-cavaliers-orlando-magic-front-lines-nba-apron-navigation",
+    "source": "orlandomagicdaily.com",
+    "theme": "press",
+    "date": "2026-09-27T20:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Ford Motor vs . Tesla : What Revenue Trends Reveal About These Automotive Titans",
+    "url": "https://www.fool.com/coverage/charts/2026/09/27/ford-motor-vs-tesla-what-revenue-trends-reveal-about-these-automotive-titans/",
+    "source": "fool.com",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Best Dividend Stocks To Add to Your Watchlist – September 27th",
+    "url": "https://www.dailypolitical.com/2026/09/27/best-dividend-stocks-to-add-to-your-watchlist-september-27th.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Ford Motor vs . Tesla : What Revenue Trends Reveal About These Automotive Titans",
+    "url": "https://www.aol.com/articles/ford-motor-vs-tesla-revenue-184256000.html",
+    "source": "aol.com",
+    "theme": "press",
+    "date": "2026-09-27T19:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "PM Modi pays tribute to organisational geniu Ashok Singhal on his birth centenary",
+    "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-on-his-birth-centenary/article71515567.ece",
+    "source": "thehindu.com",
+    "theme": "press",
+    "date": "2026-09-27T19:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Four scenarios sketch ECB succession plan for post - Christine Lagarde era",
+    "url": "https://www.business-standard.com/world-news/four-scenarios-sketch-ecb-succession-plan-for-post-christine-lagarde-era-126092700784_1.html",
+    "source": "business-standard.com",
+    "theme": "press",
+    "date": "2026-09-27T19:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "A great personality , committed to nation - building - The HinduBusinessLine",
+    "url": "https://www.thehindubusinessline.com/news/a-great-personality-committed-to-nation-building/article71515967.ece",
+    "source": "thehindubusinessline.com",
+    "theme": "press",
+    "date": "2026-09-27T19:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   }
+  ],
+  "IT": [
+   {
+    "title": "Greece forgotten commitments : Treaties signed , rules ignored",
+    "url": "https://www.dailysabah.com/opinion/op-ed/greeces-forgotten-commitments-treaties-signed-rules-ignored",
+    "source": "dailysabah.com",
+    "theme": "press",
+    "date": "2026-09-27T21:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "China seizes PCTC orders as Europe pivots , South Korea targets LNG carriers | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/china-seizes-pctc-orders-as-europe-pivots-south-korea-targets-lng-carriers/",
+    "source": "hellenicshippingnews.com",
+    "theme": "press",
+    "date": "2026-09-27T21:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Algeria plastic components factory strengthens auto industry",
+    "url": "https://www.riotimesonline.com/algeria-plastic-components-factory-auto-industry-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-27T20:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Dangers of the Financialisation of Society",
+    "url": "https://www.thedailystar.net/slow-reads/big-picture/news/confessions-finance-professor-the-danger-putting-profits-first-4284291",
+    "source": "thedailystar.net",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "S5 , E45 , Unpacked : Inside 15 Years of Women Travel Writing",
+    "url": "https://www.afar.com/unpacked-the-podcast/s5-e45-unpacked-inside-15-years-of-womens-travel-writing",
+    "source": "afar.com",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Much Better This Way . What Megan Fox And MGK Relationship Looks Like Amidst New Romance Rumors",
+    "url": "https://www.cinemablend.com/movies/megan-fox-machine-gun-kelly-mgk-relationship-romance-rumors-dakota-johnson",
+    "source": "cinemablend.com",
+    "theme": "press",
+    "date": "2026-09-27T19:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Cinte Techtextil China 2026 Wraps Up Successfully , Setting Stage For Next - Gen Advancement Across Key Applications",
+    "url": "https://www.textileworld.com/textile-world/nonwovens-technical-textiles/2026/09/cinte-techtextil-china-2026-wraps-up-successfully-setting-stage-for-next-gen-advancement-across-key-applications/",
+    "source": "textileworld.com",
+    "theme": "press",
+    "date": "2026-09-27T18:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Dana White Contender Series Season 10 , Week 8 Preview & Predictions",
+    "url": "https://combatpress.com/2026/09/dana-whites-contender-series-season-10-week-8-preview-predictions/",
+    "source": "combatpress.com",
+    "theme": "press",
+    "date": "2026-09-27T17:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
+  "PL": [
+   {
+    "title": "In Germany , new threats from Moscow could force rethink of WWII safeguards - 28 - Sep - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=454848&fm=psp,tsf",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "In Germany , new threats from Moscow could force rethink of WWII safeguards - 28 - Sep - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=454848&fm=psp,tst",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-09-27T20:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "In Germany , new threats from Moscow could force rethink of WWII safeguards",
+    "url": "https://www.abc.net.au/news/2026-09-28/russian-attacks-could-force-germany-to-rethink-wwii-safeguards/107188800",
+    "source": "abc.net.au",
+    "theme": "press",
+    "date": "2026-09-27T19:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Britain and Russia have been to war before . Ask the British fleet how that went",
+    "url": "http://www.theuknews.com/news/279335603/britain-and-russia-have-been-to-war-before-ask-the-british-fleet-how-that-went",
+    "source": "theuknews.com",
+    "theme": "press",
+    "date": "2026-09-27T19:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Opinion : Could Central and Eastern Europe Present Itself as One Economy ?",
+    "url": "https://www.kyivpost.com/opinion/85423",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-27T17:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Irish team for World Under 19 Boxing Championships features Mayo athlete",
+    "url": "https://www.con-telegraph.ie/2026/09/27/irish-team-for-world-under-19-boxing-championships-features-mayo-athlete/",
+    "source": "con-telegraph.ie",
+    "theme": "press",
+    "date": "2026-09-27T17:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Brits told to prepare for war , but Angela Rayner readies for wine Oclock - London Business News",
+    "url": "https://londonlovesbusiness.com/brits-told-to-prepare-for-war-but-angela-rayner-readies-for-wine-oclock/",
+    "source": "londonlovesbusiness.com",
+    "theme": "press",
+    "date": "2026-09-27T16:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "US circles push military escalation in Europe citing shadow Russian threat",
+    "url": "https://www.bankingnews.gr/diethni/articles/901813/us-circles-push-military-escalation-in-europe-citing-shadow-russian-threat%20title=",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-09-27T15:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "SK": [
+   {
+    "title": "Germany AfD is so extreme it putting off other far - right parties - LocalNews8 . com",
+    "url": "https://localnews8.com/news/national-world/cnn-world/2026/09/26/germanys-afd-is-so-extreme-they-are-putting-off-other-far-right-parties/",
+    "source": "localnews8.com",
+    "theme": "press",
+    "date": "2026-09-27T10:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Latin America Defense Monitor September 19 – 25 , 2026",
+    "url": "https://www.riotimesonline.com/latin-america-defense-monitor-september-19-25-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-27T10:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Where are the breakthroughs for the radical and far - right in Europe ?",
+    "url": "https://www.thelocal.de/20260926/breakthroughs-for-the-radical-and-far-right-in-europe/",
+    "source": "thelocal.de",
+    "theme": "press",
+    "date": "2026-09-27T09:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Germany AfD is so extreme it putting off other far - right parties",
+    "url": "https://kvia.com/news/us-world/cnn-world/2026/09/26/germanys-afd-is-so-extreme-they-are-putting-off-other-far-right-parties/",
+    "source": "kvia.com",
+    "theme": "press",
+    "date": "2026-09-27T09:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Breakthroughs for the radical and far - right in Europe",
+    "url": "https://www.thelocal.dk/20260926/breakthroughs-for-the-radical-and-far-right-in-europe/",
+    "source": "thelocal.dk",
+    "theme": "press",
+    "date": "2026-09-27T08:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Breakthroughs for the radical and far - right in Europe",
+    "url": "https://www.thelocal.se/20260926/breakthroughs-for-the-radical-and-far-right-in-europe/",
+    "source": "thelocal.se",
+    "theme": "press",
+    "date": "2026-09-27T06:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Germany AfD is so extreme it putting off other far - right parties",
+    "url": "https://krdo.com/news/national-world/cnn-world/2026/09/26/germanys-afd-is-so-extreme-they-are-putting-off-other-far-right-parties/",
+    "source": "krdo.com",
+    "theme": "press",
+    "date": "2026-09-27T06:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "EU Faces Questions Over Decision to Drop Sanctions on Two Russian Billionaires - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=240745",
+    "source": "novinite.com",
+    "theme": "press",
+    "date": "2026-09-25T01:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Chad ICC Exit Draws Spotlight After Trump UN Call",
+    "url": "https://www.riotimesonline.com/chad-icc-exit-trump-un-speech-world-court-pressure/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-27T20:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Who Is Javier Milei ? Argentina President Explained",
+    "url": "https://www.riotimesonline.com/who-is-javier-milei-argentina-profile-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-09-27T14:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "EU Unveils €710M Aid Package for Displaced People in Ukraine , Middle East , Africa",
+    "url": "https://www.kyivpost.com/post/85514",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-09-27T12:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Falcon Oil & Gas ( LON : FOG ) Stock Price Breaks Below 200 - Day Moving Average – What Next ?",
+    "url": "https://www.dailypolitical.com/2026/09/27/falcon-oil-gas-lonfog-stock-price-breaks-below-200-day-moving-average-whats-next.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-27T12:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "Press freedom tested by arrests , attacks and legal pressure",
+    "url": "https://www.journalismpakistan.com/press-freedom-tested-by-arrests-attacks-and-legal-pressure",
+    "source": "journalismpakistan.com",
+    "theme": "press",
+    "date": "2026-09-27T16:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "US Ambassador Pressed Bulgaria to Buy LNG Through Greek Company - Novinite . com",
+    "url": "https://www.novinite.com/articles/240799/US+Ambassador+Pressed+Bulgaria+to+Buy+LNG+Through+Greek+Company",
+    "source": "novinite.com",
+    "theme": "press",
+    "date": "2026-09-27T10:45:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Food prices vs minimum wages : Where in Europe has pay kept up ?",
+    "url": "https://www.euronews.com/2026/09/27/food-prices-vs-minimum-wages-where-in-europe-has-pay-kept-up",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-09-27T07:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "US hiring appetite is healthy as economy powers ahead",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-hiring-appetite-is-healthy-as-economy-powers-ahead/articleshow/134514855.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-27T07:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Cyprus Business Now : weekly wrap - up",
+    "url": "https://cyprus-mail.com/2026/09/27/cyprus-business-now-weekly-wrap-up-180",
+    "source": "cyprus-mail.com",
+    "theme": "press",
+    "date": "2026-09-27T06:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "Creative Ways to Get Moving Outdoors - alive magazine",
+    "url": "https://www.alive.com/lifestyle/creative-ways-to-get-moving-outdoors/",
+    "source": "alive.com",
+    "theme": "press",
+    "date": "2026-09-27T20:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Israel Drakon submarine : Inside the Navy newest underwater weapon",
+    "url": "http://www.jpost.com/israel-news/defense-news/article-909872",
+    "source": "jpost.com",
+    "theme": "press",
+    "date": "2026-09-27T18:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "newsroomamerica . com",
+    "url": "https://newsroomamerica.com/?before=110687",
+    "source": "newsroomamerica.com",
+    "theme": "press",
+    "date": "2026-09-27T17:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Amit Shah flags off India first LNG - powered train from Ahmedabad Sabarmati Station",
+    "url": "http://www.europesun.com/news/279335290/amit-shah-flags-off-india-first-lng-powered-train-from-ahmedabad-sabarmati-station",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-09-27T17:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "EU pursuing digital connectivity , green - economy Corridor projects",
+    "url": "https://bworldonline.com/economy/2026/09/27/782205/eu-pursuing-digital-connectivity-green-economy-corridor-projects/",
+    "source": "bworldonline.com",
+    "theme": "press",
+    "date": "2026-09-27T15:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "The Impossible Weave : How Koenigsegg Infused Real Diamonds Into Carbon Fiber",
+    "url": "https://carbuzz.com/the-only-two-cars-were-made-using-white-carbon-fiber/",
+    "source": "carbuzz.com",
+    "theme": "press",
+    "date": "2026-09-27T15:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "GNR Sunday 9 / 27 ☀️ Good News Roundup ☀️ 62 Pips from Bill and Jess ☀️ Tech Talk for Authors - Shortcuts for Headings ! ☀️ Poll : Did you vote yet ?",
+    "url": "https://www.dailykos.com/stories/2026/9/27/800103868/community/gnr-sunday-9-27-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-62-pips-h-t-bill-and-jess-%E2%98%80%EF%B8%8F-poll-did-you-vote-yet/",
+    "source": "dailykos.com",
+    "theme": "press",
+    "date": "2026-09-27T15:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Britain and Russia have been to war before . Ask the British fleet how that went",
+    "url": "http://www.europesun.com/news/279335603/britain-and-russia-have-been-to-war-before-ask-the-british-fleet-how-that-went",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-09-27T14:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Why Greenland Matters : Rare Earths , Energy and Arctic Routes",
+    "url": "https://redstate.com/wardclark/2026/09/27/why-greenland-matters-rare-earths-energy-and-arctic-routes-n2207437",
+    "source": "redstate.com",
+    "theme": "press",
+    "date": "2026-09-27T20:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Promising Green Energy Stocks To Watch Now – September 27th",
+    "url": "https://www.dailypolitical.com/2026/09/27/promising-green-energy-stocks-to-watch-now-september-27th.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-09-27T17:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Promising Green Energy Stocks To Watch Now – September 27th",
+    "url": "https://www.tickerreport.com/banking-finance/13598538/promising-green-energy-stocks-to-watch-now-september-27th.html",
+    "source": "tickerreport.com",
+    "theme": "press",
+    "date": "2026-09-27T17:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Europe warns Russia hybrid war is becoming a direct attack on NATO - London Business News",
+    "url": "https://londonlovesbusiness.com/europe-warns-russias-hybrid-war-is-becoming-a-direct-attack-on-nato/",
+    "source": "londonlovesbusiness.com",
+    "theme": "press",
+    "date": "2026-09-27T16:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Greenland rare earth minerals and oil drive Trump security deal",
+    "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
+    "source": "foxnews.com",
+    "theme": "press",
+    "date": "2026-09-27T14:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Putin appears to be eyeing NATO . The question is , will he actually attack ?",
+    "url": "https://www.cbc.ca/news/world/putin-nato-europe-escalation-9.7358582",
+    "source": "cbc.ca",
+    "theme": "press",
+    "date": "2026-09-27T12:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "FI": [
+   {
+    "title": "Is it killer robot or super intelligence ? At the UN , leaders see both",
+    "url": "https://www.wccbcharlotte.com/2026/09/27/is-it-killer-robots-or-super-intelligence-at-the-un-leaders-see-both/",
+    "source": "wccbcharlotte.com",
+    "theme": "press",
+    "date": "2026-09-27T18:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Europe AI Data Centre Boom Strengthens Case for Nuclear Power",
+    "url": "http://www.econotimes.com/Europes-AI-Data-Centre-Boom-Strengthens-Case-for-Nuclear-Power-1753169",
+    "source": "econotimes.com",
+    "theme": "press",
+    "date": "2026-09-27T15:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Data centre IPO hopefuls brave tougher market as investor scrutiny grows",
+    "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows/articleshow/134521362.cms",
+    "source": "economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-09-27T14:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "5 Action Thrillers From The 2020s That Are Destined To Be Future Classics",
+    "url": "https://www.slashfilm.com/2267622/action-thriller-2020s-future-classics/",
+    "source": "slashfilm.com",
+    "theme": "press",
+    "date": "2026-09-27T14:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Cyprus governance crisis : Tirkides on political reform",
+    "url": "https://cyprus-mail.com/2026/09/27/cyprus-garrison-state-has-become-a-governance-crisis",
+    "source": "cyprus-mail.com",
+    "theme": "press",
+    "date": "2026-09-27T12:45:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Libertarian utopia or tech bro nightmare ? Inside the private city where billionaires are free to try and live forever , play God ... all while paying one per cent tax",
+    "url": "https://www.dailymail.com/news/article-16142557/Libertarian-utopia-private-city-billionaires-one-percent-tax.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-09-27T16:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Olmo reveals how Kane penalty miss sparked Spain comeback",
+    "url": "https://theeagleonline.com.ng/olmo-reveals-how-kanes-penalty-miss-sparked-spain-comeback/",
+    "source": "theeagleonline.com.ng",
+    "theme": "press",
+    "date": "2026-09-27T15:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Why Germany is building an ark for US climate data",
+    "url": "https://grist.org/international/why-germany-is-building-an-ark-for-u-s-climate-data/",
+    "source": "grist.org",
+    "theme": "press",
+    "date": "2026-09-27T14:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "President al - Sharaa ends New York visit with investment , recovery push",
+    "url": "https://sana.sy/en/presidency/2346338/",
+    "source": "sana.sy",
+    "theme": "press",
+    "date": "2026-09-27T13:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "We have the kind of stuff AI wishes it could make : Why trust is more important than ever for the NASA brand",
+    "url": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
+    "source": "creativebloq.com",
+    "theme": "press",
+    "date": "2026-09-27T12:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Ukrainian man faces extradition to Germany over Nord Stream blasts",
+    "url": "http://www.nashvilleherald.com/news/279329556/ukrainian-man-faces-extradition-to-germany-over-nord-stream-blasts",
+    "source": "nashvilleherald.com",
+    "theme": "press",
+    "date": "2026-09-27T11:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Ukrainian man faces extradition to Germany over Nord Stream blasts",
+    "url": "http://www.cincinnatisun.com/news/279329556/ukrainian-man-faces-extradition-to-germany-over-nord-stream-blasts",
+    "source": "cincinnatisun.com",
+    "theme": "press",
+    "date": "2026-09-27T10:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Ukrainian man faces extradition to Germany over Nord Stream blasts",
+    "url": "http://www.pittsburghstar.com/news/279329556/ukrainian-man-faces-extradition-to-germany-over-nord-stream-blasts",
+    "source": "pittsburghstar.com",
+    "theme": "press",
+    "date": "2026-09-27T09:00:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
@@ -332,26 +1256,13 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: TimeoutError"
  ]
 }

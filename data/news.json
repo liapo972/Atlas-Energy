@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T04:31:54+00:00",
+ "generated": "2026-10-01T08:33:46+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,56 +14,169 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-01T04:31:54+00:00",
+   "date": "2026-10-01T08:33:46+00:00",
    "countries": []
   },
   {
-   "title": "Christine Lagarde: Interview with La Croix",
-   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-30T17:00:00+00:00",
-   "countries": []
+   "title": "A look at France public debt as economy takes center stage in French election",
+   "url": "https://www.therecord.com/business/a-look-at-france-s-public-debt-as-economy-takes-center-stage-in-french-election/article_9056e2d5-4dc6-5bcb-a502-9a7614f79194.html",
+   "source": "therecord.com",
+   "theme": "press",
+   "date": "2026-10-01T08:15:00+00:00"
   },
   {
-   "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-30T15:45:00+00:00",
-   "countries": []
+   "title": "Trump announces $200 billion South Korean investment in US projects",
+   "url": "https://www.business-standard.com/world-news/trump-announces-200-billion-south-korean-investment-in-us-projects-126100100442_1.html",
+   "source": "business-standard.com",
+   "theme": "press",
+   "date": "2026-10-01T08:15:00+00:00"
   },
   {
-   "title": "Speech by Commissioner Lahbib on Equality Data",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2029",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-30T13:30:10+00:00",
-   "countries": []
+   "title": "GE Vernova CEO Just Delivered Great News to Shareholders",
+   "url": "https://www.aol.com/articles/ge-vernovas-ceo-just-delivered-062500000.html",
+   "source": "aol.com",
+   "theme": "press",
+   "date": "2026-10-01T07:30:00+00:00"
   },
   {
-   "title": "Daily News 30 / 09 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2021",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-30T09:06:33+00:00",
-   "countries": []
+   "title": "Inflation relief months away : CBSL - Business Main",
+   "url": "https://www.dailymirror.lk/business-main/Inflation-relief-months-away-CBSL/245-351506",
+   "source": "dailymirror.lk",
+   "theme": "press",
+   "date": "2026-10-01T07:30:00+00:00"
   },
   {
-   "title": "Three in four EU employees faced cyber threats at work, new Eurobarometer finds",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2020",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-30T08:48:53+00:00",
-   "countries": []
+   "title": "KOSPI Jumps Nearly 2 % Toward 7 , 000 as Micron Blowout Revives Samsung and SK Hynix , Snapping Losing Streak",
+   "url": "https://www.ibtimes.com.au/south-korea-kospi-rally-micron-chip-results-1876122",
+   "source": "ibtimes.com.au",
+   "theme": "press",
+   "date": "2026-10-01T07:30:00+00:00"
   },
   {
-   "title": "Consumer protection authorities ramp up action to protect gamers' rights",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2018",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-09-30T08:19:48+00:00",
-   "countries": []
+   "title": "Central Hudson Gas & Electric Wins POWER Community Impact Award",
+   "url": "https://www.powermag.com/central-hudson-gas-electric-wins-powers-community-impact-award/",
+   "source": "powermag.com",
+   "theme": "press",
+   "date": "2026-10-01T07:15:00+00:00"
+  },
+  {
+   "title": "Energy bills rise by £60 today as price cap hike takes effect",
+   "url": "https://www.dailymail.com/news/article-16174655/Energy-bills-rise-today-price-cap-Ofgem.html",
+   "source": "dailymail.com",
+   "theme": "press",
+   "date": "2026-10-01T07:15:00+00:00"
+  },
+  {
+   "title": "Mumbai CNG Price Hike : MGL Raises CNG Rate By ₹1 To ₹89 Per Kg From Today , Citing Rising RLNG Costs Amid Middle East Crisis",
+   "url": "https://www.freepressjournal.in/mumbai/mumbai-cng-price-hike-mgl-raises-cng-rate-by-1-to-89-per-kg-from-today-citing-rising-rlng-costs-amid-middle-east-crisis",
+   "source": "freepressjournal.in",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Australian Small Businesses Slam Federal Debit Surcharge Ban , Warning Unabsorbed Terminal Fees Will Drive Retail Inflation",
+   "url": "https://www.ibtimes.com.au/australia-card-surcharge-ban-retail-prices-1876111",
+   "source": "ibtimes.com.au",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Judges diverge on data center project future",
+   "url": "https://www.yumasun.com/news/judges-diverge-on-data-center-projects-future/article_8786ae43-d203-4e7f-b07b-2dcf55d26bca.html",
+   "source": "yumasun.com",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Independence Day lecture : FG rules out fuel subsidy return – The Sun Nigeria",
+   "url": "https://thesun.ng/independence-day-lecture-fg-rules-out-fuel-subsidy-return/",
+   "source": "thesun.ng",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Stoptober and Sober October start today : Here how quitting your vices for good could add 276 , 000 to your pension",
+   "url": "https://www.dailymail.com/money/bills/article-16169343/Stoptober-Sober-October-start-today-Heres-quitting-vices-good-add-276-000-pension.html",
+   "source": "dailymail.com",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Trump unveils $54 billion in South Korean investment in Alaska , site of a tight Senate race",
+   "url": "https://www.vindy.com/news/national-news/2026/10/trump-unveils-54-billion-in-south-korean-investment-in-alaska-site-of-a-tight-senate-race/",
+   "source": "vindy.com",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "$2 billion gone in two days ! FIIs accelerate selling as Nifty , Sensex set to fall for 8th week running . Will they make a comeback ?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/2-billion-gone-in-two-days-fiis-accelerate-selling-as-nifty-sensex-set-to-fall-for-8th-week-running-will-they-make-a-comeback/articleshow/134610354.cms",
+   "source": "economictimes.indiatimes.com",
+   "theme": "press",
+   "date": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "title": "Iran Weighs US Hormuz Answer as Trump Vows War Won Very Quickly",
+   "url": "https://www.hngn.com/articles/273398/20261001/iran-gets-formal-us-answer-hormuz-plan-sequencing-splits-sides.htm",
+   "source": "hngn.com",
+   "theme": "press",
+   "date": "2026-10-01T06:30:00+00:00"
+  },
+  {
+   "title": "Trump unveils $200B South Korean investment plan for US energy projects",
+   "url": "https://aa.com.tr/en/asia-pacific/trump-unveils-200b-south-korean-investment-plan-for-us-energy-projects/4074361",
+   "source": "aa.com.tr",
+   "theme": "press",
+   "date": "2026-10-01T06:30:00+00:00"
+  },
+  {
+   "title": "NZ sharemarket flat after falling almost 1 % earlier – Market close",
+   "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-flat-after-falling-almost-1-earlier-market-close/premium/HO6TSGQCXJH35BDA4I3KS6PJRY/",
+   "source": "nzherald.co.nz",
+   "theme": "press",
+   "date": "2026-10-01T06:30:00+00:00"
+  },
+  {
+   "title": "ICYMI : BOJ opinions and tankan both point to more rate hikes after September move",
+   "url": "https://investinglive.com/central-banks/icymi-boj-opinions-and-tankan-both-point-to-more-rate-hikes-after-september-s-move/",
+   "source": "investinglive.com",
+   "theme": "press",
+   "date": "2026-10-01T06:30:00+00:00"
+  },
+  {
+   "title": "Hellenic Shipyards Association joins Waterborne European Technology Platform",
+   "url": "https://www.naftemporiki.gr/english/2169063/hellenic-shipyards-association-joins-waterborne-european-technology-platform/",
+   "source": "naftemporiki.gr",
+   "theme": "press",
+   "date": "2026-10-01T06:15:00+00:00"
+  },
+  {
+   "title": "Audited Results : NNPC Profit Rises 33 % to N7 . 2trn , Dividends Climb to N5 . 8trn – THISDAYLIVE",
+   "url": "https://www.thisdaylive.com/2026/10/01/audited-results-nnpc-profit-rises-33-to-n7-2trn-dividends-climb-to-n5-8trn/",
+   "source": "thisdaylive.com",
+   "theme": "press",
+   "date": "2026-10-01T06:00:00+00:00"
+  },
+  {
+   "title": "One fuel wont fit all . India policies need to agree on that",
+   "url": "https://dailypioneer.com/news/one-fuel-wont-fit-all-indias-policies-need-to-agree-on-that",
+   "source": "dailypioneer.com",
+   "theme": "press",
+   "date": "2026-10-01T06:00:00+00:00"
+  },
+  {
+   "title": "Truist Financial Cuts Clearway Energy ( NYSE : CWEN ) Price Target to $40 . 00",
+   "url": "https://www.themarketsdaily.com/2026/10/01/truist-financial-cuts-clearway-energy-nysecwen-price-target-to-40-00.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-10-01T06:00:00+00:00"
+  },
+  {
+   "title": "Tinubu reforms saved Nigeria from collapse Akume – Daily Trust",
+   "url": "https://dailytrust.com/tinubus-reforms-saved-nigeria-from-collapse-akume/",
+   "source": "dailytrust.com",
+   "theme": "press",
+   "date": "2026-10-01T06:00:00+00:00"
   }
  ],
  "countries": {
@@ -93,7 +206,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +216,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +226,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE"
     ]
@@ -123,7 +236,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE",
      "IE"
@@ -134,7 +247,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +257,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE"
     ]
@@ -156,79 +269,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Is the secret to healthier , ultra - efficient homes hidden in the building envelope ? | Irish Building Magazine . ie | Ireland Leading Construction News & Information Portal",
-    "url": "https://irishbuildingmagazine.ie/2026/10/01/is-the-secret-to-healthier-ultra-efficient-homes-hidden-in-the-building-envelope/",
-    "source": "irishbuildingmagazine.ie",
-    "theme": "press",
-    "date": "2026-10-01T04:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "SNP puts pressure on Burnham to back hospitality VAT cut",
-    "url": "https://www.heraldscotland.com/news/26594641.snp-puts-pressure-burnham-back-hospitality-vat-cut/",
-    "source": "heraldscotland.com",
-    "theme": "press",
-    "date": "2026-10-01T04:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "The significance of the Cardiff MoU",
-    "url": "https://www.thehindu.com/news/international/the-significance-of-the-cardiff-mou/article71528469.ece",
-    "source": "thehindu.com",
-    "theme": "press",
-    "date": "2026-10-01T03:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "airBaltic owes money to thousands – up to 25 , 000 creditors , largest claim at 66 . 5 million dollars",
-    "url": "https://bnn-news.com/money/airbaltic-owes-money-to-thousands-up-to-25000-creditors-largest-claim-at-66-5-million-dollars-yhm6s2h",
-    "source": "bnn-news.com",
-    "theme": "press",
-    "date": "2026-10-01T02:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "UK bank lending growth to fall to three - year low",
-    "url": "https://www.cityam.com/uk-bank-lending-growth-to-fall-to-three-year-low/",
-    "source": "cityam.com",
-    "theme": "press",
-    "date": "2026-10-01T02:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "BNN interview | Cinevilla turns 22 : Andrejs Ēķis reveals the magic behind the facades of Latvia backlot · BNN",
-    "url": "https://bnn-news.com/interviews/bnn-interview-cinevilla-turns-22-andrejs-ekis-reveals-the-magic-behind-the-facades-of-latvias-backlot-ujraaev",
-    "source": "bnn-news.com",
-    "theme": "press",
-    "date": "2026-10-01T02:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Australia data centre plan should heed Ireland warning",
-    "url": "https://www.crikey.com.au/2026/10/01/data-centre-australia-ireland-energy-use-electricity-bill/",
-    "source": "crikey.com.au",
-    "theme": "press",
-    "date": "2026-10-01T02:15:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -239,7 +282,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "AT",
      "SI"
@@ -252,9 +295,79 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "AT",
+     "SI"
+    ]
+   },
+   {
+    "title": "India backs Palestine at BRICS while arming Israel",
+    "url": "https://www.sott.net/article/508663-India-backs-Palestine-at-BRICS-while-arming-Israel",
+    "source": "sott.net",
+    "theme": "press",
+    "date": "2026-09-30T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "EAM Jaishankar holds bilateral talks with four European foreign ministers",
+    "url": "https://www.orissapost.com/eam-jaishankar-holds-bilateral-talks-with-four-european-foreign-ministers/",
+    "source": "orissapost.com",
+    "theme": "press",
+    "date": "2026-09-30T15:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Is Europe waking up ?",
+    "url": "https://www.jns.org/opinion/dov-maimon/is-europe-waking-up",
+    "source": "jns.org",
+    "theme": "press",
+    "date": "2026-09-30T13:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Europe Races To Contain Energy Crisis With Patchwork Measures",
+    "url": "http://www.zerohedge.com/geopolitical/europe-races-contain-energy-crisis-patchwork-measures",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-09-30T12:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Europe Races To Contain Energy Crisis With Patchwork Measures",
+    "url": "https://www.zerohedge.com/geopolitical/europe-races-contain-energy-crisis-patchwork-measures",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-09-30T12:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Nissan Wants Hybrids To Be Its Primary Powertrain In North America",
+    "url": "https://www.jalopnik.com/2271931/nissan-hybrids-primary-powertrain-north-america/",
+    "source": "jalopnik.com",
+    "theme": "press",
+    "date": "2026-09-29T14:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "News | CEI",
+    "url": "https://www.cei.int/ansa/180874",
+    "source": "cei.int",
+    "theme": "press",
+    "date": "2026-09-28T23:30:00+00:00",
+    "countries": [
      "SI"
     ]
    }
@@ -265,7 +378,77 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Securing coastal waters for small - scale fishers : Lessons from Ghana",
+    "url": "https://www.politico.eu/sponsored-content/securing-coastal-waters-for-small-scale-fishers-lessons-from-ghana/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-01T04:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "CHANGING POWER EQUATION - OrissaPOST",
+    "url": "https://www.orissapost.com/changing-power-equation/",
+    "source": "orissapost.com",
+    "theme": "press",
+    "date": "2026-10-01T03:15:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Transforming before our eye : Seas are getting warmer ; why should we care",
+    "url": "https://www.businesstoday.in/science/story/transforming-before-our-eyes-seas-are-getting-warmer-why-should-we-care-558803-2026-10-01",
+    "source": "businesstoday.in",
+    "theme": "press",
+    "date": "2026-10-01T02:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Market Talk - September 30 , 2026 | Armstrong Economics",
+    "url": "https://www.armstrongeconomics.com/market-talk/market-talk-september-30-2026/",
+    "source": "armstrongeconomics.com",
+    "theme": "press",
+    "date": "2026-10-01T01:15:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Why donors are backing the American Academy in Berlin",
+    "url": "https://www.insidephilanthropy.com/home/in-an-age-of-america-first-donors-are-getting-behind-this-transatlantic-institution",
+    "source": "insidephilanthropy.com",
+    "theme": "press",
+    "date": "2026-09-30T22:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Spain government to cap gas and butane prices to prevent energy bills from rising even further",
+    "url": "https://www.surinenglish.com/spain/government-will-butane-20260929000500-nt.html",
+    "source": "surinenglish.com",
+    "theme": "press",
+    "date": "2026-09-30T22:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "ECB President Lagarde signals possible departure months before term ends in 2027",
+    "url": "https://aa.com.tr/en/europe/ecb-president-lagarde-signals-possible-departure-months-before-term-ends-in-2027/4074211",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-09-30T21:45:00+00:00",
     "countries": [
      "PT"
     ]
@@ -277,7 +460,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-01T04:31:54+00:00",
+    "date": "2026-10-01T08:33:46+00:00",
     "countries": [
      "FR"
     ]
@@ -337,6 +520,56 @@
   ],
   "ES": [
    {
+    "title": "Mark Kleinman : Monzo deal neednt be a hammer blow for united kingdom tech",
+    "url": "https://www.cityam.com/mark-kleinman-monzo-deal-neednt-be-a-hammer-blow-for-uk-tech/",
+    "source": "cityam.com",
+    "theme": "press",
+    "date": "2026-10-01T07:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Princess Charlene of Monaco puts a high fashion twist on privilege du blanc to meet Pope Leo in Metz",
+    "url": "https://www.tatler.com/article/princess-charlene-of-monaco-puts-a-high-fashion-twist-on-privilege-du-blanc-to-meet-pope-leo-in-metz",
+    "source": "tatler.com",
+    "theme": "press",
+    "date": "2026-10-01T07:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "A socialist roadmap for Malaysia",
+    "url": "https://links.org.au/socialist-roadmap-malaysia",
+    "source": "links.org.au",
+    "theme": "press",
+    "date": "2026-10-01T06:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "EQS - News : Milestone in Austria : Nordex Group receives 56 MW order from WEB Windenergie for first N175 / 6 . X project in the country | Company Announcement",
+    "url": "https://www.investegate.co.uk/announcement/eqs/nordex-se-nordex-ord-shs--0mec/eqs-news-milestone-in-austria-nordex-group-/9800090",
+    "source": "investegate.co.uk",
+    "theme": "press",
+    "date": "2026-10-01T06:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Zack Polanski big gamble and the plan if it fails – POLITICO",
+    "url": "https://www.politico.eu/article/zack-polanskis-big-gamble-and-the-plan-if-it-fails/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-01T05:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
     "title": "Vinarchy launches Campo Viejo Sangria Spritz in new summer line - up",
     "url": "https://winetitles.com.au/vinarchy-launches-campo-viejo-sangria-spritz-in-new-summer-line-up/",
     "source": "winetitles.com.au",
@@ -365,59 +598,29 @@
     "countries": [
      "ES"
     ]
-   },
-   {
-    "title": "Climate change Is making these grocery items more expensive this year",
-    "url": "https://economictimes.indiatimes.com/small-biz/sustainability/climate-change-is-making-these-grocery-items-more-expensive-this-year/articleshow/134606368.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-10-01T03:15:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Myanmar polluting mines selling to China through Thai companies",
-    "url": "https://news.mongabay.com/2026/10/myanmars-polluting-mines-selling-to-china-through-thai-companies/",
-    "source": "news.mongabay.com",
-    "theme": "press",
-    "date": "2026-10-01T03:15:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "CHANGING POWER EQUATION - OrissaPOST",
-    "url": "https://www.orissapost.com/changing-power-equation/",
-    "source": "orissapost.com",
-    "theme": "press",
-    "date": "2026-10-01T03:15:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Exus buys rights to develop Louisiana , Wisconsin solar plants",
-    "url": "https://www.wjfw.com/news/regional/exus-buys-rights-to-develop-louisiana-wisconsin-solar-plants/article_27bfa8d1-58ab-5890-b068-39666c624e72.html",
-    "source": "wjfw.com",
-    "theme": "press",
-    "date": "2026-10-01T02:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Rhetoric or Reality ? Part 3 : The Claims",
-    "url": "https://awate.com/rhetoric-or-reality-part-3-the-claims/",
-    "source": "awate.com",
-    "theme": "press",
-    "date": "2026-10-01T02:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
    }
   ],
   "IT": [
+   {
+    "title": "A look at France public debt as economy takes center stage in French election – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/business/2026/10/01/a-look-at-frances-public-debt-as-economy-takes-center-stage-in-french-election",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-10-01T07:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Who is Fatima Ezzahra El Mansouri , the first woman to lead Morocco and why she is also interested in Italy",
+    "url": "https://www.thevermilion.com/who-is-fatima-ezzahra-el-mansouri-the-first-woman-to-lead-morocco-and-why-she-is-also-interested-in-italy/article_21183/",
+    "source": "thevermilion.com",
+    "theme": "press",
+    "date": "2026-10-01T05:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
    {
     "title": "There something highly unusual about this photo of the Matterhorn",
     "url": "https://www.sbs.com.au/news/article/iconic-matterhorn-bare-of-snow-as-swiss-glaciers-shrink-amid-record-hot-summer/23mhg4k0m",
@@ -449,6 +652,16 @@
     ]
    },
    {
+    "title": "Cosmopoles is Divertimento and Zahia Ziouani innovative work – Seen and Heard International",
+    "url": "https://seenandheard-international.com/2026/09/cosmopoles-is-divertimento-and-zahia-ziouanis-innovative-work/",
+    "source": "seenandheard-international.com",
+    "theme": "press",
+    "date": "2026-10-01T02:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
     "title": "The Peaceful Concept of Technology Transfer",
     "url": "https://larouchepub.com/lar/2026/5338-the_peaceful_concept_of_techno-lar.html",
     "source": "larouchepub.com",
@@ -467,39 +680,243 @@
     "countries": [
      "IT"
     ]
-   },
+   }
+  ],
+  "PL": [
    {
-    "title": "Market Talk - September 30 , 2026 | Armstrong Economics",
-    "url": "https://www.armstrongeconomics.com/market-talk/market-talk-september-30-2026/",
-    "source": "armstrongeconomics.com",
+    "title": "Poland PM Donald Tusk set to visit India with 100 firms in late October : Finance Minister Andrzej Domaski",
+    "url": "http://www.calcuttanews.net/news/279344699/poland-pm-donald-tusk-set-to-visit-india-with-100-firms-in-late-october-finance-minister-andrzej-domaski",
+    "source": "calcuttanews.net",
     "theme": "press",
-    "date": "2026-10-01T01:15:00+00:00",
+    "date": "2026-10-01T07:30:00+00:00",
     "countries": [
-     "IT"
+     "PL"
     ]
    },
    {
-    "title": "Meloni implores von der Leyen to let countries overspend to battle energy crunch",
-    "url": "https://www.politico.eu/article/giorgia-meloni-fiscal-rules-spending-plea-energy-crunch-ursula-von-der-leyen/",
-    "source": "politico.eu",
+    "title": "Is the world on the brink of nuclear war ?",
+    "url": "https://www.wsws.org/en/articles/2026/10/01/xppu-o01.html",
+    "source": "wsws.org",
     "theme": "press",
-    "date": "2026-10-01T00:30:00+00:00",
+    "date": "2026-10-01T06:00:00+00:00",
     "countries": [
-     "IT"
+     "PL"
     ]
    },
    {
-    "title": "Currencies more stable than bonds",
-    "url": "https://www.interest.co.nz/currencies/140489/us-equities-gained-resilient-activity-data-and-softer-core-pce-inflation-nasdaq",
-    "source": "interest.co.nz",
+    "title": "Russia attacks Ukraine energy grid , forcing power cuts",
+    "url": "https://www.illawarramercury.com.au/story/9360611/russia-attacks-ukraine-energy-grid-forcing-power-cuts/",
+    "source": "illawarramercury.com.au",
     "theme": "press",
-    "date": "2026-10-01T00:15:00+00:00",
+    "date": "2026-10-01T06:00:00+00:00",
     "countries": [
-     "IT"
+     "PL"
+    ]
+   },
+   {
+    "title": "Poland positioning itself as gateway for Indian companies seeking wider EU market ( IANS Exclusive )",
+    "url": "https://www.prokerala.com/news/articles/a1818920.html",
+    "source": "prokerala.com",
+    "theme": "press",
+    "date": "2026-10-01T05:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Russia attacks Ukraine energy grid , forcing power cuts",
+    "url": "https://www.theadvocate.com.au/story/9360611/russia-attacks-ukraine-energy-grid-forcing-power-cuts/",
+    "source": "theadvocate.com.au",
+    "theme": "press",
+    "date": "2026-10-01T05:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Russia attacks Ukraine energy grid , forcing power cuts",
+    "url": "https://www.canberratimes.com.au/story/9360611/russia-attacks-ukraine-energy-grid-forcing-power-cuts/",
+    "source": "canberratimes.com.au",
+    "theme": "press",
+    "date": "2026-10-01T05:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Bangladesh US Civil Nuclear Deal | Inside the nuclear deal between US and Bangladesh",
+    "url": "https://www.thedailystar.net/news/bangladesh/news/inside-the-nuclear-deal-between-us-and-bangladesh-4287491",
+    "source": "thedailystar.net",
+    "theme": "press",
+    "date": "2026-10-01T05:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Russia attacks Ukraine energy grid , forcing power cuts",
+    "url": "https://www.thecourier.com.au/story/9360611/russia-attacks-ukraine-energy-grid-forcing-power-cuts/",
+    "source": "thecourier.com.au",
+    "theme": "press",
+    "date": "2026-10-01T04:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "Tigo Energy Builds on 80MW of C & I Solar Growth in Czechia with GO Optimized ESS for Residential",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69724397-tigo-energy-builds-on-80mw-of-c-i-solar-growth-in-czechia-with-go-optimized-ess-for-residential-004.htm",
+    "source": "finanznachrichten.de",
+    "theme": "press",
+    "date": "2026-10-01T04:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Rolls - Royce secures deal for ŠKODA - made hardware to drive the next generation of nuclear power stations",
+    "url": "https://www.techradar.com/pro/rolls-royce-secures-deal-for-skoda-made-hardware-to-drive-the-next-generation-of-nuclear-power-stations",
+    "source": "techradar.com",
+    "theme": "press",
+    "date": "2026-10-01T02:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Lilly oral GLP - 1 , Foundayo ( orforglipron ), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
+    "url": "https://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-demonstrated-cardiovascular-safety-alongside-sustained-a1c-reduction-and-weight-loss-in-its-largest-and-longest-type-2-diabetes-study-302891823.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-30T23:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Lilly oral GLP - 1 , Foundayo ( orforglipron ), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
+    "url": "http://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-demonstrated-cardiovascular-safety-alongside-sustained-a1c-reduction-and-weight-loss-in-its-largest-and-longest-type-2-diabetes-study-302891823.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-30T22:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "US presses Europe to release more emergency oil reserves as prices surge | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/publicpolicy/us-presses-europe-to-release-more-emergency-oil-reserves-as-prices-surge",
+    "source": "peakoil.com",
+    "theme": "press",
+    "date": "2026-09-30T22:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Giorgia Meloni to meet Czech PM Andrej Babiš in Prague",
+    "url": "https://english.radio.cz/giorgia-meloni-meet-czech-pm-andrej-babis-prague-8898521",
+    "source": "english.radio.cz",
+    "theme": "press",
+    "date": "2026-09-29T08:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Flyers announce 23 - man roster for opening night vs . Pittsburgh Penguins",
+    "url": "https://www.inquirer.com/flyers/roster-nhl-opening-night-dan-vladar-porter-martone-denver-barkey-20260928.html",
+    "source": "inquirer.com",
+    "theme": "press",
+    "date": "2026-09-29T00:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Mondelez hands control of Harmony wheat scheme to ProTerra",
+    "url": "https://www.just-food.com/news/mondelez-hands-control-of-harmony-wheat-scheme-to-proterra/",
+    "source": "just-food.com",
+    "theme": "press",
+    "date": "2026-09-28T17:45:00+00:00",
+    "countries": [
+     "CZ"
     ]
    }
   ],
   "SK": [
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://isp.netscape.com:443/entertainment/story/0001/20261001/ecaa55629b5e2bf6ffae36e18aff713a",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-10-01T06:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.wral.com/news/ap/ecaa5-not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas/",
+    "source": "wral.com",
+    "theme": "press",
+    "date": "2026-10-01T05:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.dailygazette.com/the_recorder/ap/lifestyles/not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas/article_3b152aae-59c4-5fa4-9359-75a55cf58e86.html",
+    "source": "dailygazette.com",
+    "theme": "press",
+    "date": "2026-10-01T05:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.clickondetroit.com/entertainment/2026/10/01/not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas/",
+    "source": "clickondetroit.com",
+    "theme": "press",
+    "date": "2026-10-01T05:15:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas - Medicine Hat NewsMedicine Hat News",
+    "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/09/30/not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas/",
+    "source": "medicinehatnews.com",
+    "theme": "press",
+    "date": "2026-10-01T05:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/09/30/not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-10-01T04:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.news4jax.com/entertainment/2026/10/01/not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas/",
+    "source": "news4jax.com",
+    "theme": "press",
+    "date": "2026-10-01T04:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
    {
     "title": "The West tried to rein in Russian oil . What went wrong",
     "url": "http://www.shanghaisun.com/news/279343943/the-west-tried-to-rein-in-russian-oil-what-went-wrong",
@@ -509,15 +926,27 @@
     "countries": [
      "SK"
     ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Anika Wells named one of the world rising star by TIME magazine - despite criticism from Aussies over huge travel bills and taxpayer - funded trips for her lobbyist husband",
+    "url": "https://www.dailymail.com/news/article-16174489/anika-wells-time-100-rising-star.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-10-01T05:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
    },
    {
-    "title": "The West tried to rein in Russian oil . What went wrong",
-    "url": "http://www.iranherald.com/news/279343943/the-west-tried-to-rein-in-russian-oil-what-went-wrong",
-    "source": "iranherald.com",
+    "title": "BNN interview | Cinevilla turns 22 : Andrejs Ēķis reveals the magic behind the facades of Latvia backlot · BNN",
+    "url": "https://bnn-news.com/interviews/bnn-interview-cinevilla-turns-22-andrejs-ekis-reveals-the-magic-behind-the-facades-of-latvias-backlot-ujraaev",
+    "source": "bnn-news.com",
     "theme": "press",
-    "date": "2026-10-01T03:30:00+00:00",
+    "date": "2026-10-01T02:45:00+00:00",
     "countries": [
-     "SK"
+     "HU"
     ]
    },
    {
@@ -527,17 +956,7 @@
     "theme": "press",
     "date": "2026-10-01T02:15:00+00:00",
     "countries": [
-     "SK"
-    ]
-   },
-   {
-    "title": "Europe luxury carmakers are supersizing their SUVs for Americans",
-    "url": "https://www.livemint.com/auto-news/europes-luxury-carmakers-are-supersizing-their-suvs-for-americans-11790816816577.html",
-    "source": "livemint.com",
-    "theme": "press",
-    "date": "2026-10-01T02:15:00+00:00",
-    "countries": [
-     "SK"
+     "HU"
     ]
    },
    {
@@ -547,7 +966,7 @@
     "theme": "press",
     "date": "2026-10-01T02:15:00+00:00",
     "countries": [
-     "SK"
+     "HU"
     ]
    },
    {
@@ -557,7 +976,7 @@
     "theme": "press",
     "date": "2026-10-01T02:15:00+00:00",
     "countries": [
-     "SK"
+     "HU"
     ]
    },
    {
@@ -567,7 +986,7 @@
     "theme": "press",
     "date": "2026-10-01T02:00:00+00:00",
     "countries": [
-     "SK"
+     "HU"
     ]
    },
    {
@@ -577,89 +996,263 @@
     "theme": "press",
     "date": "2026-10-01T02:00:00+00:00",
     "countries": [
-     "SK"
+     "HU"
+    ]
+   },
+   {
+    "title": "The West tried to rein in Russian oil . What went wrong",
+    "url": "http://www.britainnews.net/news/279343943/the-west-tried-to-rein-in-russian-oil-what-went-wrong",
+    "source": "britainnews.net",
+    "theme": "press",
+    "date": "2026-10-01T01:45:00+00:00",
+    "countries": [
+     "HU"
     ]
    }
   ],
-  "RS": [
+  "NO": [
    {
-    "title": "Motorcycle Circumnavigation Record Attempt Ends in Oz",
-    "url": "https://www.autoweek.com/news/a73961123/motorcycle-circumnavigation-record-attempt-ends/",
-    "source": "autoweek.com",
+    "title": "Russian dictator tests NATO in the Arctic",
+    "url": "https://bnn-news.com/world/russian-dictator-tests-nato-in-the-arctic-6he4pqg",
+    "source": "bnn-news.com",
     "theme": "press",
-    "date": "2026-10-01T03:45:00+00:00",
+    "date": "2026-10-01T02:45:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "United Nations General Assembly 81st session ends",
-    "url": "https://thenorthlines.com/united-nations-general-assemblys-81st-session-ends/",
-    "source": "thenorthlines.com",
+    "title": "DANIEL HANNAN : Spoiler alert ! Britain will NOT rejoin the EU . Here are some of the many reasons why ...",
+    "url": "https://www.dailymail.com/news/article-16173811/DANIEL-HANNAN-Spoiler-alert-Britain-NOT-rejoin-EU-reasons-why.html",
+    "source": "dailymail.com",
     "theme": "press",
-    "date": "2026-09-30T22:00:00+00:00",
+    "date": "2026-09-30T23:00:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "When students rise up , integrity might prevail",
-    "url": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/0930/When-students-rise-up-integrity-might-prevail",
-    "source": "csmonitor.com",
+    "title": "Ukraine F - 16 Update : Jets From Belgium , Maintenance Concerns And Block 70 / 72 fighters",
+    "url": "https://theaviationist.com/2026/09/30/ukraine-f-16-update/",
+    "source": "theaviationist.com",
     "theme": "press",
-    "date": "2026-09-30T22:00:00+00:00",
+    "date": "2026-09-30T22:15:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "Péter Magyar rise was expected to bring a new chapter to Hungary - Ukraine relations",
-    "url": "https://weeklyblitz.net/2026/10/01/peter-magyars-rise-was-expected-to-bring-a-new-chapter-to-hungary-ukraine-relations/",
-    "source": "weeklyblitz.net",
+    "title": "The India - EFTA partnership , one plus one equals three",
+    "url": "https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece",
+    "source": "thehindu.com",
     "theme": "press",
-    "date": "2026-09-30T19:15:00+00:00",
+    "date": "2026-09-30T19:30:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "Download PDF | Real Estate Guide 2026 | Powered by CPI Romania",
-    "url": "https://business-review.eu/supplements-and-guides/real-estate-guide-supplements-and-guides/download-pdf-real-estate-guide-2026-powered-by-cpi-romania",
-    "source": "business-review.eu",
+    "title": "Why Uganda must accelerate exploration beyond First Oil - The Observer Media Ltd",
+    "url": "https://observer.ug/business/why-uganda-must-accelerate-exploration-beyond-first-oil/",
+    "source": "observer.ug",
     "theme": "press",
-    "date": "2026-09-30T16:45:00+00:00",
+    "date": "2026-09-30T19:30:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "Europe Queer Political Powerhouses Are Here",
-    "url": "https://instinctmagazine.com/european-lgbtq-leaders/",
-    "source": "instinctmagazine.com",
+    "title": "Guyana Oil Riches Are Transforming Its Economy at Breakneck Speed",
+    "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
+    "source": "oilprice.com",
     "theme": "press",
-    "date": "2026-09-30T16:30:00+00:00",
+    "date": "2026-09-30T19:30:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "Europe Races To Contain Energy Crisis With Patchwork Measures",
-    "url": "http://www.zerohedge.com/geopolitical/europe-races-contain-energy-crisis-patchwork-measures",
-    "source": "zerohedge.com",
+    "title": "Erling Haaland reaction to Man City verdict revealed as Norway team - mates break silence",
+    "url": "https://www.aol.co.uk/articles/erling-haaland-reaction-man-city-181859000.html",
+    "source": "aol.co.uk",
     "theme": "press",
-    "date": "2026-09-30T12:45:00+00:00",
+    "date": "2026-09-30T19:00:00+00:00",
     "countries": [
-     "RS"
+     "NO"
     ]
    },
    {
-    "title": "Europe Races To Contain Energy Crisis With Patchwork Measures",
-    "url": "https://www.zerohedge.com/geopolitical/europe-races-contain-energy-crisis-patchwork-measures",
-    "source": "zerohedge.com",
+    "title": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
+    "url": "https://www.defensenews.com/news/your-military/2026/09/30/operation-atlantic-city-ushers-marines-on-rare-trip-to-remote-arctic-island/",
+    "source": "defensenews.com",
     "theme": "press",
-    "date": "2026-09-30T12:00:00+00:00",
+    "date": "2026-09-30T19:00:00+00:00",
     "countries": [
-     "RS"
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "Jean - Luc Mélenchon will win young French voters – until they realise the size of his Russia blind spot | Alexander Hurst",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/01/jean-luc-melenchon-young-french-voters-russia-foreign-policy",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-01T04:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Range Rover Sport Electric turns up the fun – Gadget",
+    "url": "https://gadget.co.za/rangeroverfun32t/",
+    "source": "gadget.co.za",
+    "theme": "press",
+    "date": "2026-10-01T03:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "BNN Interview | Migrants , border and security : Latvia Interior Minister says what many have wanted to hear · BNN",
+    "url": "https://bnn-news.com/interviews/bnn-interview-migrants-border-and-security-latvias-interior-minister-says-what-many-have-wanted-to-hear-tw3fpuh",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Ubisoft Unites Major Franchises Under One Roof Including Splinter Cell , Ghost Recon , The Division",
+    "url": "https://powerupgaming.co.uk/2026/10/01/ubisoft-unites-major-franchises-under-one-roof-including-splinter-cell-ghost-recon-the-division/",
+    "source": "powerupgaming.co.uk",
+    "theme": "press",
+    "date": "2026-10-01T02:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Ubisoft Reveals a New Home for Ghost Recon and Splinter Cell",
+    "url": "https://www.dualshockers.com/ubisoft-reveals-a-new-home-for-ghost-recon-and-splinter-cell/",
+    "source": "dualshockers.com",
+    "theme": "press",
+    "date": "2026-10-01T01:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Six notable NHL UFAs as 2026 - 27 season begins",
+    "url": "https://www.yardbarker.com/nhl/articles/six_notable_nhl_ufas_as_2026_27_season_begins/s1_16958_44369244",
+    "source": "yardbarker.com",
+    "theme": "press",
+    "date": "2026-10-01T00:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Metso Strengthens its World - leading Slurry Pump Capabilities with New 4 - MW Extra - large Test Rig - Mining / Metal / Mineral - Metso Corporation",
+    "url": "https://www.newswiretoday.com/news/186974/Metso-Strengthens-its-World-leading-Slurry-Pump-Capabilities-with-New-4-MW-Extra-large-Test-Rig/",
+    "source": "newswiretoday.com",
+    "theme": "press",
+    "date": "2026-09-30T23:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Metso Strengthens its World - leading Slurry Pump Capabilities with New 4 - MW Extra - large Test Rig - Mining / Metal / Mineral - Metso Corporation",
+    "url": "https://www.newswiretoday.com/news/186974/",
+    "source": "newswiretoday.com",
+    "theme": "press",
+    "date": "2026-09-30T23:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "LV": [
+   {
+    "title": "BNN IN FOCUS | Political scientist view : What will decide the fate of Latvia next coalition · BNN",
+    "url": "https://bnn-news.com/bnn-in-focus/bnn-in-focus-political-scientists-view-what-will-decide-the-fate-of-latvias-next-coalition-eke5xdn",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "airBaltic owes money to thousands – up to 25 , 000 creditors , largest claim at 66 . 5 million dollars",
+    "url": "https://bnn-news.com/money/airbaltic-owes-money-to-thousands-up-to-25000-creditors-largest-claim-at-66-5-million-dollars-yhm6s2h",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "How much will fuel cost in Latvia ? Saeima advances another measure to cut prices",
+    "url": "https://bnn-news.com/social/how-much-will-fuel-cost-in-latvia-saeima-advances-another-measure-to-cut-prices-5z4ybdn",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "BNN IN FOCUS | Political party review : Sovereign Power / Young Latvians – big promises and high - profile scandals",
+    "url": "https://bnn-news.com/bnn-in-focus/bnn-in-focus-political-party-review-sovereign-power-young-latvians-big-promises-and-high-profile-scandals-p3zhxc9",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "BNN IN FOCUS| Political party review : National Alliance – from a core electorate to a fight for its own niche · BNN",
+    "url": "https://bnn-news.com/bnn-in-focus/bnn-in-focus-political-party-review-national-alliance-from-a-core-electorate-to-a-fight-for-its-own-niche-jvu2pap",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "BNN Interview | Seniors need help now , not years from now – minister on mistakes in Latvian policy · BNN",
+    "url": "https://bnn-news.com/interviews/bnn-interview-seniors-need-help-now-not-years-from-now-minister-on-mistakes-in-latvian-policy-mv5am89",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "BNN Interview | Cargo does not disappear it goes to competitors . Latvia is losing millions and its place on the transit map",
+    "url": "https://bnn-news.com/bnn-in-focus/bnn-interview-cargo-does-not-disappear-it-goes-to-competitors-latvia-is-losing-millions-and-its-place-on-the-transit-map-rdpy5dh",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "BNN IN FOCUS | Political party review : United List – is the Kulbergs effect working ? · BNN",
+    "url": "https://bnn-news.com/bnn-in-focus/bnn-in-focus-political-party-review-united-list-is-the-kulbergs-effect-working-2v6v5vu",
+    "source": "bnn-news.com",
+    "theme": "press",
+    "date": "2026-10-01T02:45:00+00:00",
+    "countries": [
+     "LV"
     ]
    }
   ]
@@ -727,24 +1320,17 @@
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }

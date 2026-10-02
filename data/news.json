@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T17:52:56+00:00",
+ "generated": "2026-10-02T23:47:35+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-02T17:52:56+00:00",
+   "date": "2026-10-02T23:47:35+00:00",
    "countries": []
   },
   {
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +113,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE",
      "IE"
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "PT"
     ]
@@ -207,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-02T17:52:56+00:00",
+    "date": "2026-10-02T23:47:35+00:00",
     "countries": [
      "FR"
     ]
@@ -215,81 +215,11 @@
   ],
   "BG": [
    {
-    "title": "For a brief moment , Troy Parrott makes us forget",
-    "url": "https://www.the42.ie/ireland-austria-troy-parrott-comment-7179545-Oct2026/",
-    "source": "the42.ie",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Explainer : Inside the nuclear deal between the US and Bangladesh",
-    "url": "https://asianews.network/explainer-inside-the-nuclear-deal-between-the-us-and-bangladesh/",
-    "source": "asianews.network",
-    "theme": "press",
-    "date": "2026-10-02T03:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Family ran for freedom then found a new home in a place they had never heard of",
-    "url": "https://www.odt.co.nz/canterbury/christchurch/family-ran-for-freedom-then-found-a-new-home-in-a-place-they-had-never-heard-of-ggnbr5fe",
-    "source": "odt.co.nz",
-    "theme": "press",
-    "date": "2026-10-02T02:15:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
     "title": "Commission approves €170 million Bulgarian State aid for farmers facing increased fuel and fertiliser prices",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2019",
     "source": "Commission européenne",
     "theme": "grid",
     "date": "2026-10-01T22:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "European Commission Refers Bulgaria to EU Court of Justice in Two Separate Cases - Novinite . com",
-    "url": "https://www.novinite.com/view_news.php?id=240837",
-    "source": "novinite.com",
-    "theme": "press",
-    "date": "2026-10-01T21:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Export Development Canada is opening 3 new offices in Europe - National",
-    "url": "https://globalnews.ca/news/12083983/export-development-canada-new-offices-europe/",
-    "source": "globalnews.ca",
-    "theme": "press",
-    "date": "2026-10-01T17:30:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "October 2026 EU infringements package : key decisions - EUbusiness . com | EU news , business and politics",
-    "url": "https://www.eubusiness.com/eulaw/october-2026-eu-infringements-package-key-decisions/",
-    "source": "eubusiness.com",
-    "theme": "press",
-    "date": "2026-10-01T16:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "DPM Metals Announces Constitutional Court of Bosnia and Herzegovina Decision",
-    "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/dpm-metals-announces-constitutional-court-of-bosnia-and-herzegovina-decision/2437009",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-10-01T12:30:00+00:00",
     "countries": [
      "BG"
     ]
@@ -337,6 +267,324 @@
     ]
    }
   ],
+  "PL": [
+   {
+    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
+    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090",
+    "source": "lrytas.lt",
+    "theme": "press",
+    "date": "2026-10-02T10:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Ports planning further expansion of Marine Services - Jersey Evening Post",
+    "url": "https://jerseyeveningpost.com/news/2026/10/02/ports-expansion-of-marine-services-fleet-generates-greater-profit/",
+    "source": "jerseyeveningpost.com",
+    "theme": "press",
+    "date": "2026-10-02T10:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
+    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090/",
+    "source": "lrytas.lt",
+    "theme": "press",
+    "date": "2026-10-02T10:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Putin Warns Russia Could Use All Weapon if Kaliningrad Is Attacked , Admits Ukraine Strikes Cost 1 % of GDP",
+    "url": "https://www.ibtimes.com.au/putin-warns-all-weapons-kaliningrad-attack-1876177",
+    "source": "ibtimes.com.au",
+    "theme": "press",
+    "date": "2026-10-02T08:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "From cyber to Middle East , US and allies absorb hard lessons from 2026",
+    "url": "https://www.middle-east-online.com/en/cyber-middle-east-us-and-allies-absorb-hard-lessons-2026",
+    "source": "middle-east-online.com",
+    "theme": "press",
+    "date": "2026-10-02T08:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Finland has a fix for nuclear waste",
+    "url": "https://www.hindustantimes.com/world-news/finland-has-a-fix-for-nuclear-waste-101790919207633.html",
+    "source": "hindustantimes.com",
+    "theme": "press",
+    "date": "2026-10-02T08:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Russia - Nato tensions : Why Kaliningrad matters and may become a flashpoint",
+    "url": "https://www.business-standard.com/world-news/russia-nato-tensions-why-kaliningrad-matters-and-may-become-a-flashpoint-126100200294_1.html",
+    "source": "business-standard.com",
+    "theme": "press",
+    "date": "2026-10-02T08:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Putin Warns Russia Could Use All Weapon if Territory is Attacked | Kashmir Life - Latest News & Breaking News from Kashmir",
+    "url": "https://kashmirlife.net/putin-warns-russia-could-use-all-weapons-if-territory-is-attacked-454728/",
+    "source": "kashmirlife.net",
+    "theme": "press",
+    "date": "2026-10-02T07:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "3 Buffalo Sabres prospects who could make their NHL debut in 2026 - 27",
+    "url": "https://sabrenoise.com/3-buffalo-sabres-prospects-who-could-make-their-nhl-debut-in-2026-27-01m3vxhkwypq",
+    "source": "sabrenoise.com",
+    "theme": "press",
+    "date": "2026-10-01T20:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Space miners may face an Earth - sized tax problem - The Northern Miner",
+    "url": "https://www.northernminer.com/news/space-miners-may-face-an-earth-sized-tax-problem/1003895363/",
+    "source": "northernminer.com",
+    "theme": "press",
+    "date": "2026-10-01T20:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "October 2026 EU infringements package : key decisions - EUbusiness . com | EU news , business and politics",
+    "url": "https://www.eubusiness.com/eulaw/october-2026-eu-infringements-package-key-decisions/",
+    "source": "eubusiness.com",
+    "theme": "press",
+    "date": "2026-10-01T16:45:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Colliers : More than half of Romania modern retail stock is over 15 years old as investment shifts towards refurbishment and repositioning",
+    "url": "https://www.thediplomat.ro/2026/10/01/colliers-more-than-half-of-romanias-modern-retail-stock-is-over-15-years-old-as-investment-shifts-towards-refurbishment-and-repositioning/",
+    "source": "thediplomat.ro",
+    "theme": "press",
+    "date": "2026-10-01T10:45:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Tigo Energy Builds on 80MW of C & I Solar Growth in Czechia with GO Optimized ESS for Residential",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69724397-tigo-energy-builds-on-80mw-of-c-i-solar-growth-in-czechia-with-go-optimized-ess-for-residential-004.htm",
+    "source": "finanznachrichten.de",
+    "theme": "press",
+    "date": "2026-10-01T04:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Rolls - Royce secures deal for ŠKODA - made hardware to drive the next generation of nuclear power stations",
+    "url": "https://www.techradar.com/pro/rolls-royce-secures-deal-for-skoda-made-hardware-to-drive-the-next-generation-of-nuclear-power-stations",
+    "source": "techradar.com",
+    "theme": "press",
+    "date": "2026-10-01T02:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Lilly oral GLP - 1 , Foundayo ( orforglipron ), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
+    "url": "https://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-demonstrated-cardiovascular-safety-alongside-sustained-a1c-reduction-and-weight-loss-in-its-largest-and-longest-type-2-diabetes-study-302891823.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-30T23:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Lilly oral GLP - 1 , Foundayo ( orforglipron ), demonstrated cardiovascular safety alongside sustained A1C reduction and weight loss in its largest and longest type 2 diabetes study",
+    "url": "http://www.prnewswire.com/news-releases/lillys-oral-glp-1-foundayo-orforglipron-demonstrated-cardiovascular-safety-alongside-sustained-a1c-reduction-and-weight-loss-in-its-largest-and-longest-type-2-diabetes-study-302891823.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-09-30T22:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   }
+  ],
+  "SK": [
+   {
+    "title": "There fast and then there this – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/arts-and-life/life/autos/2026/10/02/theres-fast-and-then-theres-this",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-10-02T07:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not Your Everyday Coffee in a Serbia Cafe . Enjoy it in the Company of Alpacas",
+    "url": "https://english.aawsat.com/varieties/5325011-not-your-everyday-coffee-serbia-cafe-enjoy-it-company-alpacas",
+    "source": "english.aawsat.com",
+    "theme": "press",
+    "date": "2026-10-02T04:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "European Air Passenger Traffic Strengthens over Summer Despite Geopolitical and Economic Headwinds",
+    "url": "https://www.hotelnewsresource.com/article143146.html",
+    "source": "hotelnewsresource.com",
+    "theme": "press",
+    "date": "2026-10-02T00:15:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "A Lone Voice Of Sanity On NATO Eastern Flank Emerges",
+    "url": "http://www.zerohedge.com/geopolitical/lone-voice-sanity-natos-eastern-flank-emerges",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-10-01T14:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Montenegro EU Accession Discused Within Austerlitz Format - News - Rádio RSI English",
+    "url": "https://enrsi.stvr.sk/articles/news/462816/montenegros-eu-accession-discused-within-austerlitz-format",
+    "source": "enrsi.stvr.sk",
+    "theme": "press",
+    "date": "2026-10-01T12:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.naharnet.com:443/stories/en/322850-not-your-everyday-coffee-in-a-serbia-cafe-enjoy-it-in-the-company-of-alpacas",
+    "source": "naharnet.com",
+    "theme": "press",
+    "date": "2026-10-01T12:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://isp.netscape.com:443/entertainment/story/0001/20261001/ecaa55629b5e2bf6ffae36e18aff713a",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-10-01T06:00:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Record - breaking heatwave drought cost European agriculture $3 . 6bn",
+    "url": "https://www.thenationalnews.com/news/europe/2026/10/02/record-breaking-heatwave-drought-cost-european-agriculture-36bn/",
+    "source": "thenationalnews.com",
+    "theme": "press",
+    "date": "2026-10-02T09:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Where democracies like Switzerland draw the line on popular votes",
+    "url": "https://www.swissinfo.ch/eng/global-elections/where-democracies-like-switzerland-draw-the-line-on-popular-votes/92122973",
+    "source": "swissinfo.ch",
+    "theme": "press",
+    "date": "2026-10-02T08:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Europe Is Running Out of Water",
+    "url": "https://slguardian.org/europe-is-running-out-of-water/",
+    "source": "slguardian.org",
+    "theme": "press",
+    "date": "2026-10-02T08:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Who Is Elizabeth Morley ? Palestine Action Protester Who Called Andy Burnham Bastard Has Been Arrested Several Times",
+    "url": "https://www.ibtimes.co.uk/elizabeth-morley-palestine-action-protests-arrests-1823278",
+    "source": "ibtimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-02T07:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "PPC enters Polish market with 277 . 3 MW renewable energy portfolio",
+    "url": "https://www.naftemporiki.gr/english/2169622/ppc-enters-polish-market-with-277-3-mw-renewable-energy-portfolio/",
+    "source": "naftemporiki.gr",
+    "theme": "press",
+    "date": "2026-10-02T07:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Europe diesel counterpunch – POLITICO",
+    "url": "https://www.politico.eu/article/europes-diesel-counterpunch/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-02T06:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Israel courts Europe far right , finding friends but also unease",
+    "url": "https://www.al-monitor.com/originals/2026/10/israel-courts-europes-far-right-finding-friends-also-unease",
+    "source": "al-monitor.com",
+    "theme": "press",
+    "date": "2026-10-02T04:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Arab News | Israel courts Europe far right , finding friends but also unease",
+    "url": "https://www.arabnews.com/world/israel-courts-europes-far-right-finding-friends-but-also-unease-3004194",
+    "source": "arabnews.com",
+    "theme": "press",
+    "date": "2026-10-02T04:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
   "RO": [
    {
     "title": "Romania Producer Price Inflation Climbs To 11 . 8 %",
@@ -349,41 +597,11 @@
     ]
    },
    {
-    "title": "Europe Is Running Out of Water",
-    "url": "https://slguardian.org/europe-is-running-out-of-water/",
-    "source": "slguardian.org",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Ukraine Invasion Day 1 , 681 : Operation Vivaldi not yet finished",
-    "url": "https://www.dailykos.com/stories/2026/10/1/800106270/community/1681/",
-    "source": "dailykos.com",
-    "theme": "press",
-    "date": "2026-10-02T07:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
     "title": "Romania Producer Price Inflation Climbs To 11 . 8 %",
     "url": "https://www.rttnews.com/story.aspx?Id=3696050",
     "source": "rttnews.com",
     "theme": "press",
     "date": "2026-10-02T07:30:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "PPC enters Polish market with 277 . 3 MW renewable energy portfolio",
-    "url": "https://www.naftemporiki.gr/english/2169622/ppc-enters-polish-market-with-277-3-mw-renewable-energy-portfolio/",
-    "source": "naftemporiki.gr",
-    "theme": "press",
-    "date": "2026-10-02T07:00:00+00:00",
     "countries": [
      "RO"
     ]
@@ -409,95 +627,23 @@
     ]
    },
    {
-    "title": "Europe diesel counterpunch – POLITICO",
-    "url": "https://www.politico.eu/article/europes-diesel-counterpunch/",
-    "source": "politico.eu",
+    "title": "Trump says US may ask Europe to release diesel reserves",
+    "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves",
+    "source": "aljazeera.com",
     "theme": "press",
-    "date": "2026-10-02T06:15:00+00:00",
+    "date": "2026-10-02T04:15:00+00:00",
     "countries": [
      "RO"
     ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "Friday briefing : How we covered the flydubai incident as it unfolded",
-    "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
    },
    {
-    "title": "Iran News in Brief – October 2 , 2026",
-    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-2-2026/",
-    "source": "ncr-iran.org",
+    "title": "Europe war - games life after Merz",
+    "url": "https://www.politico.eu/article/europe-contemplates-life-after-friedrich-merz/",
+    "source": "politico.eu",
     "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
+    "date": "2026-10-02T04:15:00+00:00",
     "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "A galactic Nobel ? Experts float the International Space Station among contenders for the Peace Prize",
-    "url": "https://isp.netscape.com:443/news/world/story/0001/20261002/91cb88e308770021c755eaba99a8b863",
-    "source": "isp.netscape.com",
-    "theme": "press",
-    "date": "2026-10-02T06:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "A galactic Nobel ? Experts float the International Space Station among contenders for the Peace Prize – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/world/2026/10/02/a-galactic-nobel-experts-float-the-international-space-station-among-contenders-for-the-peace-prize",
-    "source": "winnipegfreepress.com",
-    "theme": "press",
-    "date": "2026-10-02T06:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "A galactic Nobel ? Experts float the International Space Station among contenders for the Peace Prize",
-    "url": "https://lancasteronline.com/news/world/a-galactic-nobel-experts-float-the-international-space-station-among-contenders-for-the-peace-prize/article_bc34bc2c-c87d-5e60-afb8-2a0d1cb1c9cd.html",
-    "source": "lancasteronline.com",
-    "theme": "press",
-    "date": "2026-10-02T06:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Self - Discharger : MV Nor Viking handles Bulk Cargo and Timber with a SENNEBOGEN 875 E",
-    "url": "http://www.hub-4.com/news/self-discharger-mv-nor-viking-handles-bulk-cargo-and-timber-with-a-sennebogen-875-e",
-    "source": "hub-4.com",
-    "theme": "press",
-    "date": "2026-10-02T03:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "BRICS isnt killing the dollar . The world is learning to live without it – BRICS Information Sharing & Exchanging Platform",
-    "url": "https://www.brics-info.org/4643755805cdd142926016ae85fa11f8/",
-    "source": "brics-info.org",
-    "theme": "press",
-    "date": "2026-10-02T02:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "This was the week Canada stopped shooting its oil patch in the foot",
-    "url": "https://www.theglobeandmail.com/business/commentary/article-canada-stopped-shooting-oil-patch-foot-pacific-link-pipeline/",
-    "source": "theglobeandmail.com",
-    "theme": "press",
-    "date": "2026-10-02T02:00:00+00:00",
-    "countries": [
-     "NO"
+     "RO"
     ]
    }
   ],
@@ -573,13 +719,45 @@
     ]
    },
    {
-    "title": "Finland has a fix for nuclear waste",
-    "url": "https://www.hindustantimes.com/world-news/finland-has-a-fix-for-nuclear-waste-101790919207633.html",
-    "source": "hindustantimes.com",
+    "title": "For a brief moment , Troy Parrott makes us forget",
+    "url": "https://www.the42.ie/ireland-austria-troy-parrott-comment-7179545-Oct2026/",
+    "source": "the42.ie",
     "theme": "press",
     "date": "2026-10-02T08:00:00+00:00",
     "countries": [
      "FI"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "NRD Cyber Security continued to grow during the first half of 2026",
+    "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/nrd-cyber-security-continued-to-grow-during-the-first-half-of-2026/2437803",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-10-02T07:45:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Why Russia remains stubbornly insignificant to the Middle East",
+    "url": "https://www.middleeasteye.net/opinion/russia-israel-palestine-soviet-anti-zionism-lavrov",
+    "source": "middleeasteye.net",
+    "theme": "press",
+    "date": "2026-10-02T07:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "European powers answer Russian nuclear warnings with further military escalation",
+    "url": "https://www.wsws.org/en/articles/2026/10/02/vldz-o02.html",
+    "source": "wsws.org",
+    "theme": "press",
+    "date": "2026-10-02T06:00:00+00:00",
+    "countries": [
+     "LT"
     ]
    }
   ]
@@ -653,16 +831,13 @@
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
   "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",

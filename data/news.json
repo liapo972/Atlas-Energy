@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T13:24:23+00:00",
+ "generated": "2026-10-03T19:14:10+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-03T13:24:23+00:00",
+   "date": "2026-10-03T19:14:10+00:00",
    "countries": []
   },
   {
@@ -24,6 +24,13 @@
    "theme": "grid",
    "date": "2026-10-02T14:23:24+00:00",
    "countries": []
+  },
+  {
+   "title": "US Reinforcing Military Presence In Middle East As Iran Tensions Rise",
+   "url": "http://www.orlandoecho.com/news/279347225/us-reinforcing-military-presence-in-middle-east-as-iran-tensions-rise",
+   "source": "orlandoecho.com",
+   "theme": "press",
+   "date": "2026-10-02T10:45:00+00:00"
   },
   {
    "title": "Jura Energy Corporation Provides Update on English High Court Proceedings",
@@ -36,6 +43,13 @@
    "title": "US Targets Russia A7 Network In New Iran Sanctions Push",
    "url": "http://www.orlandoecho.com/news/279347339/us-targets-russia-a7-network-in-new-iran-sanctions-push",
    "source": "orlandoecho.com",
+   "theme": "press",
+   "date": "2026-10-02T10:45:00+00:00"
+  },
+  {
+   "title": "Here How Russia Plans to Pay for the Ukraine War in 2027",
+   "url": "https://www.themoscowtimes.com/2026/10/02/heres-how-russia-plans-to-pay-for-the-ukraine-war-in-2027-a93851",
+   "source": "themoscowtimes.com",
    "theme": "press",
    "date": "2026-10-02T10:45:00+00:00"
   },
@@ -165,20 +179,6 @@
    "source": "austinglobe.com",
    "theme": "press",
    "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "SBI Research sees CPI inflation at 5 . 65 % in Sept , above 6 . 5 % in Oct - Nov",
-   "url": "http://www.tucsonpost.com/news/279347198/sbi-research-sees-cpi-inflation-at-565-in-sept-above-65-in-oct-nov",
-   "source": "tucsonpost.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "UK Arrests British - Iranian Man In Air Base Investigation",
-   "url": "http://www.londonmercury.com/news/279346950/uk-arrests-british-iranian-man-in-air-base-investigation",
-   "source": "londonmercury.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
   }
  ],
  "countries": {
@@ -198,7 +198,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -208,7 +208,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -218,7 +218,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -228,7 +228,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE",
      "IE"
@@ -239,7 +239,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -249,7 +249,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -259,7 +259,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE"
     ]
@@ -271,7 +271,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "DE",
      "IE"
@@ -354,80 +354,10 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "AT",
      "SI"
-    ]
-   },
-   {
-    "title": "AP Strange SummaryBrief at 5 : 51 a . m . EDT",
-    "url": "http://www.hngnews.com/nation_world/ap-strange-summarybrief-at-5-51-a-m-edt/article_09cef010-43f2-52f2-b935-928124b0ad0f.html",
-    "source": "hngnews.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Austria Inflation Rises To 4 - month High",
-    "url": "https://www.finanzen.ch/nachrichten/zinsen/austria-inflation-rises-to-4-month-high-1036592648",
-    "source": "finanzen.ch",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Morning Briefing : Oct . 2 , 2026",
-    "url": "https://aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
-    "source": "aa.com.tr",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Europe diesel counterpunch – POLITICO",
-    "url": "https://www.politico.eu/article/europes-diesel-counterpunch/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-10-02T06:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Europe war - games life after Merz",
-    "url": "https://www.politico.eu/article/europe-contemplates-life-after-friedrich-merz/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-10-02T04:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Israel courts Europe far right , finding friends but also unease",
-    "url": "https://www.al-monitor.com/originals/2026/10/israel-courts-europes-far-right-finding-friends-also-unease",
-    "source": "al-monitor.com",
-    "theme": "press",
-    "date": "2026-10-02T04:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Arab News | Israel courts Europe far right , finding friends but also unease",
-    "url": "https://www.arabnews.com/world/israel-courts-europes-far-right-finding-friends-but-also-unease-3004194",
-    "source": "arabnews.com",
-    "theme": "press",
-    "date": "2026-10-02T04:00:00+00:00",
-    "countries": [
-     "AT"
     ]
    }
   ],
@@ -437,7 +367,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "AT",
      "SI"
@@ -450,7 +380,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "PT"
     ]
@@ -462,77 +392,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-03T13:24:23+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Flydubai flight shows Israel changing Middle East ties , and Saudi old limits",
-    "url": "http://www.jpost.com/middle-east/article-910400",
-    "source": "jpost.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Here How Russia Plans to Pay for the Ukraine War in 2027",
-    "url": "https://www.themoscowtimes.com/2026/10/02/heres-how-russia-plans-to-pay-for-the-ukraine-war-in-2027-a93851",
-    "source": "themoscowtimes.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
-    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090",
-    "source": "lrytas.lt",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Diesel alarm in Europe :",
-    "url": "https://www.bankingnews.gr/analyseis-ektheseis/articles/902884/diesel-alarm-in-europe-bomb-from-france-for-releasing-50-plus-50-million-barrels-china-cuts-exports%20title=",
-    "source": "bankingnews.gr",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
-    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090/",
-    "source": "lrytas.lt",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "British expats in Spain could face a whopping 100 % surcharge on empty second homes under new government plans",
-    "url": "https://www.dailymail.com/travel/article-16177849/British-expats-Spain-face-whopping-100-surcharge-second-homes-new-government-plans.html",
-    "source": "dailymail.com",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Netanyahu , Greatest Orator of the 21st Century",
-    "url": "https://afr.net/podcasts/sandy-rios-247/2026/september/netanyahu-greatest-orator-of-the-21st-century/",
-    "source": "afr.net",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
+    "date": "2026-10-03T19:14:10+00:00",
     "countries": [
      "FR"
     ]
@@ -555,6 +415,16 @@
     "source": "naftemporiki.gr",
     "theme": "press",
     "date": "2026-10-02T07:00:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Europe diesel counterpunch – POLITICO",
+    "url": "https://www.politico.eu/article/europes-diesel-counterpunch/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-02T06:15:00+00:00",
     "countries": [
      "BG"
     ]
@@ -608,59 +478,9 @@
     "countries": [
      "BG"
     ]
-   },
-   {
-    "title": "October 2026 EU infringements package : key decisions - EUbusiness . com | EU news , business and politics",
-    "url": "https://www.eubusiness.com/eulaw/october-2026-eu-infringements-package-key-decisions/",
-    "source": "eubusiness.com",
-    "theme": "press",
-    "date": "2026-10-01T16:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
    }
   ],
   "GB": [
-   {
-    "title": "US Reinforcing Military Presence In Middle East As Iran Tensions Rise",
-    "url": "http://www.orlandoecho.com/news/279347225/us-reinforcing-military-presence-in-middle-east-as-iran-tensions-rise",
-    "source": "orlandoecho.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Brits feel more confident with money than they did two years ago",
-    "url": "https://www.cravenherald.co.uk/news/national/uk-today/26601048.brits-feel-confident-money-two-years-ago/",
-    "source": "cravenherald.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Paul Greengrass : It eerie how contemporary The Uprising feels",
-    "url": "https://www.bigissue.com/culture/film/the-uprising-paul-greengrass-peasants-revolt/",
-    "source": "bigissue.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Electric car sales hit record high as soaring diesel and petrol prices spark surge in demand",
-    "url": "https://www.mirror.co.uk/money/electric-cars-uk-fuel-petrol-37726877",
-    "source": "mirror.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
    {
     "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
     "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
@@ -702,321 +522,85 @@
     ]
    }
   ],
-  "NL": [
+  "GR": [
    {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.dunfermlinepress.com/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "dunfermlinepress.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.london-now.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "london-now.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.ealingtimes.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "ealingtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.edp24.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "edp24.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Acta Marine Christens Vestas - Chartered CSOV Newbuild",
-    "url": "https://www.marinelink.com/news/acta-marine-christens-vestaschartered-543426",
-    "source": "marinelink.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.milfordmercury.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "milfordmercury.co.uk",
+    "title": "newsroomamerica . com",
+    "url": "https://newsroomamerica.com/?before=111895",
+    "source": "newsroomamerica.com",
     "theme": "press",
     "date": "2026-10-02T10:00:00+00:00",
     "countries": [
-     "NL"
+     "GR"
     ]
    },
    {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.clactonandfrintongazette.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "clactonandfrintongazette.co.uk",
+    "title": "Netanyahu , Greatest Orator of the 21st Century",
+    "url": "https://afr.net/podcasts/sandy-rios-247/2026/september/netanyahu-greatest-orator-of-the-21st-century/",
+    "source": "afr.net",
     "theme": "press",
     "date": "2026-10-02T10:00:00+00:00",
     "countries": [
-     "NL"
+     "GR"
     ]
    },
    {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.burytimes.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "burytimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "France closes 400 schools as education protests spiral into unrest",
-    "url": "https://www.dailysabah.com/world/europe/france-closes-400-schools-as-education-protests-spiral-into-unrest",
-    "source": "dailysabah.com",
+    "title": "Coral Shell Licensee inaugurates its 100th service station outside Greece",
+    "url": "https://cyprus-mail.com/2026/10/02/coral-shell-licensee-inaugurates-its-100th-service-station-outside-greece",
+    "source": "cyprus-mail.com",
     "theme": "press",
     "date": "2026-10-02T08:30:00+00:00",
     "countries": [
-     "BE"
+     "GR"
     ]
    },
    {
-    "title": "Finland has a fix for nuclear waste",
-    "url": "https://www.hindustantimes.com/world-news/finland-has-a-fix-for-nuclear-waste-101790919207633.html",
-    "source": "hindustantimes.com",
+    "title": "EU says oil reserve release possible amid US pressure",
+    "url": "https://www.euronews.com/2026/10/02/eu-says-oil-reserve-release-possible-amid-us-pressure",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-10-02T08:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Collegiate Assistant Professor - Harper and Schmidt Fellow 2026 - 27 | The Journal of Blacks in Higher Education",
+    "url": "https://jbhe.com/jbhejobs/uchicago-asst-professor-harper-schmidt-fellow-2026-27/",
+    "source": "jbhe.com",
+    "theme": "press",
+    "date": "2026-10-02T08:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Today in Germany : A roundup of the latest news on Friday",
+    "url": "https://www.thelocal.de/20261002/today-in-germany-a-roundup-of-the-latest-news-on-friday-142",
+    "source": "thelocal.de",
     "theme": "press",
     "date": "2026-10-02T08:00:00+00:00",
     "countries": [
-     "BE"
+     "GR"
     ]
    },
    {
-    "title": "Europe Is Running Out of Water",
-    "url": "https://slguardian.org/europe-is-running-out-of-water/",
+    "title": "Alexander the Great and the Price of Endless Conquest",
+    "url": "https://slguardian.org/alexander-the-greats-empire-building-obsession-echoes-the-ambitions-of-todays-tech-titans/",
     "source": "slguardian.org",
     "theme": "press",
     "date": "2026-10-02T08:00:00+00:00",
     "countries": [
-     "BE"
+     "GR"
     ]
    },
    {
-    "title": "Turkmenistan Investment Forum 2026 Comprehensive Report on the First Day",
-    "url": "https://www.newscentralasia.net/2026/10/02/turkmenistan-investment-forum-2026-comprehensive-report-on-the-first-day/",
-    "source": "newscentralasia.net",
+    "title": "newsroomamerica . com",
+    "url": "https://newsroomamerica.com/?before=111894",
+    "source": "newsroomamerica.com",
     "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
+    "date": "2026-10-02T07:45:00+00:00",
     "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Iran News in Brief – October 2 , 2026",
-    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-2-2026/",
-    "source": "ncr-iran.org",
-    "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Trump says US may ask Europe to release diesel reserves",
-    "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-02T04:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Kimberly Guilfoyle Diva Demands Exposed",
-    "url": "https://www.thedailybeast.com/kimberly-guilfoyles-diva-demands-exposed/",
-    "source": "thedailybeast.com",
-    "theme": "press",
-    "date": "2026-10-02T04:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Mangroves keep waves at bay . A new study helps scientists predict how",
-    "url": "https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/",
-    "source": "news.mongabay.com",
-    "theme": "press",
-    "date": "2026-10-02T03:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "CH": [
-   {
-    "title": "Goldman Sachs just added theses 4 companies to its key stock picks",
-    "url": "https://www.cnbc.com/2026/10/02/goldman-sachs-conviction-list.html",
-    "source": "cnbc.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Scots wingsuit flyer potential crime death probe dropped after horror Swiss Alps crash",
-    "url": "https://www.dailyrecord.co.uk/news/scottish-news/scots-wingsuit-flyer-potential-crime-37726436",
-    "source": "dailyrecord.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T09:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Swiss railway orders 800 mm gauge electro - diesel rack locomotives",
-    "url": "https://www.railwaygazette.com/switzerland/2026/10/02/swiss-railway-orders-800-mm-gauge-electro-diesel-rack-locomotives/",
-    "source": "railwaygazette.com",
-    "theme": "press",
-    "date": "2026-10-02T09:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "ASX secondary listing+updated marketing guidance | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/glencore--glen/asx-secondary-listing-updated-marketing-guidance/9804222",
-    "source": "investegate.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Total Voting Rights | Company Announcement",
-    "url": "https://www.investegate.co.uk/announcement/rns/glencore--glen/total-voting-rights/9803839",
-    "source": "investegate.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Bailout package for Swiss electricity firms will not be extended",
-    "url": "https://www.swissinfo.ch/eng/various/parliament-has-decided-not-to-extend-the-bailout-package-for-electricity-companies/92154561",
-    "source": "swissinfo.ch",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Where democracies like Switzerland draw the line on popular votes",
-    "url": "https://www.swissinfo.ch/eng/global-elections/where-democracies-like-switzerland-draw-the-line-on-popular-votes/92122973",
-    "source": "swissinfo.ch",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "How Switzerland lost 20 percent of its ice in five years",
-    "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "ES": [
-   {
-    "title": "World oceans are warming at an alarming pace , scientists warn",
-    "url": "https://www.moneycontrol.com/world/world-s-oceans-are-warming-at-an-alarming-pace-scientists-warn-article-14043449.html",
-    "source": "moneycontrol.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Eastern Spain braces for torrential rain and flooding",
-    "url": "https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-10-02T09:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Italy willing to boost Red Sea naval mission if Europe matches commitment , Defence Minister says",
-    "url": "https://www.thenationalnews.com/news/mena/2026/10/02/italy-willing-to-boost-red-sea-naval-mission-if-europe-matches-commitment-defence-minister-says/",
-    "source": "thenationalnews.com",
-    "theme": "press",
-    "date": "2026-10-02T09:15:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Decanter Rising Star 2026 : Ramiro Ibez and Willy Pérez",
-    "url": "https://www.decanter.com/wine/jerez/decanter-rising-star-2026-jerez-mavericks-ramiro-ibanez-and-willy-perez/",
-    "source": "decanter.com",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Decanter Hall of Fame and Rising Star 2026 winners revealed",
-    "url": "https://www.decanter.com/wine/decanter-hall-of-fame-and-rising-star-2026-winners-revealed/",
-    "source": "decanter.com",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Tech Week Singapore 2026 Spotlights the Infrastructure Powering Asia Next Digital Frontier",
-    "url": "http://www.vietnamtribune.com/news/279346960/tech-week-singapore-2026-spotlights-the-infrastructure-powering-asia-next-digital-frontier",
-    "source": "vietnamtribune.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Letter from Scotland",
-    "url": "https://theedinburghreporter.co.uk/2026/10/letter-from-scotland-556/",
-    "source": "theedinburghreporter.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T08:15:00+00:00",
-    "countries": [
-     "ES"
+     "GR"
     ]
    }
   ],
@@ -1025,6 +609,16 @@
     "title": "Friday briefing : How we covered the flydubai incident as it unfolded",
     "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
     "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-02T06:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Iran News in Brief – October 2 , 2026",
+    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-2-2026/",
+    "source": "ncr-iran.org",
     "theme": "press",
     "date": "2026-10-02T06:45:00+00:00",
     "countries": [
@@ -1090,19 +684,19 @@
     "countries": [
      "NO"
     ]
-   },
-   {
-    "title": "Japan Conducts Demonstration Voyage of a Hydrogen - Fueled Tanker",
-    "url": "https://maritime-executive.com/article/japan-conducts-demonstration-voyage-of-a-hydrogen-fueled-tanker",
-    "source": "maritime-executive.com",
-    "theme": "press",
-    "date": "2026-10-02T01:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
    }
   ],
   "SE": [
+   {
+    "title": "World oceans are warming at an alarming pace , scientists warn",
+    "url": "https://www.moneycontrol.com/world/world-s-oceans-are-warming-at-an-alarming-pace-scientists-warn-article-14043449.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-02T10:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
    {
     "title": "Hans Zimmer is rooting for Canada as trade war crescendoes before North American tour",
     "url": "https://medicinehatnews.com/entertainment/entertainment-news/2026/10/02/hans-zimmer-is-rooting-for-canada-as-trade-war-crescendoes-before-north-american-tour/",
@@ -1119,6 +713,16 @@
     "source": "tickerreport.com",
     "theme": "press",
     "date": "2026-10-02T08:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Finland has a fix for nuclear waste",
+    "url": "https://www.hindustantimes.com/world-news/finland-has-a-fix-for-nuclear-waste-101790919207633.html",
+    "source": "hindustantimes.com",
+    "theme": "press",
+    "date": "2026-10-02T08:00:00+00:00",
     "countries": [
      "SE"
     ]
@@ -1152,9 +756,153 @@
     "countries": [
      "SE"
     ]
+   },
+   {
+    "title": "Europe war - games life after Merz",
+    "url": "https://www.politico.eu/article/europe-contemplates-life-after-friedrich-merz/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-02T04:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
    }
   ],
-  "LV": [
+  "DK": [
+   {
+    "title": "What other newspapers are saying : Foreign policy will have consequences",
+    "url": "https://www.sungazette.com/opinion/editorials/2026/10/what-other-newspapers-are-saying-foreign-policy-will-have-consequences/",
+    "source": "sungazette.com",
+    "theme": "press",
+    "date": "2026-10-02T07:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Lawless Lands : Trump Preaches At The United Nations",
+    "url": "https://www.scoop.co.nz/stories/HL2610/S00006/lawless-lands-trump-preaches-at-the-united-nations.htm",
+    "source": "scoop.co.nz",
+    "theme": "press",
+    "date": "2026-10-02T06:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Omada Purchases EmpowerID to Govern AI Agents at Runtime",
+    "url": "https://www.govinfosecurity.com/omada-purchases-empowerid-to-govern-ai-agents-at-runtime-a-33000",
+    "source": "govinfosecurity.com",
+    "theme": "press",
+    "date": "2026-10-01T22:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "UNSC Veto Splits Assembly Over Iran Sanctions Panel Renewal",
+    "url": "https://www.miragenews.com/unsc-veto-splits-assembly-over-iran-sanctions-1753924/",
+    "source": "miragenews.com",
+    "theme": "press",
+    "date": "2026-10-01T22:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Pakistan rejects India IWT claims , backs dialogue for regi",
+    "url": "https://www.pakistantoday.com.pk/2026/10/02/pakistan-rejects-indias-iwt-claims-stresses-dialogue-to-resolve-regional-disputes",
+    "source": "pakistantoday.com.pk",
+    "theme": "press",
+    "date": "2026-10-01T21:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Sara Hartland - Rowe",
+    "url": "https://bordercrossingsmag.com/article/sara-hartland-rowe",
+    "source": "bordercrossingsmag.com",
+    "theme": "press",
+    "date": "2026-10-01T20:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Pandora opens Vietnam jewelry factory powered by renewable energy",
+    "url": "https://www.greeleytribune.com/2026/10/01/pandora-vietnam-jewelry-factory/",
+    "source": "greeleytribune.com",
+    "theme": "press",
+    "date": "2026-10-01T20:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "FI": [
+   {
+    "title": "Nigeria Plans US$289 Million Cassava Ethanol Plant",
+    "url": "https://www.riotimesonline.com/nigeria-cassava-bioethanol-industry-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-10-02T09:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Panther Barkov leaves game against Sharks with apparent leg injury",
+    "url": "https://www.yardbarker.com/nhl/articles/panthers_barkov_leaves_game_against_sharks_with_apparent_leg_injury/s1_16958_44376752",
+    "source": "yardbarker.com",
+    "theme": "press",
+    "date": "2026-10-02T09:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Bull opens new production building in France and doubles production capacity to meet the new challenges of AI",
+    "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/bull-opens-new-production-building-in-france-and-doubles-production-capacity-to-meet-the-new-challenges-of-ai/2437826",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-10-02T08:45:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Helsinki Security Forum 2026 report",
+    "url": "https://fiia.fi/en/publication/helsinki-security-forum-2026-report",
+    "source": "fiia.fi",
+    "theme": "press",
+    "date": "2026-10-02T08:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "BULL SAS : Bull opens new production building in France and doubles production capacity to meet the new challenges of AI",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69738966-bull-sas-bull-opens-new-production-building-in-france-and-doubles-production-capacity-to-meet-the-new-challenges-of-ai-399.htm",
+    "source": "finanznachrichten.de",
+    "theme": "press",
+    "date": "2026-10-02T08:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   }
+  ],
+  "EE": [
+   {
+    "title": "From cyber to Middle East , US and allies absorb hard lessons from 2026",
+    "url": "https://www.middle-east-online.com/en/cyber-middle-east-us-and-allies-absorb-hard-lessons-2026",
+    "source": "middle-east-online.com",
+    "theme": "press",
+    "date": "2026-10-02T08:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
    {
     "title": "European powers answer Russian nuclear warnings with further military escalation",
     "url": "https://www.wsws.org/en/articles/2026/10/02/vldz-o02.html",
@@ -1162,9 +910,71 @@
     "theme": "press",
     "date": "2026-10-02T06:00:00+00:00",
     "countries": [
-     "LV"
+     "EE"
     ]
    },
+   {
+    "title": "European Air Passenger Traffic Strengthens over Summer Despite Geopolitical and Economic Headwinds",
+    "url": "https://www.hotelnewsresource.com/article143146.html",
+    "source": "hotelnewsresource.com",
+    "theme": "press",
+    "date": "2026-10-02T00:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "As Baltic states face Russian hybrid aggression , our research shows what Europe can do",
+    "url": "https://theconversation.com/as-baltic-states-face-russian-hybrid-aggression-our-research-shows-what-europe-can-do-292757",
+    "source": "theconversation.com",
+    "theme": "press",
+    "date": "2026-10-01T16:45:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Bewitched sleep : Russian views on Ukraine and the world – European Council on Foreign Relations",
+    "url": "https://ecfr.eu/publication/bewitched-sleep-russians-views-on-ukraine-and-the-world/",
+    "source": "ecfr.eu",
+    "theme": "press",
+    "date": "2026-10-01T14:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "COMMENTARY : Putin shadow war is testing NATO restraint | Jefferson City News Tribune",
+    "url": "https://www.newstribune.com/news/2026/oct/01/commentary-putins-shadow-war-is-testing-natos/",
+    "source": "newstribune.com",
+    "theme": "press",
+    "date": "2026-10-01T11:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Colliers : More than half of Romania modern retail stock is over 15 years old as investment shifts towards refurbishment and repositioning",
+    "url": "https://www.thediplomat.ro/2026/10/01/colliers-more-than-half-of-romanias-modern-retail-stock-is-over-15-years-old-as-investment-shifts-towards-refurbishment-and-repositioning/",
+    "source": "thediplomat.ro",
+    "theme": "press",
+    "date": "2026-10-01T10:45:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "US considers wider red - dyed diesel sales",
+    "url": "https://www.inautonews.com/us-government-weighs-wider-red-dyed-diesel-sales-amid-record-prices",
+    "source": "inautonews.com",
+    "theme": "press",
+    "date": "2026-10-01T05:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   }
+  ],
+  "LV": [
    {
     "title": "Hegseth State of the Force Speech Announces Cuts , New Initiatives",
     "url": "https://foreignpolicy.com/2026/10/01/hegseth-speech-state-force-autonomous-musk-luckey-gingrich/",
@@ -1234,87 +1044,15 @@
     "countries": [
      "LV"
     ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "Coral Shell Licensee inaugurates its 100th service station outside Greece",
-    "url": "https://cyprus-mail.com/2026/10/02/coral-shell-licensee-inaugurates-its-100th-service-station-outside-greece",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
    },
    {
-    "title": "Today in Germany : A roundup of the latest news on Friday",
-    "url": "https://www.thelocal.de/20261002/today-in-germany-a-roundup-of-the-latest-news-on-friday-142",
-    "source": "thelocal.de",
+    "title": "Emerging Technologies and Maritime Security",
+    "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-10/emerging-technologies-and-maritime-security.php",
+    "source": "securitycouncilreport.org",
     "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
+    "date": "2026-10-01T17:30:00+00:00",
     "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Not Your Everyday Coffee in a Serbia Cafe . Enjoy it in the Company of Alpacas",
-    "url": "https://english.aawsat.com/varieties/5325011-not-your-everyday-coffee-serbia-cafe-enjoy-it-company-alpacas",
-    "source": "english.aawsat.com",
-    "theme": "press",
-    "date": "2026-10-02T04:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Sudan - Shala – Darfur : Nine Thousand Names We Do Not Know",
-    "url": "https://www.pressenza.com/2026/10/sudan-shala-darfur-nine-thousand-names-we-do-not-know/",
-    "source": "pressenza.com",
-    "theme": "press",
-    "date": "2026-10-02T04:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Europe Intelligence Brief Thursday , October 1 , 2026",
-    "url": "https://www.riotimesonline.com/europe-intelligence-brief-thursday-october-1-2026/",
-    "source": "riotimesonline.com",
-    "theme": "press",
-    "date": "2026-10-01T21:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Humour and Non - Violence Are Tools of Gen Z Resistance Against Authoritarian Power",
-    "url": "https://countercurrents.org/2026/10/humour-and-non-violence-are-tools-of-gen-zs-resistance-against-authoritarian-power/",
-    "source": "countercurrents.org",
-    "theme": "press",
-    "date": "2026-10-01T19:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbia president is stepping down . The real battle for the country is just beginning",
-    "url": "http://www.russiaherald.com/news/279345405/serbia-president-is-stepping-down-the-real-battle-for-the-country-is-just-beginning",
-    "source": "russiaherald.com",
-    "theme": "press",
-    "date": "2026-10-01T17:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "War criminal Biljana Plavsic , dubbed Serbia Iron Lady , dies aged 96",
-    "url": "https://www.abc.net.au/news/2026-10-01/war-criminal-biljana-plavsic-dies-aged-96/107218776",
-    "source": "abc.net.au",
-    "theme": "press",
-    "date": "2026-10-01T15:15:00+00:00",
-    "countries": [
-     "RS"
+     "LV"
     ]
    }
   ]
@@ -1377,6 +1115,14 @@
  },
  "errors": [
   "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
@@ -1384,12 +1130,9 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError"
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError"
  ]
 }

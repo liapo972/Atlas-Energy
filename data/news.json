@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T05:43:25+00:00",
+ "generated": "2026-10-05T17:09:21+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,23 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-05T05:43:25+00:00",
+   "date": "2026-10-05T17:09:21+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 05 / 10 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2073",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-05T09:26:54+00:00",
+   "countries": []
+  },
+  {
+   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-05T08:00:00+00:00",
    "countries": []
   },
   {
@@ -26,62 +42,6 @@
    "countries": []
   },
   {
-   "title": "Jura Energy Corporation Provides Update on English High Court Proceedings",
-   "url": "https://www.thewhig.com/press-releases/globe-newswire/jura-energy-corporation-provides-update-on-english-high-court-proceedings/",
-   "source": "thewhig.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "US Targets Russia A7 Network In New Iran Sanctions Push",
-   "url": "http://www.orlandoecho.com/news/279347339/us-targets-russia-a7-network-in-new-iran-sanctions-push",
-   "source": "orlandoecho.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "BRICS talks energy resilience . Time to make it real",
-   "url": "http://www.orlandoecho.com/news/279347171/brics-talks-energy-resilience-time-to-make-it-real",
-   "source": "orlandoecho.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "Treasury borrowing hits halfway mark as bond issuance lags",
-   "url": "https://www.sundaystandard.info/treasury-borrowing-hits-halfway-mark-as-bond-issuance-lags/",
-   "source": "sundaystandard.info",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "Will Russian oil be economically viable for India if Trump tariffs return ?",
-   "url": "https://timesofindia.indiatimes.com/business/india-business/will-russian-oil-be-economically-viable-for-india-if-trump-tariffs-return/articleshow/134636107.cms",
-   "source": "timesofindia.indiatimes.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "Carney pipeline boosting has yet to convince investors : Ivison",
-   "url": "https://nationalpost.com/opinion/john-ivison-carney-pipeline-boosting-hasnt-yet-convinced-investors-that-canada-has-changed",
-   "source": "nationalpost.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "SBI Research sees CPI inflation at 5 . 65 % in Sept , above 6 . 5 % in Oct - Nov",
-   "url": "http://www.greekherald.com/news/279347198/sbi-research-sees-cpi-inflation-at-565-in-sept-above-65-in-oct-nov",
-   "source": "greekherald.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
-   "title": "The Week in Canadian Press Releases : 10 Stories You Need to See",
-   "url": "https://www.thewhig.com/press-releases/pr-newswire/the-week-in-canadian-press-releases-10-stories-you-need-to-see-5/",
-   "source": "thewhig.com",
-   "theme": "press",
-   "date": "2026-10-02T10:45:00+00:00"
-  },
-  {
    "title": "Statement by President von der Leyen with Prime Minister of North Macedonia Mickoski",
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
    "source": "Commission européenne",
@@ -90,95 +50,20 @@
    "countries": []
   },
   {
-   "title": "SBI Research sees CPI inflation at 5 . 65 % in Sept , above 6 . 5 % in Oct - Nov",
-   "url": "http://www.afghanistannews.net/news/279347198/sbi-research-sees-cpi-inflation-at-565-in-sept-above-65-in-oct-nov",
-   "source": "afghanistannews.net",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
+   "title": "Isabel Schnabel: Central banks on-chain",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-01T15:30:00+00:00",
+   "countries": []
   },
   {
-   "title": "Analysis - Pacific Islands get their climate moment with pre - COP meeting , but the guest list is thin",
-   "url": "https://wiky.com/2026/10/01/analysis-pacific-islands-get-their-climate-moment-with-pre-cop-meeting-but-the-guest-list-is-thin/",
-   "source": "wiky.com",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "Jobs report to show whether hiring stayed resilient in September",
-   "url": "https://abcnews.com/Business/jobs-report-show-hiring-stayed-resilient-september/story?id=136915472",
-   "source": "abcnews.com",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "BRICS talks energy resilience . Time to make it real",
-   "url": "http://www.afghanistannews.net/news/279347171/brics-talks-energy-resilience-time-to-make-it-real",
-   "source": "afghanistannews.net",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "US Reinforcing Military Presence In Middle East As Iran Tensions Rise",
-   "url": "http://www.srilankasource.com/news/279347225/us-reinforcing-military-presence-in-middle-east-as-iran-tensions-rise",
-   "source": "srilankasource.com",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "Intensifying El Nino deepens economic risks across LatAm",
-   "url": "http://www.afghanistannews.net/news/279346957/intensifying-el-nino-deepens-economic-risks-across-latam",
-   "source": "afghanistannews.net",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "Iran Loaded Zero Crude Oil In September , Bessent Says",
-   "url": "http://www.afghanistannews.net/news/279347180/iran-loaded-zero-crude-oil-in-september-bessent-says",
-   "source": "afghanistannews.net",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "US$136 . 3 billion investment wave opens a historic opportunity for Vietnam energy equipment market",
-   "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/media-outreach-newswire/us1363-billion-investment-wave-opens-a-historic-opportunity-for-vietnams-energy-equipment-market/2437848",
-   "source": "manilatimes.net",
-   "theme": "press",
-   "date": "2026-10-02T10:00:00+00:00"
-  },
-  {
-   "title": "BRICS talks energy resilience . Time to make it real",
-   "url": "http://www.middleeaststar.com/news/279347171/brics-talks-energy-resilience-time-to-make-it-real",
-   "source": "middleeaststar.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "BRICS talks energy resilience . Time to make it real",
-   "url": "http://www.austinglobe.com/news/279347171/brics-talks-energy-resilience-time-to-make-it-real",
-   "source": "austinglobe.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "US Reinforcing Military Presence In Middle East As Iran Tensions Rise",
-   "url": "http://www.austinglobe.com/news/279347225/us-reinforcing-military-presence-in-middle-east-as-iran-tensions-rise",
-   "source": "austinglobe.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "SBI Research sees CPI inflation at 5 . 65 % in Sept , above 6 . 5 % in Oct - Nov",
-   "url": "http://www.tucsonpost.com/news/279347198/sbi-research-sees-cpi-inflation-at-565-in-sept-above-65-in-oct-nov",
-   "source": "tucsonpost.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
-  },
-  {
-   "title": "UK Arrests British - Iranian Man In Air Base Investigation",
-   "url": "http://www.londonmercury.com/news/279346950/uk-arrests-british-iranian-man-in-air-base-investigation",
-   "source": "londonmercury.com",
-   "theme": "press",
-   "date": "2026-10-02T09:45:00+00:00"
+   "title": "Christine Lagarde: Where AI risks meet",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-01T13:30:00+00:00",
+   "countries": []
   }
  ],
  "countries": {
@@ -198,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
@@ -208,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
@@ -218,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
@@ -228,7 +113,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE",
      "IE"
@@ -239,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
@@ -249,17 +134,17 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
    },
    {
-    "title": "Termine für Amateurfunkprüfungen (Stand 2. Oktober 2026)",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
+    "title": "Ladeinfrastruktur in Zahlen (Stand: 1. September 2026)",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE"
     ]
@@ -271,79 +156,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "United Ireland dreams got a familiar rude awakening at Drumcree",
-    "url": "https://www.irishmirror.ie/news/news-opinion/united-ireland-dreams-familiar-rude-37725240",
-    "source": "irishmirror.ie",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Celebrity Traitors chosen as show returns with huge cliffhanger and one star biggest mistake",
-    "url": "https://www.aol.co.uk/articles/celebrity-traitors-chosen-show-returns-084405000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T09:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Call to end £200 pavement tax after Andy Burnham announcement",
-    "url": "https://www.belfastlive.co.uk/news/uk-world-news/call-end-200-pavement-tax-34705035",
-    "source": "belfastlive.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Hospitality insolvencies down and budget draws ever closer – The Irish Times",
-    "url": "https://www.irishtimes.com/business/2026/10/02/hospitality-insolvencies-down-and-budget-draws-ever-closer/",
-    "source": "irishtimes.com",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "SDLP deselects Justin McNulty for upcoming election",
-    "url": "https://www.belfastlive.co.uk/news/northern-ireland/sdlp-deselects-justin-mcnulty-upcoming-34704914",
-    "source": "belfastlive.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "The Morning Briefing : The United Kingdom Has Outlived Its Usefulness to the Free World",
-    "url": "https://pjmedia.com/stephen-kruiser/2026/10/02/the-morning-briefing-the-united-kingdom-has-outlived-its-usefulness-to-the-free-world-n4957847",
-    "source": "pjmedia.com",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "US warns Germany , France to release diesel stocks or risk export ban",
-    "url": "https://www.middle-east-online.com/en/us-warns-germany-france-release-diesel-stocks-or-risk-export-ban",
-    "source": "middle-east-online.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -354,50 +169,10 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "AT",
      "SI"
-    ]
-   },
-   {
-    "title": "AP Strange SummaryBrief at 5 : 51 a . m . EDT",
-    "url": "http://www.hngnews.com/nation_world/ap-strange-summarybrief-at-5-51-a-m-edt/article_09cef010-43f2-52f2-b935-928124b0ad0f.html",
-    "source": "hngnews.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Austria Inflation Rises To 4 - month High",
-    "url": "https://www.finanzen.ch/nachrichten/zinsen/austria-inflation-rises-to-4-month-high-1036592648",
-    "source": "finanzen.ch",
-    "theme": "press",
-    "date": "2026-10-02T08:45:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Morning Briefing : Oct . 2 , 2026",
-    "url": "https://aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
-    "source": "aa.com.tr",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Europe diesel counterpunch – POLITICO",
-    "url": "https://www.politico.eu/article/europes-diesel-counterpunch/",
-    "source": "politico.eu",
-    "theme": "press",
-    "date": "2026-10-02T06:15:00+00:00",
-    "countries": [
-     "AT"
     ]
    }
   ],
@@ -407,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "AT",
      "SI"
@@ -420,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "PT"
     ]
@@ -432,135 +207,37 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-05T05:43:25+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Flydubai flight shows Israel changing Middle East ties , and Saudi old limits",
-    "url": "http://www.jpost.com/middle-east/article-910400",
-    "source": "jpost.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Here How Russia Plans to Pay for the Ukraine War in 2027",
-    "url": "https://www.themoscowtimes.com/2026/10/02/heres-how-russia-plans-to-pay-for-the-ukraine-war-in-2027-a93851",
-    "source": "themoscowtimes.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
-    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090",
-    "source": "lrytas.lt",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Diesel alarm in Europe :",
-    "url": "https://www.bankingnews.gr/analyseis-ektheseis/articles/902884/diesel-alarm-in-europe-bomb-from-france-for-releasing-50-plus-50-million-barrels-china-cuts-exports%20title=",
-    "source": "bankingnews.gr",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The US did not invite Lithuania to the NATO meeting – first reactions from politicians are contradictory",
-    "url": "https://www.lrytas.lt/english/politics/2026/10/02/news/the-us-did-not-invite-lithuania-to-the-nato-meeting-first-reactions-from-politicians-are-contradictory-44300090/",
-    "source": "lrytas.lt",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "British expats in Spain could face a whopping 100 % surcharge on empty second homes under new government plans",
-    "url": "https://www.dailymail.com/travel/article-16177849/British-expats-Spain-face-whopping-100-surcharge-second-homes-new-government-plans.html",
-    "source": "dailymail.com",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Netanyahu , Greatest Orator of the 21st Century",
-    "url": "https://afr.net/podcasts/sandy-rios-247/2026/september/netanyahu-greatest-orator-of-the-21st-century/",
-    "source": "afr.net",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
+    "date": "2026-10-05T17:09:21+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
-  "BG": [
+  "FI": [
    {
-    "title": "Commission approves €170 million Bulgarian State aid for farmers facing increased fuel and fertiliser prices",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2019",
+    "title": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2068",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-10-01T22:00:00+00:00",
+    "date": "2026-10-05T08:31:03+00:00",
     "countries": [
-     "BG"
+     "FI"
+    ]
+   }
+  ],
+  "PL": [
+   {
+    "title": "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2056",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-10-04T22:00:00+00:00",
+    "countries": [
+     "PL"
     ]
    }
   ],
   "GB": [
-   {
-    "title": "US Reinforcing Military Presence In Middle East As Iran Tensions Rise",
-    "url": "http://www.orlandoecho.com/news/279347225/us-reinforcing-military-presence-in-middle-east-as-iran-tensions-rise",
-    "source": "orlandoecho.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Brits feel more confident with money than they did two years ago",
-    "url": "https://www.cravenherald.co.uk/news/national/uk-today/26601048.brits-feel-confident-money-two-years-ago/",
-    "source": "cravenherald.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Paul Greengrass : It eerie how contemporary The Uprising feels",
-    "url": "https://www.bigissue.com/culture/film/the-uprising-paul-greengrass-peasants-revolt/",
-    "source": "bigissue.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Electric car sales hit record high as soaring diesel and petrol prices spark surge in demand",
-    "url": "https://www.mirror.co.uk/money/electric-cars-uk-fuel-petrol-37726877",
-    "source": "mirror.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
    {
     "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
     "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
@@ -590,244 +267,6 @@
     "countries": [
      "GB"
     ]
-   },
-   {
-    "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-25T06:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   }
-  ],
-  "NL": [
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.dunfermlinepress.com/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "dunfermlinepress.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.london-now.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "london-now.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.ealingtimes.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "ealingtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.edp24.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "edp24.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Acta Marine Christens Vestas - Chartered CSOV Newbuild",
-    "url": "https://www.marinelink.com/news/acta-marine-christens-vestaschartered-543426",
-    "source": "marinelink.com",
-    "theme": "press",
-    "date": "2026-10-02T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.milfordmercury.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "milfordmercury.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.clactonandfrintongazette.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "clactonandfrintongazette.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Dont worry about diesel shortages , Government says , as US urges use of reserves",
-    "url": "https://www.burytimes.co.uk/news/national/26600861.dont-worry-diesel-shortages-government-says-us-urges-use-reserves/",
-    "source": "burytimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "France closes 400 schools as education protests spiral into unrest",
-    "url": "https://www.dailysabah.com/world/europe/france-closes-400-schools-as-education-protests-spiral-into-unrest",
-    "source": "dailysabah.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Finland has a fix for nuclear waste",
-    "url": "https://www.hindustantimes.com/world-news/finland-has-a-fix-for-nuclear-waste-101790919207633.html",
-    "source": "hindustantimes.com",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Europe Is Running Out of Water",
-    "url": "https://slguardian.org/europe-is-running-out-of-water/",
-    "source": "slguardian.org",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Turkmenistan Investment Forum 2026 Comprehensive Report on the First Day",
-    "url": "https://www.newscentralasia.net/2026/10/02/turkmenistan-investment-forum-2026-comprehensive-report-on-the-first-day/",
-    "source": "newscentralasia.net",
-    "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Iran News in Brief – October 2 , 2026",
-    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-2-2026/",
-    "source": "ncr-iran.org",
-    "theme": "press",
-    "date": "2026-10-02T06:45:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "newsroomamerica . com",
-    "url": "https://newsroomamerica.com/?before=111895",
-    "source": "newsroomamerica.com",
-    "theme": "press",
-    "date": "2026-10-02T10:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Coral Shell Licensee inaugurates its 100th service station outside Greece",
-    "url": "https://cyprus-mail.com/2026/10/02/coral-shell-licensee-inaugurates-its-100th-service-station-outside-greece",
-    "source": "cyprus-mail.com",
-    "theme": "press",
-    "date": "2026-10-02T08:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "EU says oil reserve release possible amid US pressure",
-    "url": "https://www.euronews.com/2026/10/02/eu-says-oil-reserve-release-possible-amid-us-pressure",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-10-02T08:15:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Collegiate Assistant Professor - Harper and Schmidt Fellow 2026 - 27 | The Journal of Blacks in Higher Education",
-    "url": "https://jbhe.com/jbhejobs/uchicago-asst-professor-harper-schmidt-fellow-2026-27/",
-    "source": "jbhe.com",
-    "theme": "press",
-    "date": "2026-10-02T08:15:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Today in Germany : A roundup of the latest news on Friday",
-    "url": "https://www.thelocal.de/20261002/today-in-germany-a-roundup-of-the-latest-news-on-friday-142",
-    "source": "thelocal.de",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Alexander the Great and the Price of Endless Conquest",
-    "url": "https://slguardian.org/alexander-the-greats-empire-building-obsession-echoes-the-ambitions-of-todays-tech-titans/",
-    "source": "slguardian.org",
-    "theme": "press",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "newsroomamerica . com",
-    "url": "https://newsroomamerica.com/?before=111894",
-    "source": "newsroomamerica.com",
-    "theme": "press",
-    "date": "2026-10-02T07:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Discover 1OAM in Athens : we interview founder Eva Papadaki",
-    "url": "https://www.wallpaper.com/architecture/1oam-eva-papadaki-interview-greece",
-    "source": "wallpaper.com",
-    "theme": "press",
-    "date": "2026-10-02T07:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   }
-  ],
-  "HR": [
-   {
-    "title": "PPC enters Polish market with 277 . 3 MW renewable energy portfolio",
-    "url": "https://www.naftemporiki.gr/english/2169622/ppc-enters-polish-market-with-277-3-mw-renewable-energy-portfolio/",
-    "source": "naftemporiki.gr",
-    "theme": "press",
-    "date": "2026-10-02T07:00:00+00:00",
-    "countries": [
-     "HR"
-    ]
    }
   ]
  },
@@ -838,8 +277,9 @@
    "items": 10
   },
   "ENTSOG": {
-   "ok": false,
-   "tried": "https://www.entsog.eu/rss.xml -> ParseError"
+   "ok": true,
+   "url": "https://www.entsog.eu/rss.xml",
+   "items": 10
   },
   "ENTSO-E": {
    "ok": true,
@@ -888,8 +328,10 @@
   }
  },
  "errors": [
-  "ENTSOG: https://www.entsog.eu/rss.xml -> ParseError",
-  "gdelt/CH: HTTPError",
+  "gdelt/FR: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
@@ -898,13 +340,11 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError"
+  "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T01:18:24+00:00",
+ "generated": "2026-10-06T11:17:33+00:00",
  "world": [
   {
    "title": "Balancing Stakeholders Workshop",
@@ -14,7 +14,15 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-06T01:18:24+00:00",
+   "date": "2026-10-06T11:17:33+00:00",
+   "countries": []
+  },
+  {
+   "title": "Philip R. Lane: Interview with Ansa",
+   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-06T07:00:00+00:00",
    "countries": []
   },
   {
@@ -34,22 +42,6 @@
    "countries": []
   },
   {
-   "title": "G7 Leaders' Statement on global energy security and market stability",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2057",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-02T14:23:24+00:00",
-   "countries": []
-  },
-  {
-   "title": "Statement by President von der Leyen with Prime Minister of North Macedonia Mickoski",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-02T10:19:03+00:00",
-   "countries": []
-  },
-  {
    "title": "Isabel Schnabel: Central banks on-chain",
    "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
    "source": "BCE",
@@ -63,6 +55,14 @@
    "source": "BCE",
    "theme": "policy",
    "date": "2026-10-01T13:30:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Christine Lagarde: Interview with La Croix",
+   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-09-30T17:00:00+00:00",
    "countries": []
   }
  ],
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +113,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE",
      "IE"
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "PT"
     ]
@@ -207,13 +207,23 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T01:18:24+00:00",
+    "date": "2026-10-06T11:17:33+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
   "FI": [
+   {
+    "title": "Russian agents defecated in Finnish politician toilets",
+    "url": "https://www.dailymail.com/news/article-16186187/Russian-agents-defecated-Finnish-politicians-toilets-new-hybrid-war.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
    {
     "title": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2068",
@@ -226,6 +236,16 @@
    }
   ],
   "PL": [
+   {
+    "title": "Jeffrey Archer , bestselling storyteller and disgraced politician , dies at 86 – The Irish Times",
+    "url": "https://www.irishtimes.com/culture/books/2026/10/06/jeffrey-archer-bestselling-storyteller-and-disgraced-politician-dies-at-86/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
    {
     "title": "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2056",
@@ -266,6 +286,82 @@
     "date": "2026-09-30T09:30:00+00:00",
     "countries": [
      "GB"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "title": "Old fault lines are threatening to rock the Eurozone",
+    "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
+    "source": "cityam.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
+    "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
+    "source": "lufkindailynews.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Violence erupts in Barcelona as barricades burn in street | World | News",
+    "url": "https://www.express.co.uk/news/world/2254743/barcelona-protest-housing-violence",
+    "source": "express.co.uk",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Spain and Portugal record Europe highest number of hours with negative electricity prices in Q2",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69763476-spain-and-portugal-record-europe-s-highest-number-of-hours-with-negative-electricity-prices-in-q2-451.htm",
+    "source": "finanznachrichten.de",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Gen Z reshapes political change across the world - Opinion",
+    "url": "https://www.dailymirror.lk/opinion/Gen-Z-reshapes-political-change-across-the-world/172-351877",
+    "source": "dailymirror.lk",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "Marco Rubio Iceland Visit : Strengthening Alliances - Pragativadi I Latest Odisha News in English I Breaking News",
+    "url": "https://pragativadi.com/marco-rubio-iceland-visit-to-discuss-arctic-security/",
+    "source": "pragativadi.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "US treating adversaries better than allies a recipe for disaster",
+    "url": "https://www.dailypress.net/opinion/editorial/2026/10/us-treating-adversaries-better-than-allies-a-recipe-for-disaster/",
+    "source": "dailypress.net",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "DK"
     ]
    }
   ]
@@ -328,16 +424,23 @@
   }
  },
  "errors": [
-  "gdelt/ES: HTTPError",
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
   "gdelt/NO: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
+  "gdelt/SE: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/RS: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

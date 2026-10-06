@@ -1,6 +1,14 @@
 {
- "generated": "2026-10-06T11:17:33+00:00",
+ "generated": "2026-10-06T18:23:28+00:00",
  "world": [
+  {
+   "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
+   "url": "https://www.entsoe.eu/events/2027/05/11/entso-e-s-2027-standard-vetting-interoperability-test-event/",
+   "source": "ENTSO-E",
+   "theme": "grid",
+   "date": "2027-05-11T12:00:33+00:00",
+   "countries": []
+  },
   {
    "title": "Balancing Stakeholders Workshop",
    "url": "https://www.entsoe.eu/events/2026/10/28/balancing-stakeholders-workshop/",
@@ -14,7 +22,31 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-06T11:17:33+00:00",
+   "date": "2026-10-06T18:23:28+00:00",
+   "countries": []
+  },
+  {
+   "title": "Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-06T15:07:09+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 06 / 10 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2088",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-06T13:26:47+00:00",
+   "countries": []
+  },
+  {
+   "title": "Frank Elderson: Effective supervision through timely remediation",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-06T13:00:00+00:00",
    "countries": []
   },
   {
@@ -26,43 +58,11 @@
    "countries": []
   },
   {
-   "title": "Daily News 05 / 10 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2073",
+   "title": "Commission registers European Citizens' Initiative for sovereign European AI domains",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2064",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-10-05T09:26:54+00:00",
-   "countries": []
-  },
-  {
-   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-05T08:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Isabel Schnabel: Central banks on-chain",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-01T15:30:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Christine Lagarde: Where AI risks meet",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-01T13:30:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Christine Lagarde: Interview with La Croix",
-   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-09-30T17:00:00+00:00",
+   "date": "2026-10-05T22:00:00+00:00",
    "countries": []
   }
  ],
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +113,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE",
      "IE"
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE"
     ]
@@ -156,9 +156,29 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
+    "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
+    "source": "lufkindailynews.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "What happens to all the heat generated by Irish data centres ?",
+    "url": "https://www.rte.ie/brainstorm/2026/1006/1593501-data-centres-energy-waste-heat-district-heating-schemes/",
+    "source": "rte.ie",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
      "IE"
     ]
    }
@@ -169,10 +189,30 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "AT",
      "SI"
+    ]
+   },
+   {
+    "title": "Reliance wins court reprieve against energy drink label ban for Campa brand products",
+    "url": "https://www.moneycontrol.com/news/business/companies/reliance-wins-court-reprieve-against-energy-drink-label-ban-for-campa-brand-products-14045612.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Bamboo takes root as China plastic alternative",
+    "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac43e7be4b06d4aa0561704.html",
+    "source": "global.chinadaily.com.cn",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "AT"
     ]
    }
   ],
@@ -182,7 +222,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +235,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "PT"
     ]
@@ -207,89 +247,21 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T11:17:33+00:00",
+    "date": "2026-10-06T18:23:28+00:00",
     "countries": [
      "FR"
     ]
-   }
-  ],
-  "FI": [
+   },
    {
-    "title": "Russian agents defecated in Finnish politician toilets",
-    "url": "https://www.dailymail.com/news/article-16186187/Russian-agents-defecated-Finnish-politicians-toilets-new-hybrid-war.html",
-    "source": "dailymail.com",
+    "title": "G7 to release diesel , oil reserves as fuel prices surge",
+    "url": "http://www.utahindependent.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
+    "source": "utahindependent.com",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "FI"
+     "FR"
     ]
    },
-   {
-    "title": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2068",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-05T08:31:03+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "Jeffrey Archer , bestselling storyteller and disgraced politician , dies at 86 – The Irish Times",
-    "url": "https://www.irishtimes.com/culture/books/2026/10/06/jeffrey-archer-bestselling-storyteller-and-disgraced-politician-dies-at-86/",
-    "source": "irishtimes.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2056",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-04T22:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "GB": [
-   {
-    "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-01T13:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Financial Policy Committee Record – September 2026",
-    "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-09-30T09:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   }
-  ],
-  "ES": [
    {
     "title": "Old fault lines are threatening to rock the Eurozone",
     "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
@@ -297,27 +269,37 @@
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "FR"
     ]
    },
    {
-    "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
-    "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
-    "source": "lufkindailynews.com",
+    "title": "G7 to release diesel , oil reserves as fuel prices surge",
+    "url": "http://www.sierraleonetimes.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
+    "source": "sierraleonetimes.com",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "FR"
     ]
    },
    {
-    "title": "Violence erupts in Barcelona as barricades burn in street | World | News",
-    "url": "https://www.express.co.uk/news/world/2254743/barcelona-protest-housing-violence",
-    "source": "express.co.uk",
+    "title": "CHANDO Group Presents 20 Research Papers at IFSCC 2026 Congress in Perth",
+    "url": "http://www.mexicostar.com/news/279354303/chando-group-presents-20-research-papers-at-ifscc-2026-congress-in-perth",
+    "source": "mexicostar.com",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "FR"
+    ]
+   },
+   {
+    "title": "Molly Smith reveals why she wont change name online after dream wedding to Tom Clare",
+    "url": "https://www.dailyrecord.co.uk/entertainment/celebrity/molly-smith-reveals-wont-change-37734208",
+    "source": "dailyrecord.co.uk",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "FR"
     ]
    },
    {
@@ -327,41 +309,133 @@
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "FR"
     ]
    },
    {
-    "title": "Gen Z reshapes political change across the world - Opinion",
-    "url": "https://www.dailymirror.lk/opinion/Gen-Z-reshapes-political-change-across-the-world/172-351877",
+    "title": "G7 to release diesel , oil reserves as fuel prices surge",
+    "url": "http://www.saltlakecitysun.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
+    "source": "saltlakecitysun.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   }
+  ],
+  "GB": [
+   {
+    "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-06T13:07:03+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "View From India Newsletter From Iraq to Gaza : A Long Trail of Damage",
+    "url": "https://www.thehindu.com/news/international/view-from-india-newsletter-from-iraq-to-gaza-a-long-trail-of-damage/article71547254.ece",
+    "source": "thehindu.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "If the Sri Lankan government is willing to open the door , they will know the wisdom I am carrying – Jerome Fernando - Breaking News",
+    "url": "https://www.dailymirror.lk/top-story/If-the-Sri-Lankan-government-is-willing-to-open-the-door-they-will-know-the-wisdom-I-am-carrying-Jerome-Fernando/155-351838",
     "source": "dailymirror.lk",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "GB"
     ]
-   }
-  ],
-  "GR": [
+   },
    {
-    "title": "Marco Rubio Iceland Visit : Strengthening Alliances - Pragativadi I Latest Odisha News in English I Breaking News",
-    "url": "https://pragativadi.com/marco-rubio-iceland-visit-to-discuss-arctic-security/",
-    "source": "pragativadi.com",
+    "title": "Inside the Donkervoort , a Dutch super car like no other",
+    "url": "https://www.cityam.com/inside-the-donkervoort-a-dutch-super-car-like-no-other/",
+    "source": "cityam.com",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "GR"
+     "GB"
     ]
-   }
-  ],
-  "DK": [
+   },
    {
-    "title": "US treating adversaries better than allies a recipe for disaster",
-    "url": "https://www.dailypress.net/opinion/editorial/2026/10/us-treating-adversaries-better-than-allies-a-recipe-for-disaster/",
-    "source": "dailypress.net",
+    "title": "Ryanair boss takes aim at Swindon MP over new flight rules",
+    "url": "https://www.swindonadvertiser.co.uk/news/26606926.ryanair-boss-takes-aim-swindon-mp-new-flight-rules/",
+    "source": "swindonadvertiser.co.uk",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "DK"
+     "GB"
+    ]
+   },
+   {
+    "title": "Top Oil Stocks To Follow Now – October 3rd",
+    "url": "https://www.dailypolitical.com/2026/10/06/top-oil-stocks-to-follow-now-october-3rd.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Very efficient smart heater drops to £107 after energy price cap rise",
+    "url": "https://www.derbytelegraph.co.uk/whats-on/shopping/very-efficient-smart-wifi-heater-11178720",
+    "source": "derbytelegraph.co.uk",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "If the Sri Lankan government is willing to open the door , they will know the wisdom I am carrying – Jerome Fernando - Breaking News",
+    "url": "https://www.dailymirror.lk/breaking-news/If-the-Sri-Lankan-government-is-willing-to-open-the-door-they-will-know-the-wisdom-I-am-carrying-Jerome-Fernando/108-351838",
+    "source": "dailymirror.lk",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   }
+  ],
+  "NL": [
+   {
+    "title": "QuantWare appoints Bart Filius as Chief Financial Officer",
+    "url": "https://itbrief.co.nz/story/quantware-appoints-bart-filius-as-chief-financial-officer",
+    "source": "itbrief.co.nz",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   }
+  ],
+  "CH": [
+   {
+    "title": "India , Switzerland discuss defence and nuclear energy cooperation - News Today",
+    "url": "https://newstodaynet.com/2026/10/06/india-switzerland-discuss-defence-and-nuclear-energy-cooperation/",
+    "source": "newstodaynet.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "ABB Ltd ( OTCMKTS : ABBNY ) Receives Average Rating of Hold from Analysts",
+    "url": "https://www.tickerreport.com/banking-finance/13609663/abb-ltd-otcmktsabbny-receives-average-rating-of-hold-from-analysts.html",
+    "source": "tickerreport.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "CH"
     ]
    }
   ]
@@ -424,22 +498,22 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

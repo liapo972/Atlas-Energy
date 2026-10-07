@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T23:49:26+00:00",
+ "generated": "2026-10-07T06:02:38+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-06T23:49:26+00:00",
+   "date": "2026-10-07T06:02:38+00:00",
    "countries": []
   },
   {
@@ -50,20 +50,137 @@
    "countries": []
   },
   {
-   "title": "Philip R. Lane: Interview with Ansa",
-   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-06T07:00:00+00:00",
-   "countries": []
+   "title": "Editorial : As election nears , Healey suddenly peddling natural gas – Lowell Sun",
+   "url": "https://www.lowellsun.com/2026/10/06/editorial-as-election-nears-healeys-suddenly-peddling-natural-gas/",
+   "source": "lowellsun.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
   },
   {
-   "title": "Commission registers European Citizens' Initiative for sovereign European AI domains",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2064",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-05T22:00:00+00:00",
-   "countries": []
+   "title": "Nigeria CNG supply to overtake petrol availability soon Ahmed",
+   "url": "https://thesun.ng/nigerias-cng-supply-to-overtake-petrol-availability-soon-ahmed/",
+   "source": "thesun.ng",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Tea rupee gains outpace dollar performance - Business News",
+   "url": "https://www.dailymirror.lk/business-news/Teas-rupee-gains-outpace-dollar-performance/273-351861",
+   "source": "dailymirror.lk",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "All is set for GOCOP 10th Annual Conference in Lagos",
+   "url": "https://theeagleonline.com.ng/all-is-set-for-gocop-10th-annual-conference-in-lagos/",
+   "source": "theeagleonline.com.ng",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex up 140 points , Nifty above 22 , 500 ; bank stocks lead",
+   "url": "http://www.sierraleonetimes.com/news/279354215/markets-extend-recovery-sensex-up-140-points-nifty-above-22500-bank-stocks-lead",
+   "source": "sierraleonetimes.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "UP poll win , local equations keep Hardeep Puri out of BJP Rajya Sabha list",
+   "url": "https://www.tribuneindia.com/news/india/up-poll-win-local-equations-keep-hardeep-puri-out-of-bjp-rajya-sabha-list/",
+   "source": "tribuneindia.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex jumps over 100 points , Nifty above 22 , 500",
+   "url": "http://www.utahindependent.com/news/279354384/markets-extend-recovery-sensex-jumps-over-100-points-nifty-above-22500",
+   "source": "utahindependent.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
+   "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
+   "source": "lufkindailynews.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Canada project boom could generate $443B in revenues for SMEs : BDC study",
+   "url": "https://www.saultstar.com/press-releases/globe-newswire/canadas-project-boom-could-generate-443b-in-revenues-for-smes-bdc-study/",
+   "source": "saultstar.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Canada project boom could generate $443B in revenues for SMEs : BDC study",
+   "url": "https://www.thesudburystar.com/press-releases/globe-newswire/canadas-project-boom-could-generate-443b-in-revenues-for-smes-bdc-study/",
+   "source": "thesudburystar.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "How to Calculate Interest Rate on a Loan When Comparing Borrowing Options",
+   "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507685.html",
+   "source": "news.webindia123.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks",
+   "url": "https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319",
+   "source": "ibtimes.com.au",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Environmental groups sue Trump administration over eased vehicle fuel economy rules",
+   "url": "https://www.dailypress.net/news/2026/10/environmental-groups-sue-trump-administration-over-eased-vehicle-fuel-economy-rules/",
+   "source": "dailypress.net",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "SE . Asia data boom faces energy squeeze",
+   "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac449dfe4b06d4aa0561728.html",
+   "source": "global.chinadaily.com.cn",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex jumps over 100 points , Nifty above 22 , 500",
+   "url": "http://www.sierraleonetimes.com/news/279354384/markets-extend-recovery-sensex-jumps-over-100-points-nifty-above-22500",
+   "source": "sierraleonetimes.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Bank lending to real estate tops Rs . 2tn as bad loans retreat - Business News",
+   "url": "https://www.dailymirror.lk/business-news/Bank-lending-to-real-estate-tops-Rs-2tn-as-bad-loans-retreat/273-351859",
+   "source": "dailymirror.lk",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex up 140 points , Nifty above 22 , 500 ; bank stocks lead",
+   "url": "http://www.zimbabwestar.com/news/279354215/markets-extend-recovery-sensex-up-140-points-nifty-above-22500-bank-stocks-lead",
+   "source": "zimbabwestar.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex jumps over 100 points , Nifty above 22 , 500",
+   "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507681.html",
+   "source": "news.webindia123.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Pembina Pipeline Corp . ( NYSE : PBA ) Stock Rated Moderate Buy by Sell - Side Analysts",
+   "url": "https://www.tickerreport.com/banking-finance/13609664/pembina-pipeline-corp-nysepba-stock-rated-moderate-buy-by-sell-side-analysts.html",
+   "source": "tickerreport.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
   }
  ],
  "countries": {
@@ -83,7 +200,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +210,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +220,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +230,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -124,7 +241,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +251,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +261,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +273,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +286,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +299,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +312,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "PT"
     ]
@@ -207,7 +324,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-06T23:49:26+00:00",
+    "date": "2026-10-07T06:02:38+00:00",
     "countries": [
      "FR"
     ]
@@ -255,7 +372,7 @@
     ]
    }
   ],
-  "ES": [
+  "GR": [
    {
     "title": "Old fault lines are threatening to rock the Eurozone",
     "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
@@ -263,27 +380,7 @@
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
-    "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
-    "source": "lufkindailynews.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Violence erupts in Barcelona as barricades burn in street | World | News",
-    "url": "https://www.express.co.uk/news/world/2254743/barcelona-protest-housing-violence",
-    "source": "express.co.uk",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "ES"
+     "GR"
     ]
    },
    {
@@ -293,7 +390,17 @@
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "GR"
+    ]
+   },
+   {
+    "title": "Marco Rubio Iceland Visit : Strengthening Alliances - Pragativadi I Latest Odisha News in English I Breaking News",
+    "url": "https://pragativadi.com/marco-rubio-iceland-visit-to-discuss-arctic-security/",
+    "source": "pragativadi.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GR"
     ]
    },
    {
@@ -303,7 +410,7 @@
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "ES"
+     "GR"
     ]
    }
   ],
@@ -420,6 +527,7 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
@@ -427,9 +535,9 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
+  "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError"
  ]
 }

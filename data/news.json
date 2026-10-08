@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:07:26+00:00",
+ "generated": "2026-10-08T15:38:10+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,31 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-08T06:07:26+00:00",
+   "date": "2026-10-08T15:38:10+00:00",
+   "countries": []
+  },
+  {
+   "title": "New ENTSO-E reports map how transmission costs are recovered across Europe",
+   "url": "https://www.entsoe.eu/news/2026/10/08/new-entso-e-reports-map-how-transmission-costs-are-recovered-across-europe/",
+   "source": "ENTSO-E",
+   "theme": "grid",
+   "date": "2026-10-08T14:26:09+00:00",
+   "countries": []
+  },
+  {
+   "title": "Meeting of 9-10 September 2026",
+   "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-08T11:30:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 08 / 10 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2112",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-08T09:35:35+00:00",
    "countries": []
   },
   {
@@ -34,36 +58,131 @@
    "countries": []
   },
   {
-   "title": "Remarks by Commissioner Hoekstra at Pre-COP31 Opening and Keynote Session — Keeping 1.5 Within Reach",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2099",
+   "title": "RBI increases repo rate to 5 . 50 %: How does it impact a consumer ?",
+   "url": "https://www.sentinelassam.com/topheadlines/rbi-increases-repo-rate-to-550-how-does-it-impact-a-consumer",
+   "source": "sentinelassam.com",
+   "theme": "press",
+   "date": "2026-10-08T05:30:00+00:00"
+  },
+  {
+   "title": "FxWirePro : EUR / NZD recovers from early dip , upside pressure builds",
+   "url": "http://www.econotimes.com/FxWirePro-EUR-NZD-recovers-from-early-dip-upside-pressure-builds-1754289",
+   "source": "econotimes.com",
+   "theme": "press",
+   "date": "2026-10-08T05:30:00+00:00"
+  },
+  {
+   "title": "Eurobarometer shows consumers' growing trust in EU Ecolabel",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2091",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-10-07T10:33:15+00:00",
+   "date": "2026-10-07T22:00:00+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 07 / 10 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2096",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-07T09:38:00+00:00",
-   "countries": []
+   "title": "Editorial : As election nears , Healey suddenly peddling natural gas – Lowell Sun",
+   "url": "https://www.lowellsun.com/2026/10/06/editorial-as-election-nears-healeys-suddenly-peddling-natural-gas/",
+   "source": "lowellsun.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
   },
   {
-   "title": "Commission disburses €1.24 billion to Ukraine for drones and missiles",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2094",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-07T08:44:20+00:00",
-   "countries": []
+   "title": "Nigeria CNG supply to overtake petrol availability soon Ahmed",
+   "url": "https://thesun.ng/nigerias-cng-supply-to-overtake-petrol-availability-soon-ahmed/",
+   "source": "thesun.ng",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
   },
   {
-   "title": "NextGenerationEU shows strong delivery record as implementation reaches finish line",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2092",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-07T07:59:42+00:00",
-   "countries": []
+   "title": "Tea rupee gains outpace dollar performance - Business News",
+   "url": "https://www.dailymirror.lk/business-news/Teas-rupee-gains-outpace-dollar-performance/273-351861",
+   "source": "dailymirror.lk",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "All is set for GOCOP 10th Annual Conference in Lagos",
+   "url": "https://theeagleonline.com.ng/all-is-set-for-gocop-10th-annual-conference-in-lagos/",
+   "source": "theeagleonline.com.ng",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex up 140 points , Nifty above 22 , 500 ; bank stocks lead",
+   "url": "http://www.sierraleonetimes.com/news/279354215/markets-extend-recovery-sensex-up-140-points-nifty-above-22500-bank-stocks-lead",
+   "source": "sierraleonetimes.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "UP poll win , local equations keep Hardeep Puri out of BJP Rajya Sabha list",
+   "url": "https://www.tribuneindia.com/news/india/up-poll-win-local-equations-keep-hardeep-puri-out-of-bjp-rajya-sabha-list/",
+   "source": "tribuneindia.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex jumps over 100 points , Nifty above 22 , 500",
+   "url": "http://www.utahindependent.com/news/279354384/markets-extend-recovery-sensex-jumps-over-100-points-nifty-above-22500",
+   "source": "utahindependent.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
+   "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
+   "source": "lufkindailynews.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Canada project boom could generate $443B in revenues for SMEs : BDC study",
+   "url": "https://www.saultstar.com/press-releases/globe-newswire/canadas-project-boom-could-generate-443b-in-revenues-for-smes-bdc-study/",
+   "source": "saultstar.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Canada project boom could generate $443B in revenues for SMEs : BDC study",
+   "url": "https://www.thesudburystar.com/press-releases/globe-newswire/canadas-project-boom-could-generate-443b-in-revenues-for-smes-bdc-study/",
+   "source": "thesudburystar.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "How to Calculate Interest Rate on a Loan When Comparing Borrowing Options",
+   "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507685.html",
+   "source": "news.webindia123.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks",
+   "url": "https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319",
+   "source": "ibtimes.com.au",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Environmental groups sue Trump administration over eased vehicle fuel economy rules",
+   "url": "https://www.dailypress.net/news/2026/10/environmental-groups-sue-trump-administration-over-eased-vehicle-fuel-economy-rules/",
+   "source": "dailypress.net",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "SE . Asia data boom faces energy squeeze",
+   "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac449dfe4b06d4aa0561728.html",
+   "source": "global.chinadaily.com.cn",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
+  },
+  {
+   "title": "Markets extend recovery ; Sensex jumps over 100 points , Nifty above 22 , 500",
+   "url": "http://www.sierraleonetimes.com/news/279354384/markets-extend-recovery-sensex-jumps-over-100-points-nifty-above-22500",
+   "source": "sierraleonetimes.com",
+   "theme": "press",
+   "date": "2026-10-06T08:30:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +192,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +202,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +212,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +222,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +233,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +243,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +253,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +263,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +275,18 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
+    "countries": [
+     "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "Speech by Commissioner Lahbib at the Irish EU Affairs Committee",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2117",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-10-08T12:17:26+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,10 +299,30 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "AT",
      "SI"
+    ]
+   },
+   {
+    "title": "Reliance wins court reprieve against energy drink label ban for Campa brand products",
+    "url": "https://www.moneycontrol.com/news/business/companies/reliance-wins-court-reprieve-against-energy-drink-label-ban-for-campa-brand-products-14045612.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Bamboo takes root as China plastic alternative",
+    "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac43e7be4b06d4aa0561704.html",
+    "source": "global.chinadaily.com.cn",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "AT"
     ]
    }
   ],
@@ -182,7 +332,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +345,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "PT"
     ]
@@ -207,103 +357,170 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-08T06:07:26+00:00",
+    "date": "2026-10-08T15:38:10+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
+  "IT": [
+   {
+    "title": "Speech by Commissioner Kos at the International Conference on Corridor VIII in Sofia",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2107",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-10-08T08:16:55+00:00",
+    "countries": [
+     "DE",
+     "IT"
+    ]
+   }
+  ],
   "GB": [
    {
-    "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T23:01:00+00:00",
+    "title": "Australia top court puts fossil fuel developers on notice",
+    "url": "https://theconversation.com/australias-top-court-puts-fossil-fuel-developers-on-notice-293680",
+    "source": "theconversation.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T13:36:25+00:00",
+    "title": "Florence Pugh is a force in Netflix new East of Eden series | Milton Ulladulla Times",
+    "url": "https://www.ulladullatimes.com.au/story/9364094/florence-pugh-is-a-force-in-netflixs-new-east-of-eden-series/",
+    "source": "ulladullatimes.com.au",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:49:25+00:00",
+    "title": "What is killing Nigerians ?",
+    "url": "https://tribuneonlineng.com/what-is-killing-nigerians-2/",
+    "source": "tribuneonlineng.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:08:40+00:00",
+    "title": "UK motorists can now see live fuel prices on Google Maps",
+    "url": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Regulatory thresholds set to shift to automatic increases",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:00:00+00:00",
+    "title": "Tata Steel India Crude Steel Production Rises 10 % YoY In Q2 FY27 To 6 . 21 Million Tonnes",
+    "url": "https://www.freepressjournal.in/business/tata-steel-india-crude-steel-production-rises-10-yoy-in-q2-fy27-to-621-million-tonnes",
+    "source": "freepressjournal.in",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-06T13:07:03+00:00",
+    "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+    "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-02T08:00:00+00:00",
+    "title": "Live Nation moves €76m to united kingdom parent firm following bumper profits at 3Arena",
+    "url": "https://www.irishtimes.com/business/2026/10/08/live-nation-moves-76m-to-uk-parent-following-bumper-profits-at-3arena/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-01T13:00:00+00:00",
+    "title": "Murphy and KEYIS join the North West Hydrogen Alliance | Chester and District Standard",
+    "url": "https://www.chesterstandard.co.uk/news/26616050.murphy-keyis-join-north-west-hydrogen-alliance/",
+    "source": "chesterstandard.co.uk",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
-  "RS": [
+  "NL": [
    {
-    "title": "Gen Z reshapes political change across the world - Opinion",
-    "url": "https://www.dailymirror.lk/opinion/Gen-Z-reshapes-political-change-across-the-world/172-351877",
-    "source": "dailymirror.lk",
+    "title": "A Pacific island will be swallowed by the sea within decades . Is Ireland paying attention ? – The Irish Times",
+    "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/08/a-pacific-island-will-be-swallowed-by-the-sea-within-decades-is-ireland-paying-attention/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-10-08T05:30:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "QuantWare appoints Bart Filius as Chief Financial Officer",
+    "url": "https://itbrief.co.nz/story/quantware-appoints-bart-filius-as-chief-financial-officer",
+    "source": "itbrief.co.nz",
     "theme": "press",
     "date": "2026-10-06T08:30:00+00:00",
     "countries": [
-     "RS"
+     "NL"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "Spain and Portugal record Europe highest number of hours with negative electricity prices in Q2",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69763476-spain-and-portugal-record-europe-s-highest-number-of-hours-with-negative-electricity-prices-in-q2-451.htm",
+    "source": "finanznachrichten.de",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Marco Rubio Iceland Visit : Strengthening Alliances - Pragativadi I Latest Odisha News in English I Breaking News",
+    "url": "https://pragativadi.com/marco-rubio-iceland-visit-to-discuss-arctic-security/",
+    "source": "pragativadi.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "NO": [
+   {
+    "title": "Top Oil Stocks To Follow Now – October 3rd",
+    "url": "https://www.dailypolitical.com/2026/10/06/top-oil-stocks-to-follow-now-october-3rd.html",
+    "source": "dailypolitical.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Critical Contrast : DNB Bank ASA ( OTCMKTS : DNBBY ) vs . 1st Source ( NASDAQ : SRCE )",
+    "url": "https://www.tickerreport.com/banking-finance/13609660/critical-contrast-dnb-bank-asa-otcmktsdnbby-vs-1st-source-nasdaqsrce.html",
+    "source": "tickerreport.com",
+    "theme": "press",
+    "date": "2026-10-06T08:30:00+00:00",
+    "countries": [
+     "NO"
     ]
    }
   ]
@@ -367,13 +584,8 @@
  },
  "errors": [
   "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
@@ -381,15 +593,12 @@
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError"
  ]
 }

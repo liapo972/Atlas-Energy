@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:11:13+00:00",
+ "generated": "2026-10-09T15:19:03+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,31 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-09T06:11:13+00:00",
+   "date": "2026-10-09T15:19:03+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 09 / 10 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2123",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-09T09:08:45+00:00",
+   "countries": []
+  },
+  {
+   "title": "Factsheet - Critical Raw Materials Strategic Projects",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2115",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-08T22:00:00+00:00",
+   "countries": []
+  },
+  {
+   "title": "Statement by Commissioner Várhelyi ahead of World Mental Health Day",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2100",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-08T22:00:00+00:00",
    "countries": []
   },
   {
@@ -40,30 +64,6 @@
    "theme": "policy",
    "date": "2026-10-08T11:30:00+00:00",
    "countries": []
-  },
-  {
-   "title": "Daily News 08 / 10 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2112",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-08T09:35:35+00:00",
-   "countries": []
-  },
-  {
-   "title": "Piero Cipollone: Interview with Corriere della Sera",
-   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-08T06:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Eurobarometer shows consumers' growing trust in EU Ecolabel",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2091",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-07T22:00:00+00:00",
-   "countries": []
   }
  ],
  "countries": {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -124,17 +124,17 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
    },
    {
-    "title": "Termine für Amateurfunkprüfungen (Stand 7. Oktober 2026)",
+    "title": "Termine für Amateurfunkprüfungen (Stand 9. Oktober 2026)",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE"
     ]
@@ -156,50 +156,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Speech by Commissioner Lahbib at the Irish EU Affairs Committee",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2117",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-08T12:17:26+00:00",
-    "countries": [
-     "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
-    "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
-    "source": "lufkindailynews.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Top Oil Stocks To Follow Now – October 3rd",
-    "url": "https://www.dailypolitical.com/2026/10/06/top-oil-stocks-to-follow-now-october-3rd.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "What happens to all the heat generated by Irish data centres ?",
-    "url": "https://www.rte.ie/brainstorm/2026/1006/1593501-data-centres-energy-waste-heat-district-heating-schemes/",
-    "source": "rte.ie",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -210,30 +169,10 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "AT",
      "SI"
-    ]
-   },
-   {
-    "title": "Reliance wins court reprieve against energy drink label ban for Campa brand products",
-    "url": "https://www.moneycontrol.com/news/business/companies/reliance-wins-court-reprieve-against-energy-drink-label-ban-for-campa-brand-products-14045612.html",
-    "source": "moneycontrol.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Bamboo takes root as China plastic alternative",
-    "url": "http://global.chinadaily.com.cn/a/202610/06/WS6ac43e7be4b06d4aa0561704.html",
-    "source": "global.chinadaily.com.cn",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "AT"
     ]
    }
   ],
@@ -243,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "AT",
      "SI"
@@ -256,17 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Marco Rubio Iceland Visit : Strengthening Alliances - Pragativadi I Latest Odisha News in English I Breaking News",
-    "url": "https://pragativadi.com/marco-rubio-iceland-visit-to-discuss-arctic-security/",
-    "source": "pragativadi.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "PT"
     ]
@@ -278,77 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T06:11:13+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "G7 to release diesel , oil reserves as fuel prices surge",
-    "url": "http://www.utahindependent.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
-    "source": "utahindependent.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Old fault lines are threatening to rock the Eurozone",
-    "url": "https://www.cityam.com/old-fault-lines-are-threatening-to-rock-the-eurozone/",
-    "source": "cityam.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "G7 to release diesel , oil reserves as fuel prices surge",
-    "url": "http://www.sierraleonetimes.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
-    "source": "sierraleonetimes.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "CHANDO Group Presents 20 Research Papers at IFSCC 2026 Congress in Perth",
-    "url": "http://www.mexicostar.com/news/279354303/chando-group-presents-20-research-papers-at-ifscc-2026-congress-in-perth",
-    "source": "mexicostar.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Molly Smith reveals why she wont change name online after dream wedding to Tom Clare",
-    "url": "https://www.dailyrecord.co.uk/entertainment/celebrity/molly-smith-reveals-wont-change-37734208",
-    "source": "dailyrecord.co.uk",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Spain and Portugal record Europe highest number of hours with negative electricity prices in Q2",
-    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69763476-spain-and-portugal-record-europe-s-highest-number-of-hours-with-negative-electricity-prices-in-q2-451.htm",
-    "source": "finanznachrichten.de",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "G7 to release diesel , oil reserves as fuel prices surge",
-    "url": "http://www.saltlakecitysun.com/news/279348150/g7-to-release-diesel-oil-reserves-as-fuel-prices-surge",
-    "source": "saltlakecitysun.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
+    "date": "2026-10-09T15:19:03+00:00",
     "countries": [
      "FR"
     ]
@@ -356,11 +215,11 @@
   ],
   "IT": [
    {
-    "title": "Speech by Commissioner Kos at the International Conference on Corridor VIII in Sofia",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2107",
+    "title": "Statement on the International Criminal Court following announcement of US sanctions",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-10-08T08:16:55+00:00",
+    "date": "2026-10-09T12:14:20+00:00",
     "countries": [
      "DE",
      "IT"
@@ -368,6 +227,16 @@
    }
   ],
   "GB": [
+   {
+    "title": "CMORG holds sector-wide cloud outage simulation exercise",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-09T09:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "Australia top court puts fossil fuel developers on notice",
     "url": "https://theconversation.com/australias-top-court-puts-fossil-fuel-developers-on-notice-293680",
@@ -437,16 +306,6 @@
     "countries": [
      "GB"
     ]
-   },
-   {
-    "title": "Murphy and KEYIS join the North West Hydrogen Alliance | Chester and District Standard",
-    "url": "https://www.chesterstandard.co.uk/news/26616050.murphy-keyis-join-north-west-hydrogen-alliance/",
-    "source": "chesterstandard.co.uk",
-    "theme": "press",
-    "date": "2026-10-08T05:30:00+00:00",
-    "countries": [
-     "GB"
-    ]
    }
   ],
   "NL": [
@@ -458,74 +317,6 @@
     "date": "2026-10-08T05:30:00+00:00",
     "countries": [
      "NL"
-    ]
-   },
-   {
-    "title": "QuantWare appoints Bart Filius as Chief Financial Officer",
-    "url": "https://itbrief.co.nz/story/quantware-appoints-bart-filius-as-chief-financial-officer",
-    "source": "itbrief.co.nz",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "CH": [
-   {
-    "title": "India , Switzerland discuss defence and nuclear energy cooperation - News Today",
-    "url": "https://newstodaynet.com/2026/10/06/india-switzerland-discuss-defence-and-nuclear-energy-cooperation/",
-    "source": "newstodaynet.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "ABB Ltd ( OTCMKTS : ABBNY ) Receives Average Rating of Hold from Analysts",
-    "url": "https://www.tickerreport.com/banking-finance/13609663/abb-ltd-otcmktsabbny-receives-average-rating-of-hold-from-analysts.html",
-    "source": "tickerreport.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "Jeffrey Archer , bestselling storyteller and disgraced politician , dies at 86 – The Irish Times",
-    "url": "https://www.irishtimes.com/culture/books/2026/10/06/jeffrey-archer-bestselling-storyteller-and-disgraced-politician-dies-at-86/",
-    "source": "irishtimes.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "Critical Contrast : DNB Bank ASA ( OTCMKTS : DNBBY ) vs . 1st Source ( NASDAQ : SRCE )",
-    "url": "https://www.tickerreport.com/banking-finance/13609660/critical-contrast-dnb-bank-asa-otcmktsdnbby-vs-1st-source-nasdaqsrce.html",
-    "source": "tickerreport.com",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "US treating adversaries better than allies a recipe for disaster",
-    "url": "https://www.dailypress.net/opinion/editorial/2026/10/us-treating-adversaries-better-than-allies-a-recipe-for-disaster/",
-    "source": "dailypress.net",
-    "theme": "press",
-    "date": "2026-10-06T08:30:00+00:00",
-    "countries": [
-     "DK"
     ]
    }
   ]
@@ -589,13 +380,18 @@
  },
  "errors": [
   "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",

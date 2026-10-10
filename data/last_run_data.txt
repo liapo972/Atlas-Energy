@@ -1,38 +1,41 @@
-Journee visee : 2026-10-08
+Journee visee : 2026-10-09
 Butoir global : 420 secondes
 Token ENTSO-E : present (36 caracteres)
 Cle GIE       : presente (32 caracteres)
 Sonde ENTSO-E (France)...
-  OK -> {'value': 86.67, 'currency': 'EUR'}
+  OK -> {'value': 71.42, 'currency': 'EUR'}
 Sonde GIE AGSI+ (France)...
-  OK -> full = 86.09 au 2026-10-07
+  OK -> full = 86.39 au 2026-10-08
 Sonde GIE ALSI (terminaux GNL, France)...
-  OK -> sendOut = 1053.6 GWh/j au 2026-10-07
+  OK -> sendOut = 991.1 GWh/j au 2026-10-08
 
 Requetes a lancer : 110
-   ... requetes 20/110 (397s restantes)
-   ... requetes 40/110 (393s restantes)
-   ... requetes 60/110 (357s restantes)
-   ... requetes 80/110 (279s restantes)
-   ... requetes 100/110 (232s restantes)
+   ... requetes 20/110 (411s restantes)
+   ... requetes 40/110 (407s restantes)
+   ... requetes 60/110 (398s restantes)
+   ... requetes 80/110 (382s restantes)
+   ... requetes 100/110 (362s restantes)
 
 --- Resultat ---
-  price     27 valeurs (27 du jour, 0 reportees)
+  price     27 valeurs (24 du jour, 3 reportees)
   load      26 valeurs (26 du jour, 0 reportees)
   storage   17 valeurs (17 du jour, 0 reportees)
   netwd     17 valeurs (17 du jour, 0 reportees)
   lng       12 valeurs (12 du jour, 0 reportees)
-  duree     217s
+  duree     65s
 
---- 11 erreurs ---
+--- 14 erreurs ---
   ! gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
   ! netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
-  ! lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "United Kingdom (Pre-Brexit)", "code": "GB", "url": "GB", "updatedAt": "2026-10-08 22:01:50", "gasDayStart": "2026-10-07", "gasDayEnd": "2026-10-08", "inventory": {"lng": "-", "gwh": "-"}, "sendOut": "-", "dtmi": {"lng": "-", "gwh": "-"}, "dtrs": "-", "contractedCapacity": "-", "availableCapacity": "-", "coveredCapacity": "-", "info": [], "status": "N"}
+  ! lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "United Kingdom (Pre-Brexit)", "code": "GB", "url": "GB", "updatedAt": "2026-10-09 22:02:06", "gasDayStart": "2026-10-08", "gasDayEnd": "2026-10-09", "inventory": {"lng": "-", "gwh": "-"}, "sendOut": "-", "dtmi": {"lng": "-", "gwh": "-"}, "dtrs": "-", "contractedCapacity": "-", "availableCapacity": "-", "coveredCapacity": "-", "info": [], "status": "N"}
   ! gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url
   ! netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url
-  ! lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "SE", "code": "SE", "url": "SE", "gasDayStart": "2026-10-07", "inventory": "-", "sendOut": "-", "dtmi": "-", "dtrs": "-", "info": [], "status": "N"}
+  ! lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {"name": "SE", "code": "SE", "url": "SE", "gasDayStart": "2026-10-08", "inventory": "-", "sendOut": "-", "dtmi": "-", "dtrs": "-", "info": [], "status": "N"}
   ! gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
   ! netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume
-  ! price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-10-08T00:00:00Z/2026-10-09T00:00:00Z.
-  ! load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-10-08T00:00:00Z/2026-10-09T00:00:00Z.
-  ! load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-10-08T00:00:00Z/2026-10-09T00:00:00Z.
+  ! price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.
+  ! load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.
+  ! load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.
+  ! price/EE: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10Y1001A1001A39I, 10Y1001A1001A39I) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.
+  ! price/LV: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YLV-1001A00074, 10YLV-1001A00074) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.
+  ! price/LT: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YLT-1001A0008Q, 10YLT-1001A0008Q) and interval 2026-10-09T00:00:00Z/2026-10-10T00:00:00Z.

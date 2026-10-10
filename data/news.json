@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T20:55:34+00:00",
+ "generated": "2026-10-10T05:54:55+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-09T20:55:34+00:00",
+   "date": "2026-10-10T05:54:55+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "PT"
     ]
@@ -207,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-09T20:55:34+00:00",
+    "date": "2026-10-10T05:54:55+00:00",
     "countries": [
      "FR"
     ]
@@ -307,18 +307,6 @@
      "GB"
     ]
    }
-  ],
-  "NO": [
-   {
-    "title": "Australia top court puts fossil fuel developers on notice",
-    "url": "https://theconversation.com/australias-top-court-puts-fossil-fuel-developers-on-notice-293680",
-    "source": "theconversation.com",
-    "theme": "press",
-    "date": "2026-10-08T05:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
   ]
  },
  "feed_status": {
@@ -379,23 +367,18 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/LV: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

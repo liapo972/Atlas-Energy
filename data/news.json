@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T20:18:25+00:00",
+ "generated": "2026-10-11T23:43:35+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-11T20:18:25+00:00",
+   "date": "2026-10-11T23:43:35+00:00",
    "countries": []
   },
   {
@@ -171,7 +171,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -181,7 +181,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -191,7 +191,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -201,7 +201,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE",
      "IE"
@@ -212,7 +212,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -222,7 +222,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -232,7 +232,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -242,7 +242,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE"
     ]
@@ -254,7 +254,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "DE",
      "IE"
@@ -267,7 +267,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "AT",
      "SI"
@@ -280,7 +280,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "AT",
      "SI"
@@ -293,7 +293,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
     "countries": [
      "PT"
     ]
@@ -305,13 +305,53 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-11T20:18:25+00:00",
+    "date": "2026-10-11T23:43:35+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Voices from the Arab Press : US - Iran tensions , AI dangers , and Israel vote",
+    "url": "http://www.jpost.com/middle-east/article-911021",
+    "source": "jpost.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "As Russia escalates its war , the EU realises its support for Ukraine wont be enough",
+    "url": "https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "This Tattooed Cowboy Is Giving Us a Yeehaw - Inducing Thirst Trap",
+    "url": "https://instinctmagazine.com/cowboy-tattoos-chris-damned/",
+    "source": "instinctmagazine.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
   "IT": [
+   {
+    "title": "Djokovic suffers shock Shanghai Masters exit after Hurkacz defeat , turns focus to Paris",
+    "url": "https://timesofoman.com/article/177838-djokovic-suffers-shock-shanghai-masters-exit-after-hurkacz-defeat-turns-focus-to-paris",
+    "source": "timesofoman.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
    {
     "title": "Statement on the International Criminal Court following announcement of US sanctions",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
@@ -325,6 +365,66 @@
    }
   ],
   "GB": [
+   {
+    "title": "How to storm - proof your home , from roof tiles to garden fences",
+    "url": "https://www.theguardian.com/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "If voters arent better off by the next election , were screwed : Labour insiders voice fears over budget | Budget",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Hyde Park Winter Wonderland 2026 countdown officially begins",
+    "url": "https://www.london-now.co.uk/news/26615073.hyde-park-winter-wonderland-2026-countdown-officially-begins/",
+    "source": "london-now.co.uk",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "url": "https://www.the-star.co.ke/news/world/2026-10-10-trump-announces-deal-for-russian-diesel-as-zelensky-calls-it-a-gift-to-putin",
+    "source": "the-star.co.ke",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Ten things you didnt know about Jaguar controversial new Type 01 EV",
+    "url": "https://www.dailymail.com/money/electriccars/article-16187257/Ten-things-electric-Jaguar-Type-01.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "A 4 - Week Midlife Reset For Feeling Better , Not Eating Less",
+    "url": "https://www.marieclaire.co.uk/health-fitness/nutrition/rosemary-ferguson-the-reset",
+    "source": "marieclaire.co.uk",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "CMORG holds sector-wide cloud outage simulation exercise",
     "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
@@ -344,65 +444,17 @@
     "countries": [
      "GB"
     ]
-   },
+   }
+  ],
+  "RS": [
    {
-    "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T13:36:25+00:00",
+    "title": "Not your everyday coffee in a Serbia cafe . Enjoy it in the company of alpacas",
+    "url": "https://www.asiaone.com/lifestyle/not-your-everyday-coffee-serbia-cafe-enjoy-it-company-alpacas",
+    "source": "asiaone.com",
+    "theme": "press",
+    "date": "2026-10-10T06:45:00+00:00",
     "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:49:25+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:08:40+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Regulatory thresholds set to shift to automatic increases",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-06T13:07:03+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-02T08:00:00+00:00",
-    "countries": [
-     "GB"
+     "RS"
     ]
    }
   ]
@@ -465,17 +517,8 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
@@ -488,10 +531,6 @@
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/LV: HTTPError"
  ]
 }

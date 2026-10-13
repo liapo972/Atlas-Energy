@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T11:49:40+00:00",
+ "generated": "2026-10-13T19:18:17+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-13T11:49:40+00:00",
+   "date": "2026-10-13T19:18:17+00:00",
    "countries": []
   },
   {
@@ -34,19 +34,11 @@
    "countries": []
   },
   {
-   "title": "Speech by Executive Vice-President Fitto at “European Week of Regions and Cities 2026”",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2141",
+   "title": "Commission issues €10 billion in its 9th syndicated transaction of 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2142",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-10-12T13:47:21+00:00",
-   "countries": []
-  },
-  {
-   "title": "Daily News 12 / 10 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2138",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-12T09:18:41+00:00",
+   "date": "2026-10-12T22:00:00+00:00",
    "countries": []
   },
   {
@@ -64,6 +56,14 @@
    "theme": "policy",
    "date": "2026-10-08T11:30:00+00:00",
    "countries": []
+  },
+  {
+   "title": "Piero Cipollone: Interview with Corriere della Sera",
+   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-08T06:00:00+00:00",
+   "countries": []
   }
  ],
  "countries": {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +103,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE",
      "IE"
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-decide-changes-methodology-eu-day-ahead-and-intraday-market-algorithms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -134,7 +134,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -144,7 +144,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "DE",
      "IE"
@@ -169,7 +169,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "AT",
      "SI"
@@ -182,7 +182,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "AT",
      "SI"
@@ -195,7 +195,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "PT"
     ]
@@ -210,16 +210,6 @@
      "DE",
      "PT"
     ]
-   },
-   {
-    "title": "Speech by Executive Vice-President Teresa Ribera at an event organised by BusinessEurope on Important Projects of Common European Interest",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2144",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-12T15:08:06+00:00",
-    "countries": [
-     "PT"
-    ]
    }
   ],
   "FR": [
@@ -228,13 +218,23 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-13T11:49:40+00:00",
+    "date": "2026-10-13T19:18:17+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
   "GB": [
+   {
+    "title": "Minutes of the Money Market Committee meeting – September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-13T15:04:27+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "CMORG holds sector-wide cloud outage simulation exercise",
     "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
@@ -365,21 +365,24 @@
   }
  },
  "errors": [
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
+  "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
-  "gdelt/LV: URLError",
-  "gdelt/LT: URLError",
-  "gdelt/RS: HTTPError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

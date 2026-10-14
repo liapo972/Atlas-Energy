@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:44:28+00:00",
+ "generated": "2026-10-14T20:12:27+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,15 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-14T13:44:28+00:00",
+   "date": "2026-10-14T20:12:27+00:00",
+   "countries": []
+  },
+  {
+   "title": "Commission awards six projects making lasting contributions for Europe's cohesion at REGIOSTARS ceremony",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2167",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-14T16:10:29+00:00",
    "countries": []
   },
   {
@@ -56,14 +64,6 @@
    "theme": "grid",
    "date": "2026-10-13T22:00:00+00:00",
    "countries": []
-  },
-  {
-   "title": "Commission disburses €2.86 billion to Ukraine for drones, missiles and urgent battlefield needs",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2153",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-13T22:00:00+00:00",
-   "countries": []
   }
  ],
  "countries": {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE",
      "EE"
@@ -84,7 +84,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE",
      "IE"
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "DE",
      "IE"
@@ -183,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "AT",
      "SI"
@@ -196,7 +196,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "AT",
      "SI"
@@ -209,7 +209,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "PT"
     ]
@@ -221,17 +221,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-14T13:44:28+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Commission proposes flexibility to methane importers to help save costs",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2119",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-13T22:00:00+00:00",
+    "date": "2026-10-14T20:12:27+00:00",
     "countries": [
      "FR"
     ]
@@ -404,26 +394,6 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/BE: HTTPError"
  ]
 }

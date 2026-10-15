@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T04:41:56+00:00",
+ "generated": "2026-10-15T13:27:14+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,48 +22,162 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-15T04:41:56+00:00",
+   "date": "2026-10-15T13:27:14+00:00",
    "countries": []
   },
   {
-   "title": "Commission awards six projects making lasting contributions for Europe's cohesion at REGIOSTARS ceremony",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2167",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-14T16:10:29+00:00",
-   "countries": []
+   "title": "RBI may announce unscheduled rate hike amid inflation , rupee pressures : Union Bank report",
+   "url": "http://www.neworleanssun.com/news/279375961/rbi-may-announce-unscheduled-rate-hike-amid-inflation-rupee-pressures-union-bank-report",
+   "source": "neworleanssun.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
   },
   {
-   "title": "Speech by Executive Vice-President Fitto at High Level Session “A Cohesion Policy for a Competitive Union”",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2163",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-14T12:19:03+00:00",
-   "countries": []
+   "title": "AGNC Investment Corp . ( NASDAQ : AGNCZ ) Stock Short Interest Climbs 135 . 3 %",
+   "url": "https://www.tickerreport.com/banking-finance/13620121/agnc-investment-corp-nasdaqagncz-stock-short-interest-climbs-135-3.html",
+   "source": "tickerreport.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
   },
   {
-   "title": "Eurobarometer survey highlights growing use of AI in European companies",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2160",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-14T08:42:46+00:00",
-   "countries": []
+   "title": "Tanzania closes in on $42 billion gas development project",
+   "url": "https://www.africanews.com/2026/10/15/tanzania-closes-in-on-42-billion-gas-development-project/",
+   "source": "africanews.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
   },
   {
-   "title": "Daily News 14 / 10 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2159",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-14T08:25:27+00:00",
-   "countries": []
+   "title": "Warsh quest for quiet Fed gets vocal pushback – Taylorville Daily News",
+   "url": "https://www.taylorvilledailynews.com/warshs-quest-for-quiet-fed-gets-vocal-pushback/",
+   "source": "taylorvilledailynews.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
   },
   {
-   "title": "Commission accepts commitments by Sanofi to address possible anticompetitive disparagement of competing flu vaccine for vulnerable patients",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2154",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-13T22:00:00+00:00",
-   "countries": []
+   "title": "5 Things to Know Before the Stock Market Opens on Thursday",
+   "url": "https://www.aol.com/articles/5-things-know-stock-market-121200000.html",
+   "source": "aol.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "title": "Senegal state - owned pipeline operater RGS seeks investors for 530 million Euro expansion",
+   "url": "https://www.cnbcafrica.com/2026/senegals-state-owned-pipeline-operater-rgs-seeks-investors-for-530-million-euro-expansion",
+   "source": "cnbcafrica.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "title": "Taiwan agrees to buy 30 % of gas from Alaska LNG project , Trump says | Hellenic Shipping News Worldwide",
+   "url": "https://www.hellenicshippingnews.com/taiwan-agrees-to-buy-30-of-gas-from-alaska-lng-project-trump-says/",
+   "source": "hellenicshippingnews.com",
+   "theme": "press",
+   "date": "2026-10-15T13:00:00+00:00"
+  },
+  {
+   "title": "Greece Warns Tech Firms of Fines If They Dont Keep Under - 15s Off Social Media",
+   "url": "https://www.iefimerida.gr/english/greece-warns-tech-firms-fines-if-they-dont-keep-under-15s-social-media",
+   "source": "iefimerida.gr",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "RGIPT and Bureau of Indian Standards Sign MoU to Advance Research , Standardization and Quality Infrastructure",
+   "url": "https://www.business-standard.com/content/press-releases-ani/rgipt-and-bureau-of-indian-standards-sign-mou-to-advance-research-standardization-and-quality-infrastructure-126101500943_1.html",
+   "source": "business-standard.com",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "Andrew Bailey calls for clampdown on downright criminal social media scams",
+   "url": "https://www.hillingdontimes.co.uk/news/national/26639339.andrew-bailey-calls-clampdown-downright-criminal-social-media-scams/",
+   "source": "hillingdontimes.co.uk",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "THE REALREAL ANNOUNCES REFINANCING OF 2029 SENIOR SECURED NOTES WITH NEW $150 MILLION TERM LOAN AND $25 MILLION REVOLVING CREDIT FACILITY",
+   "url": "http://www.prnewswire.com/news-releases/the-realreal-announces-refinancing-of-2029-senior-secured-notes-with-new-150-million-term-loan-and-25-million-revolving-credit-facility-302910031.html",
+   "source": "prnewswire.com",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "Is the world pricing the risk of a US diesel export ban ?",
+   "url": "https://theconversation.com/is-the-world-pricing-the-risk-of-a-us-diesel-export-ban-293242",
+   "source": "theconversation.com",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "ING : $10 rise in oil prices could increase Azerbaijan exports by 2 – 4 % of GDP",
+   "url": "https://en.apa.az/finance/ing-10-rise-in-oil-prices-could-increase-azerbaijans-exports-by-2-4-of-gdp-530285",
+   "source": "en.apa.az",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "Innodata to Report Third Quarter 2026 Results",
+   "url": "https://www.pr-inside.com/innodata-to-report-third-quarter-2026-results-r5233731.htm",
+   "source": "pr-inside.com",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "Orchid Island Capital , Inc . ( NYSE : ORC ) Shares to Pay Monthly Dividend of $0 . 10",
+   "url": "https://www.tickerreport.com/banking-finance/13620083/orchid-island-capital-inc-nyseorc-shares-to-pay-monthly-dividend-of-0-10.html",
+   "source": "tickerreport.com",
+   "theme": "press",
+   "date": "2026-10-15T12:45:00+00:00"
+  },
+  {
+   "title": "Xcel Energy Inc . $XEL Shares Acquired by Viking Fund Management LLC",
+   "url": "https://www.themarketsdaily.com/2026/10/15/xcel-energy-inc-xel-shares-acquired-by-viking-fund-management-llc.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "Britain factories deliver surprise boost to the united kingdom economy",
+   "url": "https://www.chelmsfordcitynews.co.uk/news/national/uk-today/26638178.britains-factories-deliver-surprise-boost-uk-economy/",
+   "source": "chelmsfordcitynews.co.uk",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "RBI may announce unscheduled rate hike amid inflation , rupee pressures : Union Bank report",
+   "url": "http://www.arabherald.com/news/279375961/rbi-may-announce-unscheduled-rate-hike-amid-inflation-rupee-pressures-union-bank-report",
+   "source": "arabherald.com",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "Andrew Bailey calls for clampdown on downright criminal social media scams",
+   "url": "https://www.romfordrecorder.co.uk/news/national/26639339.andrew-bailey-calls-clampdown-downright-criminal-social-media-scams/",
+   "source": "romfordrecorder.co.uk",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "Innodata Inc .: Innodata to Report Third Quarter 2026 Results",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69847560-innodata-inc-innodata-to-report-third-quarter-2026-results-200.htm",
+   "source": "finanznachrichten.de",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "Ottawa to announce $100 - million toward offshore wind projects in Nova Scotia",
+   "url": "https://www.theglobeandmail.com/business/article-ottawa-funding-nova-scotia-offshore-wind-projects-wind-west/",
+   "source": "theglobeandmail.com",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
+  },
+  {
+   "title": "Fixing of coupon rates - Nykredit Realkredit A / S",
+   "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/globenewswire/fixing-of-coupon-rates-nykredit-realkredit-as/2446463",
+   "source": "manilatimes.net",
+   "theme": "press",
+   "date": "2026-10-15T12:30:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +187,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE",
      "EE"
@@ -84,7 +198,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE"
     ]
@@ -94,7 +208,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +218,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +228,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE",
      "IE"
@@ -125,7 +239,17 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Termine für Amateurfunkprüfungen (Stand 15. Oktober 2026)",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE"
     ]
@@ -135,17 +259,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Termine für Amateurfunkprüfungen (Stand 13. Oktober 2026)",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +271,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,9 +284,79 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "NI hotel sector enters its next phase of growth",
+    "url": "http://ulstertatler.com/ni-hotel-sector-enters-its-next-phase-of-growth/",
+    "source": "ulstertatler.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Why has Starlink internet become so crucial in Ukraine war ?",
+    "url": "https://www.rte.ie/brainstorm/2026/1015/1595482-starlink-internet-ukraine-war-drones-satellite-communication-technology/",
+    "source": "rte.ie",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "AECOM appoints grid upgrade lead",
+    "url": "https://www.theconstructionindex.co.uk/news/view/aecom-appoints-grid-upgrade-lead",
+    "source": "theconstructionindex.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Windtech International - Insight Marine opens Belfast office",
+    "url": "https://www.windtech-international.com/company-news/insight-marine-opens-belfast-office",
+    "source": "windtech-international.com",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Lakes and Dales Co - op names air ambulance charity partner",
+    "url": "https://www.timesandstar.co.uk/news/26639024.lakes-dales-co-op-names-air-ambulance-charity-partner/",
+    "source": "timesandstar.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Cyril Hilsum obituary",
+    "url": "https://www.theguardian.com/science/2026/oct/15/cyril-hilsum-obituary",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Alex Scott returns to secondary school to surprise pupils",
+    "url": "https://www.thurrockgazette.co.uk/news/26638434.alex-scott-returns-secondary-school-surprise-pupils/",
+    "source": "thurrockgazette.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
      "IE"
     ]
    }
@@ -183,7 +367,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "AT",
      "SI"
@@ -196,7 +380,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "AT",
      "SI"
@@ -209,7 +393,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
     "countries": [
      "PT"
     ]
@@ -221,104 +405,392 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-15T04:41:56+00:00",
+    "date": "2026-10-15T13:27:14+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Wakeham defends Barbour over $1 , 350 rubber - boot keychains",
+    "url": "https://www.saltwire.com/newfoundland-labrador/barbour-rubber-boot-keychain",
+    "source": "saltwire.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "EU proposes delay to methane rules for oil and gas imports | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/eu-proposes-delay-to-methane-rules-for-oil-and-gas-imports/",
+    "source": "hellenicshippingnews.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "How Long - Term Climate Strategies Help Governments Plan | World Resources Institute",
+    "url": "https://www.wri.org/insights/long-term-climate-strategies-economic-planning-tools",
+    "source": "wri.org",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "AP News in Brief at 6 : 04 a . m . EDT",
+    "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_cf85a556-7aca-5d5c-a383-ec1fa44f836c.html",
+    "source": "idahostatejournal.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Inflation anxiety drags on AI stocks as markets point to a mixed open",
+    "url": "https://www.ocregister.com/2026/10/15/inflation-anxiety-wall-street/",
+    "source": "ocregister.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "France ill - advised Nutri - Score revival risks adding to Europe agricultural woes",
+    "url": "https://www.thecork.ie/2026/10/13/france-s-ill-advised-nutri-score-revival-risks-adding-to-europe-s-agricultural-woes/",
+    "source": "thecork.ie",
+    "theme": "press",
+    "date": "2026-10-15T12:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Futures Slide As AI Unwind Goes Global : Kospi Crashes Into Bear Market , Treasuries Soar",
+    "url": "http://www.zerohedge.com/markets/futures-slide-ai-unwind-goes-global-kospi-crashes-bear-market-treasuries-soar",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-10-15T12:45:00+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
-  "SE": [
+  "IT": [
    {
-    "title": "Opening Remarks by Commissioner Hansen at the Farmers' Congress in Sweden",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2162",
+    "title": "Speech by Commissioner Lahbib at the International Conference on the Protection of Aid Workers",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2171",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-10-14T09:37:47+00:00",
+    "date": "2026-10-15T08:29:41+00:00",
     "countries": [
      "DE",
-     "SE"
+     "IT"
     ]
    }
   ],
   "GB": [
    {
-    "title": "Minutes of the Money Market Committee meeting – September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-13T15:04:27+00:00",
+    "title": "West Dunbartonshire shortchanged £54m , says councillor | Dumbarton and Vale of Leven Reporter",
+    "url": "https://www.dumbartonreporter.co.uk/news/26638852.west-dunbartonshire-shortchanged-54m-says-councillor/",
+    "source": "dumbartonreporter.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "CMORG holds sector-wide cloud outage simulation exercise",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-09T09:00:00+00:00",
+    "title": "Citigroup Raises VLO Target to $485 , Keeps Neutral Refinement",
+    "url": "https://www.el-balad.com/17057869",
+    "source": "el-balad.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T23:01:00+00:00",
+    "title": "Andy Burnham under pressure as spoon bending psychic vows to take his job",
+    "url": "https://www.dailystar.co.uk/news/latest-news/andy-burnham-under-pressure-spoon-37774704",
+    "source": "dailystar.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T13:36:25+00:00",
+    "title": "Celebrity Traitors is thrown into chaos by a racism row , leaked spoilers and cast fallouts - and there still another two weeks to go !",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16204829/Celebrity-Traitors-chaos-racism-spoilers-fallouts.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:49:25+00:00",
+    "title": "Key economic data in the countdown to the Budget",
+    "url": "https://www.glasgowtimes.co.uk/news/national/26639490.key-economic-data-countdown-budget/",
+    "source": "glasgowtimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T12:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-07T09:08:40+00:00",
+    "title": "Deloitte and Sirion Launch Strategic Alliance to Provide AI - Powered Global Contract Lifecycle Management Solutions",
+    "url": "http://www.prnewswire.com/news-releases/deloitte-and-sirion-launch-strategic-alliance-to-provide-ai-powered-global-contract-lifecycle-management-solutions-302909195.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Regulatory thresholds set to shift to automatic increases",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+    "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
     "source": "Bank of England",
     "theme": "policy",
-    "date": "2026-10-07T09:00:00+00:00",
+    "date": "2026-10-15T09:52:41+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+    "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
     "source": "Bank of England",
     "theme": "policy",
-    "date": "2026-10-06T13:07:03+00:00",
+    "date": "2026-10-15T08:27:59+00:00",
     "countries": [
      "GB"
+    ]
+   }
+  ],
+  "NL": [
+   {
+    "title": "Nifty , Sensex Rally Over 1 . 5 % in Best Session in Four Months ; IT , Financials Lead",
+    "url": "https://www.moneylife.in/article/nifty-sensex-rally-over-15-percentage-in-best-session-in-four-months-it-financials-lead/81960.html",
+    "source": "moneylife.in",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Levara Reunites After Five Years for New Single Underneath It All",
+    "url": "https://www.aceshowbiz.com/news/view/00262630.html",
+    "source": "aceshowbiz.com",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Stop & Shop website , app offline after security issue , company says",
+    "url": "https://www.newsday.com/business/stop-and-shop-website-and-mobile-application-k7wntg3h",
+    "source": "newsday.com",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Windtech International - united kingdom offshore wind expansion depends on grid connections and market reform",
+    "url": "https://www.windtech-international.com/industry-news/uk-offshore-wind-expansion-depends-on-grid-connections-and-market-reform",
+    "source": "windtech-international.com",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Q - Park Expands Collaboration With CPMS Provider GreenFlux to Ireland and Germany",
+    "url": "https://www.parking.net/parking-news/q-park-expands-collaboration-with-cpms-provider-greenflux",
+    "source": "parking.net",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Historic sail training vessel Swan seeking new skipper",
+    "url": "https://www.shetnews.co.uk/2026/10/15/historic-sail-training-vessel-swan/",
+    "source": "shetnews.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   },
+   {
+    "title": "Eurozone Industrial Production Falls Again as Consumer Goods Weakness Deepens",
+    "url": "https://www.actionforex.com/live-comments/657617-eurozone-industrial-production-falls-again-as-consumer-goods-weakness-deepens/",
+    "source": "actionforex.com",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "NL"
+    ]
+   }
+  ],
+  "BE": [
+   {
+    "title": "Ukraine resumes attacks on Russian oil refineries , officials say , after brief truce",
+    "url": "https://www.wapt.com/article/zelensky-ukraine-resume-strikes-russian-refineries/74142152",
+    "source": "wapt.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Ukraine resumes attacks on Russian oil refineries , officials say , as US relations teeter",
+    "url": "https://www.durangoherald.com/articles/associated-press/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-after-brief-truce/",
+    "source": "durangoherald.com",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Ukraine news : Truce over , Russia oil refinery attacked",
+    "url": "https://www.bnnbloomberg.ca/business/international/2026/10/15/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter/",
+    "source": "bnnbloomberg.ca",
+    "theme": "press",
+    "date": "2026-10-15T12:45:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Ukraine bins energy cease - fire with attacks on Russian refineries",
+    "url": "https://www.dailysabah.com/world/europe/ukraine-bins-energy-cease-fire-with-attacks-on-russian-refineries",
+    "source": "dailysabah.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Ukraine resumes attacks on Russian oil refineries , officials say , as US relations teeter",
+    "url": "https://www.union-bulletin.com/news/world/ukraine-resumes-attacks-on-russian-oil-refineries-officials-say-as-us-relations-teeter/article_2e9d1593-4884-5d7d-9a1a-1b6f07307f72.html",
+    "source": "union-bulletin.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Reallusion 2026 3D Character Contest - Meet the Winners !",
+    "url": "http://www.prnewswire.com/news-releases/reallusions-2026-3d-character-contest--meet-the-winners-302909874.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Top leader Tô Lâm to visit Denmark , EU , Belgium next week",
+    "url": "https://vietnamnews.vn/politics-laws/1802101/top-leader-to-lam-to-visit-denmark-eu-belgium-next-week.html",
+    "source": "vietnamnews.vn",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
+    "title": "Ukraine resumes attacks on Russian oil refineries as tensions deepen with US",
+    "url": "https://www.yourlocalguardian.co.uk/news/national/26639193.ukraine-resumes-attacks-russian-oil-refineries-tensions-deepen-us/",
+    "source": "yourlocalguardian.co.uk",
+    "theme": "press",
+    "date": "2026-10-15T11:45:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   }
+  ],
+  "CH": [
+   {
+    "title": "Swiss President visit to Việt Nam to deepen ties in trade , research and innovation",
+    "url": "https://vietnamnews.vn/opinion/1802074/swiss-president-s-visit-to-viet-nam-to-deepen-ties-in-trade-research-and-innovation.html",
+    "source": "vietnamnews.vn",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "Transelectrica completes strategic investment to enhance the security of Romania national power system",
+    "url": "https://www.thediplomat.ro/2026/10/15/transelectrica-completes-strategic-investment-to-enhance-the-security-of-romanias-national-power-system/",
+    "source": "thediplomat.ro",
+    "theme": "press",
+    "date": "2026-10-15T13:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Relief from insolvency pressures unlikely before H2 2027 , says Atradius",
+    "url": "http://www.malaysiasun.com/news/279376232/relief-from-insolvency-pressures-unlikely-before-h2-2027-says-atradius",
+    "source": "malaysiasun.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "India Pushes Russia And Ukraine To Guarantee Safe Black Sea Passage For Commercial Ships",
+    "url": "https://www.foreignpolicyjournal.com/2026/10/15/india-pushes-russia-and-ukraine-to-guarantee-safe-black-sea-passage-for-commercial-ships/",
+    "source": "foreignpolicyjournal.com",
+    "theme": "press",
+    "date": "2026-10-15T12:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Relief from insolvency pressures unlikely before H2 2027 , says Atradius",
+    "url": "https://www.aol.com/articles/relief-insolvency-pressures-unlikely-h2-080300000.html",
+    "source": "aol.com",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Relief from insolvency pressures unlikely before H2 2027 , says Atradius",
+    "url": "https://www.nugget.ca/press-releases/pr-newswire/relief-from-insolvency-pressures-unlikely-before-h2-2027-says-atradius/",
+    "source": "nugget.ca",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "RO"
     ]
    }
   ]
@@ -381,20 +853,21 @@
   }
  },
  "errors": [
-  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
-  "gdelt/RO: HTTPError",
+  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
+  "gdelt/HU: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/LT: HTTPError"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T19:33:47+00:00",
+ "generated": "2026-10-16T22:51:55+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-16T19:33:47+00:00",
+   "date": "2026-10-16T22:51:55+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE",
      "EE"
@@ -84,7 +84,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE",
      "IE"
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE"
     ]
@@ -157,9 +157,79 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE",
+     "EE"
+    ]
+   },
+   {
+    "title": "Event : Tickets on Sale for Long Day Night Satellite Series - SwiftCurrentOnline . com - Local news , Weather , Sports , Free Classifieds and Job Listings",
+    "url": "https://www.swiftcurrentonline.com/events/237475",
+    "source": "swiftcurrentonline.com",
+    "theme": "press",
+    "date": "2026-10-16T21:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A direct cultural threat : your questions on the rise of the right across Europe answered | Europe",
+    "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-10-16T10:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A direct cultural threat : your questions on the rise of the right across Europe answered",
+    "url": "https://www.aol.co.uk/articles/direct-cultural-threat-questions-rise-090056000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-10-16T09:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "IT Arena 2026 brings global tech leaders to Lviv as Ukraine showcases innovation during war – The Ukrainian Weekly",
+    "url": "https://subscription.ukrweekly.com/it-arena-2026-brings-global-tech-leaders-to-lviv-as-ukraine-showcases-innovation-during-war/",
+    "source": "subscription.ukrweekly.com",
+    "theme": "press",
+    "date": "2026-10-16T08:45:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Serielizados Program : Steven Moffat , Ferran Adrià , Rodrigo Sorogoyen",
+    "url": "https://variety.com/2026/tv/global/serielizados-program-steven-moffat-ferran-adria-1236913188/",
+    "source": "variety.com",
+    "theme": "press",
+    "date": "2026-10-16T07:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Industrial production down by 0 . 5 % in the euro area and by 0 . 3 % in the EU · EMSNow",
+    "url": "https://www.emsnow.com/industrial-production-down-by-0-5-in-the-euro-area-and-by-0-3-in-the-eu/",
+    "source": "emsnow.com",
+    "theme": "press",
+    "date": "2026-10-16T04:00:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Starlink Ukraine and India Fights Test Elon Musk Power",
+    "url": "https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/",
+    "source": "foreignpolicy.com",
+    "theme": "press",
+    "date": "2026-10-16T00:15:00+00:00",
+    "countries": [
      "EE"
     ]
    }
@@ -170,7 +240,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "DE",
      "IE"
@@ -183,7 +253,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "AT",
      "SI"
@@ -196,9 +266,79 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "AT",
+     "SI"
+    ]
+   },
+   {
+    "title": "Sean Sweeney Q & A : What the Magic New Coach Loves About His Roster and How Orlando Can Improve",
+    "url": "https://www.si.com/nba/magic/sean-sweeney-what-magic-new-coach-loves-about-roster-how-orlando-can-improve",
+    "source": "si.com",
+    "theme": "press",
+    "date": "2026-10-16T16:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Poland : mounting power struggle over Constitutional Tribunal",
+    "url": "https://www.dw.com/en/poland-power-struggle-between-government-and-right-wing-opposition-over-constitutional-tribunal/a-79673699",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-10-16T11:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "AP News Summary at 5 : 18 a . m . EDT",
+    "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-5-18-a-m-edt/article_2f0087d9-baa3-54b8-8a19-63ad659f1fc7.html",
+    "source": "hngnews.com",
+    "theme": "press",
+    "date": "2026-10-16T10:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Could the Societal Value of Workloads Shape Data Center Policy ?",
+    "url": "https://www.datacenterknowledge.com/regulations/could-the-societal-value-of-workloads-shape-data-center-policy-",
+    "source": "datacenterknowledge.com",
+    "theme": "press",
+    "date": "2026-10-16T09:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "White supremacy 101 : From Omar to refugees to asylum seekers",
+    "url": "https://baptistnews.com/article/white-supremacy-101-from-ilhan-omar-to-refugees-to-asylum-seekers/",
+    "source": "baptistnews.com",
+    "theme": "press",
+    "date": "2026-10-16T08:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "UniCredit Foundation renews partnerships with Teach For All and JA Europe to tackle Europe growing education challenge – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
+    "url": "https://nineoclock.ro/unicredit-foundation-renews-partnerships-with-teach-for-all-and-ja-europe-to-tackle-europes-growing-education-challenge/",
+    "source": "nineoclock.ro",
+    "theme": "press",
+    "date": "2026-10-16T01:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Petaluma woman , 82 brings home four gold medals from world rowing event",
+    "url": "https://www.ukiahdailyjournal.com/2026/10/15/colene-mace-rowing-gold/",
+    "source": "ukiahdailyjournal.com",
+    "theme": "press",
+    "date": "2026-10-15T21:45:00+00:00",
+    "countries": [
      "SI"
     ]
    }
@@ -209,7 +349,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "PT"
     ]
@@ -221,7 +361,7 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-16T19:33:47+00:00",
+    "date": "2026-10-16T22:51:55+00:00",
     "countries": [
      "FR"
     ]
@@ -321,6 +461,326 @@
      "GB"
     ]
    }
+  ],
+  "SE": [
+   {
+    "title": "Euro - area inflation reaches 3 . 8 % as energy pressure intensifies",
+    "url": "https://marketbusinessnews.com/euro-area-september-2026-inflation/452039/",
+    "source": "marketbusinessnews.com",
+    "theme": "press",
+    "date": "2026-10-16T22:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Venison market signals give farmers reason to stay the course",
+    "url": "https://www.interest.co.nz/rural-news/140722/venison-market-signals-give-farmers-reason-stay-course",
+    "source": "interest.co.nz",
+    "theme": "press",
+    "date": "2026-10-16T21:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Europe big election season could change everything",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/17/2003866105",
+    "source": "taipeitimes.com",
+    "theme": "press",
+    "date": "2026-10-16T21:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Construction News and Trends | Construction Dive",
+    "url": "https://www.constructiondive.com/?page=2&_sp=dfa3167e-dd21-475f-b43d-1a1e0afc940b",
+    "source": "constructiondive.com",
+    "theme": "press",
+    "date": "2026-10-16T21:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Wind Farm Approved in Victoria , Australia Would Be Largest in Southern Hemisphere",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Farm-Approved-in-Victoria-Australia-Would-Be-Largest-in-Southern-Hemispher.html",
+    "source": "oilprice.com",
+    "theme": "press",
+    "date": "2026-10-16T20:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "After 26 Years She Finally Makes Her Dream Come True by Leasing a Ram 1500 Laramie With Gas Prices Around $10 . 13",
+    "url": "https://www.torquenews.com/3768/after-26-years-she-finally-makes-her-dream-come-true-leasing-ram-1500-laramie-gas-prices",
+    "source": "torquenews.com",
+    "theme": "press",
+    "date": "2026-10-16T20:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "AI Document , Broker , U / W , QC Tools ; Lender / Investor Earnings ; Credit News ; LO Retention Examined",
+    "url": "https://www.mortgagenewsdaily.com:443/opinion/pipelinepress-10162026",
+    "source": "mortgagenewsdaily.com",
+    "theme": "press",
+    "date": "2026-10-16T19:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Budget , Ukraine , migration : Five takeaways from the EU leader summit",
+    "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T18:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Giant UFO mothership spotted shooting across Earth sun at near light speed , claims UFOlogist",
+    "url": "https://blog.seniorennet.be/peter2011/2726048-giant-ufo-mothership-spotted-shooting-across-earth-s-sun-at",
+    "source": "blog.seniorennet.be",
+    "theme": "press",
+    "date": "2026-10-16T19:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
+    "source": "oilprice.com",
+    "theme": "press",
+    "date": "2026-10-16T17:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Live - ЕС сохранит режим санкций в отношении РФ до тех пор , пока Москва не прекратит агрессивную войну против Украины",
+    "url": "https://ru.euronews.com/2026/10/16/eu-leaders-say-sanctions-against-russia-will-stay-until-moscow-ends-its-agressive-war",
+    "source": "ru.euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T16:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Ukraine resumes attacks on Russian oil refineries",
+    "url": "https://www.mtairynews.com/ap/business/ukraine-resumes-attacks-on-russian-oil-refineries/article_eb1e2804-96a0-541d-a238-89fffd65857d.html",
+    "source": "mtairynews.com",
+    "theme": "press",
+    "date": "2026-10-16T16:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "How Israeli firm zero - click malware attack poses global security risk | Cybersecurity News",
+    "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk",
+    "source": "aljazeera.com",
+    "theme": "press",
+    "date": "2026-10-16T15:45:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Top leader upcoming trip to lift ties with Denmark , EU , Belgium : Deputy FM",
+    "url": "https://news.tuoitre.vn/top-leaders-upcoming-trip-to-lift-ties-with-denmark-eu-belgium-deputy-fm-103261016185723094.htm",
+    "source": "news.tuoitre.vn",
+    "theme": "press",
+    "date": "2026-10-16T15:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "FI": [
+   {
+    "title": "Singapore energy week to focus on regional power security , AI demand",
+    "url": "https://www.manilatimes.net/2026/10/17/business/science-technology/singapore-energy-week-to-focus-on-regional-power-security-ai-demand/2447652",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-10-16T21:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Market This Week",
+    "url": "https://www.moneylife.in/article/market-this-week/81973.html",
+    "source": "moneylife.in",
+    "theme": "press",
+    "date": "2026-10-16T18:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Ukrainian President Volodymyr Zelenskyy October 2026 address to the European Council – The Sofia Globe",
+    "url": "https://sofiaglobe.com/2026/10/16/ukrainian-president-volodymyr-zelenskyys-october-2026-address-to-the-european-council/",
+    "source": "sofiaglobe.com",
+    "theme": "press",
+    "date": "2026-10-16T17:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Comedy , drama and documentaries What to watch on Yle Areena during the autumn months",
+    "url": "https://yle.fi/a/74-20251105",
+    "source": "yle.fi",
+    "theme": "press",
+    "date": "2026-10-16T14:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Spirit of Tasmania crew illness sparks pay dispute after Scottish trip",
+    "url": "https://www.heraldscotland.com/news/26644003.spirit-tasmania-crew-illness-sparks-pay-dispute-scottish-trip/",
+    "source": "heraldscotland.com",
+    "theme": "press",
+    "date": "2026-10-16T14:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "British doomsday prepper spends £6 , 000 on tinned food and power banks to last 25 years | News united kingdom",
+    "url": "https://metro.co.uk/2026/10/16/british-doomsday-prepper-spends-6-000-tinned-food-power-banks-last-25-years-29713863/",
+    "source": "metro.co.uk",
+    "theme": "press",
+    "date": "2026-10-16T14:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   }
+  ],
+  "LV": [
+   {
+    "title": "Latvia confirms parliamentary election results , coalition talks in focus",
+    "url": "http://www.bignewsnetwork.com/news/279380047/latvia-confirms-parliamentary-election-results-coalition-talks-in-focus",
+    "source": "bignewsnetwork.com",
+    "theme": "press",
+    "date": "2026-10-16T20:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Eight Vancouver Film Festival Titles That Deserve a Closer Look",
+    "url": "https://variety.com/2026/film/global/viff-films-deserve-closer-look-matthew-rankin-john-turturro-1236914031/",
+    "source": "variety.com",
+    "theme": "press",
+    "date": "2026-10-16T19:45:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Live - EU - Gipfel : Staats - und Regierungschefs stellen sich hinter Selenskyj",
+    "url": "https://de.euronews.com/2026/10/16/eu-gipfel-staats-und-regierungschefs-stellen-sich-hinter-selenskyj-im-streit-mit-trump",
+    "source": "de.euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T11:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Trump Russian diesel deal draws GOP , European pushback and industry shrug - Governor Wind Energy Coalition",
+    "url": "https://governorswindenergycoalition.org/trumps-russian-diesel-deal-draws-gop-european-pushback-and-industry-shrug/",
+    "source": "governorswindenergycoalition.org",
+    "theme": "press",
+    "date": "2026-10-15T21:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Strapping Fireworks to Breakdancers in the Name of Art , With Thrilliam Angels",
+    "url": "https://www.vice.com/en/article/strapping-fireworks-to-breakdancers-in-the-name-of-art-with-thrilliam-angels/",
+    "source": "vice.com",
+    "theme": "press",
+    "date": "2026-10-15T20:15:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "NATO state seeks to shut down Russian gas pipeline",
+    "url": "http://www.russiaherald.com/news/279376125/nato-state-seeks-to-shut-down-russian-gas-pipeline-media",
+    "source": "russiaherald.com",
+    "theme": "press",
+    "date": "2026-10-15T10:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "China willing to deepen cooperation with Croatia : Chinese FM - Xinhua",
+    "url": "https://english.news.cn/20261017/3b5c048ad38441f8959ef55f0f3de938/c.html",
+    "source": "english.news.cn",
+    "theme": "press",
+    "date": "2026-10-16T22:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Greenpeace Pictures of the Week - Greenpeace International",
+    "url": "https://www.greenpeace.org/international/story/86537/greenpeace-pictures-of-the-week-4127/",
+    "source": "greenpeace.org",
+    "theme": "press",
+    "date": "2026-10-16T21:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Recap : Autonomy dominates the US Army 2026 conference in Washington",
+    "url": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
+    "source": "defensenews.com",
+    "theme": "press",
+    "date": "2026-10-16T15:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Ukraine Zelenskyy turns to Brussels as US support falters",
+    "url": "https://www.euronews.com/2026/10/16/ukraines-zelenskyy-turns-to-brussels-as-us-support-falters",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T08:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Mystery trip for Susie Wile daughter raises new questions about Trump Jr .: NYT",
+    "url": "https://www.rawstory.com/susie-wiles-srpska/",
+    "source": "rawstory.com",
+    "theme": "press",
+    "date": "2026-10-16T00:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
   ]
  },
  "feed_status": {
@@ -400,14 +860,7 @@
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

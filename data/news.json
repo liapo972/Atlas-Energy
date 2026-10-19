@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T22:26:08+00:00",
+ "generated": "2026-10-19T04:42:49+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-unveils-first-eu-wide-dataset-investment-costs-long-term-electricity-system-modelling",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-18T22:26:08+00:00",
+   "date": "2026-10-19T04:42:49+00:00",
    "countries": []
   },
   {
@@ -65,7 +65,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE",
      "EE"
@@ -76,7 +76,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -86,7 +86,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -96,7 +96,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -106,7 +106,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE",
      "IE"
@@ -117,7 +117,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -127,7 +127,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -137,7 +137,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE"
     ]
@@ -149,9 +149,19 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE",
+     "EE"
+    ]
+   },
+   {
+    "title": "Europe is not an ATM , Mr . Zelensky : Backlash over additional 70B euros demanded",
+    "url": "https://www.bankingnews.gr/diethni/articles/905808/europe-is-not-an-atm-mr-zelensky-backlash-over-additional-70b-euros-demanded",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-10-18T15:45:00+00:00",
+    "countries": [
      "EE"
     ]
    },
@@ -222,79 +232,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Tim Winton Cloudstreet named number one in ABC Radio National Top 100 Australian Books",
-    "url": "https://www.abc.net.au/news/2026-10-19/cloudstreet-tim-winton-wins-top-100-australian-books/107275314",
-    "source": "abc.net.au",
-    "theme": "press",
-    "date": "2026-10-18T19:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Christmas 2026 Top Toys list revealed as united kingdom festive shopping begins",
-    "url": "https://www.dailystar.co.uk/life-style/christmas-2026-top-toys-list-37682392",
-    "source": "dailystar.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Three Dog Night Last Original Member : Danny Hutton Interview",
-    "url": "https://www.rollingstone.com/music/music-features/danny-hutton-three-dog-night-1235641293/",
-    "source": "rollingstone.com",
-    "theme": "press",
-    "date": "2026-10-18T17:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Ireland EU Council Presidency Reaches Midpoint , with Competitiveness , Security and Digital Transformation High on the Agenda – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
-    "url": "https://nineoclock.ro/irelands-eu-council-presidency-reaches-midpoint-with-competitiveness-security-and-digital-transformation-high-on-the-agenda/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-10-18T15:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Mass mobilisation of youth and Yellow Vests shakes the French government",
-    "url": "https://www.wsws.org/en/articles/2026/10/18/jcay-o18.html",
-    "source": "wsws.org",
-    "theme": "press",
-    "date": "2026-10-18T14:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Council upgrade of public lighting in Mayo is on target - news",
-    "url": "https://www.westernpeople.ie/news/councils-upgrade-of-public-lighting-in-mayo-is-on-target_arid-20330840.html",
-    "source": "westernpeople.ie",
-    "theme": "press",
-    "date": "2026-10-18T14:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Council opposes wind farm in North Mayo - news",
-    "url": "https://www.westernpeople.ie/news/council-opposes-wind-farm-in-north-mayo_arid-20331433.html",
-    "source": "westernpeople.ie",
-    "theme": "press",
-    "date": "2026-10-18T14:30:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -305,10 +245,20 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "AT",
      "SI"
+    ]
+   },
+   {
+    "title": "Kunsthaus Bregenz presents Torkwase Dyson first solo exhibition in Austria",
+    "url": "https://artdaily.com/news/201383/Kunsthaus-Bregenz-presents-Torkwase-Dyson-s-first-solo-exhibition-in-Austria",
+    "source": "artdaily.com",
+    "theme": "press",
+    "date": "2026-10-19T01:00:00+00:00",
+    "countries": [
+     "AT"
     ]
    },
    {
@@ -370,16 +320,6 @@
     "countries": [
      "AT"
     ]
-   },
-   {
-    "title": "More Than 40 Countries Urge 24 - Hour Notice Before Ballistic Missile Tests",
-    "url": "https://www.eurasiareview.com/17102026-more-than-40-countries-urge-24-hour-notice-before-ballistic-missile-tests-2/",
-    "source": "eurasiareview.com",
-    "theme": "press",
-    "date": "2026-10-18T00:00:00+00:00",
-    "countries": [
-     "AT"
-    ]
    }
   ],
   "SI": [
@@ -388,9 +328,79 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "AT",
+     "SI"
+    ]
+   },
+   {
+    "title": "Austria fun - filled south that ripe for a rail adventure",
+    "url": "https://www.thetimes.com/travel/destinations/europe-travel/austria/carinthia-austria-family-adventure-alps-0k9wp3v8t",
+    "source": "thetimes.com",
+    "theme": "press",
+    "date": "2026-10-17T16:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "October 17 , 2026 - Radio Romania International",
+    "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-17-2026-id1072459.html",
+    "source": "rri.ro",
+    "theme": "press",
+    "date": "2026-10-17T13:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Live - ЕС сохранит режим санкций в отношении РФ до тех пор , пока Москва не прекратит агрессивную войну против Украины",
+    "url": "https://ru.euronews.com/2026/10/16/eu-leaders-say-sanctions-against-russia-will-stay-until-moscow-ends-its-agressive-war",
+    "source": "ru.euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T16:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Sean Sweeney Q & A : What the Magic New Coach Loves About His Roster and How Orlando Can Improve",
+    "url": "https://www.si.com/nba/magic/sean-sweeney-what-magic-new-coach-loves-about-roster-how-orlando-can-improve",
+    "source": "si.com",
+    "theme": "press",
+    "date": "2026-10-16T16:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Live - EU - Gipfel : Staats - und Regierungschefs stellen sich hinter Selenskyj",
+    "url": "https://de.euronews.com/2026/10/16/eu-gipfel-staats-und-regierungschefs-stellen-sich-hinter-selenskyj-im-streit-mit-trump",
+    "source": "de.euronews.com",
+    "theme": "press",
+    "date": "2026-10-16T11:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Poland : mounting power struggle over Constitutional Tribunal",
+    "url": "https://www.dw.com/en/poland-power-struggle-between-government-and-right-wing-opposition-over-constitutional-tribunal/a-79673699",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-10-16T11:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "AP News Summary at 5 : 18 a . m . EDT",
+    "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-5-18-a-m-edt/article_2f0087d9-baa3-54b8-8a19-63ad659f1fc7.html",
+    "source": "hngnews.com",
+    "theme": "press",
+    "date": "2026-10-16T10:00:00+00:00",
+    "countries": [
      "SI"
     ]
    }
@@ -401,7 +411,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "PT"
     ]
@@ -413,113 +423,13 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-18T22:26:08+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Macron vows to hold accountable those who sought to bring down Republic",
-    "url": "https://www.sthelensstar.co.uk/news/national/26647165.macron-vows-hold-accountable-sought-bring-republic/",
-    "source": "sthelensstar.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Macron vows to hold accountable those who sought to bring down Republic",
-    "url": "https://www.cambstimes.co.uk/news/national/26647165.macron-vows-hold-accountable-sought-bring-republic/",
-    "source": "cambstimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "France Macron vows to hold accountable those who sought to bring down the Republic",
-    "url": "https://www.wsbradio.com/news/world/paris-police-report/ZJH5HQEMQY6PRKQI4GWGDZ3ELU/",
-    "source": "wsbradio.com",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "France Macron vows to hold accountable those who sought to bring down the Republic",
-    "url": "https://www.wknofm.org/news-from-npr/2026-10-17/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
-    "source": "wknofm.org",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Macron vows to hold accountable those who sought to bring down Republic",
-    "url": "https://www.andoveradvertiser.co.uk/news/national/26647165.macron-vows-hold-accountable-sought-bring-republic/",
-    "source": "andoveradvertiser.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "A Rising Tide Lifted Floating Wind Turbines . Now Comes the Real Test . - Governor Wind Energy Coalition",
-    "url": "https://governorswindenergycoalition.org/a-rising-tide-lifted-floating-wind-turbines-now-comes-the-real-test/",
-    "source": "governorswindenergycoalition.org",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Latest Articles",
-    "url": "https://freerepublic.com/tag/*/index?more=4399629",
-    "source": "freerepublic.com",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
+    "date": "2026-10-19T04:42:49+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
   "IT": [
-   {
-    "title": "Over 160 Arrested in Milan , Italy , During Second Night of Looting , Report Says",
-    "url": "https://cedarnews.net/newstasks/1083153/over-160-arrested-in-milan-italy-during-second-night-of-looting-report-says/",
-    "source": "cedarnews.net",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "What Is Happening In France Will Also Happen Here In The United States Too",
-    "url": "http://theeconomiccollapseblog.com/what-is-happening-in-france-will-also-happen-here-in-the-united-states-too/",
-    "source": "theeconomiccollapseblog.com",
-    "theme": "press",
-    "date": "2026-10-18T19:00:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Sonatrach , Oxy Eye Expanded Cooperation in Berkine Basin – الشروق أونلاين",
-    "url": "https://www.echoroukonline.com/sonatrach-oxy-eye-expanded-cooperation-in-berkine-basin",
-    "source": "echoroukonline.com",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
    {
     "title": "Statement by Executive Vice-President Mînzatu ahead of the International Day for the Eradication of Poverty",
     "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2188",
@@ -534,607 +444,75 @@
   ],
   "GB": [
    {
-    "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
-    "source": "hellenicshippingnews.com",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
+    "title": "Banknote imagery advisory group minutes – 15 July 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-16T11:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Trump Courts Russia as Ukraine Faces a More Uncertain American Partner",
-    "url": "https://finchannel.com/trump-courts-russia-as-ukraine-faces-a-more-uncertain-american-partner/138644/americas/white-house-en/2026/10/",
-    "source": "finchannel.com",
-    "theme": "press",
-    "date": "2026-10-18T21:45:00+00:00",
+    "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-15T09:52:41+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Reform united kingdom suspends aspiring MP who said Muslims cant be British",
-    "url": "https://morningstaronline.co.uk/article/reform-uk-suspends-aspiring-mp-who-said-muslims-cant-be-british",
-    "source": "morningstaronline.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
+    "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-15T08:27:59+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Kate Winslet gave £17 , 000 to a mother facing soaring bills for her daughter life - support equipment ; a year later , the mother launched a fundraiser to help other families with energy costs",
-    "url": "https://timesofindia.indiatimes.com/world/uk/kate-winslet-gave-17000-to-a-mother-facing-soaring-bills-for-her-daughters-life-support-equipment-a-year-later-the-mother-launched-a-fundraiser-to-help-other-families-with-energy-costs/articleshow/135035027.cms",
-    "source": "timesofindia.indiatimes.com",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
+    "title": "Minutes of the Money Market Committee meeting – September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-13T15:04:27+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Sir David Jason felt sad looking back at lost Del Boy clips from peak of his career",
-    "url": "https://www.mirror.co.uk/tv/tv-news/only-fools-tessa-david-del-37784973",
-    "source": "mirror.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "US Treasury chief Bessent says",
-    "url": "http://www.russiaherald.com/news/279383235/us-treasury-chief-bessent-says-no-one-has-been-tougher-on-russian-sanctions-than-trump",
-    "source": "russiaherald.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "SNP have picked up the weakest of Believe in Scotland ideas",
-    "url": "https://www.thenational.scot/politics/26647660.snp-picked-weakest-believe-scotlands-ideas/",
-    "source": "thenational.scot",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "British Home Office report finds greater freedom for political activity in Bangladesh",
-    "url": "https://bdnews24.com/bangladesh/gwyua1vcwe",
-    "source": "bdnews24.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
+    "title": "CMORG holds sector-wide cloud outage simulation exercise",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-09T09:00:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
-  "NL": [
+  "FI": [
    {
-    "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-    "url": "http://www.russiaherald.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent",
-    "source": "russiaherald.com",
+    "title": "ANDREW NEIL : The orgy of violence in France makes a Right - wing Le Pen victory all but inevitable next year",
+    "url": "https://www.dailymail.com/debate/article-16219065/ANDREW-NEIL-orgy-violence-France-makes-Right-wing-Le-Pen-victory-inevitable-year.html",
+    "source": "dailymail.com",
     "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
+    "date": "2026-10-19T01:00:00+00:00",
     "countries": [
-     "NL"
+     "FI"
     ]
    },
    {
-    "title": "Leigh Hoffman wins second silver at UCI Track World Championships , Harrie Lavreysen wins 23rd world title - 19 - Oct - 2026",
-    "url": "https://home.nzcity.co.nz/news/article.aspx?id=456230&fm=psp,tst",
-    "source": "home.nzcity.co.nz",
-    "theme": "press",
-    "date": "2026-10-18T19:30:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-    "url": "http://www.shanghaisun.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent",
-    "source": "shanghaisun.com",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-    "url": "http://www.austinglobe.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent",
-    "source": "austinglobe.com",
-    "theme": "press",
-    "date": "2026-10-18T19:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-    "url": "http://www.hongkongherald.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent",
-    "source": "hongkongherald.com",
-    "theme": "press",
-    "date": "2026-10-18T19:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "We asked European allies to put secondary tariffs on India and China for buying Russian oil , they refused : Scott Bessent",
-    "url": "http://www.middleeaststar.com/news/279383190/we-asked-european-allies-to-put-secondary-tariffs-on-india-and-china-for-buying-russian-oil-they-refused-scott-bessent",
-    "source": "middleeaststar.com",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.oklahomacitysun.com/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "oklahomacitysun.com",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Top Solar Stocks To Keep An Eye On – October 18th",
-    "url": "https://www.dailypolitical.com/2026/10/18/top-solar-stocks-to-keep-an-eye-on-october-18th.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "France Macron vows to hold accountable those who sought to bring down the Republic during major protests",
-    "url": "https://krdo.com/news/national-world/cnn-world/2026/10/18/half-a-million-protesters-sweep-france-in-major-show-of-youth-unrest/",
-    "source": "krdo.com",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Washington Post photographer attacked by Israeli settlers in West Bank insulted by Netanyahu response",
-    "url": "https://www.wesh.com/article/washington-post-photographer-israel-west-bank-attack-netanyahu/74170763",
-    "source": "wesh.com",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "French police arrest 1 , 800 after clashes and looting",
-    "url": "https://morningstaronline.co.uk/article/french-police-arrest-1800-after-clashes-and-looting",
-    "source": "morningstaronline.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T21:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Washington Post photographer attacked by Israeli settlers in West Bank insulted by Netanyahu response",
-    "url": "https://www.wlwt.com/article/washington-post-photographer-israel-west-bank-attack-netanyahu/74170763",
-    "source": "wlwt.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Engie plans €3 billion investment in India by 2030",
-    "url": "https://economictimes.indiatimes.com/industry/renewables/engie-plans-3-billion-investment-in-india-by-2030/articleshow/135033696.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Washington Post photographer attacked by Israeli settlers in West Bank insulted by Netanyahu response",
-    "url": "https://www.gulfcoastnewsnow.com/article/washington-post-photographer-israel-west-bank-attack-netanyahu/74170763",
-    "source": "gulfcoastnewsnow.com",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Macron set to address nation after riots rock France - as arrest toll hits 2 , 000",
-    "url": "https://www.lbc.co.uk/article/macron-to-address-france-after-riots-5Hjdk5f_2/",
-    "source": "lbc.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Macron condemns violent riots in France and promises to help young people build a desirable future - as arrest toll hits 2 , 000",
-    "url": "https://www.lbc.co.uk/article/macron-promises-help-young-people-future-riots-5Hjdk5s_2/",
-    "source": "lbc.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "CH": [
-   {
-    "title": "Waste incineration : Expensive pollution | The Manila Times",
-    "url": "https://www.manilatimes.net/2026/10/19/opinion/columns/waste-incineration-expensive-pollution/2448221",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.afghanistannews.net/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "afghanistannews.net",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.jamaicantimes.com/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "jamaicantimes.com",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.azerbaijannews.net/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "azerbaijannews.net",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.nigeriasun.com/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "nigeriasun.com",
-    "theme": "press",
-    "date": "2026-10-18T18:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.newzealandstar.com/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "newzealandstar.com",
-    "theme": "press",
-    "date": "2026-10-18T18:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "UAE concludes participation in IMF & World Bank Group annual meetings in Bangkok",
-    "url": "http://www.southeastasiapost.com/news/279382895/uae-concludes-participation-in-imf-world-bank-group-annual-meetings-in-bangkok",
-    "source": "southeastasiapost.com",
-    "theme": "press",
-    "date": "2026-10-18T17:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "Why Ukraine freedom - loving Cossacks chose the Russian tsar",
-    "url": "http://www.russiaherald.com/news/279383162/why-ukraine-freedom-loving-cossacks-chose-the-russian-tsar",
-    "source": "russiaherald.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Russia war on Ukraine must be brought to an end , Zelenskyy says | Russia - Ukraine war News",
-    "url": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Zelenskyy Says Trump Risks Historic Mistake If He Backs Russia – Hartford Courant",
-    "url": "https://www.courant.com/2026/10/18/zelenskyy-says-trump-risks-historic-mistake-if-he-backs-russia/",
-    "source": "courant.com",
-    "theme": "press",
-    "date": "2026-10-18T20:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Ukraine - Russia war latest : Kyiv launches massive 1 , 000 - drone attack as US resumes intelligence sharing",
-    "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-sanctions-b3068692.html",
-    "source": "independent.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Ukrainian strike sparks major fire at Saint Petersburg oil refinery",
-    "url": "https://jowhar.com/ukrainian-strike-sparks-major-fire-at-saint-petersburg-oil-refinery/",
-    "source": "jowhar.com",
-    "theme": "press",
-    "date": "2026-10-18T19:15:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Jesse Eisenberg on The Debut , Kieran Culkin and Doing a TV Show Next",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-kieran-culkin-real-pain-debut-film-london-1236734749/",
-    "source": "hollywoodreporter.com",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.surinametimes.com/artikel/european-diplomats-attacked-by-israeli-settlers-in-west-bank",
-    "source": "surinametimes.com",
-    "theme": "press",
-    "date": "2026-10-18T18:00:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "CZ": [
-   {
-    "title": "Europe is not an ATM , Mr . Zelensky : Backlash over additional 70B euros demanded",
-    "url": "https://www.bankingnews.gr/diethni/articles/905808/europe-is-not-an-atm-mr-zelensky-backlash-over-additional-70b-euros-demanded",
-    "source": "bankingnews.gr",
-    "theme": "press",
-    "date": "2026-10-18T15:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Costa doing well but taking a bit of flak",
-    "url": "https://www.theportugalnews.com/news/2026-10-18/costa-doing-well-but-taking-a-bit-of-flak/1101431",
-    "source": "theportugalnews.com",
-    "theme": "press",
-    "date": "2026-10-18T15:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Leisure out of reach for one in eight people in the EU : Where is the problem biggest ?",
-    "url": "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-10-18T08:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Hong Kong Autumn Electronics Fair and electronicAsia attract over 61 , 000 buyers for sourcing , business opportunities",
-    "url": "https://prwire.com.au/pr/131626/hong-kong-autumn-electronics-fair-and-electronicasia-attract-over-61-000-buyers-for-sourcing-business-opportunities",
-    "source": "prwire.com.au",
-    "theme": "press",
-    "date": "2026-10-17T14:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Morning Briefing : Oct . 17 , 2026",
-    "url": "https://aa.com.tr/en/world/morning-briefing-oct-17-2026/4091615",
-    "source": "aa.com.tr",
-    "theme": "press",
-    "date": "2026-10-17T07:15:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Hong Kong Autumn Electronics Fair and electronicAsia attract over 61 , 000 buyers for sourcing , business opportunities – IT Business Net",
-    "url": "https://itbusinessnet.com/2026/10/hong-kong-autumn-electronics-fair-and-electronicasia-attract-over-61000-buyers-for-sourcing-business-opportunities/",
-    "source": "itbusinessnet.com",
-    "theme": "press",
-    "date": "2026-10-17T05:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   },
-   {
-    "title": "Seoul Power . A $200 Billion Korea Deal Puts Eight Reactors on the U . S . Table",
-    "url": "https://wattsupwiththat.com/2026/10/16/seoul-power-a-200-billion-korea-deal-puts-eight-reactors-on-the-u-s-table/",
-    "source": "wattsupwiththat.com",
-    "theme": "press",
-    "date": "2026-10-16T22:45:00+00:00",
-    "countries": [
-     "CZ"
-    ]
-   }
-  ],
-  "RO": [
-   {
-    "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump – WTOP News",
-    "url": "https://wtop.com/world/2026/10/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold/",
-    "source": "wtop.com",
-    "theme": "press",
-    "date": "2026-10-18T18:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Ukrainian Classical Music Wins International Recognition Despite Russia War",
-    "url": "https://www.kyivpost.com/post/87049",
-    "source": "kyivpost.com",
-    "theme": "press",
-    "date": "2026-10-18T17:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Echoes of history on stage : memory & extremism in The Papa , the Pogrom and the Parallel",
-    "url": "https://www.rri.ro/en/weekend-edition/echoes-of-history-on-stage-memory-extremism-in-the-papa-the-pogrom-and-the-parallel-id1072585.html",
-    "source": "rri.ro",
+    "title": "Forza Horizon Is No Longer the King of Video Game Road Trips",
+    "url": "https://www.polygon.com/american-truck-simulator-road-trip-forza-horizon/",
+    "source": "polygon.com",
     "theme": "press",
     "date": "2026-10-18T17:30:00+00:00",
     "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "U . S . Ambassador Darryl Nirenberg remarks at the Counter - Unmanned Aerial Systems Workshop",
-    "url": "https://nineoclock.ro/u-s-ambassador-darryl-nirenberg-remarks-at-the-counter-unmanned-aerial-systems-workshop/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-10-18T15:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "ParentED Fest experts : You dont have to be perfect , you have to be present – Nine O Clock – first exclusively daily publication to appear in English language in Romania",
-    "url": "https://nineoclock.ro/parented-fest-experts-you-dont-have-to-be-perfect-you-have-to-be-present/",
-    "source": "nineoclock.ro",
-    "theme": "press",
-    "date": "2026-10-18T15:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Russian oil finding its way to the West ? Indian refiner fuel exports to nations sanctioning Moscow jump 43 %",
-    "url": "https://www.livemint.com/news/world/russian-oil-finding-its-way-to-the-west-indian-refiners-fuel-exports-to-nations-sanctioning-moscow-jump-43-11792318976858.html",
-    "source": "livemint.com",
-    "theme": "press",
-    "date": "2026-10-18T12:30:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy advocates for sanctions | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-    "url": "https://www.arkansasonline.com/news/2026/oct/18/zelenskyy-advocates-for-sanctions/",
-    "source": "arkansasonline.com",
-    "theme": "press",
-    "date": "2026-10-18T09:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Zelenskyy advocates for sanctions | Northwest Arkansas Democrat - Gazette",
-    "url": "https://www.nwaonline.com/news/2026/oct/18/zelenskyy-advocates-for-sanctions/",
-    "source": "nwaonline.com",
-    "theme": "press",
-    "date": "2026-10-18T09:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   }
-  ],
-  "SE": [
-   {
-    "title": "Ellie Goulding in hypocrisy row after promoting pink diamonds from toxic mine",
-    "url": "https://www.mirror.co.uk/3am/celebrity-news/ellie-goulding-diamonds-boodles-argyle-37784662",
-    "source": "mirror.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Nine Days From The Dark : What Sixty Million People Learned About Water , Warmth , And Medicine During Spain Ten - Hour Blackout",
-    "url": "https://www.zerohedge.com/political/nine-days-dark-what-sixty-million-people-learned-about-water-warmth-and-medicine-during",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-10-18T18:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "San Jose Shark Ivar Stenberg knew Maple Leafs would not draft him",
-    "url": "https://www.mercurynews.com/2026/10/18/san-jose-sharks-ivar-stenberg-toronto-maple-leafs-gavin-mckenna/",
-    "source": "mercurynews.com",
-    "theme": "press",
-    "date": "2026-10-18T18:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "San Jose Shark Ivar Stenberg knew Maple Leafs would not draft him",
-    "url": "https://www.eastbaytimes.com/2026/10/18/san-jose-sharks-ivar-stenberg-toronto-maple-leafs-gavin-mckenna/",
-    "source": "eastbaytimes.com",
-    "theme": "press",
-    "date": "2026-10-18T17:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "San Jose Shark Ivar Stenberg knew Maple Leafs would not draft him",
-    "url": "https://www.times-standard.com/2026/10/18/san-jose-sharks-ivar-stenberg-toronto-maple-leafs-gavin-mckenna/",
-    "source": "times-standard.com",
-    "theme": "press",
-    "date": "2026-10-18T16:45:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "WXYC",
-    "url": "https://wxyc.org/blog/-chanel-beads-at-motorco-music-hall",
-    "source": "wxyc.org",
-    "theme": "press",
-    "date": "2026-10-18T16:45:00+00:00",
-    "countries": [
-     "SE"
+     "FI"
     ]
    },
    {
@@ -1144,171 +522,283 @@
     "theme": "press",
     "date": "2026-10-18T16:45:00+00:00",
     "countries": [
-     "SE"
+     "FI"
     ]
    },
    {
-    "title": "F - 22 Raptor pilot successfully demonstrates command of wingman fighter drone in simulated combat Anduril YFQ - 44A Fury test advances USAF program to integrate uncrewed aircraft into fighter squadrons",
-    "url": "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons",
-    "source": "tomshardware.com",
-    "theme": "press",
-    "date": "2026-10-18T16:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Britain biggest warship HMS Prince of Wales sets sail for the North Atlantic",
-    "url": "https://www.aol.co.uk/articles/britains-biggest-warship-hms-prince-174546000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-10-18T18:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "ELDER : The childish lies of Medicare for all",
-    "url": "https://torontosun.com/opinion/columnists/the-childish-lies-of-medicare-for-all",
-    "source": "torontosun.com",
-    "theme": "press",
-    "date": "2026-10-18T16:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Vietnam , Denmark work together to build greener , more prosperous , sustainable future",
-    "url": "https://vietnam.vnanet.vn/english/tin-van/vietnam-denmark-work-together-to-build-greener-more-prosperous-sustainable-future-472746.html",
-    "source": "vietnam.vnanet.vn",
-    "theme": "press",
-    "date": "2026-10-18T16:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Everyday Aussies raise record breaking $100m for sick kids",
-    "url": "https://www.perthnow.com.au/news/telethon/everyday-aussies-raise-record-breaking-100m-for-sick-kids-in-incredible-2026-telethon-c-23020217",
-    "source": "perthnow.com.au",
-    "theme": "press",
-    "date": "2026-10-18T14:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "ABC News reports North Korea border tour , whisky slump and farm vote ahead of US midterms",
-    "url": "https://newsroomamerica.com/a/DPQI2zhOYvauF70UR1a6Lq0XMkU/a_tourist_boat_came_within_100_metres_of_the_north_korean_shoreline_while_tasmanian_distillers_face_their_biggest_challenge_since_colonial_era_law.html",
-    "source": "newsroomamerica.com",
-    "theme": "press",
-    "date": "2026-10-18T13:00:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "In a 1986 field test , engineers added tiny vortex generators to turbine blades ; annual energy output rose nearly 6 % at one test site",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-a-1986-field-test-engineers-added-tiny-vortex-generators-to-turbine-blades-annual-energy-output-rose-nearly-6-at-one-test-site/articleshow/135010371.cms",
-    "source": "timesofindia.indiatimes.com",
+    "title": "Putin hometown hit by massive drone strike as Ukraine sets power plant ablaze",
+    "url": "https://www.dailystar.co.uk/news/world-news/putins-hometown-hit-massive-drone-37784086",
+    "source": "dailystar.co.uk",
     "theme": "press",
     "date": "2026-10-18T12:45:00+00:00",
     "countries": [
-     "DK"
+     "FI"
     ]
    },
    {
-    "title": "Taint not thy mind | The Arkansas Democrat - Gazette - Arkansa Best News Source",
-    "url": "https://www.arkansasonline.com/news/2026/oct/18/taint-not-thy-mind/",
-    "source": "arkansasonline.com",
+    "title": "St Petersburg on fire as Zelensky defies Trump again with massive strike hitting oil depot",
+    "url": "https://www.mirror.co.uk/news/world-news/st-petersburg-fire-zelensky-defies-37783952",
+    "source": "mirror.co.uk",
     "theme": "press",
-    "date": "2026-10-18T09:15:00+00:00",
+    "date": "2026-10-18T09:45:00+00:00",
     "countries": [
-     "DK"
+     "FI"
+    ]
+   },
+   {
+    "title": "St Petersburg on fire as Zelensky defies Trump again with massive strike hitting oil depot",
+    "url": "https://www.aol.co.uk/articles/st-petersburg-fire-zelensky-defies-070541000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-10-18T08:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Leisure out of reach for one in eight people in the EU : Where is the problem biggest ?",
+    "url": "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest",
+    "source": "euronews.com",
+    "theme": "press",
+    "date": "2026-10-18T08:15:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "A telegraph - era law cannot protect Malaysia digital lifelines",
+    "url": "https://www.freemalaysiatoday.com/category/opinion/2026/10/18/a-telegraph-era-law-cannot-protect-malaysia-s-digital-lifelines",
+    "source": "freemalaysiatoday.com",
+    "theme": "press",
+    "date": "2026-10-18T00:45:00+00:00",
+    "countries": [
+     "FI"
     ]
    }
   ],
-  "RS": [
+  "LV": [
    {
-    "title": "Serbia is entering a pivotal period and is deeply divided , says Ivan Nikolov , head of Bosilegrad Bulgarian Cultural Centre",
-    "url": "http://www.bgnes.com/no-filter/serbia-is-entering-a-pivotal-period-and-is-deeply-divided-says-ivan-nikolov-head-of-bosilegrad-s-bulgarian-cultural-centre",
-    "source": "bgnes.com",
+    "title": "Grass fire , fuelled by 96 km / hour winds , kills 4 soldiers , injures 39 at Canada Alberta army base during live - fire combat training",
+    "url": "https://www.hindustantimes.com/world-news/grass-fire-fuelled-by-96-km-per-hour-winds-kills-4-soldiers-injures-39-at-canada-military-base-alberta-wainwright-wade-rutland-live-fire-combat-101792379167868.html",
+    "source": "hindustantimes.com",
     "theme": "press",
-    "date": "2026-10-18T18:45:00+00:00",
+    "date": "2026-10-19T04:15:00+00:00",
     "countries": [
-     "RS"
+     "LV"
     ]
    },
    {
-    "title": "Beam Global Eyes Drone Growth With $24M ScoutDI Acquisition",
-    "url": "https://www.dailypolitical.com/2026/10/18/beam-global-eyes-drone-growth-with-24m-scoutdi-acquisition.html",
-    "source": "dailypolitical.com",
+    "title": "What weve learned about the fire at CFB Wainwright that killed four Canadian soldiers and injured 39",
+    "url": "https://calgaryherald.com:443/news/local-news/wainwright-alberta-canada-what-we-know/wcm/ffce5bb5-a2d8-4bfc-acb1-a9251cafb6b6",
+    "source": "calgaryherald.com",
     "theme": "press",
-    "date": "2026-10-18T10:30:00+00:00",
+    "date": "2026-10-19T01:00:00+00:00",
     "countries": [
-     "RS"
+     "LV"
     ]
    },
    {
-    "title": "Germany Probes Ex - Spy Chief Over Secret Files Leak",
-    "url": "https://slguardian.org/germany-probes-ex-spy-chief-over-secret-files-leak/",
-    "source": "slguardian.org",
+    "title": "Vitalijs Zavorotnijs Wins Poker Masters Event # 4 : $10 , 500 NLH",
+    "url": "https://www.pokernews.com/news/2026/10/brutal-full-house-cooler-decides-poker-masters-tournament-52620.htm",
+    "source": "pokernews.com",
     "theme": "press",
-    "date": "2026-10-17T07:30:00+00:00",
+    "date": "2026-10-17T03:00:00+00:00",
     "countries": [
-     "RS"
+     "LV"
     ]
    },
    {
-    "title": "Serbian populist leader Aleksandar Vucic returns to tragedy - hit Novi Sad for preelection rally",
-    "url": "https://mymotherlode.com/news/world/11227670/serbian-populist-leader-aleksandar-vucic-returns-to-tragedy-hit-novi-sad-for-preelection-rally.html",
-    "source": "mymotherlode.com",
-    "theme": "press",
-    "date": "2026-10-16T23:30:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbian populist leader Aleksandar Vucic returns to tragedy - hit Novi Sad for preelection rally",
-    "url": "https://www.clickondetroit.com/news/world/2026/10/16/serbian-populist-leader-aleksandar-vucic-returns-to-tragedy-hit-novi-sad-for-preelection-rally/",
-    "source": "clickondetroit.com",
+    "title": "Latvia confirms parliamentary election results , coalition talks in focus - Xinhua",
+    "url": "https://english.news.cn/europe/20261017/86f03f04ad4b44d08442565dce83b3ea/c.html",
+    "source": "english.news.cn",
     "theme": "press",
     "date": "2026-10-16T23:00:00+00:00",
     "countries": [
-     "RS"
+     "LV"
     ]
    },
    {
-    "title": "Innovation competition brings together Chinese , European young researchers",
-    "url": "http://www.theuknews.com/news/279379675/innovation-competition-brings-together-chinese-european-young-researchers",
-    "source": "theuknews.com",
+    "title": "Latvia confirms parliamentary election results , coalition talks in focus - Xinhua",
+    "url": "https://english.news.cn/20261017/282a552d4f6143aa819c58a9e1d345c6/c.html",
+    "source": "english.news.cn",
     "theme": "press",
-    "date": "2026-10-16T21:45:00+00:00",
+    "date": "2026-10-16T23:00:00+00:00",
     "countries": [
-     "RS"
+     "LV"
     ]
    },
    {
-    "title": "Serbian populist leader Aleksandar Vucic returns to tragedy - hit Novi Sad for preelection rally",
-    "url": "https://www.dailygazette.com/hv360/ap/world/serbian-populist-leader-aleksandar-vucic-returns-to-tragedy-hit-novi-sad-for-preelection-rally/article_5fb452a7-d0ea-54d5-9c08-b87795bb410f.html",
-    "source": "dailygazette.com",
+    "title": "Latvia confirms parliamentary election results , coalition talks in focus",
+    "url": "http://www.bignewsnetwork.com/news/279380047/latvia-confirms-parliamentary-election-results-coalition-talks-in-focus",
+    "source": "bignewsnetwork.com",
     "theme": "press",
-    "date": "2026-10-16T21:15:00+00:00",
+    "date": "2026-10-16T20:30:00+00:00",
     "countries": [
-     "RS"
+     "LV"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.wharfedaleobserver.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "wharfedaleobserver.co.uk",
+    "theme": "press",
+    "date": "2026-10-19T03:00:00+00:00",
+    "countries": [
+     "LT"
     ]
    },
    {
-    "title": "Innovation competition brings together Chinese , European young researchers",
-    "url": "http://www.singaporestar.com/news/279379675/innovation-competition-brings-together-chinese-european-young-researchers",
-    "source": "singaporestar.com",
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.irvinetimes.com/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "irvinetimes.com",
     "theme": "press",
-    "date": "2026-10-16T21:15:00+00:00",
+    "date": "2026-10-19T03:00:00+00:00",
     "countries": [
-     "RS"
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.kidderminstershuttle.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "kidderminstershuttle.co.uk",
+    "theme": "press",
+    "date": "2026-10-19T01:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.bicesteradvertiser.net/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "bicesteradvertiser.net",
+    "theme": "press",
+    "date": "2026-10-19T01:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.chelmsfordcitynews.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "chelmsfordcitynews.co.uk",
+    "theme": "press",
+    "date": "2026-10-19T01:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.bordertelegraph.com/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "bordertelegraph.com",
+    "theme": "press",
+    "date": "2026-10-19T01:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.asianimage.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "asianimage.co.uk",
+    "theme": "press",
+    "date": "2026-10-19T01:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+    "url": "https://www.peeblesshirenews.com/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+    "source": "peeblesshirenews.com",
+    "theme": "press",
+    "date": "2026-10-19T01:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Top Stocks in news : ICICI Bank , Vedanta , HDFC Bank , Power Grid , YES Bank , RailTel , Axis Bank , Ixigo",
+    "url": "https://www.businesstoday.in/markets/stocks/story/top-stocks-in-news-icici-bank-vedanta-hdfc-bank-power-grid-yes-bank-railtel-axis-bank-ixigo-562327-2026-10-19",
+    "source": "businesstoday.in",
+    "theme": "press",
+    "date": "2026-10-19T04:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Stocks to Watch Today : ICICI Bank , HDFC Bank , Axis Bank , GPT Infra , RailTel , ACME Solar , Yes Bank , Urban Company , Ixigo , LCC Projects , Zen Tech in focus on 19 October",
+    "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-icici-bank-hdfc-bank-axis-bank-gpt-infra-railtel-acme-solar-yes-bank-urban-company-ixigo-lcc-projects-zen-tech-in-focus-on-19-october-14054929.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-19T03:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Turkey Leads Importers Of Algerian LNG – الشروق أونلاين",
+    "url": "https://www.echoroukonline.com/turkey-leads-importers-of-algerian-lng",
+    "source": "echoroukonline.com",
+    "theme": "press",
+    "date": "2026-10-18T18:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Love story : I kept a secret from my partner for five years . It saved us - 18 - Oct - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=456204",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-10-18T01:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Love story : I kept a secret from my partner for five years . It saved us - 18 - Oct - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=456204&fm=psp,tsf",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-10-18T00:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Love story : I kept a secret from my partner for five years . It saved us",
+    "url": "https://www.abc.net.au/news/2026-10-18/love-story-secret-diagnosis-vinko-and-andrea/107096790",
+    "source": "abc.net.au",
+    "theme": "press",
+    "date": "2026-10-18T00:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Love story : I kept a secret from my partner for five years . It saved us - 18 - Oct - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=456204&fm=psp,tst",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-10-18T00:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "4 Things Travelers Should Know Before Booking A Cruise Shore Excursion , According To Experts",
+    "url": "https://www.aol.com/articles/4-things-travelers-know-booking-184000000.html",
+    "source": "aol.com",
+    "theme": "press",
+    "date": "2026-10-17T21:00:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
@@ -1371,18 +861,26 @@
   }
  },
  "errors": [
+  "gdelt/FR: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

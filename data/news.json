@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T13:33:59+00:00",
+ "generated": "2026-10-20T20:00:03+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,23 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-20T13:33:59+00:00",
+   "date": "2026-10-20T20:00:03+00:00",
+   "countries": []
+  },
+  {
+   "title": "Joint statement by Presidents von der Leyen and Costa",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2221",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-20T17:36:58+00:00",
+   "countries": []
+  },
+  {
+   "title": "Press remarks by Executive Vice-President Fitto and Commissioner Kadis on Vision 2040 for a thriving fisheries and aquaculture sector",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2219",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-20T14:43:17+00:00",
    "countries": []
   },
   {
@@ -42,27 +58,11 @@
    "countries": []
   },
   {
-   "title": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2205",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-19T22:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "EU Leaders discuss energy prices, budget, Ukraine during two-day summit in Brussels",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2197",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-19T12:07:03+00:00",
-   "countries": []
-  },
-  {
-   "title": "24th Recovery and Resilience Dialogue introductory remarks by Commissioner Dombrovskis",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2196",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-19T10:03:12+00:00",
+   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-19T06:00:00+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE",
      "EE"
@@ -84,7 +84,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE",
      "IE"
@@ -125,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261020_VerfahrenEnergie.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "DE",
      "IE"
@@ -183,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "AT",
      "SI"
@@ -196,79 +196,9 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "AT",
-     "SI"
-    ]
-   },
-   {
-    "title": "Krka National Park : Waterfalls , Tickets , Swimming Rules",
-    "url": "https://www.latimes.com/eta/travel-experiences/story/krka-national-park-croatia-waterfalls-guide",
-    "source": "latimes.com",
-    "theme": "press",
-    "date": "2026-10-20T12:00:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "It Can Happen Here and Everywhere : Democracy Is in Global Retreat",
-    "url": "https://newrepublic.com/article/216797/democracy-global-retreat-us-brazil-france",
-    "source": "newrepublic.com",
-    "theme": "press",
-    "date": "2026-10-20T11:45:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "If America really cared about mothers and Mother Earth ... – Baptist News Global",
-    "url": "https://baptistnews.com/article/if-america-really-cared-about-mothers-and-mother-earth/",
-    "source": "baptistnews.com",
-    "theme": "press",
-    "date": "2026-10-20T03:30:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Abby Trudell , CEO & Founder of Polarity in Budapest",
-    "url": "https://xpatloop.com/interviews/2026/abby-trudell-ceo-founder-of-polarity-in-budapest.html",
-    "source": "xpatloop.com",
-    "theme": "press",
-    "date": "2026-10-20T00:00:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Lakers season preview : Can Walker Kessler unlock an NBA championship run ?",
-    "url": "https://www.sbsun.com/2026/10/19/lakers-season-preview-can-walker-kessler-unlock-an-nba-championship-run/",
-    "source": "sbsun.com",
-    "theme": "press",
-    "date": "2026-10-19T20:30:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Lakers season preview : Can Walker Kessler unlock an NBA championship run ?",
-    "url": "https://www.pasadenastarnews.com/2026/10/19/lakers-season-preview-can-walker-kessler-unlock-an-nba-championship-run/",
-    "source": "pasadenastarnews.com",
-    "theme": "press",
-    "date": "2026-10-19T19:30:00+00:00",
-    "countries": [
-     "SI"
-    ]
-   },
-   {
-    "title": "Lakers season preview : Can Walker Kessler unlock an NBA championship run ?",
-    "url": "https://www.dailybreeze.com/2026/10/19/lakers-season-preview-can-walker-kessler-unlock-an-nba-championship-run/",
-    "source": "dailybreeze.com",
-    "theme": "press",
-    "date": "2026-10-19T18:45:00+00:00",
-    "countries": [
      "SI"
     ]
    }
@@ -279,7 +209,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "PT"
     ]
@@ -291,146 +221,645 @@
     "url": "https://www.acer.europa.eu/news/algorithmic-trading-energy-markets-features-again-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-20T13:33:59+00:00",
+    "date": "2026-10-20T20:00:03+00:00",
     "countries": [
      "FR"
     ]
    }
   ],
-  "BE": [
-   {
-    "title": "Commissioner Roswall's address at an event to mark the outcomes of the Structured Dialogue on Water in Belgium",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2198",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-19T13:20:22+00:00",
-    "countries": [
-     "DE",
-     "BE"
-    ]
-   }
-  ],
   "GB": [
    {
-    "title": "Banknote imagery advisory group minutes – 15 July 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-16T11:00:00+00:00",
+    "title": "DEWA International signs 4 MoUs with global partners during WETEX 2026",
+    "url": "http://www.bignewsnetwork.com/news/279388060/dewa-international-signs-4-mous-with-global-partners-during-wetex-2026",
+    "source": "bignewsnetwork.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-15T09:52:41+00:00",
+    "title": "What does public control of buses mean and can Scotland do it ?",
+    "url": "https://www.thenational.scot/news/26654241.public-control-buses-mean-can-scotland/",
+    "source": "thenational.scot",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-15T08:27:59+00:00",
+    "title": "Government to announce long - awaited decision on Jackdaw gas field",
+    "url": "https://www.cravenherald.co.uk/news/national/26655216.government-announce-long-awaited-decision-jackdaw-gas-field/",
+    "source": "cravenherald.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Minutes of the Money Market Committee meeting – September 2026",
-    "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-13T15:04:27+00:00",
+    "title": "Government to announce long - awaited decision on Jackdaw gas field",
+    "url": "https://www.newburytoday.co.uk/national/government-to-announce-long-awaited-decision-on-jackdaw-gas-field-173230/",
+    "source": "newburytoday.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Abu Dhabi advances united kingdom investment ties through London forum , 56 meetings",
+    "url": "http://www.coloradostar.com/news/279387596/abu-dhabi-advances-uk-investment-ties-through-london-forum-56-meetings",
+    "source": "coloradostar.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Government to announce long - awaited decision on Jackdaw gas field",
+    "url": "https://www.huntspost.co.uk/news/national/26655216.government-announce-long-awaited-decision-jackdaw-gas-field/",
+    "source": "huntspost.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Government to announce long - awaited decision on Jackdaw gas field",
+    "url": "https://www.stourbridgenews.co.uk/news/national/26655216.government-announce-long-awaited-decision-jackdaw-gas-field/",
+    "source": "stourbridgenews.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Government to announce long - awaited decision on Jackdaw gas field",
+    "url": "https://www.kilburntimes.co.uk/news/national/26655216.government-announce-long-awaited-decision-jackdaw-gas-field/",
+    "source": "kilburntimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
-  "ES": [
+  "IT": [
    {
-    "title": "Europe Intelligence Brief for Tuesday , October 20 , 2026",
-    "url": "https://www.riotimesonline.com/europe-intelligence-brief-tuesday-october-20-2026/",
+    "title": "World most beautiful arenas of 2026 named by Prix Versailles | News",
+    "url": "https://archinect.com/news/bustler/11166/world-s-most-beautiful-arenas-of-2026-named-by-prix-versailles",
+    "source": "archinect.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "What to pack for 4 bucket - list adventure destinations , from desert canyons to Patagonian peaks",
+    "url": "https://www.wape.com/news/what-pack-4-bucket/QGAI4BV4I4YTHFJPFTOUSSCMUI/",
+    "source": "wape.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Fact check : Trump blames France immigrants for riots without evidence",
+    "url": "https://www.pasadenastarnews.com/2026/10/20/fact-check-trump-france-protests/",
+    "source": "pasadenastarnews.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "What to pack for 4 bucket - list adventure destinations , from desert canyons to Patagonian peaks",
+    "url": "https://harrisondaily.com/syndicated/what-to-pack-for-4-bucket-list-adventure-destinations-from-desert-canyons-to-patagonian-peaks",
+    "source": "harrisondaily.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Fact check : Trump blames France immigrants for riots without evidence",
+    "url": "https://www.journal-advocate.com/2026/10/20/fact-check-trump-france-protests/",
+    "source": "journal-advocate.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Fact check : Trump blames France immigrants for riots without evidence",
+    "url": "https://www.capitalgazette.com/2026/10/20/fact-check-trump-france-protests/",
+    "source": "capitalgazette.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Fact check : Trump blames France immigrants for riots without evidence",
+    "url": "https://www.bostonherald.com/2026/10/20/fact-check-trump-france-protests/",
+    "source": "bostonherald.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "5 , 000 gather in Brussels as EU regions demand a stronger voice amid growing calls for budget cuts",
+    "url": "https://www.baltictimes.com/5_000_gather_in_brussels_as_eu_regions_demand_a_stronger_voice_amid_growing_calls_for_budget_cuts/",
+    "source": "baltictimes.com",
+    "theme": "press",
+    "date": "2026-10-20T13:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Petr Jákl : Jan Žižka movie is Braveheart about a Czech hero | Radio Prague International",
+    "url": "https://english.radio.cz/petr-jakl-jan-zizka-movie-braveheart-about-a-czech-hero-8760698",
+    "source": "english.radio.cz",
+    "theme": "press",
+    "date": "2026-10-19T10:45:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Germany Unsure on Cuba Embargo Vote at the UN Oct 28",
+    "url": "https://www.riotimesonline.com/germany-cuba-embargo-vote-un-2026/",
     "source": "riotimesonline.com",
     "theme": "press",
-    "date": "2026-10-20T13:00:00+00:00",
+    "date": "2026-10-19T07:30:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
     ]
    },
    {
-    "title": "France in turmoil : What might follow a weekend of riots ?",
-    "url": "https://www.moneycontrol.com/world/france-in-turmoil-what-might-follow-a-weekend-of-riots-article-14056046.html",
-    "source": "moneycontrol.com",
+    "title": "Knowledge without action : why Europe research on illiberalism must be put to work",
+    "url": "https://www.epc.eu/publication/knowledge-without-action-why-europes-research-on-illiberalism-must-be-put-to-work-/",
+    "source": "epc.eu",
     "theme": "press",
-    "date": "2026-10-20T12:45:00+00:00",
+    "date": "2026-10-18T18:30:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
     ]
    },
    {
-    "title": "France riots : Leftist groups in 13 countries plotting next demonstrations",
-    "url": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
-    "source": "foxnews.com",
+    "title": "The illiberal playbook : patterns , networks , and what democracies can do",
+    "url": "https://www.epc.eu/publication/the-illiberal-playbook-patterns-networks-and-what-democracies-can-do/",
+    "source": "epc.eu",
     "theme": "press",
-    "date": "2026-10-20T12:15:00+00:00",
+    "date": "2026-10-18T18:30:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
     ]
    },
    {
-    "title": "Festival Journal : They are going to Astra Film Festival . Look how many there are !",
-    "url": "https://nineoclock.ro/festival-journal-they-are-going-to-astra-film-festival-look-how-many-there-are/",
-    "source": "nineoclock.ro",
+    "title": "Europe is not an ATM , Mr . Zelensky : Backlash over additional 70B euros demanded",
+    "url": "https://www.bankingnews.gr/diethni/articles/905808/europe-is-not-an-atm-mr-zelensky-backlash-over-additional-70b-euros-demanded",
+    "source": "bankingnews.gr",
     "theme": "press",
-    "date": "2026-10-20T12:00:00+00:00",
+    "date": "2026-10-18T15:45:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
     ]
    },
    {
-    "title": "Explainer - France in turmoil : What might follow a weekend of riots ?",
-    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/explainer-france-in-turmoil-what-might-follow-a-weekend-of-riots",
-    "source": "internazionale.it",
+    "title": "Costa doing well but taking a bit of flak",
+    "url": "https://www.theportugalnews.com/news/2026-10-18/costa-doing-well-but-taking-a-bit-of-flak/1101431",
+    "source": "theportugalnews.com",
     "theme": "press",
-    "date": "2026-10-20T12:00:00+00:00",
+    "date": "2026-10-18T15:15:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
     ]
    },
    {
-    "title": "Ukraine War , Day 1 , 699 : Trump - Russia Has Been Fine . They Havent Been Doing Much",
-    "url": "https://eaworldview.com/2026/10/ukraine-war-trump-russia-has-been-fine-they-havent-been-doing-much/",
-    "source": "eaworldview.com",
+    "title": "Leisure out of reach for one in eight people in the EU : Where is the problem biggest ?",
+    "url": "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest",
+    "source": "euronews.com",
     "theme": "press",
-    "date": "2026-10-20T12:00:00+00:00",
+    "date": "2026-10-18T08:15:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
+    ]
+   }
+  ],
+  "SK": [
+   {
+    "title": "Mochovce Fourth Unit Boosts Slovakia Energy Independence - Topical Issue - Rádio RSI English",
+    "url": "https://enrsi.stvr.sk/articles/topical-issue/465358/mochovces-fourth-unit-boosts-slovakias-energy-independence",
+    "source": "enrsi.stvr.sk",
+    "theme": "press",
+    "date": "2026-10-20T13:30:00+00:00",
+    "countries": [
+     "SK"
     ]
    },
    {
-    "title": "Yan Diomande set for RB Leipzig reunion in UEFA Champions League clash with Real Madrid",
-    "url": "https://www.bundesliga.com/en/bundesliga/news/yan-diomande-real-madrid-leipzig-reunion-champions-league-demichelis-39589",
-    "source": "bundesliga.com",
+    "title": "It Can Happen Here and Everywhere : Democracy Is in Global Retreat",
+    "url": "https://newrepublic.com/article/216797/democracy-global-retreat-us-brazil-france",
+    "source": "newrepublic.com",
     "theme": "press",
     "date": "2026-10-20T11:45:00+00:00",
     "countries": [
-     "ES"
+     "SK"
     ]
    },
    {
-    "title": "Milei arrives in Madrid mid - campaign and will meet Ayuso but not Sánchez",
-    "url": "https://en.mercopress.com/2026/10/20/milei-arrives-in-madrid-mid-campaign-and-will-meet-ayuso-but-not-sanchez",
-    "source": "en.mercopress.com",
+    "title": "Bel Fuse ( NASDAQ : BELFA ) vs . CPS Technologies ( NASDAQ : CPSH ) Critical Analysis",
+    "url": "https://www.tickerreport.com/banking-finance/13626479/bel-fuse-nasdaqbelfa-vs-cps-technologies-nasdaqcpsh-critical-analysis.html",
+    "source": "tickerreport.com",
     "theme": "press",
-    "date": "2026-10-20T11:45:00+00:00",
+    "date": "2026-10-20T07:15:00+00:00",
     "countries": [
-     "ES"
+     "SK"
+    ]
+   },
+   {
+    "title": "If America really cared about mothers and Mother Earth ... – Baptist News Global",
+    "url": "https://baptistnews.com/article/if-america-really-cared-about-mothers-and-mother-earth/",
+    "source": "baptistnews.com",
+    "theme": "press",
+    "date": "2026-10-20T03:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "What college wrestling fans should know about the 2026 senior men freestyle world team",
+    "url": "https://www.ncaa.com/news/wrestling-men/article/2026-10-19/what-college-wrestling-fans-should-know-about-2026-senior-mens-freestyle-world",
+    "source": "ncaa.com",
+    "theme": "press",
+    "date": "2026-10-19T21:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Europe Weighs More Ukraine Support as Trump Waives Sanctions",
+    "url": "https://www.kyivpost.com/post/87519",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-10-19T17:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Rubio Meets Central Asian Leaders in Bid to Boost Trade , Security",
+    "url": "https://www.theepochtimes.com/world/rubio-meets-central-asian-leaders-in-bid-to-boost-trade-security-6105826",
+    "source": "theepochtimes.com",
+    "theme": "press",
+    "date": "2026-10-19T17:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Opinion : Putin Expands His Hybrid War to the Black Sea",
+    "url": "https://www.kyivpost.com/opinion/87469",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-10-19T17:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Zelensky Lands in Norway for Peace Talks With Trump Envoy",
+    "url": "https://www.kyivpost.com/post/87636",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-10-20T18:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Russia Hits Kyiv Cardiology Institute Operating Room",
+    "url": "https://www.kyivpost.com/post/87654",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-10-20T18:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Vance Blows Open Split as Trump Approval Plummets",
+    "url": "https://www.thedailybeast.com/vance-blows-open-split-as-trumps-approval-plummets",
+    "source": "thedailybeast.com",
+    "theme": "press",
+    "date": "2026-10-20T17:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "207 Motherwell jobs at risk as Resideo and Honeywell plan closures",
+    "url": "https://www.glasgowtimes.co.uk/news/26653868.207-motherwell-jobs-risk-resideo-honeywell-plan-closures/",
+    "source": "glasgowtimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T17:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Azerbaijan plays independent role globally , Hungarian envoy says",
+    "url": "https://www.trend.az/azerbaijan/politics/4237192.html",
+    "source": "trend.az",
+    "theme": "press",
+    "date": "2026-10-20T16:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Between Vucic and the future : Five post - election scenarios for Serbia – European Council on Foreign Relations",
+    "url": "https://ecfr.eu/article/between-vucic-and-the-future-five-post-election-scenarios-for-serbia/",
+    "source": "ecfr.eu",
+    "theme": "press",
+    "date": "2026-10-20T16:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Vance declines to endorse Netanyahu after Trump offers full support for re - election",
+    "url": "https://thefrontierpost.com/vance-declines-to-endorse-netanyahu-after-trump-offers-full-support-for-re-election/",
+    "source": "thefrontierpost.com",
+    "theme": "press",
+    "date": "2026-10-20T15:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Herzog in Hungary : Alliance of freedom - loving nations critical to confronting Iran",
+    "url": "https://www.israelnationalnews.com/news/434895",
+    "source": "israelnationalnews.com",
+    "theme": "press",
+    "date": "2026-10-20T15:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "Paddy Power to axe 1 , 400 jobs as united kingdom gambling tax increases reshape industry economics - London Business News",
+    "url": "https://londonlovesbusiness.com/paddy-power-to-axe-1400-jobs-as-uk-gambling-tax-increases-reshape-industry-economics/",
+    "source": "londonlovesbusiness.com",
+    "theme": "press",
+    "date": "2026-10-20T18:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "PNL spokesperson : Governing responsibility rests with PSD , PM ; political dividing lines now clear",
+    "url": "https://agerpres.ro/english/2026/10/20/pnl-spokesperson-governing-responsibility-rests-with-psd-pm-political-dividing-lines-now-clear--1605084",
+    "source": "agerpres.ro",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Guilt and Innocence Are Elusive in the Allegorical Legal Thriller Fjord",
+    "url": "https://washingtoncitypaper.com/article/793175/guilt-and-innocence-are-elusive-in-the-allegorical-legal-thriller-fjord/",
+    "source": "washingtoncitypaper.com",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "China built more than twice naval tonnage of US in 2024 - 25 : Euronaval",
+    "url": "https://www.navytimes.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
+    "source": "navytimes.com",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Decree appointing Niculescu government published in Romania Official Gazette",
+    "url": "https://agerpres.ro/english/2026/10/20/decree-appointing-niculescu-government-published-in-romania-s-official-gazette--1605099",
+    "source": "agerpres.ro",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Paddy Power owner to axe 1 , 400 jobs after Labour gambling tax raid",
+    "url": "https://www.cityam.com/paddy-power-owner-to-axe-1400-jobs-after-labour-gambling-tax-raid/",
+    "source": "cityam.com",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Romanian lawmakers back a minority government to end monthslong stalemate",
+    "url": "https://www.airdriecityview.com/world-news/romanian-lawmakers-back-a-minority-government-to-end-monthslong-stalemate-12914058",
+    "source": "airdriecityview.com",
+    "theme": "press",
+    "date": "2026-10-20T17:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Romania political crisis gets 6 - month truce as new government formed – POLITICO",
+    "url": "https://www.politico.eu/article/romania-political-crisis-gets-6-month-truce-as-new-government-formed-luca-niculescu/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-20T17:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   }
+  ],
+  "NO": [
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.thisiswiltshire.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "thisiswiltshire.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.lancashiretelegraph.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "lancashiretelegraph.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.dorsetecho.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "dorsetecho.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.dailyecho.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "dailyecho.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "International News Briefs for Tuesday , October 20 , 2026",
+    "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-october-20-2026/",
+    "source": "havanatimes.org",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.cravenherald.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "cravenherald.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Zelensky says early warning system resumes following Rubio call",
+    "url": "https://www.leaderlive.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+    "source": "leaderlive.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "EU pushes for stronger Arctic presence amid Russian pressure and US uncertainty",
+    "url": "https://www.aol.co.uk/articles/eu-pushes-stronger-arctic-presence-181544000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "EU unveils a new Arctic push as global warming and security threats reshape the region",
+    "url": "https://www.wsls.com/business/2026/10/20/eu-unveils-a-new-arctic-push-as-global-warming-and-security-threats-reshape-the-region/",
+    "source": "wsls.com",
+    "theme": "press",
+    "date": "2026-10-20T18:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "EU unveils a new Arctic push as global warming and security threats reshape the region",
+    "url": "https://abcnews.com/International/wireStory/eu-unveils-new-arctic-push-global-warming-security-137410994",
+    "source": "abcnews.com",
+    "theme": "press",
+    "date": "2026-10-20T18:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "EU unveils a new Arctic push as global warming and security threats reshape the region",
+    "url": "https://www.news4jax.com/business/2026/10/20/eu-unveils-a-new-arctic-push-as-global-warming-and-security-threats-reshape-the-region/",
+    "source": "news4jax.com",
+    "theme": "press",
+    "date": "2026-10-20T17:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Data Centers Are Key Targets in Today Wars",
+    "url": "https://foreignpolicy.com/2026/10/20/data-centers-russia-ukraine-iran-gulf-internet-ai/?tpcc=recirc_trending062921",
+    "source": "foreignpolicy.com",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Polestar tries to quantify what it like to drive a performance car",
+    "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+    "source": "arstechnica.com",
+    "theme": "press",
+    "date": "2026-10-20T17:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "5 things the EU wants to change about its Arctic policy",
+    "url": "https://www.politico.eu/article/5-things-the-eu-wants-to-change-about-its-arctic-policy/",
+    "source": "politico.eu",
+    "theme": "press",
+    "date": "2026-10-20T17:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "EU Arctic policy addresses Russian , US security and climate",
+    "url": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-10-20T17:15:00+00:00",
+    "countries": [
+     "SE"
     ]
    }
   ]
@@ -494,29 +923,22 @@
  },
  "errors": [
   "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

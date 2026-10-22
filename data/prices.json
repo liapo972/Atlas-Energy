@@ -1,475 +1,424 @@
 {
- "generated": "2026-10-21T13:01:16+00:00",
- "day": "2026-10-20",
+ "generated": "2026-10-22T12:58:56+00:00",
+ "day": "2026-10-21",
  "metrics": {
   "price": {
+   "FR": {
+    "value": 158.8,
+    "currency": "EUR"
+   },
    "DE": {
-    "value": 206.73,
+    "value": 181.94,
     "currency": "EUR"
    },
    "NL": {
-    "value": 194.33,
+    "value": 176.4,
     "currency": "EUR"
    },
    "BE": {
-    "value": 203.32,
+    "value": 174.28,
     "currency": "EUR"
    },
    "IE": {
-    "value": 228.95,
+    "value": 247.7,
     "currency": "EUR"
    },
    "CH": {
-    "value": 241.07,
+    "value": 231.77,
     "currency": "EUR"
    },
    "AT": {
-    "value": 239.66,
+    "value": 230.0,
     "currency": "EUR"
    },
    "ES": {
-    "value": 162.92,
+    "value": 154.76,
     "currency": "EUR"
    },
    "PT": {
-    "value": 172.7,
+    "value": 156.6,
     "currency": "EUR"
    },
    "IT": {
-    "value": 261.17,
+    "value": 246.53,
     "currency": "EUR"
    },
    "PL": {
-    "value": 170.74,
+    "value": 193.65,
     "currency": "EUR"
    },
    "CZ": {
-    "value": 205.22,
+    "value": 205.9,
     "currency": "EUR"
    },
    "SK": {
-    "value": 244.72,
+    "value": 233.18,
     "currency": "EUR"
    },
    "HU": {
-    "value": 289.7,
+    "value": 257.85,
     "currency": "EUR"
    },
    "RO": {
-    "value": 276.53,
+    "value": 248.72,
     "currency": "EUR"
    },
    "GR": {
-    "value": 246.02,
+    "value": 222.93,
     "currency": "EUR"
    },
    "BG": {
-    "value": 271.36,
+    "value": 247.65,
+    "currency": "EUR"
+   },
+   "NO": {
+    "value": 153.03,
     "currency": "EUR"
    },
    "SE": {
-    "value": 95.87,
+    "value": 69.01,
     "currency": "EUR"
    },
    "DK": {
-    "value": 188.82,
+    "value": 173.17,
     "currency": "EUR"
    },
-   "FR": {
-    "value": 215.47,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
-   },
-   "NO": {
-    "value": 173.15,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
-   },
    "FI": {
-    "value": 44.24,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 29.2,
+    "currency": "EUR"
    },
    "EE": {
-    "value": 117.71,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 62.85,
+    "currency": "EUR"
    },
    "LV": {
-    "value": 167.4,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 65.16,
+    "currency": "EUR"
    },
    "LT": {
-    "value": 168.38,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 65.16,
+    "currency": "EUR"
    },
    "SI": {
-    "value": 257.64,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 233.91,
+    "currency": "EUR"
    },
    "HR": {
-    "value": 265.9,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 236.33,
+    "currency": "EUR"
    },
    "RS": {
-    "value": 308.65,
-    "currency": "EUR",
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 233.24,
+    "currency": "EUR"
    }
   },
   "load": {
    "FR": {
-    "value": 1186.3
-   },
-   "NL": {
-    "value": 230.3
-   },
-   "BE": {
-    "value": 239.0
-   },
-   "CH": {
-    "value": 167.6
-   },
-   "AT": {
-    "value": 163.5
-   },
-   "ES": {
-    "value": 641.7
-   },
-   "PT": {
-    "value": 144.4
-   },
-   "IT": {
-    "value": 471.0
-   },
-   "PL": {
-    "value": 491.5
-   },
-   "CZ": {
-    "value": 182.7
-   },
-   "SK": {
-    "value": 73.6
-   },
-   "HU": {
-    "value": 123.6
-   },
-   "RO": {
-    "value": 142.3
-   },
-   "GR": {
-    "value": 126.2
-   },
-   "BG": {
-    "value": 97.3
-   },
-   "NO": {
-    "value": 106.1
-   },
-   "SE": {
-    "value": 240.9
-   },
-   "DK": {
-    "value": 73.2
+    "value": 1210.9
    },
    "DE": {
-    "value": 1349.1,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 1447.0
+   },
+   "NL": {
+    "value": 244.0
+   },
+   "BE": {
+    "value": 235.9
+   },
+   "CH": {
+    "value": 178.1
+   },
+   "AT": {
+    "value": 169.0
+   },
+   "ES": {
+    "value": 641.0
+   },
+   "PT": {
+    "value": 147.1
+   },
+   "IT": {
+    "value": 462.3
+   },
+   "PL": {
+    "value": 469.2
+   },
+   "CZ": {
+    "value": 179.8
+   },
+   "SK": {
+    "value": 71.7
+   },
+   "HU": {
+    "value": 118.8
+   },
+   "RO": {
+    "value": 142.1
+   },
+   "GR": {
+    "value": 126.6
+   },
+   "BG": {
+    "value": 97.1
+   },
+   "NO": {
+    "value": 105.9
+   },
+   "SE": {
+    "value": 232.2
+   },
+   "DK": {
+    "value": 72.6
    },
    "FI": {
-    "value": 267.2,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 249.2
    },
    "EE": {
-    "value": 20.0,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 20.8
    },
    "LV": {
-    "value": 21.7,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 22.4
    },
    "LT": {
-    "value": 37.5,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 37.9
    },
    "SI": {
-    "value": 37.9,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 41.2
    },
    "HR": {
-    "value": 45.7,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 49.6
    },
    "RS": {
-    "value": 91.9,
-    "asof": "2026-10-19",
-    "stale": true
+    "value": 91.5
    }
   },
   "storage": {
    "FR": {
-    "value": 87.5,
-    "asof": "2026-10-19"
+    "value": 87.4,
+    "asof": "2026-10-20"
    },
    "DE": {
-    "value": 61.2,
-    "asof": "2026-10-19"
+    "value": 61.1,
+    "asof": "2026-10-20"
    },
    "NL": {
     "value": 64.7,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "BE": {
-    "value": 66.2,
-    "asof": "2026-10-19"
+    "value": 65.9,
+    "asof": "2026-10-20"
    },
    "AT": {
-    "value": 69.1,
-    "asof": "2026-10-19"
+    "value": 68.8,
+    "asof": "2026-10-20"
    },
    "ES": {
-    "value": 78.5,
-    "asof": "2026-10-19"
+    "value": 78.7,
+    "asof": "2026-10-20"
    },
    "PT": {
     "value": 95.5,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "IT": {
     "value": 90.0,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "PL": {
     "value": 98.7,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "CZ": {
-    "value": 77.0,
-    "asof": "2026-10-19"
+    "value": 76.9,
+    "asof": "2026-10-20"
    },
    "SK": {
-    "value": 55.0,
-    "asof": "2026-10-19"
+    "value": 54.9,
+    "asof": "2026-10-20"
    },
    "HU": {
-    "value": 77.6,
-    "asof": "2026-10-19"
+    "value": 77.7,
+    "asof": "2026-10-20"
    },
    "RO": {
     "value": 86.9,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "BG": {
-    "value": 83.0,
-    "asof": "2026-10-19"
+    "value": 83.5,
+    "asof": "2026-10-20"
    },
    "DK": {
-    "value": 83.8,
-    "asof": "2026-10-19"
+    "value": 84.0,
+    "asof": "2026-10-20"
    },
    "LV": {
     "value": 50.0,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "HR": {
-    "value": 82.1,
-    "asof": "2026-10-19"
+    "value": 82.2,
+    "asof": "2026-10-20"
    }
   },
   "netwd": {
    "FR": {
-    "value": 209.4,
-    "asof": "2026-10-19"
+    "value": 183.7,
+    "asof": "2026-10-20"
    },
    "DE": {
-    "value": -77.2,
-    "asof": "2026-10-19"
+    "value": 272.4,
+    "asof": "2026-10-20"
    },
    "NL": {
-    "value": -124.8,
-    "asof": "2026-10-19"
+    "value": -101.3,
+    "asof": "2026-10-20"
    },
    "BE": {
-    "value": -22.2,
-    "asof": "2026-10-19"
+    "value": 22.8,
+    "asof": "2026-10-20"
    },
    "AT": {
-    "value": 96.9,
-    "asof": "2026-10-19"
+    "value": 283.9,
+    "asof": "2026-10-20"
    },
    "ES": {
-    "value": -52.9,
-    "asof": "2026-10-19"
+    "value": -51.9,
+    "asof": "2026-10-20"
    },
    "PT": {
     "value": 0.0,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "IT": {
-    "value": -200.3,
-    "asof": "2026-10-19"
+    "value": -156.5,
+    "asof": "2026-10-20"
    },
    "PL": {
-    "value": 43.0,
-    "asof": "2026-10-19"
+    "value": -10.3,
+    "asof": "2026-10-20"
    },
    "CZ": {
-    "value": 43.6,
-    "asof": "2026-10-19"
+    "value": 54.2,
+    "asof": "2026-10-20"
    },
    "SK": {
-    "value": 32.5,
-    "asof": "2026-10-19"
+    "value": 37.2,
+    "asof": "2026-10-20"
    },
    "HU": {
-    "value": 22.0,
-    "asof": "2026-10-19"
+    "value": -36.5,
+    "asof": "2026-10-20"
    },
    "RO": {
-    "value": -68.0,
-    "asof": "2026-10-19"
+    "value": -5.4,
+    "asof": "2026-10-20"
    },
    "BG": {
-    "value": -36.4,
-    "asof": "2026-10-19"
+    "value": -34.9,
+    "asof": "2026-10-20"
    },
    "DK": {
-    "value": -5.3,
-    "asof": "2026-10-19"
+    "value": -15.4,
+    "asof": "2026-10-20"
    },
    "LV": {
     "value": -0.6,
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "HR": {
-    "value": -3.9,
-    "asof": "2026-10-19"
+    "value": -5.6,
+    "asof": "2026-10-20"
    }
   },
   "lng": {
    "FR": {
-    "value": 730.4,
+    "value": 700.7,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "DE": {
-    "value": 226.7,
+    "value": 228.1,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "NL": {
-    "value": 890.9,
+    "value": 800.7,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "BE": {
-    "value": 342.0,
+    "value": 310.7,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "ES": {
-    "value": 682.8,
+    "value": 805.1,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "PT": {
     "value": 172.8,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "IT": {
-    "value": 318.2,
+    "value": 241.6,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "PL": {
-    "value": 194.7,
+    "value": 253.9,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "GR": {
-    "value": 98.1,
+    "value": 75.9,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "FI": {
-    "value": 0.0,
+    "value": 102.0,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "LT": {
     "value": 0.0,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    },
    "HR": {
     "value": 46.2,
     "unit": "GWh/j",
     "field": "sendOut",
-    "asof": "2026-10-19"
+    "asof": "2026-10-20"
    }
   }
  },
- "carried": 17,
+ "carried": 0,
  "errors": [
   "gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"United Kingdom (Pre-Brexit)\", \"code\": \"GB\", \"url\": \"GB\", \"updatedAt\": \"2026-10-20 22:01:55\", \"gasDayStart\": \"2026-10-19\", \"gasDayEnd\": \"2026-10-20\", \"inventory\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"sendOut\": \"-\", \"dtmi\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"dtrs\": \"-\", \"contractedCapacity\": \"-\", \"availableCapacity\": \"-\", \"coveredCapacity\": \"-\", \"info\": [], \"status\": \"N\"}",
+  "lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"United Kingdom (Pre-Brexit)\", \"code\": \"GB\", \"url\": \"GB\", \"updatedAt\": \"2026-10-21 22:01:56\", \"gasDayStart\": \"2026-10-20\", \"gasDayEnd\": \"2026-10-21\", \"inventory\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"sendOut\": \"-\", \"dtmi\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"dtrs\": \"-\", \"contractedCapacity\": \"-\", \"availableCapacity\": \"-\", \"coveredCapacity\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
   "netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
-  "lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"SE\", \"code\": \"SE\", \"url\": \"SE\", \"gasDayStart\": \"2026-10-19\", \"inventory\": \"-\", \"sendOut\": \"-\", \"dtmi\": \"-\", \"dtrs\": \"-\", \"info\": [], \"status\": \"N\"}",
+  "lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"SE\", \"code\": \"SE\", \"url\": \"SE\", \"gasDayStart\": \"2026-10-20\", \"inventory\": \"-\", \"sendOut\": \"-\", \"dtmi\": \"-\", \"dtrs\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "price/FR: RuntimeError: HTTP 527 — {\"uuAppErrorMap\":{\"uu-gateway-router/interruptedConnection\":{\"id\":\"091a96a46523d84e04d6c94a0406b8a1\",\"timestamp\":\"2026-10-21T12:55:23.542Z\",\"type\":\"error\",\"mess",
-  "load/DE: RuntimeError: HTTP 599 — {\"uuAppErrorMap\":{\"uu-gateway-router/connectTimeout\":{\"id\":\"ba382e7cddae7c93de668cec9aee765e\",\"timestamp\":\"2026-10-21T12:55:15.718Z\",\"type\":\"error\",\"message\":\"U",
-  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-10-20T00:00:00Z/2026-10-21T00:00:00Z.",
-  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-10-20T00:00:00Z/2026-10-21T00:00:00Z.",
-  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-10-20T00:00:00Z/2026-10-21T00:00:00Z.",
-  "price/NO: RuntimeError: HTTP 599 — {\"uuAppErrorMap\":{\"uu-gateway-router/connectTimeout\":{\"id\":\"965bceddfa2181f756a74d6636b6e779\",\"timestamp\":\"2026-10-21T13:00:13.544Z\",\"type\":\"error\",\"message\":\"U",
-  "price/FI: RuntimeError: TimeoutError: The read operation timed out",
-  "load/FI: RuntimeError: TimeoutError: The read operation timed out",
-  "price/EE: RuntimeError: TimeoutError: The read operation timed out",
-  "load/EE: RuntimeError: TimeoutError: The read operation timed out",
-  "price/LV: butoir atteint",
-  "load/LV: butoir atteint",
-  "price/LT: butoir atteint",
-  "load/LT: butoir atteint",
-  "price/SI: butoir atteint",
-  "load/SI: butoir atteint",
-  "price/HR: butoir atteint",
-  "load/HR: butoir atteint",
-  "price/RS: butoir atteint",
-  "load/RS: butoir atteint"
+  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-10-21T00:00:00Z/2026-10-22T00:00:00Z.",
+  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-10-21T00:00:00Z/2026-10-22T00:00:00Z.",
+  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-10-21T00:00:00Z/2026-10-22T00:00:00Z."
  ]
 }

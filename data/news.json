@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T18:48:04+00:00",
+ "generated": "2026-10-24T22:29:05+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-24T18:48:04+00:00",
+   "date": "2026-10-24T22:29:05+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE",
      "EE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE",
      "IE"
@@ -135,7 +135,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01122026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE"
     ]
@@ -157,79 +157,9 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE",
-     "EE"
-    ]
-   },
-   {
-    "title": "Melania Trump brokers ceasefire deal in Russian - occupied Ukrainian city",
-    "url": "https://www.messenger-inquirer.com/news/national/melania-trump-brokers-ceasefire-deal-in-russian-occupied-ukrainian-city/article_4db57e96-fd86-5fb2-aa68-b5727af02fa5.html",
-    "source": "messenger-inquirer.com",
-    "theme": "press",
-    "date": "2026-10-24T09:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Grocery prices across Europe : Where is food most expensive and why ?",
-    "url": "https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why",
-    "source": "euronews.com",
-    "theme": "press",
-    "date": "2026-10-24T05:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "White House announces Melania Trump secured ceasefire in Russian - occupied Ukrainian city",
-    "url": "https://www.wcax.com/2026/10/23/white-house-announces-melania-trump-secures-ceasefire-russian-occupied-ukrainian-city/",
-    "source": "wcax.com",
-    "theme": "press",
-    "date": "2026-10-24T02:45:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Melania Trump brokers a ceasefire deal in Russian - occupied Ukrainian city to get relief aid in",
-    "url": "http://www.reflector.com/news/national/melania-trump-brokers-a-ceasefire-deal-in-russian-occupied-ukrainian-city-to-get-relief-aid/article_4e1925fa-e10c-5e32-8238-9eb6f74d69e9.html",
-    "source": "reflector.com",
-    "theme": "press",
-    "date": "2026-10-24T02:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Ukrainian negotiator : Local humanitarian ceasefire with Russia starts Tuesday",
-    "url": "https://www.wvgazettemail.com/ap/washington/ukrainian-negotiator-local-humanitarian-ceasefire-with-russia-starts-tuesday/article_ae4446e1-2e4e-5fee-a62b-e8034c1e989a.html",
-    "source": "wvgazettemail.com",
-    "theme": "press",
-    "date": "2026-10-23T23:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A Warning From France",
-    "url": "http://www.zerohedge.com/geopolitical/warning-france",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-10-23T10:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Baltic Assembly Prizes and Medals Award Ceremony 2026",
-    "url": "https://www.baltasam.org/BA_Medals_Award_Ceremony_2026",
-    "source": "baltasam.org",
-    "theme": "press",
-    "date": "2026-10-23T10:00:00+00:00",
-    "countries": [
      "EE"
     ]
    }
@@ -240,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "DE",
      "IE"
@@ -253,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "AT",
      "SI"
@@ -266,7 +196,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "AT",
      "SI"
@@ -279,7 +209,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T18:48:04+00:00",
+    "date": "2026-10-24T22:29:05+00:00",
     "countries": [
      "PT"
     ]
@@ -363,141 +293,17 @@
     ]
    }
   ],
-  "FI": [
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.wpbf.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "wpbf.com",
-    "theme": "press",
-    "date": "2026-10-24T18:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.mynbc5.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "mynbc5.com",
-    "theme": "press",
-    "date": "2026-10-24T17:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.wmtw.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "wmtw.com",
-    "theme": "press",
-    "date": "2026-10-24T17:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "This is the only Linux distro that worth running on your smartphone",
-    "url": "https://www.howtogeek.com/this-is-the-only-linux-distro-thats-worth-running-on-your-smartphone/",
-    "source": "howtogeek.com",
-    "theme": "press",
-    "date": "2026-10-24T17:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.wgal.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "wgal.com",
-    "theme": "press",
-    "date": "2026-10-24T17:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.gulfcoastnewsnow.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "gulfcoastnewsnow.com",
-    "theme": "press",
-    "date": "2026-10-24T17:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "What to know about the Melania Trump - brokered ceasefire in Russian - occupied Oleshky",
-    "url": "https://www.ksbw.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633",
-    "source": "ksbw.com",
-    "theme": "press",
-    "date": "2026-10-24T17:00:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   },
-   {
-    "title": "The unofficial must - have every Brit needs to prep for Doomsday",
-    "url": "https://metro.co.uk/2026/10/24/unofficial-must-have-every-brit-needs-prep-doomsday-29736269/",
-    "source": "metro.co.uk",
-    "theme": "press",
-    "date": "2026-10-24T16:15:00+00:00",
-    "countries": [
-     "FI"
-    ]
-   }
-  ],
-  "LV": [
-   {
-    "title": "Blaze that killed 4 on Canadian military base sparked on grenade launcher range",
-    "url": "https://www.aol.com/articles/blaze-killed-4-canadian-military-025034000.html",
-    "source": "aol.com",
-    "theme": "press",
-    "date": "2026-10-23T04:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "CAF to provide update on fatal CFB Wainwright brush fire",
-    "url": "https://edmontonjournal.com:443/news/cfb-wainwright-brush-fire-update",
-    "source": "edmontonjournal.com",
-    "theme": "press",
-    "date": "2026-10-22T18:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Telia Q3 2026 Revenue Rises to SEK 21 . 3 Billion as Profit , Broadband and AI Adoption Grow",
-    "url": "https://telecomlead.com/5g/telia-q3-2026-revenue-rises-to-sek-21-3-billion-as-profit-broadband-and-ai-adoption-grow-128305",
-    "source": "telecomlead.com",
-    "theme": "press",
-    "date": "2026-10-22T06:00:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Curious What Canada PM Considers Threat to Peace",
-    "url": "https://original.antiwar.com/yves_engler/2026/10/21/curious-what-canadas-pm-considers-threat-to-peace/",
-    "source": "original.antiwar.com",
-    "theme": "press",
-    "date": "2026-10-22T03:30:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   },
-   {
-    "title": "Stephen Golub : Betrayal",
-    "url": "https://beniciaindependent.com/stephen-golub-betrayal/",
-    "source": "beniciaindependent.com",
-    "theme": "press",
-    "date": "2026-10-21T22:45:00+00:00",
-    "countries": [
-     "LV"
-    ]
-   }
-  ],
   "HR": [
+   {
+    "title": "October 24 , 2026 UPDATE - Radio Romania International",
+    "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-24-2026-update-id1075112.html",
+    "source": "rri.ro",
+    "theme": "press",
+    "date": "2026-10-24T19:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
    {
     "title": "How Ben & Jerry became a beacon of brand bravery",
     "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
@@ -539,6 +345,16 @@
     ]
    },
    {
+    "title": "Beneath the Surface : Why EU Social Aid Isnt Lifting People Out of Poverty",
+    "url": "https://english.pravda.ru/news/business/170564-eu-social-safety-net-poverty-gap/",
+    "source": "english.pravda.ru",
+    "theme": "press",
+    "date": "2026-10-23T04:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
     "title": "Three Maritime Strike Groups Spearhead NATO Neptune Strike 26 - 4",
     "url": "https://theaviationist.com/2026/10/23/three-maritime-strike-groups-spearhead-natos-neptune-strike-26-4/",
     "source": "theaviationist.com",
@@ -554,26 +370,6 @@
     "source": "boxingnews24.com",
     "theme": "press",
     "date": "2026-10-23T02:30:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Riots in Europe could happen here * WorldNetDaily * by Andy Schlafly",
-    "url": "https://www.wnd.com/2026/10/riots-europe-could-happen-here/",
-    "source": "wnd.com",
-    "theme": "press",
-    "date": "2026-10-22T23:15:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "The funeral where the worlds of power , politics and organised crime came together",
-    "url": "https://www.smh.com.au/national/the-funeral-where-the-worlds-of-power-politics-and-organised-crime-came-together-20261023-p6151i.html",
-    "source": "smh.com.au",
-    "theme": "press",
-    "date": "2026-10-22T19:15:00+00:00",
     "countries": [
      "HR"
     ]
@@ -622,8 +418,9 @@
    "items": 10
   },
   "National Gas": {
-   "ok": false,
-   "tried": "https://www.nationalgas.com/rss.xml -> HTTPError"
+   "ok": true,
+   "url": "https://www.nationalgas.com/rss.xml",
+   "items": 10
   },
   "Statnett": {
    "ok": true,
@@ -637,7 +434,6 @@
   }
  },
  "errors": [
-  "National Gas: https://www.nationalgas.com/rss.xml -> HTTPError",
   "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
@@ -654,11 +450,14 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
+  "gdelt/GR: URLError",
+  "gdelt/BG: URLError",
+  "gdelt/NO: URLError",
+  "gdelt/SE: URLError",
+  "gdelt/DK: URLError",
+  "gdelt/FI: URLError",
+  "gdelt/EE: URLError",
+  "gdelt/LV: URLError",
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/RS: HTTPError",

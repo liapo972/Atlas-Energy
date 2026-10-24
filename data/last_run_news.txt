@@ -7,18 +7,17 @@ Flux RSS : 11 sources
   OK   Fed — politique monétaire https://www.federalreserve.gov/feeds/press_monetary.xml
   OK   Bank of England          https://www.bankofengland.co.uk/rss/news
   OK   GRTgaz                   https://www.grtgaz.com/rss.xml
-  MORT National Gas             https://www.nationalgas.com/rss.xml -> HTTPError
+  OK   National Gas             https://www.nationalgas.com/rss.xml
   OK   Statnett                 https://www.statnett.no/en/rss/
   OK   Bundesnetzagentur        https://www.bundesnetzagentur.de/rss.xml
 Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
-  pays servis : 12 / 28
-  duree       : 126s
+  pays servis : 10 / 28
+  duree       : 138s
 
---- 26 avertissements ---
-  ! National Gas: https://www.nationalgas.com/rss.xml -> HTTPError
+--- 28 avertissements ---
   ! gdelt/FR: HTTPError
   ! gdelt/DE: HTTPError
   ! gdelt/NL: HTTPError
@@ -35,11 +34,14 @@ Requetes GDELT pays : 28
   ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
   ! gdelt/RO: HTTPError
-  ! gdelt/GR: HTTPError
-  ! gdelt/BG: HTTPError
-  ! gdelt/NO: HTTPError
-  ! gdelt/SE: HTTPError
-  ! gdelt/DK: HTTPError
+  ! gdelt/GR: URLError
+  ! gdelt/BG: URLError
+  ! gdelt/NO: URLError
+  ! gdelt/SE: URLError
+  ! gdelt/DK: URLError
+  ! gdelt/FI: URLError
+  ! gdelt/EE: URLError
+  ! gdelt/LV: URLError
   ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
   ! gdelt/RS: HTTPError

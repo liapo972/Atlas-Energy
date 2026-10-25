@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:29:05+00:00",
+ "generated": "2026-10-25T04:43:38+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-24T22:29:05+00:00",
+   "date": "2026-10-25T04:43:38+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE",
      "EE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -135,7 +135,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01122026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "DE",
      "IE"
@@ -183,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -196,7 +196,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
     "countries": [
      "AT",
      "SI"
@@ -209,7 +209,77 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-24T22:29:05+00:00",
+    "date": "2026-10-25T04:43:38+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Europe swarmed by wave of protests as people march in France , Albania , Italy , Spain , Portugal",
+    "url": "http://www.asiabulletin.com/news/279397163/europe-swarmed-by-wave-of-protests-as-people-march-in-france-albania-italy-spain-portugal",
+    "source": "asiabulletin.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Protests Sweep Europe Over Rising Costs , Clashes Erupt in Many Countries",
+    "url": "https://www.deccanchronicle.com/world/europe/protests-sweep-europe-over-rising-costs-clashes-erupt-in-many-countries-1998640",
+    "source": "deccanchronicle.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Clashes break out in Paris , other French cities amid fresh protests",
+    "url": "https://www.vanguardngr.com/2026/10/clashes-break-out-in-paris-other-french-cities-amid-fresh-protests/",
+    "source": "vanguardngr.com",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Italian police wield batons , French fire tear gas at latest protests",
+    "url": "https://www.theage.com.au/world/europe/italian-police-wield-batons-french-fire-tear-gas-at-latest-protests-20261025-p618bn.html",
+    "source": "theage.com.au",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Italian police wield batons , French fire tear gas at latest protests",
+    "url": "https://www.watoday.com.au/world/europe/italian-police-wield-batons-french-fire-tear-gas-at-latest-protests-20261025-p618bn.html",
+    "source": "watoday.com.au",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Arab News | Clashes break out in Paris and other French cities amid fresh protests",
+    "url": "https://www.arabnews.com/world/clashes-break-out-in-paris-and-other-french-cities-amid-fresh-protests-3008019",
+    "source": "arabnews.com",
+    "theme": "press",
+    "date": "2026-10-24T18:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "French police arrest 135 people amid protests as far - right National Rally opens congress in Orleans",
+    "url": "http://www.greekherald.com/news/279396501/french-police-arrest-135-people-amid-protests-as-far-right-national-rally-opens-congress-in-orleans",
+    "source": "greekherald.com",
+    "theme": "press",
+    "date": "2026-10-24T16:00:00+00:00",
     "countries": [
      "PT"
     ]
@@ -217,26 +287,164 @@
   ],
   "HU": [
    {
-    "title": "Speech by President von der Leyen to the Hungarian National Assembly on the occasion of the 70th anniversary of the Hungarian Revolution of 1956",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2251",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-23T09:40:50+00:00",
+    "title": "Caspian - Black Sea - Europe energy project valued at €22B",
+    "url": "https://news.az/news/caspian-black-sea-europe-energy-project-valued-at-22b",
+    "source": "news.az",
+    "theme": "press",
+    "date": "2026-10-24T16:15:00+00:00",
     "countries": [
-     "DE",
+     "HU"
+    ]
+   },
+   {
+    "title": "Europe must wake up , but to what reality ? The far right and the new social contract",
+    "url": "https://aa.com.tr/en/opinion/opinion-europe-must-wake-up-but-to-what-reality-the-far-right-and-the-new-social-contract/4099368",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-10-24T13:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Black Sea underwater power cable project targets first operations in 2032",
+    "url": "https://www.azernews.az/nation/266138.html",
+    "source": "azernews.az",
+    "theme": "press",
+    "date": "2026-10-24T13:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Feasibility study for Green Energy Corridor completed",
+    "url": "https://en.apa.az/energy-and-industry/feasibility-study-for-green-energy-corridor-completed-531991",
+    "source": "en.apa.az",
+    "theme": "press",
+    "date": "2026-10-24T12:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "mutual strategic strikes on targets in the rear ......",
+    "url": "https://yourdemocracy.net/drupal/node/61540",
+    "source": "yourdemocracy.net",
+    "theme": "press",
+    "date": "2026-10-24T11:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Preliminary schedule of Caspian - Black Sea - Europe Green Energy Corridor made public",
+    "url": "https://www.trend.az/azerbaijan/4238711.html",
+    "source": "trend.az",
+    "theme": "press",
+    "date": "2026-10-24T10:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Caspian - Black Sea - Europe Green Energy Corridor requires €14 . 3 billion in transmission investment",
+    "url": "https://www.trend.az/azerbaijan/4238719.html",
+    "source": "trend.az",
+    "theme": "press",
+    "date": "2026-10-24T10:15:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Magyar vows 1956 fire will never be extinguished on his watch",
+    "url": "https://www.budapesttimes.hu/hungary/magyar-vows-1956s-fire-will-never-be-extinguished-on-his-watch/",
+    "source": "budapesttimes.hu",
+    "theme": "press",
+    "date": "2026-10-24T07:15:00+00:00",
+    "countries": [
      "HU"
     ]
    }
   ],
   "IT": [
    {
-    "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-    "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-    "source": "BCE",
-    "theme": "policy",
-    "date": "2026-10-21T04:15:00+00:00",
+    "title": "Thai group PTT , Eni set up JV for offshore Abu Dhabi concession",
+    "url": "https://tradearabia.com:443/News/488407/Thai-group-PTT-Eni-set-up-JV-for-offshore-Abu-Dhabi-concession",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
     "countries": [
-     "DE",
+     "IT"
+    ]
+   },
+   {
+    "title": "Soldiers guard center of Milan , Italy as thousands of protesters march in cities across Europe",
+    "url": "https://abc30.com/story/soldiers-guard-center-milan-italy-thousands-protesters-march-cities-europe/19976583/",
+    "source": "abc30.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Shell Green Dream Goes Bust : Battery Pioneer Sonnen Files for Insolvency Just Two Months After Oil Giant Sells It – Royal Dutch Shell Plc . com",
+    "url": "https://royaldutchshellplc.com/2026/10/24/shells-green-dream-goes-bust-battery-pioneer-sonnen-files-for-insolvency-just-two-months-after-oil-giant-sells-it/",
+    "source": "royaldutchshellplc.com",
+    "theme": "press",
+    "date": "2026-10-24T23:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "APPO Seeks Stronger African Oil Firms As IOCs Secure Exploration Deals",
+    "url": "https://leadership.ng/appo-seeks-stronger-african-oil-firms-as-iocs-secure-exploration-deals/",
+    "source": "leadership.ng",
+    "theme": "press",
+    "date": "2026-10-24T23:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Soldiers sent to Milan as thousands of protesters march across European cities",
+    "url": "https://www.irvinetimes.com/news/national/26667118.soldiers-sent-milan-thousands-protesters-march-across-european-cities/",
+    "source": "irvinetimes.com",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Soldiers sent to Milan as thousands of protesters march across European cities",
+    "url": "https://www.harwichandmanningtreestandard.co.uk/news/national/26667118.soldiers-sent-milan-thousands-protesters-march-across-european-cities/",
+    "source": "harwichandmanningtreestandard.co.uk",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Soldiers sent to Milan as thousands of protesters march across European cities",
+    "url": "https://www.hillingdontimes.co.uk/news/national/26667118.soldiers-sent-milan-thousands-protesters-march-across-european-cities/",
+    "source": "hillingdontimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Soldiers sent to Milan as thousands of protesters march across European cities",
+    "url": "https://www.ilfordrecorder.co.uk/news/national/26667118.soldiers-sent-milan-thousands-protesters-march-across-european-cities/",
+    "source": "ilfordrecorder.co.uk",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
      "IT"
     ]
    }
@@ -293,7 +501,17 @@
     ]
    }
   ],
-  "HR": [
+  "PL": [
+   {
+    "title": "the class struggle is developing objectively .....",
+    "url": "https://yourdemocracy.net/drupal/node/61542",
+    "source": "yourdemocracy.net",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
    {
     "title": "October 24 , 2026 UPDATE - Radio Romania International",
     "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/october-24-2026-update-id1075112.html",
@@ -301,17 +519,57 @@
     "theme": "press",
     "date": "2026-10-24T19:15:00+00:00",
     "countries": [
-     "HR"
+     "PL"
     ]
    },
    {
-    "title": "How Ben & Jerry became a beacon of brand bravery",
-    "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
-    "source": "creativebloq.com",
+    "title": "Typhoon cuts off power to parts of Taiwan",
+    "url": "https://www.manilatimes.net/2026/10/25/world/asia-oceania/typhoon-cuts-off-power-to-parts-of-taiwan/2453262",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-10-24T17:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "« We will take Novorossiya » - Trump : 200 % tariffs on Ukraine and Russia - Fierce clash between Musk and Polish foreign minister",
+    "url": "https://www.bankingnews.gr/diethni/articles/906995/we-will-take-novorossiya-trump-200-tariffs-on-ukraine-and-russia-fierce-clash-between-musk-and-polish-foreign-minister",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-10-24T16:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Economic Power of Cuba Military and GAESA : A Key Barrier to Democratic Transition , Study Finds",
+    "url": "https://www.cubaheadlines.com/articles/343673",
+    "source": "cubaheadlines.com",
+    "theme": "press",
+    "date": "2026-10-24T15:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Poddar Plumbing opens Rs 1 , 000 - crore manufacturing facility in Karnataka Vemagal",
+    "url": "https://www.moneycontrol.com/news/business/poddar-plumbing-opens-rs-1-000-crore-manufacturing-facility-in-karnataka-s-vemagal-14059224.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-24T15:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "What next ? - The Hindu",
+    "url": "https://www.thehindu.com/education/optimise-your-resume/article71603219.ece",
+    "source": "thehindu.com",
     "theme": "press",
     "date": "2026-10-24T15:00:00+00:00",
     "countries": [
-     "HR"
+     "PL"
     ]
    },
    {
@@ -320,6 +578,388 @@
     "source": "bankingnews.gr",
     "theme": "press",
     "date": "2026-10-24T13:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "No . 3 UND suffers first loss of the season at Minnesota",
+    "url": "https://740thefan.com/2026/10/22/no-3-und-suffers-first-loss-of-the-season-at-minnesota/",
+    "source": "740thefan.com",
+    "theme": "press",
+    "date": "2026-10-23T07:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "No . 3 UND suffers first loss of the season at Minnesota",
+    "url": "https://kfgo.com/2026/10/22/no-3-und-suffers-first-loss-of-the-season-at-minnesota/",
+    "source": "kfgo.com",
+    "theme": "press",
+    "date": "2026-10-23T06:00:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta | Drayton Valley Western Review",
+    "url": "https://www.draytonvalleywesternreview.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "draytonvalleywesternreview.com",
+    "theme": "press",
+    "date": "2026-10-23T01:15:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta",
+    "url": "https://www.wetaskiwintimes.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "wetaskiwintimes.com",
+    "theme": "press",
+    "date": "2026-10-23T00:00:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta",
+    "url": "https://www.vermilionstandard.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "vermilionstandard.com",
+    "theme": "press",
+    "date": "2026-10-23T00:00:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta",
+    "url": "https://www.fortmcmurraytoday.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "fortmcmurraytoday.com",
+    "theme": "press",
+    "date": "2026-10-23T00:00:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta | Peace River Record Gazette",
+    "url": "https://www.prrecordgazette.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "prrecordgazette.com",
+    "theme": "press",
+    "date": "2026-10-23T00:00:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Chorney - Booth : Bread Water brews a beer that tastes like Alberta",
+    "url": "https://www.sprucegroveexaminer.com:443/life/chorney-booth-bread-water-beer-co-brews-a-beer-designed-to-taste-like-alberta",
+    "source": "sprucegroveexaminer.com",
+    "theme": "press",
+    "date": "2026-10-22T23:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "Netflix Layoffs , You Can See Everything Oscar Prospects & More",
+    "url": "https://deadline.com/lists/the-weekend-read-netflix-layoffs-you-can-see-everything/",
+    "source": "deadline.com",
+    "theme": "press",
+    "date": "2026-10-24T15:45:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Renewables news : BluEnergy , Altaaqa Renewables , Vikram Solar",
+    "url": "https://greentechlead.com/energy-news/renewables-news-bluenergy-altaaqa-renewables-vikram-solar-56126",
+    "source": "greentechlead.com",
+    "theme": "press",
+    "date": "2026-10-24T14:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Koretsky discusses defense , energy , and logistics with Romanian PM",
+    "url": "https://en.interfax.com.ua/news/general/1225626.html",
+    "source": "en.interfax.com.ua",
+    "theme": "press",
+    "date": "2026-10-24T14:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "Where to find value in frontier markets",
+    "url": "https://moneyweek.com/investments/emerging-markets/where-to-find-value-in-frontier-markets",
+    "source": "moneyweek.com",
+    "theme": "press",
+    "date": "2026-10-24T12:15:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "Masdar boosts Greek portfolio with major solar project buy",
+    "url": "https://tradearabia.com:443/News/488410/Masdar-boosts-Greek-portfolio-with-major-solar-project-buy/IND",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Masdar boosts Greek portfolio with major solar project buy",
+    "url": "https://tradearabia.com:443/News/488410/Masdar-boosts-Greek-portfolio-with-major-solar-project-buy/OGN",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Masdar boosts Greek portfolio with major solar project buy",
+    "url": "https://tradearabia.com:443/News/488410/Masdar-boosts-Greek-portfolio-with-major-solar-project-buy",
+    "source": "tradearabia.com",
+    "theme": "press",
+    "date": "2026-10-25T03:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Libya signals readiness for talks with Egypt amid dispute over maritime deal with Türkiye",
+    "url": "https://news.az/news/libya-signals-readiness-for-talks-with-egypt-amid-dispute-over-maritime-deal-with-turkiye",
+    "source": "news.az",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Abu Dhabi Firm in Talks for Eni Libya Stake",
+    "url": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-10-24T18:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Could France Crisis Happen In America ?",
+    "url": "http://www.zerohedge.com/geopolitical/could-frances-crisis-happen-america",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-10-24T17:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "What Rubio Athens speech left out",
+    "url": "https://www.theblaze.com/columns/opinion/what-rubios-athens-speech-left-out",
+    "source": "theblaze.com",
+    "theme": "press",
+    "date": "2026-10-24T17:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount - Grant Thornton Sounds €3 . 7 Billion Gas Alarm : Greece Faces a Costly Winter as Europe Energy Risks Mount",
+    "url": "https://www.inewsgr.com/330/Grant-Thornton-Sounds-37-Billion-Gas-Alarm-Greece-Faces-a-Costly-Winter-as-Europes-Energy-Risks-Mount.htm",
+    "source": "inewsgr.com",
+    "theme": "press",
+    "date": "2026-10-24T17:00:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "Chronicle . lu",
+    "url": "https://www.chronicle.lu/opinion/23188-preparing-for-the-unexpected-lessons-from-luxembourgs-72-hour-emergency-guide",
+    "source": "chronicle.lu",
+    "theme": "press",
+    "date": "2026-10-24T21:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "I hope they know I care about them , Connor Hellebuyck says to Jets fans after trade – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/breakingnews/2026/10/24/i-hope-they-know-i-care-about-them-connor-hellebuyck-says-to-jets-fans-after-trade",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-10-24T19:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Retail Stocks To Consider – October 24th",
+    "url": "https://www.themarketsdaily.com/2026/10/24/retail-stocks-to-consider-october-24th.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-10-24T19:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "2027 Polls : Expert Warns Against Post - Election Crisis , Proposes National Commission",
+    "url": "https://saharareporters.com/2026/10/23/2027-polls-expert-warns-against-post-election-crisis-proposes-national-commission",
+    "source": "saharareporters.com",
+    "theme": "press",
+    "date": "2026-10-24T18:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How reliant is Ukraine on US support – and could Kyiv carry on without it ?",
+    "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/how-reliant-is-ukraine-on-us-support-and-could-kyiv-carry-on-without-it/",
+    "source": "abc17news.com",
+    "theme": "press",
+    "date": "2026-10-24T17:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "World Largest Militaries in 2026 : India Has the 2nd Biggest Force , Check Full Rankings",
+    "url": "https://www.jagranjosh.com/general-knowledge/worlds-largest-militaries-in-2026-india-has-the-2nd-most-troops-which-country-leads-in-3-parameters-check-full-rankings-for-air-navy-ground-power-1820013317-1",
+    "source": "jagranjosh.com",
+    "theme": "press",
+    "date": "2026-10-24T15:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "The Beatles Anthology 3 30th Anniversary – 1996 Release Noise11 Music News | News",
+    "url": "https://www.noise11.com/news/beatles-anthology-3-30th-20261025",
+    "source": "noise11.com",
+    "theme": "press",
+    "date": "2026-10-24T15:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How much does Ukraine still rely on US support ?",
+    "url": "https://www.wjcl.com/article/how-reliant-ukraine-us-support-kyiv-russia-war/74237015",
+    "source": "wjcl.com",
+    "theme": "press",
+    "date": "2026-10-24T15:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "China Sanctions On Taiwan Allies Project Its Power , But With Limited Effect - Analysis",
+    "url": "https://www.eurasiareview.com/24102026-chinas-sanctions-on-taiwan-allies-project-its-power-but-with-limited-effect-analysis/",
+    "source": "eurasiareview.com",
+    "theme": "press",
+    "date": "2026-10-24T01:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "A Warning From France",
+    "url": "http://www.zerohedge.com/geopolitical/warning-france",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-10-23T10:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Baltic Assembly Prizes and Medals Award Ceremony 2026",
+    "url": "https://www.baltasam.org/BA_Medals_Award_Ceremony_2026",
+    "source": "baltasam.org",
+    "theme": "press",
+    "date": "2026-10-23T10:00:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "A Warning From France",
+    "url": "https://www.zerohedge.com/geopolitical/warning-france",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-10-23T09:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "LRT English Newsletter : More drones",
+    "url": "https://www.lrt.lt/en/news-in-english/19/3090386/lrt-english-newsletter-more-drones",
+    "source": "lrt.lt",
+    "theme": "press",
+    "date": "2026-10-23T05:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Three Maritime Strike Groups Spearhead NATO Neptune Strike 26 - 4",
+    "url": "https://theaviationist.com/2026/10/23/three-maritime-strike-groups-spearhead-natos-neptune-strike-26-4/",
+    "source": "theaviationist.com",
+    "theme": "press",
+    "date": "2026-10-23T02:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Estonia on the edge as Russia - NATO tensions rise",
+    "url": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
+    "source": "thehindu.com",
+    "theme": "press",
+    "date": "2026-10-23T02:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Russia Hybrid War : Why Europe Is Failing to Stop Drone Attacks and Sabotage",
+    "url": "https://foreignpolicy.com/2026/10/22/europe-russia-hybrid-war-escalation/",
+    "source": "foreignpolicy.com",
+    "theme": "press",
+    "date": "2026-10-22T23:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "How Ben & Jerry became a beacon of brand bravery",
+    "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
+    "source": "creativebloq.com",
+    "theme": "press",
+    "date": "2026-10-24T15:00:00+00:00",
     "countries": [
      "HR"
     ]
@@ -355,9 +995,9 @@
     ]
    },
    {
-    "title": "Three Maritime Strike Groups Spearhead NATO Neptune Strike 26 - 4",
-    "url": "https://theaviationist.com/2026/10/23/three-maritime-strike-groups-spearhead-natos-neptune-strike-26-4/",
-    "source": "theaviationist.com",
+    "title": "Filip Hrgovic Advances Talks For Frank Sanchez Defense",
+    "url": "https://www.boxingnews24.com/2026/10/filip-hrgovic-advances-talks-for-frank-sanchez-defense/",
+    "source": "boxingnews24.com",
     "theme": "press",
     "date": "2026-10-23T02:30:00+00:00",
     "countries": [
@@ -365,11 +1005,21 @@
     ]
    },
    {
-    "title": "Filip Hrgovic Advances Talks For Frank Sanchez Defense",
-    "url": "https://www.boxingnews24.com/2026/10/filip-hrgovic-advances-talks-for-frank-sanchez-defense/",
-    "source": "boxingnews24.com",
+    "title": "Riots in Europe could happen here * WorldNetDaily * by Andy Schlafly",
+    "url": "https://www.wnd.com/2026/10/riots-europe-could-happen-here/",
+    "source": "wnd.com",
     "theme": "press",
-    "date": "2026-10-23T02:30:00+00:00",
+    "date": "2026-10-22T23:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "The funeral where the worlds of power , politics and organised crime came together",
+    "url": "https://www.smh.com.au/national/the-funeral-where-the-worlds-of-power-politics-and-organised-crime-came-together-20261023-p6151i.html",
+    "source": "smh.com.au",
+    "theme": "press",
+    "date": "2026-10-22T19:15:00+00:00",
     "countries": [
      "HR"
     ]
@@ -443,22 +1093,13 @@
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/GR: URLError",
-  "gdelt/BG: URLError",
-  "gdelt/NO: URLError",
-  "gdelt/SE: URLError",
-  "gdelt/DK: URLError",
-  "gdelt/FI: URLError",
-  "gdelt/EE: URLError",
-  "gdelt/LV: URLError",
-  "gdelt/LT: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

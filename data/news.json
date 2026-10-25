@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T13:11:55+00:00",
+ "generated": "2026-10-25T19:03:52+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -30,13 +30,48 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-25T13:11:55+00:00",
+   "date": "2026-10-25T19:03:52+00:00",
    "countries": []
+  },
+  {
+   "title": "Yemeni forces intercept Houthi weapons being smuggled from coast",
+   "url": "https://www.thenationalnews.com/news/mena/2026/10/25/yemeni-forces-intercept-houthi-weapons-being-smuggled-from-coast/",
+   "source": "thenationalnews.com",
+   "theme": "press",
+   "date": "2026-10-25T18:00:00+00:00"
+  },
+  {
+   "title": "Vollrath challenges Pielli for 156th state house seat",
+   "url": "https://www.dailylocal.com/2026/10/25/vollrath-challenges-pielli-for-156th-state-house-seat/",
+   "source": "dailylocal.com",
+   "theme": "press",
+   "date": "2026-10-25T18:00:00+00:00"
+  },
+  {
+   "title": "World : Algeria senate approves sending troops to Niger",
+   "url": "https://www.newvision.co.ug/category/world/algeria-senate-approves-sending-troops-to-nig-NV_242980_102026",
+   "source": "newvision.co.ug",
+   "theme": "press",
+   "date": "2026-10-25T18:00:00+00:00"
+  },
+  {
+   "title": "Adnoc prepares new wave of oil and gas tenders for 2027",
+   "url": "https://www.thenationalnews.com/business/energy/2026/10/25/adnoc-prepares-new-wave-of-oil-and-gas-tenders-for-2027/",
+   "source": "thenationalnews.com",
+   "theme": "press",
+   "date": "2026-10-25T18:00:00+00:00"
   },
   {
    "title": "Retiring soon ? This 1 rising cost is quietly draining Americans getting ready to retire . Protect yourself now",
    "url": "https://www.aol.com/articles/retiring-soon-1-rising-cost-121500000.html",
    "source": "aol.com",
+   "theme": "press",
+   "date": "2026-10-25T12:45:00+00:00"
+  },
+  {
+   "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+   "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+   "source": "theguardian.com",
    "theme": "press",
    "date": "2026-10-25T12:45:00+00:00"
   },
@@ -144,41 +179,6 @@
    "source": "arabnews.com",
    "theme": "press",
    "date": "2026-10-25T12:30:00+00:00"
-  },
-  {
-   "title": "Tech Layoffs 2026 : Job cuts near 2 lakh globally as big tech like Microsoft , Google , Oracle , Meta & more pivot to AI",
-   "url": "https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html",
-   "source": "livemint.com",
-   "theme": "press",
-   "date": "2026-10-25T12:30:00+00:00"
-  },
-  {
-   "title": "President Sisi attends closing ceremony of Egypt Forum 2026",
-   "url": "https://www.egyptindependent.com/president-sisi-attends-closing-ceremony-of-egypt-forum-2026/",
-   "source": "egyptindependent.com",
-   "theme": "press",
-   "date": "2026-10-25T11:30:00+00:00"
-  },
-  {
-   "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-   "url": "http://www.oklahomastar.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-   "source": "oklahomastar.com",
-   "theme": "press",
-   "date": "2026-10-25T11:30:00+00:00"
-  },
-  {
-   "title": "Andy Burnham told energy bill change could save households £300 a year",
-   "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-told-energy-bill-34790768",
-   "source": "birminghammail.co.uk",
-   "theme": "press",
-   "date": "2026-10-25T11:30:00+00:00"
-  },
-  {
-   "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-   "url": "http://www.heraldglobe.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-   "source": "heraldglobe.com",
-   "theme": "press",
-   "date": "2026-10-25T11:15:00+00:00"
   }
  ],
  "countries": {
@@ -188,7 +188,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -198,7 +198,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE",
      "EE"
@@ -209,7 +209,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -219,7 +219,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -229,7 +229,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -239,7 +239,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE",
      "IE"
@@ -250,7 +250,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -260,7 +260,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01122026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE"
     ]
@@ -272,7 +272,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE",
      "EE"
@@ -285,9 +285,19 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "DE",
+     "IE"
+    ]
+   },
+   {
+    "title": "Final round postponed in Bermuda with Monday finish up in air – Taylorville Daily News",
+    "url": "https://www.taylorvilledailynews.com/final-round-postponed-in-bermuda-with-monday-finish-up-in-air/",
+    "source": "taylorvilledailynews.com",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
      "IE"
     ]
    },
@@ -295,6 +305,16 @@
     "title": "Ireland weather : Met Eireann pinpoint when settled conditions will return after double storm chaos",
     "url": "https://www.irishmirror.ie/news/irish-news/ireland-weather-met-eireann-pinpoint-37808129",
     "source": "irishmirror.ie",
+    "theme": "press",
+    "date": "2026-10-25T12:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
+    "url": "https://www.rutland-times.co.uk/national/more-than-82-000-without-power-as-storm-boelo-batters-uk-with-84mph-gusts-173428/",
+    "source": "rutland-times.co.uk",
     "theme": "press",
     "date": "2026-10-25T12:45:00+00:00",
     "countries": [
@@ -322,39 +342,19 @@
     ]
    },
    {
+    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
+    "url": "https://www.clydebankpost.co.uk/news/national/26668024.82-000-without-power-storm-boelo-batters-uk-84mph-gusts/",
+    "source": "clydebankpost.co.uk",
+    "theme": "press",
+    "date": "2026-10-25T12:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
     "title": "UK endures second big storm of the weekend , with the north bearing the brunt this time",
     "url": "https://www.messenger-inquirer.com/ap/ap_international_news/uk-endures-second-big-storm-of-the-weekend-with-the-north-bearing-the-brunt-this/article_55a83ca2-2eef-5285-8260-465a6a632adb.html",
     "source": "messenger-inquirer.com",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
-    "url": "https://www.braintreeandwithamtimes.co.uk/news/national/26668024.82-000-without-power-storm-boelo-batters-uk-84mph-gusts/",
-    "source": "braintreeandwithamtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
-    "url": "https://www.leaderlive.co.uk/news/national/26668024.82-000-without-power-storm-boelo-batters-uk-84mph-gusts/",
-    "source": "leaderlive.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
-    "url": "https://www.tivysideadvertiser.co.uk/news/national/26668024.82-000-without-power-storm-boelo-batters-uk-84mph-gusts/",
-    "source": "tivysideadvertiser.co.uk",
     "theme": "press",
     "date": "2026-10-25T12:45:00+00:00",
     "countries": [
@@ -368,7 +368,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "AT",
      "SI"
@@ -451,7 +451,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "AT",
      "SI"
@@ -464,7 +464,7 @@
     "url": "https://www.acer.europa.eu/news/acer-calls-better-market-modelling-data-centre-demand-outpaces-electricity-supply-portugal",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-25T13:11:55+00:00",
+    "date": "2026-10-25T19:03:52+00:00",
     "countries": [
      "PT"
     ]
@@ -567,87 +567,107 @@
   ],
   "GB": [
    {
-    "title": "Weather across North Wales and Chester as Storm Boelo clears",
-    "url": "https://www.leaderlive.co.uk/news/26667943.weather-across-north-wales-chester-storm-boelo-clears/",
-    "source": "leaderlive.co.uk",
+    "title": "Macklemore demands Free Palestine as he makes return to stage after Ed Sheeran row",
+    "url": "https://www.aol.co.uk/articles/macklemore-demands-free-palestine-makes-172719000.html",
+    "source": "aol.co.uk",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "More than 1 , 500 people without power in parts of Norfolk",
-    "url": "https://www.edp24.co.uk/news/26667878.1-500-people-without-power-parts-norfolk/",
-    "source": "edp24.co.uk",
+    "title": "Storm Chloe : Scotland faces new wind warning after Storm Boelo",
+    "url": "https://www.heraldscotland.com/news/26668451.storm-chloe-scotland-faces-new-wind-warning-storm-boelo/",
+    "source": "heraldscotland.com",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
-    "url": "https://www.rutland-times.co.uk/national/more-than-82-000-without-power-as-storm-boelo-batters-uk-with-84mph-gusts-173428/",
-    "source": "rutland-times.co.uk",
+    "title": "UK - first housing could offer £25 per month electricity bills",
+    "url": "https://www.worcesternews.co.uk/news/26668422.uk-first-housing-offer-25-per-month-electricity-bills/",
+    "source": "worcesternews.co.uk",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Lavazza MilkEasy Plus review : affordable frothing made easy",
-    "url": "https://www.techradar.com/home/coffee-machines/lavazza-milkeasy-plus-review",
-    "source": "techradar.com",
+    "title": "Showbiz Today : AI vampires , Ian Wright & Helen Flanagan - ATV Today",
+    "url": "https://www.atvtoday.co.uk/319717-showbiz-today/",
+    "source": "atvtoday.co.uk",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "More than 82 , 000 without power as Storm Boelo batters united kingdom with 84mph gusts",
-    "url": "https://www.clydebankpost.co.uk/news/national/26668024.82-000-without-power-storm-boelo-batters-uk-84mph-gusts/",
-    "source": "clydebankpost.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
-    "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+    "title": "The Guardian view on Oxford Street pedestrianisation : cities should be designed around people , not cars | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
     "source": "theguardian.com",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Policy U - turn could stall Britain take - up of electric vehicles | Electric , hybrid and low - emission cars",
-    "url": "https://www.theguardian.com/environment/2026/oct/25/policy-u-turn-uk-electric-vehicles",
-    "source": "theguardian.com",
+    "title": "Ex - Reform MSP : I was driven out toxic party by shouting Offord",
+    "url": "https://www.thenational.scot/news/26668443.ex-reform-msp-i-driven-toxic-party-shouting-offord/",
+    "source": "thenational.scot",
     "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-    "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-10-22T20:00:00+00:00",
+    "title": "The Meaning of Freedom in the Contemporary Context",
+    "url": "https://countercurrents.org/2026/10/the-meaning-of-freedom-in-the-contemporary-context/",
+    "source": "countercurrents.org",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "The Scottish Greens still believe in independence . Now what ?",
+    "url": "https://www.thenational.scot/news/26668290.scottish-greens-still-believe-independence-now/",
+    "source": "thenational.scot",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
     "countries": [
      "GB"
     ]
    }
   ],
   "FR": [
+   {
+    "title": "Prime Minister Carney to host Canada - European Union Summit in Montréal to advance an ambitious new Canada - EU partnership",
+    "url": "https://www.nugget.ca/press-releases/pr-newswire/prime-minister-carney-to-host-canada-european-union-summit-in-montreal-to-advance-an-ambitious-new-canada-eu-partnership/",
+    "source": "nugget.ca",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Prime Minister Carney to host Canada - European Union Summit in Montréal to advance an ambitious new Canada - EU partnership",
+    "url": "https://www.recorder.ca/press-releases/pr-newswire/prime-minister-carney-to-host-canada-european-union-summit-in-montreal-to-advance-an-ambitious-new-canada-eu-partnership/",
+    "source": "recorder.ca",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
    {
     "title": "Hundreds of thousands march across France",
     "url": "http://www.japanherald.com/news/279396650/hundreds-of-thousands-march-across-france",
@@ -704,26 +724,6 @@
     "source": "cyprus-mail.com",
     "theme": "press",
     "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Could Hormuz become America Suez ? – Middle East Monitor",
-    "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
-    "source": "middleeastmonitor.com",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-    "url": "https://wysu.org/npr-national-news/2026-10-25/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
-    "source": "wysu.org",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
     "countries": [
      "FR"
     ]
@@ -813,6 +813,16 @@
   ],
   "BE": [
    {
+    "title": "Belgian Legal Scholars and Political Figures Warn Against Legitimizing Reza Pahlavi",
+    "url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/belgian-legal-scholars-and-political-figures-warn-against-legitimizing-reza-pahlavi/",
+    "source": "irannewsupdate.com",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   },
+   {
     "title": "France sees another weekend of mass protests with nearly 1 , 000 detained",
     "url": "https://www.egyptindependent.com/france-sees-another-weekend-of-mass-protests-with-nearly-1000-detained/",
     "source": "egyptindependent.com",
@@ -881,19 +891,19 @@
     "countries": [
      "BE"
     ]
-   },
-   {
-    "title": "Việt Nam , European partners eye $22 billion in prospective projects following top leader visit",
-    "url": "https://vietnamnews.vn/opinion/1802804/viet-nam-european-partners-eye-22-billion-in-prospective-projects-following-top-leader-s-visit.html",
-    "source": "vietnamnews.vn",
-    "theme": "press",
-    "date": "2026-10-25T08:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
    }
   ],
   "CH": [
+   {
+    "title": "The Price Tags of War | naked capitalism",
+    "url": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
+    "source": "nakedcapitalism.com",
+    "theme": "press",
+    "date": "2026-10-25T10:45:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
    {
     "title": "Carving out a greener future : how the Swiss ski resort of Laax is meeting the climate crisis head on",
     "url": "https://www.theguardian.com/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
@@ -963,15 +973,87 @@
     "countries": [
      "CH"
     ]
+   }
+  ],
+  "PL": [
+   {
+    "title": "Letters to The EDITOR : Protecting Teacher Mental Health",
+    "url": "https://www.sentinelassam.com/more-news/editorial/letters-to-the-editor-protecting-teachers-mental-health",
+    "source": "sentinelassam.com",
+    "theme": "press",
+    "date": "2026-10-25T12:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
    },
    {
-    "title": "Coffee Drinking Habits Reveal Personality Traits",
-    "url": "https://kwcdcountry.com/ixp/1122/p/judging-arizona-coffee-order/",
-    "source": "kwcdcountry.com",
+    "title": "Sikorski Says Russia Running Out of Resources if Ukraine Survives Winter",
+    "url": "https://www.kyivpost.com/post/88094",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-10-25T09:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "ADAPTIVE INDOMITABLE UKRAINE : Zelenskyy Unique Ability to Roll with the Punches & Counter Punch Effectively",
+    "url": "https://www.dailykos.com/stories/2026/10/25/800117391/community/adaptive-indomitable-ukraine-president-zelenskyy/",
+    "source": "dailykos.com",
+    "theme": "press",
+    "date": "2026-10-25T09:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Typhoon cuts off power to parts of Taiwan",
+    "url": "https://www.manilatimes.net/2026/10/25/world/asia-oceania/typhoon-cuts-off-power-to-parts-of-taiwan/2453262",
+    "source": "manilatimes.net",
     "theme": "press",
     "date": "2026-10-24T17:15:00+00:00",
     "countries": [
-     "CH"
+     "PL"
+    ]
+   },
+   {
+    "title": "« We will take Novorossiya » - Trump : 200 % tariffs on Ukraine and Russia - Fierce clash between Musk and Polish foreign minister",
+    "url": "https://www.bankingnews.gr/diethni/articles/906995/we-will-take-novorossiya-trump-200-tariffs-on-ukraine-and-russia-fierce-clash-between-musk-and-polish-foreign-minister",
+    "source": "bankingnews.gr",
+    "theme": "press",
+    "date": "2026-10-24T16:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Economic Power of Cuba Military and GAESA : A Key Barrier to Democratic Transition , Study Finds",
+    "url": "https://www.cubaheadlines.com/articles/343673",
+    "source": "cubaheadlines.com",
+    "theme": "press",
+    "date": "2026-10-24T15:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Poddar Plumbing opens Rs 1 , 000 - crore manufacturing facility in Karnataka Vemagal",
+    "url": "https://www.moneycontrol.com/news/business/poddar-plumbing-opens-rs-1-000-crore-manufacturing-facility-in-karnataka-s-vemagal-14059224.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-10-24T15:15:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "What next ? - The Hindu",
+    "url": "https://www.thehindu.com/education/optimise-your-resume/article71603219.ece",
+    "source": "thehindu.com",
+    "theme": "press",
+    "date": "2026-10-24T15:00:00+00:00",
+    "countries": [
+     "PL"
     ]
    }
   ],
@@ -1059,16 +1141,6 @@
   ],
   "SK": [
    {
-    "title": "ADAPTIVE INDOMITABLE UKRAINE : Zelenskyy Unique Ability to Roll with the Punches & Counter Punch Effectively",
-    "url": "https://www.dailykos.com/stories/2026/10/25/800117391/community/adaptive-indomitable-ukraine-president-zelenskyy/",
-    "source": "dailykos.com",
-    "theme": "press",
-    "date": "2026-10-25T09:15:00+00:00",
-    "countries": [
-     "SK"
-    ]
-   },
-   {
     "title": "mutual strategic strikes on targets in the rear ......",
     "url": "https://yourdemocracy.net/drupal/node/61540",
     "source": "yourdemocracy.net",
@@ -1127,139 +1199,77 @@
     "countries": [
      "SK"
     ]
-   },
-   {
-    "title": "100 Votes in One District , 1 , 000 in Another : Slovakia Tackles Voting Inequality - Topical Issue - Rádio RSI English",
-    "url": "https://enrsi.stvr.sk/articles/topical-issue/465750/100-votes-in-one-district-1000-in-another-slovakia-tackles-voting-inequality",
-    "source": "enrsi.stvr.sk",
-    "theme": "press",
-    "date": "2026-10-22T14:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
    }
   ],
-  "RO": [
+  "LV": [
    {
-    "title": "Romania and Sri Lanka Set to Address Evolving Labor Ties and Economic Potential",
-    "url": "https://www.rri.ro/en/close-up/rri-special/romania-and-sri-lanka-set-to-address-evolving-labor-ties-and-economic-potential-id1075207.html",
-    "source": "rri.ro",
+    "title": "Chronicle . lu",
+    "url": "https://www.chronicle.lu/opinion/23188-preparing-for-the-unexpected-lessons-from-luxembourgs-72-hour-emergency-guide",
+    "source": "chronicle.lu",
     "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
+    "date": "2026-10-24T21:00:00+00:00",
     "countries": [
-     "RO"
+     "LV"
     ]
    },
    {
-    "title": "67 History Facts And Pics That Make The Past More Fascinating Than You Might Expect",
-    "url": "https://2.boredpanda.com/magnificent-history-facts-pics/?cexp_id=163348&_f=homepage_featured&cexp_var=7",
-    "source": "2.boredpanda.com",
+    "title": "A Warning From France",
+    "url": "http://www.zerohedge.com/geopolitical/warning-france",
+    "source": "zerohedge.com",
     "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
+    "date": "2026-10-23T10:00:00+00:00",
     "countries": [
-     "RO"
+     "LV"
     ]
    },
    {
-    "title": "Working in Romania - Radio Romania International",
-    "url": "https://www.rri.ro/en/exclusiv-rri/muncind-in-romania/working-in-romania-47-id1073269.html",
-    "source": "rri.ro",
+    "title": "Baltic Assembly Prizes and Medals Award Ceremony 2026",
+    "url": "https://www.baltasam.org/BA_Medals_Award_Ceremony_2026",
+    "source": "baltasam.org",
     "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
+    "date": "2026-10-23T10:00:00+00:00",
     "countries": [
-     "RO"
+     "LV"
     ]
    },
    {
-    "title": "67 History Facts And Pics That Make The Past More Fascinating Than You Might Expect",
-    "url": "https://2.boredpanda.com/magnificent-history-facts-pics/?cexp_id=163347&_f=homepage_featured&cexp_var=2",
-    "source": "2.boredpanda.com",
+    "title": "A Warning From France",
+    "url": "https://www.zerohedge.com/geopolitical/warning-france",
+    "source": "zerohedge.com",
     "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
+    "date": "2026-10-23T09:15:00+00:00",
     "countries": [
-     "RO"
+     "LV"
     ]
    },
    {
-    "title": "Egyptian Firm Cheiron to Run Peru Lot 192 Oil Field",
-    "url": "https://www.riotimesonline.com/peru-lot-192-cheiron-egyptian-operator-2026/",
-    "source": "riotimesonline.com",
+    "title": "Blaze that killed 4 on Canadian military base sparked on grenade launcher range",
+    "url": "https://www.aol.com/articles/blaze-killed-4-canadian-military-025034000.html",
+    "source": "aol.com",
     "theme": "press",
-    "date": "2026-10-25T09:45:00+00:00",
+    "date": "2026-10-23T04:45:00+00:00",
     "countries": [
-     "RO"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "How Trump and Bolsonaro Made Anti - Elite Politics a Family Business",
-    "url": "https://www.newsweek.com/trump-bolsonaro-anti-elite-politics-family-dynasty-12612064",
-    "source": "newsweek.com",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
-    "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "From five - fingered trainers to the shoeless shoe : what with all the freaky footwear ?",
-    "url": "https://www.aol.co.uk/articles/five-fingered-trainers-shoeless-shoe-120001000.html",
-    "source": "aol.co.uk",
+    "title": "Beneath the Surface : Why EU Social Aid Isnt Lifting People Out of Poverty",
+    "url": "https://english.pravda.ru/news/business/170564-eu-social-safety-net-poverty-gap/",
+    "source": "english.pravda.ru",
     "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
+    "date": "2026-10-23T04:00:00+00:00",
     "countries": [
-     "GR"
+     "LV"
     ]
    },
    {
-    "title": "50 crore E - Sanjeevani tele - consultations , Northeast millet resurgence , IIT Madras brain research : PM Modi outlines key milestones in 139th Mann Ki Baat",
-    "url": "http://www.indiagazette.com/news/279397406/50-crore-e-sanjeevani-tele-consultations-northeast-millet-resurgence-iit-madras-brain-research-pm-modi-outlines-key-milestones-in-139th-mann-ki-baat",
-    "source": "indiagazette.com",
+    "title": "Estonia on the edge as Russia - NATO tensions rise",
+    "url": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
+    "source": "thehindu.com",
     "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
+    "date": "2026-10-23T02:15:00+00:00",
     "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "PM Modi Terms his 12 - Year Journey of Mann Ki Baat as a Pilgrimage – The Indian Awaaz",
-    "url": "https://theindianawaaz.com/pm-modi-terms-his-12-year-journey-of-mann-ki-baat-as-a-pilgrimage/",
-    "source": "theindianawaaz.com",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Libya Dbeibah says ready to address Egypt maritime concerns",
-    "url": "https://sundayworld.co.za/news/libyas-dbeibah-says-ready-to-address-egypts-maritime-concerns/",
-    "source": "sundayworld.co.za",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "50 crore E - Sanjeevani tele - consultations , Northeast millet resurgence , IIT Madras brain research : PM Modi outlines key milestones in 139th Mann Ki Baat",
-    "url": "http://www.greekherald.com/news/279397406/50-crore-e-sanjeevani-tele-consultations-northeast-millet-resurgence-iit-madras-brain-research-pm-modi-outlines-key-milestones-in-139th-mann-ki-baat",
-    "source": "greekherald.com",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "50 crore E - Sanjeevani tele - consultations , Northeast millet resurgence , IIT Madras brain research : PM Modi outlines key milestones in 139th Mann Ki Baat",
-    "url": "http://www.europesun.com/news/279397406/50-crore-e-sanjeevani-tele-consultations-northeast-millet-resurgence-iit-madras-brain-research-pm-modi-outlines-key-milestones-in-139th-mann-ki-baat",
-    "source": "europesun.com",
-    "theme": "press",
-    "date": "2026-10-25T10:30:00+00:00",
-    "countries": [
-     "GR"
+     "LV"
     ]
    }
   ],
@@ -1285,51 +1295,11 @@
     ]
    },
    {
-    "title": "A Warning From France",
-    "url": "http://www.zerohedge.com/geopolitical/warning-france",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-10-23T10:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Baltic Assembly Prizes and Medals Award Ceremony 2026",
-    "url": "https://www.baltasam.org/BA_Medals_Award_Ceremony_2026",
-    "source": "baltasam.org",
-    "theme": "press",
-    "date": "2026-10-23T10:00:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "A Warning From France",
-    "url": "https://www.zerohedge.com/geopolitical/warning-france",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-10-23T09:15:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
     "title": "LRT English Newsletter : More drones",
     "url": "https://www.lrt.lt/en/news-in-english/19/3090386/lrt-english-newsletter-more-drones",
     "source": "lrt.lt",
     "theme": "press",
     "date": "2026-10-23T05:30:00+00:00",
-    "countries": [
-     "LT"
-    ]
-   },
-   {
-    "title": "Estonia on the edge as Russia - NATO tensions rise",
-    "url": "https://www.thehindu.com/news/international/estonia-on-the-edge-as-russia-nato-tensions-rise/article71612139.ece",
-    "source": "thehindu.com",
-    "theme": "press",
-    "date": "2026-10-23T02:15:00+00:00",
     "countries": [
      "LT"
     ]
@@ -1342,6 +1312,130 @@
     "date": "2026-10-22T23:15:00+00:00",
     "countries": [
      "LT"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "How Ben & Jerry became a beacon of brand bravery",
+    "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
+    "source": "creativebloq.com",
+    "theme": "press",
+    "date": "2026-10-24T15:00:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "$1 million grant may push LA28 water taxi linking Long Beach to San Pedro across finish line",
+    "url": "https://www.presstelegram.com/2026/10/23/1-million-grant-may-push-la28-water-taxi-linking-long-beach-to-san-pedro-across-finish-line/",
+    "source": "presstelegram.com",
+    "theme": "press",
+    "date": "2026-10-24T02:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "$1 million grant may push LA28 water taxi linking Long Beach to San Pedro across finish line",
+    "url": "https://www.sgvtribune.com/2026/10/23/1-million-grant-may-push-la28-water-taxi-linking-long-beach-to-san-pedro-across-finish-line/",
+    "source": "sgvtribune.com",
+    "theme": "press",
+    "date": "2026-10-24T02:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Filip Hrgovic Advances Talks For Frank Sanchez Defense",
+    "url": "https://www.boxingnews24.com/2026/10/filip-hrgovic-advances-talks-for-frank-sanchez-defense/",
+    "source": "boxingnews24.com",
+    "theme": "press",
+    "date": "2026-10-23T02:30:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
+    "url": "https://www.idahostatejournal.com/news/national/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_0a339741-9a1f-58bf-be66-9e138104f35a.html",
+    "source": "idahostatejournal.com",
+    "theme": "press",
+    "date": "2026-10-25T12:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "AP News in Brief at 6 : 04 a . m . EDT",
+    "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_9c669846-b4c5-57f6-ad59-7f906a0d2dd3.html",
+    "source": "idahostatejournal.com",
+    "theme": "press",
+    "date": "2026-10-25T12:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbians face a choice between the populist right and the student protest movement",
+    "url": "https://www.sbs.com.au/news/article/serbians-face-a-choice-between-the-populist-right-and-the-student-protest-movement/kmkos70aa",
+    "source": "sbs.com.au",
+    "theme": "press",
+    "date": "2026-10-25T11:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "AP News Summary at 6 : 30 a . m . EDT",
+    "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-6-30-a-m-edt/article_2ec501c4-329c-5264-a4f2-49f99f34fac7.html",
+    "source": "hngnews.com",
+    "theme": "press",
+    "date": "2026-10-25T11:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "AP News in Brief at 6 : 04 a . m . EDT",
+    "url": "http://www.hngnews.com/nation_world/ap-news-in-brief-at-6-04-a-m-edt/article_37af4efb-eb17-5aa1-8a26-ddcc122818fb.html",
+    "source": "hngnews.com",
+    "theme": "press",
+    "date": "2026-10-25T11:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
+    "url": "http://www.hngnews.com/nation_world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_6f1fc46e-35b2-55e5-b783-18d81ea9460e.html",
+    "source": "hngnews.com",
+    "theme": "press",
+    "date": "2026-10-25T11:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
+    "url": "http://www.goskagit.com/news/world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_2ed75695-3bd2-5be4-b5be-2a91f23920f1.html",
+    "source": "goskagit.com",
+    "theme": "press",
+    "date": "2026-10-25T11:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
+    "url": "http://www.dailyadvance.com/news/world/serbia-holds-a-parliamentary-election-as-populist-vucic-faces-protesting-students/article_4e02695e-0048-502c-a5ce-131e82b5181b.html",
+    "source": "dailyadvance.com",
+    "theme": "press",
+    "date": "2026-10-25T10:45:00+00:00",
+    "countries": [
+     "RS"
     ]
    }
   ]
@@ -1407,16 +1501,14 @@
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
+  "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/SI: HTTPError"
  ]
 }

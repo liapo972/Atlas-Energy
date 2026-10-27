@@ -9,35 +9,27 @@ Flux RSS : 11 sources
   OK   GRTgaz                   https://www.grtgaz.com/rss.xml
   OK   National Gas             https://www.nationalgas.com/rss.xml
   OK   Statnett                 https://www.statnett.no/en/rss/
-  OK   Bundesnetzagentur        https://www.bundesnetzagentur.de/rss.xml
+  MORT Bundesnetzagentur        https://www.bundesnetzagentur.de/rss.xml -> RemoteDisconnected
 Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
-  pays servis : 11 / 28
-  duree       : 113s
+  pays servis : 18 / 28
+  duree       : 111s
 
---- 23 avertissements ---
-  ! gdelt/FR: HTTPError
-  ! gdelt/DE: HTTPError
-  ! gdelt/NL: HTTPError
-  ! gdelt/BE: HTTPError
-  ! gdelt/GB: HTTPError
-  ! gdelt/IE: HTTPError
-  ! gdelt/CH: HTTPError
-  ! gdelt/AT: HTTPError
+--- 15 avertissements ---
+  ! Bundesnetzagentur: https://www.bundesnetzagentur.de/rss.xml -> RemoteDisconnected
+  ! gdelt/ES: HTTPError
+  ! gdelt/PT: HTTPError
+  ! gdelt/IT: HTTPError
   ! gdelt/PL: HTTPError
   ! gdelt/CZ: HTTPError
   ! gdelt/SK: HTTPError
   ! gdelt/HU: HTTPError
   ! gdelt/RO: HTTPError
-  ! gdelt/GR: HTTPError
-  ! gdelt/NO: HTTPError
-  ! gdelt/SE: HTTPError
-  ! gdelt/DK: HTTPError
-  ! gdelt/FI: HTTPError
+  ! gdelt/FI: TimeoutError
   ! gdelt/EE: HTTPError
-  ! gdelt/LV: HTTPError
+  ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
-  ! gdelt/HR: HTTPError
+  ! gdelt/RS: HTTPError
   ! gdelt/world: HTTPError

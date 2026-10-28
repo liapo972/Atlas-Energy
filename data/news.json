@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T20:42:51+00:00",
+ "generated": "2026-10-28T05:44:36+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-27T20:42:51+00:00",
+   "date": "2026-10-28T05:44:36+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-27T20:42:51+00:00",
+   "date": "2026-10-28T05:44:36+00:00",
    "countries": []
   },
   {
@@ -48,6 +48,104 @@
    "theme": "grid",
    "date": "2026-10-27T11:14:37+00:00",
    "countries": []
+  },
+  {
+   "title": "Asian Markets Trade Mixed",
+   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+   "source": "rttnews.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "5 things to watch from the Federal Reserve next meeting",
+   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
+   "source": "thesunchronicle.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+   "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+   "source": "ohiostandard.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Struggling with heating bills ? Minnesota has $111M in help",
+   "url": "https://www.kimt.com/news/struggling-with-heating-bills-minnesota-has-111m-in-help/article_00ceb0d3-0116-40d1-b34f-b6b30aa52ba8.html",
+   "source": "kimt.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "São Paulo Today : Weather , Ibirapuera & Markets Oct 27",
+   "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-october-27-2026/",
+   "source": "riotimesonline.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "SBP raises policy rate to 12 %",
+   "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+   "source": "tribune.com.pk",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "SBP raises interest rate to 12 % amid Iran - US tensions and rising oil prices",
+   "url": "https://www.pakistantimes.com/sbp-raises-interest-rate-to-12-amid-iran-us-tensions-and-rising-oil-prices-15846/",
+   "source": "pakistantimes.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
+   "url": "https://www.rttnews.com/3703096/indian-shares-marginally-lower-in-early-trade-it-stocks-underperform.aspx",
+   "source": "rttnews.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Rio Today : Rainy Tuesday , Lula Market Fallout & Open Museums",
+   "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-october-27-2026/",
+   "source": "riotimesonline.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+   "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+   "source": "riotimesonline.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+   "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+   "source": "myanmarnews.net",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
+   "url": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
+   "source": "riotimesonline.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Crisis in Strait of Hormuz will not be last of its kind : Singapore Energy Minister Tan warns of energy supply risks",
+   "url": "http://www.myanmarnews.net/news/279399103/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks",
+   "source": "myanmarnews.net",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
+  },
+  {
+   "title": "Finance adviser highlights Pakistan economic gains in first - quarter scorecard",
+   "url": "https://www.pakistantimes.com/finance-adviser-highlights-pakistans-economic-gains-in-first-quarter-scorecard-15851/",
+   "source": "pakistantimes.com",
+   "theme": "press",
+   "date": "2026-10-27T05:15:00+00:00"
   },
   {
    "title": "October 2026 euro area bank lending survey",
@@ -64,6 +162,27 @@
    "theme": "grid",
    "date": "2026-10-26T23:00:00+00:00",
    "countries": []
+  },
+  {
+   "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
+   "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
+   "source": "themarketsdaily.com",
+   "theme": "press",
+   "date": "2026-10-26T07:15:00+00:00"
+  },
+  {
+   "title": "Scottish Greens set to vote on whether to support new nuclear power",
+   "url": "https://nuclear-news.net/2026/10/26/6-b1-scottish-greens-set-to-vote-on-whether-to-support-new-nuclear-power/",
+   "source": "nuclear-news.net",
+   "theme": "press",
+   "date": "2026-10-26T07:15:00+00:00"
+  },
+  {
+   "title": "Sensex falls 134 points , Nifty slips below 22 , 600 amid crude oil prices and West Asia tensions",
+   "url": "https://www.ibtimes.co.in/sensex-falls-134-points-nifty-slips-below-22600-amid-crude-oil-prices-west-asia-tensions-907850",
+   "source": "ibtimes.co.in",
+   "theme": "press",
+   "date": "2026-10-26T07:15:00+00:00"
   }
  ],
  "countries": {
@@ -73,7 +192,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +202,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE",
      "EE"
@@ -94,7 +213,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +223,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +233,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +243,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE",
      "IE"
@@ -135,20 +254,19 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE"
     ]
    },
    {
-    "title": "Commissioner Roswall's speech at the event, ‘From Principles to International Cooperation: Mobilising Biodiversity Finance through High-Integrity Nature Credits'",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2276",
-    "source": "Commission européenne",
+    "title": "Termine für Amateurfunkprüfungen (Stand 27. Oktober 2026)",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-27T18:54:09+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
-     "DE",
-     "IT"
+     "DE"
     ]
    }
   ],
@@ -158,7 +276,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE",
      "EE"
@@ -171,79 +289,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Deep field of Avon Town Council candidates seek four available seats on Nov . 3",
-    "url": "https://www.vaildaily.com/news/deep-field-of-avon-town-council-candidates-seek-four-available-seats-on-nov-3/",
-    "source": "vaildaily.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Weather warnings in place as united kingdom braced for more strong winds and heavy rain",
-    "url": "https://www.northsomersettimes.co.uk/news/national/26672170.weather-warnings-place-uk-braced-strong-winds-heavy-rain/",
-    "source": "northsomersettimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Almost 20 people rescued from Fareham flats in Great Storm",
-    "url": "https://www.dailyecho.co.uk/news/26670376.almost-20-people-rescued-fareham-flats-great-storm/",
-    "source": "dailyecho.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Thousands of united kingdom households could be owed up to £90 cash due to Storm Boelo",
-    "url": "https://www.birminghammail.co.uk/news/midlands-news/thousands-uk-households-could-owed-34816152",
-    "source": "birminghammail.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "burnhamandhighbridgeweeklynews.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.thewestonmercury.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "thewestonmercury.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.hamhigh.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "hamhigh.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -254,40 +302,10 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "AT",
      "SI"
-    ]
-   },
-   {
-    "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
-    "url": "https://lancasteronline.com/news/world/a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu/article_6c1784bf-9b18-59f0-8cf9-eb015534bb3d.html",
-    "source": "lancasteronline.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "A look at main issues in Israel elections seen as referendum on Netanyahu",
-    "url": "https://www.dailyexcelsior.com/a-look-at-main-issues-in-israel-elections-seen-as-referendum-on-netanyahu/",
-    "source": "dailyexcelsior.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "the class struggle is developing objectively .....",
-    "url": "https://yourdemocracy.net/drupal/node/61542",
-    "source": "yourdemocracy.net",
-    "theme": "press",
-    "date": "2026-10-24T21:00:00+00:00",
-    "countries": [
-     "AT"
     ]
    }
   ],
@@ -297,7 +315,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-27T20:42:51+00:00",
+    "date": "2026-10-28T05:44:36+00:00",
     "countries": [
      "AT",
      "SI"
@@ -343,743 +361,23 @@
   ],
   "GB": [
    {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.eastlondonadvertiser.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "eastlondonadvertiser.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
+    "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Bodycote ( OTCMKTS : BYPLF ) Shares Down 0 . 8 % – Time to Sell ?",
-    "url": "https://www.dailypolitical.com/2026/10/26/bodycote-otcmktsbyplf-shares-down-0-8-time-to-sell.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
+    "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-22T15:35:53+00:00",
     "countries": [
      "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.wimbledonguardian.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "wimbledonguardian.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.northsomersettimes.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "northsomersettimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "richmondandtwickenhamtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.newsshopper.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "newsshopper.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "MESH a New Release Into a New Century with Clarinet Virtuoso Kornel Wolak and Composers Norbert Palej and Charles T . Cozens",
-    "url": "https://cashboxcanada.ca/index.php/reviews-album/mesh-new-release-new-century-clarinet-virtuoso-kornel-wolak-and-composers-norbert",
-    "source": "cashboxcanada.ca",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.hillingdontimes.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "hillingdontimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   }
-  ],
-  "FR": [
-   {
-    "title": "14 October 2026 changes affecting residents in France",
-    "url": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
-    "source": "connexionfrance.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins Brazil vote despite Bolsonaro challenge",
-    "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
-    "source": "milwaukeesun.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "UBA Targets Single - use Plastics , Poor Waste Habits In Group - wide Climate Campaign",
-    "url": "https://leadership.ng/uba-targets-single-use-plastics-poor-waste-habits-in-group-wide-climate-campaign/",
-    "source": "leadership.ng",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins Brazil vote despite Bolsonaro challenge",
-    "url": "http://www.ohiostandard.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
-    "source": "ohiostandard.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "French riots and 2027 election : Macron faces polarised run - off",
-    "url": "https://www.connexionfrance.com/opinion/french-riots-mean-election-run-off-will-be-choice-of-two-extremes/823412",
-    "source": "connexionfrance.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Mbappe dropped by Chinese brands for offending national sentiments",
-    "url": "https://economictimes.indiatimes.com/news/international/business/mbappe-dropped-by-chinese-brands-for-offending-national-sentiments/articleshow/135224610.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins fourth term , but Bolsonaro refuses to accept result",
-    "url": "http://www.myanmarnews.net/news/279398697/lula-wins-fourth-term-but-bolsonaro-refuses-to-accept-result",
-    "source": "myanmarnews.net",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The French government is hiding behind a riot narrative | Protests",
-    "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   }
-  ],
-  "NL": [
-   {
-    "title": "Critical Review : ASML ( NASDAQ : ASML ) & MaxLinear ( NASDAQ : MXL )",
-    "url": "https://www.themarketsdaily.com/2026/10/26/critical-review-asml-nasdaqasml-maxlinear-nasdaqmxl.html",
-    "source": "themarketsdaily.com",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "India , EU race to finalise FTA before December deadline to coincide with PM Modi Brussels visit",
-    "url": "https://www.hindustantimes.com/india-news/india-eu-race-to-finalise-fta-before-december-deadline-to-coincide-with-pm-modis-brussels-visit-101792926809767.html",
-    "source": "hindustantimes.com",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "From Consumption to Production : Daniel Ayodele MEEI Summit Sets New Agenda for African Business Leaders in China – THISDAYLIVE",
-    "url": "https://www.thisdaylive.com/2026/10/25/from-consumption-to-production-daniel-ayodeles-meei-summit-sets-new-agenda-for-african-business-leaders-in-china/",
-    "source": "thisdaylive.com",
-    "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-    "source": "wired.com",
-    "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "The Latest Bond Thriller",
-    "url": "https://freebeacon.com/culture/the-latest-bond-thriller/",
-    "source": "freebeacon.com",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Doctors wrestle with the dilemmas of advance MAID requests",
-    "url": "https://www.niagarafallsreview.ca/politics/federal/these-canadian-doctors-are-already-wrestling-with-the-dilemmas-posed-by-advance-requests-for-maid/article_b11a1fe5-63e4-5ef3-bd7b-d8d48432a818.html",
-    "source": "niagarafallsreview.ca",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "UK government updates its be ready checklist for emergencies",
-    "url": "https://www.malverngazette.co.uk/news/26666093.uk-government-updates-be-ready-checklist-emergencies/",
-    "source": "malverngazette.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T10:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "UK government updates its be ready checklist for emergencies",
-    "url": "https://www.ledburyreporter.co.uk/news/26666093.uk-government-updates-be-ready-checklist-emergencies/",
-    "source": "ledburyreporter.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T09:45:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "5 Of The Best Fighter Jets Flown By The US Air Force",
-    "url": "https://www.slashgear.com/2291726/best-fighter-jets-flown-by-us-air-force/",
-    "source": "slashgear.com",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "One million march in France – General strike 5th November - Workers Revolutionary Party",
-    "url": "https://wrp.org.uk/news/one-million-march-in-france-general-strike-5th-november/",
-    "source": "wrp.org.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Belgian Legal Scholars and Political Figures Warn Against Legitimizing Reza Pahlavi",
-    "url": "https://irannewsupdate.com/news/exposing-reza-pahlavi-and-monarchist-current/belgian-legal-scholars-and-political-figures-warn-against-legitimizing-reza-pahlavi/",
-    "source": "irannewsupdate.com",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Prime Minister Carney to host Canada - European Union Summit in Montréal to advance an ambitious new Canada - EU partnership",
-    "url": "https://www.nugget.ca/press-releases/pr-newswire/prime-minister-carney-to-host-canada-european-union-summit-in-montreal-to-advance-an-ambitious-new-canada-eu-partnership/",
-    "source": "nugget.ca",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Prime Minister Carney to host Canada - European Union Summit in Montréal to advance an ambitious new Canada - EU partnership",
-    "url": "https://www.recorder.ca/press-releases/pr-newswire/prime-minister-carney-to-host-canada-european-union-summit-in-montreal-to-advance-an-ambitious-new-canada-eu-partnership/",
-    "source": "recorder.ca",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "France sees another weekend of mass protests with nearly 1 , 000 detained",
-    "url": "https://www.egyptindependent.com/france-sees-another-weekend-of-mass-protests-with-nearly-1000-detained/",
-    "source": "egyptindependent.com",
-    "theme": "press",
-    "date": "2026-10-25T11:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Serbia student protests could take power and topple Putin main ally in Europe as election polls open",
-    "url": "https://www.mirror.co.uk/news/world-news/serbia-student-protests-elections-2026-37805222",
-    "source": "mirror.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "CH": [
-   {
-    "title": "The Price Tags of War | naked capitalism",
-    "url": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
-    "source": "nakedcapitalism.com",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Carving out a greener future : how the Swiss ski resort of Laax is meeting the climate crisis head on",
-    "url": "https://www.theguardian.com/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-10-25T08:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Australian MP Helen Haines spoke of risks to public representatives before attack",
-    "url": "https://www.rnz.co.nz/news/world/2145220/australian-mp-helen-haines-spoke-of-risks-to-public-representatives-before-attack",
-    "source": "rnz.co.nz",
-    "theme": "press",
-    "date": "2026-10-25T04:45:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Today Happenings : October 24 , 2026 | South Peace News",
-    "url": "https://www.southpeacenews.com/todays-happenings-october-24-2026/",
-    "source": "southpeacenews.com",
-    "theme": "press",
-    "date": "2026-10-24T22:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Viking Longships review : What to expect from the design , dining and service on a European river cruise",
-    "url": "https://www.watoday.com.au/traveller/reviews-and-advice/the-european-river-ship-so-good-other-cruise-lines-copy-it-20261025-p60v5w.html",
-    "source": "watoday.com.au",
-    "theme": "press",
-    "date": "2026-10-24T21:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "Lionesses breeze past Greece to next round of World Cup qualifiers",
-    "url": "https://theboar.org/2026/10/lionesses-breeze-past-greece-to-next-round-of-world-cup-qualifiers/",
-    "source": "theboar.org",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "From five - fingered trainers to the shoeless shoe : what with all the freaky footwear ? | Fashion",
-    "url": "https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "How Trump and Bolsonaro Made Anti - Elite Politics a Family Business",
-    "url": "https://www.newsweek.com/trump-bolsonaro-anti-elite-politics-family-dynasty-12612064",
-    "source": "newsweek.com",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "From five - fingered trainers to the shoeless shoe : what with all the freaky footwear ?",
-    "url": "https://www.aol.co.uk/articles/five-fingered-trainers-shoeless-shoe-120001000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "50 crore E - Sanjeevani tele - consultations , Northeast millet resurgence , IIT Madras brain research : PM Modi outlines key milestones in 139th Mann Ki Baat",
-    "url": "http://www.indiagazette.com/news/279397406/50-crore-e-sanjeevani-tele-consultations-northeast-millet-resurgence-iit-madras-brain-research-pm-modi-outlines-key-milestones-in-139th-mann-ki-baat",
-    "source": "indiagazette.com",
-    "theme": "press",
-    "date": "2026-10-25T11:15:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "PM Modi Terms his 12 - Year Journey of Mann Ki Baat as a Pilgrimage – The Indian Awaaz",
-    "url": "https://theindianawaaz.com/pm-modi-terms-his-12-year-journey-of-mann-ki-baat-as-a-pilgrimage/",
-    "source": "theindianawaaz.com",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Libya Dbeibah says ready to address Egypt maritime concerns",
-    "url": "https://sundayworld.co.za/news/libyas-dbeibah-says-ready-to-address-egypts-maritime-concerns/",
-    "source": "sundayworld.co.za",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   },
-   {
-    "title": "Trump is turning to an old tool of authoritarian repression",
-    "url": "https://www.hawaiitribune-herald.com/2026/10/25/opinion/trump-is-turning-to-an-old-tool-of-authoritarian-repression/",
-    "source": "hawaiitribune-herald.com",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "GR"
-    ]
-   }
-  ],
-  "BG": [
-   {
-    "title": "Why people , not places , are the real soul of travel | Milton Ulladulla Times",
-    "url": "https://www.ulladullatimes.com.au/story/9373098/why-people-not-places-are-the-real-soul-of-travel/",
-    "source": "ulladullatimes.com.au",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "https://www.nsnews.com/world-news/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war-12935738",
-    "source": "nsnews.com",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "http://www.dailyadvance.com/news/world/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war/article_f0b4608a-c462-5868-bfeb-f55b4a4feee4.html",
-    "source": "dailyadvance.com",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "https://www.prpeak.com/world-news/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war-12935738",
-    "source": "prpeak.com",
-    "theme": "press",
-    "date": "2026-10-25T10:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "https://www.2news.com/news/world/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war/article_801f99e4-ba2f-524f-89b9-2d20d86e2a2d.html",
-    "source": "2news.com",
-    "theme": "press",
-    "date": "2026-10-25T10:00:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgarians vote to elect their next president",
-    "url": "https://www.wgauradio.com/news/world/polls-open/GNYM5ZFD3I2YFMLNFOITJBU3EE/",
-    "source": "wgauradio.com",
-    "theme": "press",
-    "date": "2026-10-25T09:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "https://www.stcatharinesstandard.ca/news/world/europe/polls-open-for-presidential-election-in-bulgaria-dominated-by-economic-hardship-and-ukraine-war/article_d5bdb366-f26e-5f7c-96f5-2a569d49aba6.html",
-    "source": "stcatharinesstandard.ca",
-    "theme": "press",
-    "date": "2026-10-25T09:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   },
-   {
-    "title": "Bulgaria holds a presidential election dominated by economic hardship and the Ukraine war",
-    "url": "https://isp.netscape.com:443/news/world/story/0001/20261025/71e668caf5e926fd16395c392bc1920c",
-    "source": "isp.netscape.com",
-    "theme": "press",
-    "date": "2026-10-25T09:45:00+00:00",
-    "countries": [
-     "BG"
-    ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "The UN General Assembly : Progress or Pantomime ? – The University Times",
-    "url": "https://universitytimes.ie/2026/10/the-un-general-assembly-progress-or-pantomime/",
-    "source": "universitytimes.ie",
-    "theme": "press",
-    "date": "2026-10-25T19:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Venezuelan opposition leader María Corina Machado returns from exile amid transition",
-    "url": "https://wgme.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
-    "source": "wgme.com",
-    "theme": "press",
-    "date": "2026-10-25T19:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Venezuelan opposition leader María Corina Machado returns from exile amid transition",
-    "url": "https://wsbt.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
-    "source": "wsbt.com",
-    "theme": "press",
-    "date": "2026-10-25T19:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Venezuela opposition leader Machado returns after months in exile",
-    "url": "https://www.4029tv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
-    "source": "4029tv.com",
-    "theme": "press",
-    "date": "2026-10-25T19:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Venezuela opposition leader Machado returns after months in exile",
-    "url": "https://www.ketv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
-    "source": "ketv.com",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Venezuela opposition leader Machado returns after months in exile",
-    "url": "https://www.wpbf.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
-    "source": "wpbf.com",
-    "theme": "press",
-    "date": "2026-10-25T18:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-    "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
-    "source": "the-star.co.ke",
-    "theme": "press",
-    "date": "2026-10-25T12:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Mint Explainer | How new land compensation rules could speed up India clean energy transition",
-    "url": "https://www.livemint.com/industry/energy/mint-explainer-how-new-land-compensation-rules-could-speed-up-india-s-clean-energy-transition-11792913800449.html",
-    "source": "livemint.com",
-    "theme": "press",
-    "date": "2026-10-25T12:30:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "SE": [
-   {
-    "title": "Iran News in Brief – October 25 , 2026",
-    "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-october-25-2026/",
-    "source": "ncr-iran.org",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Ten days that could shake the world : democratic norms at stake in four pivotal elections",
-    "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-10-25T08:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Trump says France burning down because it opens borders to people who hate it ; claims protests not related to education",
-    "url": "https://www.hindustantimes.com/world-news/donald-trump-says-france-burning-down-because-it-opens-borders-to-people-who-hate-it-claims-protests-not-related-to-education-macron-us-midterms-101792901863131.html",
-    "source": "hindustantimes.com",
-    "theme": "press",
-    "date": "2026-10-25T05:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Ethiopia ranks 133 out of 143 in WJP Rule of Law Index",
-    "url": "https://capitalethiopia.com/2026/10/25/ethiopia-ranks-133-out-of-143-in-wjp-rule-of-law-index/",
-    "source": "capitalethiopia.com",
-    "theme": "press",
-    "date": "2026-10-25T05:30:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "Chronicle . lu",
-    "url": "https://www.chronicle.lu/opinion/23188-preparing-for-the-unexpected-lessons-from-luxembourgs-72-hour-emergency-guide",
-    "source": "chronicle.lu",
-    "theme": "press",
-    "date": "2026-10-24T21:00:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Trump Calls Greenland The Greatest Real Estate Deal in History After Claiming Denmark Gave It to the US",
-    "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
-    "source": "ibtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Harbour Energy ( OTCMKTS : HBRID ) Shares Climb 0 . 6 % – Should You Buy ?",
-    "url": "https://www.themarketsdaily.com/2026/10/25/harbour-energy-otcmktshbrid-shares-climb-0-6-should-you-buy.html",
-    "source": "themarketsdaily.com",
-    "theme": "press",
-    "date": "2026-10-25T11:00:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Loblaw CEO Per Bank says discount stores now key to winning price - weary shoppers – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/arts-and-life/food/2026/10/25/loblaw-ceo-per-bank-says-discount-stores-now-key-to-winning-price-weary-shoppers",
-    "source": "winnipegfreepress.com",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Loblaw CEO Per Bank says discount stores now key to winning price - weary shoppers",
-    "url": "https://www.niagarafallsreview.ca/business/loblaw-ceo-per-bank-says-discount-stores-now-key-to-winning-price-weary-shoppers/article_459140d2-4987-54e6-9501-40b1bd89c563.html",
-    "source": "niagarafallsreview.ca",
-    "theme": "press",
-    "date": "2026-10-25T10:45:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   },
-   {
-    "title": "Donald Trump falsely claims US",
-    "url": "https://timesofoman.com/article/178351-donald-trump-falsely-claims-us-got-both-greenland-and-venezuela-at-georgia-rally",
-    "source": "timesofoman.com",
-    "theme": "press",
-    "date": "2026-10-25T08:30:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "HR": [
-   {
-    "title": "World News : Serbia votes in historic election as students seek to end Vucic long grip on power",
-    "url": "https://www.gdnonline.com:443/Details/1410790",
-    "source": "gdnonline.com",
-    "theme": "press",
-    "date": "2026-10-25T10:30:00+00:00",
-    "countries": [
-     "HR"
-    ]
-   },
-   {
-    "title": "Serbia votes as students seek to unseat Aleksandar Vucic in snap election",
-    "url": "https://www.nbcnews.com/world/europe/serbia-votes-students-seek-unseat-aleksandar-vucic-snap-election-rcna605377",
-    "source": "nbcnews.com",
-    "theme": "press",
-    "date": "2026-10-25T08:15:00+00:00",
-    "countries": [
-     "HR"
     ]
    }
   ]
@@ -1136,12 +434,20 @@
    "items": 50
   },
   "Bundesnetzagentur": {
-   "ok": false,
-   "tried": "https://www.bundesnetzagentur.de/rss.xml -> RemoteDisconnected"
+   "ok": true,
+   "url": "https://www.bundesnetzagentur.de/rss.xml",
+   "items": 50
   }
  },
  "errors": [
-  "Bundesnetzagentur: https://www.bundesnetzagentur.de/rss.xml -> RemoteDisconnected",
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
@@ -1150,11 +456,15 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/FI: TimeoutError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
-  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T05:44:36+00:00",
+ "generated": "2026-10-28T15:06:53+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -18,6 +18,30 @@
    "countries": []
   },
   {
+   "title": "EU gas storage is 75% filled",
+   "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-10-28T15:06:53+00:00",
+   "countries": []
+  },
+  {
+   "title": "ACER's Board of Appeal begins a new five-year mandate",
+   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-10-28T15:06:53+00:00",
+   "countries": []
+  },
+  {
+   "title": "Daily News 28 / 10 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2277",
+   "source": "Commission européenne",
+   "theme": "grid",
+   "date": "2026-10-28T10:22:18+00:00",
+   "countries": []
+  },
+  {
    "title": "Balancing Platforms Stakeholders Workshop",
    "url": "https://www.entsoe.eu/events/2026/10/28/balancing-stakeholders-workshop/",
    "source": "ENTSO-E",
@@ -26,19 +50,11 @@
    "countries": []
   },
   {
-   "title": "EU gas storage is 75% filled",
-   "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
-   "source": "ACER",
+   "title": "Factsheet - EU Demography Toolbox",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2271",
+   "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-10-28T05:44:36+00:00",
-   "countries": []
-  },
-  {
-   "title": "ACER's Board of Appeal begins a new five-year mandate",
-   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-10-28T05:44:36+00:00",
+   "date": "2026-10-27T23:00:00+00:00",
    "countries": []
   },
   {
@@ -48,141 +64,6 @@
    "theme": "grid",
    "date": "2026-10-27T11:14:37+00:00",
    "countries": []
-  },
-  {
-   "title": "Asian Markets Trade Mixed",
-   "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
-   "source": "rttnews.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "5 things to watch from the Federal Reserve next meeting",
-   "url": "https://www.thesunchronicle.com/business/5-things-to-watch-from-the-federal-reserves-next-meeting/article_7fe45c06-8782-5837-af1d-665ff6a49949.html",
-   "source": "thesunchronicle.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-   "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-   "source": "ohiostandard.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Struggling with heating bills ? Minnesota has $111M in help",
-   "url": "https://www.kimt.com/news/struggling-with-heating-bills-minnesota-has-111m-in-help/article_00ceb0d3-0116-40d1-b34f-b6b30aa52ba8.html",
-   "source": "kimt.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "São Paulo Today : Weather , Ibirapuera & Markets Oct 27",
-   "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-october-27-2026/",
-   "source": "riotimesonline.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "SBP raises policy rate to 12 %",
-   "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
-   "source": "tribune.com.pk",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "SBP raises interest rate to 12 % amid Iran - US tensions and rising oil prices",
-   "url": "https://www.pakistantimes.com/sbp-raises-interest-rate-to-12-amid-iran-us-tensions-and-rising-oil-prices-15846/",
-   "source": "pakistantimes.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
-   "url": "https://www.rttnews.com/3703096/indian-shares-marginally-lower-in-early-trade-it-stocks-underperform.aspx",
-   "source": "rttnews.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Rio Today : Rainy Tuesday , Lula Market Fallout & Open Museums",
-   "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-october-27-2026/",
-   "source": "riotimesonline.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
-   "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
-   "source": "riotimesonline.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-   "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-   "source": "myanmarnews.net",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
-   "url": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
-   "source": "riotimesonline.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Crisis in Strait of Hormuz will not be last of its kind : Singapore Energy Minister Tan warns of energy supply risks",
-   "url": "http://www.myanmarnews.net/news/279399103/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks",
-   "source": "myanmarnews.net",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "Finance adviser highlights Pakistan economic gains in first - quarter scorecard",
-   "url": "https://www.pakistantimes.com/finance-adviser-highlights-pakistans-economic-gains-in-first-quarter-scorecard-15851/",
-   "source": "pakistantimes.com",
-   "theme": "press",
-   "date": "2026-10-27T05:15:00+00:00"
-  },
-  {
-   "title": "October 2026 euro area bank lending survey",
-   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-10-27T00:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Factsheet: A stronger Frontex",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2263",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-26T23:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
-   "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
-   "source": "themarketsdaily.com",
-   "theme": "press",
-   "date": "2026-10-26T07:15:00+00:00"
-  },
-  {
-   "title": "Scottish Greens set to vote on whether to support new nuclear power",
-   "url": "https://nuclear-news.net/2026/10/26/6-b1-scottish-greens-set-to-vote-on-whether-to-support-new-nuclear-power/",
-   "source": "nuclear-news.net",
-   "theme": "press",
-   "date": "2026-10-26T07:15:00+00:00"
-  },
-  {
-   "title": "Sensex falls 134 points , Nifty slips below 22 , 600 amid crude oil prices and West Asia tensions",
-   "url": "https://www.ibtimes.co.in/sensex-falls-134-points-nifty-slips-below-22600-amid-crude-oil-prices-west-asia-tensions-907850",
-   "source": "ibtimes.co.in",
-   "theme": "press",
-   "date": "2026-10-26T07:15:00+00:00"
   }
  ],
  "countries": {
@@ -192,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -202,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE",
      "EE"
@@ -213,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -223,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -233,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -243,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE",
      "IE"
@@ -254,7 +135,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -264,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE"
     ]
@@ -276,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE",
      "EE"
@@ -289,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "DE",
      "IE"
@@ -302,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "AT",
      "SI"
@@ -315,7 +196,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T05:44:36+00:00",
+    "date": "2026-10-28T15:06:53+00:00",
     "countries": [
      "AT",
      "SI"
@@ -378,6 +259,154 @@
     "date": "2026-10-22T15:35:53+00:00",
     "countries": [
      "GB"
+    ]
+   }
+  ],
+  "BG": [
+   {
+    "title": "Why people , not places , are the real soul of travel | Milton Ulladulla Times",
+    "url": "https://www.ulladullatimes.com.au/story/9373098/why-people-not-places-are-the-real-soul-of-travel/",
+    "source": "ulladullatimes.com.au",
+    "theme": "press",
+    "date": "2026-10-27T05:15:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "EU summit in Brussels : European powers intensify war drive against Russia",
+    "url": "https://nuclear-news.net/2026/10/26/6-b1-eu-summit-in-brussels-european-powers-intensify-war-drive-against-russia/",
+    "source": "nuclear-news.net",
+    "theme": "press",
+    "date": "2026-10-26T07:15:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   }
+  ],
+  "NO": [
+   {
+    "title": "5 Of The Best Fighter Jets Flown By The US Air Force",
+    "url": "https://www.slashgear.com/2291726/best-fighter-jets-flown-by-us-air-force/",
+    "source": "slashgear.com",
+    "theme": "press",
+    "date": "2026-10-26T05:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuelan opposition leader María Corina Machado returns from exile amid transition",
+    "url": "https://fox17.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
+    "source": "fox17.com",
+    "theme": "press",
+    "date": "2026-10-25T19:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "The UN General Assembly : Progress or Pantomime ? – The University Times",
+    "url": "https://universitytimes.ie/2026/10/the-un-general-assembly-progress-or-pantomime/",
+    "source": "universitytimes.ie",
+    "theme": "press",
+    "date": "2026-10-25T19:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuelan opposition leader María Corina Machado returns from exile amid transition",
+    "url": "https://wgme.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
+    "source": "wgme.com",
+    "theme": "press",
+    "date": "2026-10-25T19:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuelan opposition leader María Corina Machado returns from exile amid transition",
+    "url": "https://wsbt.com/news/nation-world/venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-amid-transition",
+    "source": "wsbt.com",
+    "theme": "press",
+    "date": "2026-10-25T19:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuela opposition leader Machado returns after months in exile",
+    "url": "https://www.4029tv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+    "source": "4029tv.com",
+    "theme": "press",
+    "date": "2026-10-25T19:15:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuela opposition leader Machado returns after months in exile",
+    "url": "https://www.ketv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+    "source": "ketv.com",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Venezuela opposition leader Machado returns after months in exile",
+    "url": "https://www.wpbf.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+    "source": "wpbf.com",
+    "theme": "press",
+    "date": "2026-10-25T18:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
+    "url": "https://lancasteronline.com/news/world/a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu/article_6c1784bf-9b18-59f0-8cf9-eb015534bb3d.html",
+    "source": "lancasteronline.com",
+    "theme": "press",
+    "date": "2026-10-26T07:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "A look at main issues in Israel elections seen as referendum on Netanyahu",
+    "url": "https://www.dailyexcelsior.com/a-look-at-main-issues-in-israel-elections-seen-as-referendum-on-netanyahu/",
+    "source": "dailyexcelsior.com",
+    "theme": "press",
+    "date": "2026-10-26T07:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Trump Calls Greenland The Greatest Real Estate Deal in History After Claiming Denmark Gave It to the US",
+    "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
+    "source": "ibtimes.co.uk",
+    "theme": "press",
+    "date": "2026-10-26T07:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Why constitutional literacy is an important part of education",
+    "url": "https://www.thehindu.com/education/why-constitutional-literacy-is-an-important-part-of-education/article71606166.ece",
+    "source": "thehindu.com",
+    "theme": "press",
+    "date": "2026-10-26T05:00:00+00:00",
+    "countries": [
+     "DK"
     ]
    }
   ]
@@ -457,14 +486,10 @@
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError"
+  "gdelt/RS: HTTPError",
+  "gdelt/world: HTTPError"
  ]
 }

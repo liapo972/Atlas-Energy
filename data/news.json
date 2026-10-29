@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T21:06:42+00:00",
+ "generated": "2026-10-29T05:50:42+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-28T21:06:42+00:00",
+   "date": "2026-10-29T05:50:42+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-28T21:06:42+00:00",
+   "date": "2026-10-29T05:50:42+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE",
      "EE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE",
      "IE"
@@ -135,7 +135,7 @@
     "url": "https://www.acer.europa.eu/news/christof-lessenich-become-new-acer-director",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,79 +170,9 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "DE",
-     "IE"
-    ]
-   },
-   {
-    "title": "Deep field of Avon Town Council candidates seek four available seats on Nov . 3",
-    "url": "https://www.vaildaily.com/news/deep-field-of-avon-town-council-candidates-seek-four-available-seats-on-nov-3/",
-    "source": "vaildaily.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Weather warnings in place as united kingdom braced for more strong winds and heavy rain",
-    "url": "https://www.northsomersettimes.co.uk/news/national/26672170.weather-warnings-place-uk-braced-strong-winds-heavy-rain/",
-    "source": "northsomersettimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Almost 20 people rescued from Fareham flats in Great Storm",
-    "url": "https://www.dailyecho.co.uk/news/26670376.almost-20-people-rescued-fareham-flats-great-storm/",
-    "source": "dailyecho.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Thousands of united kingdom households could be owed up to £90 cash due to Storm Boelo",
-    "url": "https://www.birminghammail.co.uk/news/midlands-news/thousands-uk-households-could-owed-34816152",
-    "source": "birminghammail.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "burnhamandhighbridgeweeklynews.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.thewestonmercury.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "thewestonmercury.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "Recovery under way after storms kill man and cut power to 800 , 000 properties",
-    "url": "https://www.hamhigh.co.uk/news/national/26668633.recovery-way-storms-kill-man-cut-power-800-000-properties/",
-    "source": "hamhigh.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
      "IE"
     ]
    }
@@ -253,30 +183,10 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "AT",
      "SI"
-    ]
-   },
-   {
-    "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
-    "url": "https://lancasteronline.com/news/world/a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu/article_6c1784bf-9b18-59f0-8cf9-eb015534bb3d.html",
-    "source": "lancasteronline.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "A look at main issues in Israel elections seen as referendum on Netanyahu",
-    "url": "https://www.dailyexcelsior.com/a-look-at-main-issues-in-israel-elections-seen-as-referendum-on-netanyahu/",
-    "source": "dailyexcelsior.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "AT"
     ]
    }
   ],
@@ -286,7 +196,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-28T21:06:42+00:00",
+    "date": "2026-10-29T05:50:42+00:00",
     "countries": [
      "AT",
      "SI"
@@ -302,56 +212,6 @@
     "date": "2026-10-27T18:54:09+00:00",
     "countries": [
      "DE",
-     "IT"
-    ]
-   },
-   {
-    "title": "Australia Ferrero plant celebrates 50 years of Nutella production | Manning River Times",
-    "url": "https://www.manningrivertimes.com.au/story/9380741/australia-ferrero-plant-celebrates-50-years-of-nutella-production/",
-    "source": "manningrivertimes.com.au",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Australia Ferrero plant celebrates 50 years of Nutella production | Milton Ulladulla Times",
-    "url": "https://www.ulladullatimes.com.au/story/9380741/australia-ferrero-plant-celebrates-50-years-of-nutella-production/",
-    "source": "ulladullatimes.com.au",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "subsidence the gradual lowering of urban landscapes is not irreversible",
-    "url": "https://www.repubblica.it/en/europe/news/2026/10/26/news/subsidence_in_italy_venice_and_ravenna_are_sinking_but_there_is_a_solution-425670989/",
-    "source": "repubblica.it",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Grand Hyatt heads to bidders ; plans Colombo - first entry and four or five more destinations - Business",
-    "url": "https://www.dailymirror.lk/breaking-news/Grand-Hyatt-heads-to-bidders-plans-Colombo-first-entry-and-four-or-five-more-destinations/215-353312",
-    "source": "dailymirror.lk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Fed - up travellers name the cities they have no desire to return to after visiting - and Denver tops the list : It honestly awful",
-    "url": "https://www.dailymail.com/lifestyle/article-16237911/Fed-travellers-cities-no-desire-return-visiting-Denver-tops-list-honestly-awful.html",
-    "source": "dailymail.com",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
      "IT"
     ]
    },
@@ -378,66 +238,6 @@
      "DE",
      "RS"
     ]
-   },
-   {
-    "title": "Serbia Aleksandar Vucic concedes defeat to the student - led movement in a seismic political shift | Elections",
-    "url": "https://www.messenger-inquirer.com/ap/elections/serbia-s-aleksandar-vucic-concedes-defeat-to-the-student-led-movement-in-a-seismic-political/article_ab3708fd-b246-5cf3-8ac1-51bdad92f43b.html",
-    "source": "messenger-inquirer.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Aleksandar Vucic , the Serbian leader brought down by students",
-    "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbia Aleksandar Vucic concedes defeat to the student - led movement in a seismic political shift | World News",
-    "url": "https://lancasteronline.com/news/world/serbia-s-aleksandar-vucic-concedes-defeat-to-the-student-led-movement-in-a-seismic-political/article_f4d2442c-15b4-52f9-8165-43cc5aba9d3e.html",
-    "source": "lancasteronline.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbia Aleksandar Vucic concedes defeat to the student - led movement in a seismic political shift | News",
-    "url": "http://www.goskagit.com/news/world/serbia-s-aleksandar-vucic-concedes-defeat-to-the-student-led-movement-in-a-seismic-political/article_2ed75695-3bd2-5be4-b5be-2a91f23920f1.html",
-    "source": "goskagit.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbia strongman leader Vucic concedes defeat to student - led movement",
-    "url": "https://www.hamhigh.co.uk/news/national/26668610.serbias-strongman-leader-vucic-concedes-defeat-student-led-movement/",
-    "source": "hamhigh.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
-   },
-   {
-    "title": "Serbia strongman leader Vucic concedes defeat to student - led movement",
-    "url": "https://www.thewestonmercury.co.uk/news/national/26668610.serbias-strongman-leader-vucic-concedes-defeat-student-led-movement/",
-    "source": "thewestonmercury.co.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "RS"
-    ]
    }
   ],
   "GB": [
@@ -452,201 +252,23 @@
     ]
    },
    {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.eastlondonadvertiser.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "eastlondonadvertiser.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
+    "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+    "url": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-22T20:00:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Bodycote ( OTCMKTS : BYPLF ) Shares Down 0 . 8 % – Time to Sell ?",
-    "url": "https://www.dailypolitical.com/2026/10/26/bodycote-otcmktsbyplf-shares-down-0-8-time-to-sell.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
+    "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-10-22T15:35:53+00:00",
     "countries": [
      "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.wimbledonguardian.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "wimbledonguardian.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.northsomersettimes.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "northsomersettimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "richmondandtwickenhamtimes.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Further disruption expected in Scotland as fresh weather warning in place",
-    "url": "https://www.newsshopper.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
-    "source": "newsshopper.co.uk",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "MESH a New Release Into a New Century with Clarinet Virtuoso Kornel Wolak and Composers Norbert Palej and Charles T . Cozens",
-    "url": "https://cashboxcanada.ca/index.php/reviews-album/mesh-new-release-new-century-clarinet-virtuoso-kornel-wolak-and-composers-norbert",
-    "source": "cashboxcanada.ca",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   }
-  ],
-  "FR": [
-   {
-    "title": "14 October 2026 changes affecting residents in France",
-    "url": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
-    "source": "connexionfrance.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins Brazil vote despite Bolsonaro challenge",
-    "url": "http://www.milwaukeesun.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
-    "source": "milwaukeesun.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "UBA Targets Single - use Plastics , Poor Waste Habits In Group - wide Climate Campaign",
-    "url": "https://leadership.ng/uba-targets-single-use-plastics-poor-waste-habits-in-group-wide-climate-campaign/",
-    "source": "leadership.ng",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins Brazil vote despite Bolsonaro challenge",
-    "url": "http://www.ohiostandard.com/news/279398697/lula-wins-brazil-vote-despite-bolsonaro-challenge",
-    "source": "ohiostandard.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "French riots and 2027 election : Macron faces polarised run - off",
-    "url": "https://www.connexionfrance.com/opinion/french-riots-mean-election-run-off-will-be-choice-of-two-extremes/823412",
-    "source": "connexionfrance.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Mbappe dropped by Chinese brands for offending national sentiments",
-    "url": "https://economictimes.indiatimes.com/news/international/business/mbappe-dropped-by-chinese-brands-for-offending-national-sentiments/articleshow/135224610.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Lula wins fourth term , but Bolsonaro refuses to accept result",
-    "url": "http://www.myanmarnews.net/news/279398697/lula-wins-fourth-term-but-bolsonaro-refuses-to-accept-result",
-    "source": "myanmarnews.net",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "The French government is hiding behind a riot narrative | Protests",
-    "url": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative",
-    "source": "aljazeera.com",
-    "theme": "press",
-    "date": "2026-10-26T07:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   }
-  ],
-  "NL": [
-   {
-    "title": "Critical Review : ASML ( NASDAQ : ASML ) & MaxLinear ( NASDAQ : MXL )",
-    "url": "https://www.themarketsdaily.com/2026/10/26/critical-review-asml-nasdaqasml-maxlinear-nasdaqmxl.html",
-    "source": "themarketsdaily.com",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "5 Of The Best Fighter Jets Flown By The US Air Force",
-    "url": "https://www.slashgear.com/2291726/best-fighter-jets-flown-by-us-air-force/",
-    "source": "slashgear.com",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "One million march in France – General strike 5th November - Workers Revolutionary Party",
-    "url": "https://wrp.org.uk/news/one-million-march-in-france-general-strike-5th-november/",
-    "source": "wrp.org.uk",
-    "theme": "press",
-    "date": "2026-10-26T05:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "PL": [
-   {
-    "title": "Vietnam and Poland target $6 billion in bilateral trade",
-    "url": "https://vir.com.vn/vietnam-and-poland-target-6-billion-in-bilateral-trade-163803.html",
-    "source": "vir.com.vn",
-    "theme": "press",
-    "date": "2026-10-27T05:15:00+00:00",
-    "countries": [
-     "PL"
     ]
    }
   ]
@@ -709,8 +331,20 @@
   }
  },
  "errors": [
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
+  "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
+  "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
+  "gdelt/IT: HTTPError",
+  "gdelt/PL: HTTPError",
+  "gdelt/CZ: HTTPError",
+  "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
@@ -720,8 +354,11 @@
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

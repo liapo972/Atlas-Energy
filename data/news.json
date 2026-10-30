@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T15:03:30+00:00",
+ "generated": "2026-10-30T20:49:16+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-30T15:03:30+00:00",
+   "date": "2026-10-30T20:49:16+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-30T15:03:30+00:00",
+   "date": "2026-10-30T20:49:16+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,15 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-10-30T15:03:30+00:00",
+   "date": "2026-10-30T20:49:16+00:00",
+   "countries": []
+  },
+  {
+   "title": "Philip R. Lane: AI adoption in Europe",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-10-30T16:10:00+00:00",
    "countries": []
   },
   {
@@ -50,19 +58,11 @@
    "countries": []
   },
   {
-   "title": "Europeans overwhelmingly support stronger EU civil protection cooperation based on solidarity, new Eurobarometer shows",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2285",
+   "title": "Factsheet - 2026 EU-Canada Summit",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2305",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-10-29T23:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Commission takes a key step forward on 2027 financial support for Ukraine",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2301",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-10-29T23:00:00+00:00",
+   "date": "2026-10-30T09:40:56+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE",
      "EE"
@@ -94,7 +94,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -104,7 +104,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -114,7 +114,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -124,7 +124,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE",
      "IE"
@@ -135,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -145,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01122026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE",
      "EE"
@@ -170,7 +170,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "DE",
      "IE"
@@ -183,7 +183,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "AT",
      "SI"
@@ -207,7 +207,7 @@
     "url": "https://www.acer.europa.eu/news/acer-supports-exemption-bi-directional-gas-flow-between-austria-and-slovenia",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-10-30T15:03:30+00:00",
+    "date": "2026-10-30T20:49:16+00:00",
     "countries": [
      "AT",
      "SI"
@@ -235,18 +235,6 @@
     "countries": [
      "FR",
      "AT"
-    ]
-   }
-  ],
-  "CZ": [
-   {
-    "title": "Commission greenlights Czechia's seventh and final payment request for €951 million under NextGenerationEU",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2294",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-29T13:17:40+00:00",
-    "countries": [
-     "CZ"
     ]
    }
   ],
@@ -374,21 +362,25 @@
   }
  },
  "errors": [
-  "gdelt/DE: TimeoutError",
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/GB: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
+  "gdelt/GR: HTTPError",
+  "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/RS: HTTPError",
+  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

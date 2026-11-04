@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T00:37:06+00:00",
+ "generated": "2026-11-04T12:10:21+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -18,11 +18,19 @@
    "countries": []
   },
   {
+   "title": "EU electricity market integration progresses but significant benefits remain untapped",
+   "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-04T12:10:21+00:00",
+   "countries": []
+  },
+  {
    "title": "New ACER guidance helps market participants comply with revised REMIT data reporting rules",
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T00:37:06+00:00",
+   "date": "2026-11-04T12:10:21+00:00",
    "countries": []
   },
   {
@@ -30,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T00:37:06+00:00",
+   "date": "2026-11-04T12:10:21+00:00",
    "countries": []
   },
   {
@@ -38,31 +46,23 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T00:37:06+00:00",
+   "date": "2026-11-04T12:10:21+00:00",
    "countries": []
   },
   {
-   "title": "Entry into force or application of EU legislation - Key milestones, 1-30 November 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2327",
+   "title": "Daily News 04 / 11 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2341",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-03T10:55:23+00:00",
+   "date": "2026-11-04T11:26:13+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 03 / 11 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2326",
+   "title": "Factsheet - EU Sustainable Tourism Strategy",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2283",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-03T10:46:47+00:00",
-   "countries": []
-  },
-  {
-   "title": "Commission takes new steps to prepare Europeans for growing crisis risks",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2324",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-11-03T10:15:13+00:00",
+   "date": "2026-11-03T23:00:00+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "SK"
     ]
@@ -85,7 +85,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE",
      "EE"
@@ -106,7 +106,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
@@ -116,7 +116,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
@@ -126,20 +126,19 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
    },
    {
-    "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
-    "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
-    "source": "ACER",
+    "title": "Termine für Amateurfunkprüfungen (Stand 4. November 2026)",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
-     "DE",
-     "IE"
+     "DE"
     ]
    },
    {
@@ -147,7 +146,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +156,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE"
     ]
@@ -169,162 +168,25 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
+    "date": "2026-11-04T12:10:21+00:00",
     "countries": [
      "DE",
      "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.ksut.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "ksut.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.wcsufm.org/latest-from-npr/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "wcsufm.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.northernpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "northernpublicradio.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.aspenpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "aspenpublicradio.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.ksmu.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "ksmu.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.kunc.org/npr-news/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "kunc.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Refrigeration Systems Under Cyber Siege : The Internet of Things Shows Weaknesses , ETTelecom",
-    "url": "https://telecom.economictimes.indiatimes.com/news/devices/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses/135478535",
-    "source": "telecom.economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-11-03T02:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   }
-  ],
-  "IE": [
-   {
-    "title": "ACER finds Irish gas transmission tariffs largely compliant with EU rules, but calls for clarity on the Corrib Linkline service",
-    "url": "https://www.acer.europa.eu/news/acer-finds-irish-gas-transmission-tariffs-largely-compliant-eu-rules-calls-clarity-corrib-linkline-service",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-11-04T00:37:06+00:00",
-    "countries": [
-     "DE",
-     "IE"
-    ]
-   }
-  ],
-  "LV": [
-   {
-    "title": "Commission greenlights Latvia's fifth and final payment request for €504 million under NextGenerationEU",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2328",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-11-03T15:16:29+00:00",
-    "countries": [
-     "LV"
-    ]
-   }
-  ],
-  "IT": [
-   {
-    "title": "Tata Motors and Iveco Group Come Together to Build for the Future Creating a New Global Force in Commercial Mobility",
-    "url": "https://www.stratfordbeaconherald.com/press-releases/globe-newswire/tata-motors-and-iveco-group-come-together-to-build-for-the-future-creating-a-new-global-force-in-commercial-mobility/",
-    "source": "stratfordbeaconherald.com",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Tata Motors and Iveco Group Come Together to Build for the Future Creating a New Global Force in Commercial Mobility",
-    "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/tata-motors-and-iveco-group-come-together-to-build-for-the-future-creating-a-new-global-force-in-commercial-mobility/2460385",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Raymond Prag of Southampton Dies October 29",
-    "url": "https://www.27east.com/southampton-press/obituaries/article_7eee128c-aaef-4932-a495-3b5f49fe343d.html",
-    "source": "27east.com",
-    "theme": "press",
-    "date": "2026-11-03T02:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Questions Mount Over Venezuela Biggest Oil Deal",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
-    "source": "oilprice.com",
-    "theme": "press",
-    "date": "2026-11-03T02:15:00+00:00",
-    "countries": [
-     "IT"
-    ]
-   },
-   {
-    "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of the International Day to End Impunity for Crimes against Journalists",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2317",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-10-31T23:00:00+00:00",
-    "countries": [
-     "DE",
-     "IT"
     ]
    }
   ],
   "FR": [
+   {
+    "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+    "source": "BCE",
+    "theme": "policy",
+    "date": "2026-11-04T00:00:00+00:00",
+    "countries": [
+     "FR",
+     "DE"
+    ]
+   },
    {
     "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
@@ -379,19 +241,37 @@
     ]
    }
   ],
-  "CH": [
-   {
-    "title": "NUSA Names Mozimo Chairman Of Caretaker Committee",
-    "url": "https://leadership.ng/nusa-names-mozimo-chairman-of-caretaker-committee/",
-    "source": "leadership.ng",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
   "ES": [
+   {
+    "title": "WOMEX 2026 : Global Sounds in the Canary Islands",
+    "url": "https://www.afropop.org/articles/womex-2026-global-sounds-in-the-canary-islands",
+    "source": "afropop.org",
+    "theme": "press",
+    "date": "2026-11-04T01:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Dream Industrial REIT Reports Strong Q3 2026 Results",
+    "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/dream-industrial-reit-reports-strong-q3-2026-results/",
+    "source": "brantfordexpositor.ca",
+    "theme": "press",
+    "date": "2026-11-04T01:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Dream Industrial REIT Reports Strong Q3 2026 Results",
+    "url": "https://www.elliotlakestandard.ca/press-releases/business-wire/dream-industrial-reit-reports-strong-q3-2026-results/",
+    "source": "elliotlakestandard.ca",
+    "theme": "press",
+    "date": "2026-11-04T01:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
    {
     "title": "Spain Is A Socialist Dictatorship",
     "url": "https://www.americanthinker.com/articles/2026/11/spain-is-a-socialist-dictatorship/",
@@ -475,6 +355,58 @@
     ]
    }
   ],
+  "IT": [
+   {
+    "title": "25 MLB prospects who will make an impact in 2027",
+    "url": "https://www.yardbarker.com/mlb/articles/25_mlb_prospects_who_will_make_an_impact_in_2027/s1__44511940",
+    "source": "yardbarker.com",
+    "theme": "press",
+    "date": "2026-11-04T01:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Tata Motors and Iveco Group Come Together to Build for the Future Creating a New Global Force in Commercial Mobility",
+    "url": "https://www.stratfordbeaconherald.com/press-releases/globe-newswire/tata-motors-and-iveco-group-come-together-to-build-for-the-future-creating-a-new-global-force-in-commercial-mobility/",
+    "source": "stratfordbeaconherald.com",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Tata Motors and Iveco Group Come Together to Build for the Future Creating a New Global Force in Commercial Mobility",
+    "url": "https://www.manilatimes.net/2026/11/03/tmt-newswire/globenewswire/tata-motors-and-iveco-group-come-together-to-build-for-the-future-creating-a-new-global-force-in-commercial-mobility/2460385",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Raymond Prag of Southampton Dies October 29",
+    "url": "https://www.27east.com/southampton-press/obituaries/article_7eee128c-aaef-4932-a495-3b5f49fe343d.html",
+    "source": "27east.com",
+    "theme": "press",
+    "date": "2026-11-03T02:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Questions Mount Over Venezuela Biggest Oil Deal",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
+    "source": "oilprice.com",
+    "theme": "press",
+    "date": "2026-11-03T02:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
   "PL": [
    {
     "title": "OMODA X , 5 - kWh HEV Technology and Dual Intelligent Technologies Take Center Stage as Global Users Bring DRIVE TO THE NEXT VIBE to Life",
@@ -517,47 +449,85 @@
     ]
    }
   ],
-  "NO": [
+  "SE": [
    {
-    "title": "Operator change for major gas project in Norway",
-    "url": "https://www.upstreamonline.com/field-development/operator-change-for-major-gas-project-in-norway/2-1-2068118",
-    "source": "upstreamonline.com",
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.ksut.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "ksut.org",
     "theme": "press",
     "date": "2026-11-03T11:15:00+00:00",
     "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "RS": [
-   {
-    "title": "If our people vote , we win in a landslide : Trump urges Republicans to turn out ahead of US midterms",
-    "url": "http://www.texasguardian.com/news/279408958/if-our-people-vote-we-win-in-a-landslide-trump-urges-republicans-to-turn-out-ahead-of-us-midterms",
-    "source": "texasguardian.com",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "RS"
+     "SE"
     ]
    },
    {
-    "title": "Detentions , resignations , probes shake Serbia after students toppled strongman Vucic in election",
-    "url": "https://www.dailygazette.com/ade/ap/world/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election/article_16148d50-e930-5c0a-ba59-5f268a310a76.html",
-    "source": "dailygazette.com",
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.wcsufm.org/latest-from-npr/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "wcsufm.org",
     "theme": "press",
     "date": "2026-11-03T11:15:00+00:00",
     "countries": [
-     "RS"
+     "SE"
     ]
    },
    {
-    "title": "Detentions , resignations , probes shake Serbia after students toppled strongman Vucic in election",
-    "url": "http://www.idahopress.com/ap_news/us/detentions-resignations-probes-shake-serbia-after-students-toppled-strongman-vucic-in-election/article_43d51190-31e3-5243-ac41-28ec652f0000.html",
-    "source": "idahopress.com",
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.northernpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "northernpublicradio.org",
     "theme": "press",
     "date": "2026-11-03T11:15:00+00:00",
     "countries": [
-     "RS"
+     "SE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.aspenpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "aspenpublicradio.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.ksmu.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "ksmu.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.kunc.org/npr-news/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "kunc.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "India to pursue Solution - oriented and Equitable Climate Action at UNFCCC COP31 in Antalya : Union Environment Minister",
+    "url": "https://orissadiary.com/india-to-pursue-solution-oriented-and-equitable-climate-action-at-unfccc-cop31-in-antalya-union-environment-minister/",
+    "source": "orissadiary.com",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Refrigeration Systems Under Cyber Siege : The Internet of Things Shows Weaknesses , ETTelecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/devices/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses/135478535",
+    "source": "telecom.economictimes.indiatimes.com",
+    "theme": "press",
+    "date": "2026-11-03T02:15:00+00:00",
+    "countries": [
+     "SE"
     ]
    }
   ]
@@ -626,14 +596,17 @@
   "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
-  "gdelt/RO: TimeoutError",
-  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/SE: HTTPError",
+  "gdelt/NO: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/HR: HTTPError",
+  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

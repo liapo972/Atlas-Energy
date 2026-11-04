@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T12:10:21+00:00",
+ "generated": "2026-11-04T19:46:25+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T12:10:21+00:00",
+   "date": "2026-11-04T19:46:25+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T12:10:21+00:00",
+   "date": "2026-11-04T19:46:25+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T12:10:21+00:00",
+   "date": "2026-11-04T19:46:25+00:00",
    "countries": []
   },
   {
@@ -46,23 +46,23 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-04T12:10:21+00:00",
+   "date": "2026-11-04T19:46:25+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 04 / 11 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2341",
+   "title": "Statement following meeting on prosperity talks today",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2348",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-04T11:26:13+00:00",
+   "date": "2026-11-04T16:48:34+00:00",
    "countries": []
   },
   {
-   "title": "Factsheet - EU Sustainable Tourism Strategy",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2283",
+   "title": "€525 million investment set to drive new generation of European chip design companies",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2345",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-03T23:00:00+00:00",
+   "date": "2026-11-04T14:48:20+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "SK"
     ]
@@ -85,7 +85,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE",
      "EE"
@@ -106,7 +106,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -116,7 +116,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -126,7 +126,7 @@
     "url": "https://www.acer.europa.eu/news/acer-amends-implementation-frameworks-two-european-electricity-balancing-platforms",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -136,7 +136,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -146,7 +146,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +156,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE"
     ]
@@ -168,9 +168,69 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-04T12:10:21+00:00",
+    "date": "2026-11-04T19:46:25+00:00",
     "countries": [
      "DE",
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.ksut.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "ksut.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.wcsufm.org/latest-from-npr/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "wcsufm.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.northernpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "northernpublicradio.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.aspenpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "aspenpublicradio.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.ksmu.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "ksmu.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "A new cold war : hackers target fridges across the globe",
+    "url": "https://www.kunc.org/npr-news/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+    "source": "kunc.org",
+    "theme": "press",
+    "date": "2026-11-03T11:15:00+00:00",
+    "countries": [
      "EE"
     ]
    }
@@ -200,6 +260,16 @@
    }
   ],
   "GB": [
+   {
+    "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+    "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-11-04T14:51:45+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
     "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
@@ -449,77 +519,7 @@
     ]
    }
   ],
-  "SE": [
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.ksut.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "ksut.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.wcsufm.org/latest-from-npr/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "wcsufm.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.northernpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "northernpublicradio.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.aspenpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "aspenpublicradio.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.ksmu.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "ksmu.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "A new cold war : hackers target fridges across the globe",
-    "url": "https://www.kunc.org/npr-news/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
-    "source": "kunc.org",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
-   {
-    "title": "India to pursue Solution - oriented and Equitable Climate Action at UNFCCC COP31 in Antalya : Union Environment Minister",
-    "url": "https://orissadiary.com/india-to-pursue-solution-oriented-and-equitable-climate-action-at-unfccc-cop31-in-antalya-union-environment-minister/",
-    "source": "orissadiary.com",
-    "theme": "press",
-    "date": "2026-11-03T11:15:00+00:00",
-    "countries": [
-     "SE"
-    ]
-   },
+  "FI": [
    {
     "title": "Refrigeration Systems Under Cyber Siege : The Internet of Things Shows Weaknesses , ETTelecom",
     "url": "https://telecom.economictimes.indiatimes.com/news/devices/caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses/135478535",
@@ -527,7 +527,7 @@
     "theme": "press",
     "date": "2026-11-03T02:15:00+00:00",
     "countries": [
-     "SE"
+     "FI"
     ]
    }
   ]
@@ -598,13 +598,13 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T06:49:40+00:00",
+ "generated": "2026-11-06T15:55:57+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -18,11 +18,19 @@
    "countries": []
   },
   {
+   "title": "Is energy grids development keeping pace with Europe’s evolving needs?",
+   "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-06T15:55:57+00:00",
+   "countries": []
+  },
+  {
    "title": "Assessing EU electricity flexibility needs: a first look at ACER’s open-source model",
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-06T06:49:40+00:00",
+   "date": "2026-11-06T15:55:57+00:00",
    "countries": []
   },
   {
@@ -30,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-06T06:49:40+00:00",
+   "date": "2026-11-06T15:55:57+00:00",
    "countries": []
   },
   {
@@ -38,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-06T06:49:40+00:00",
+   "date": "2026-11-06T15:55:57+00:00",
    "countries": []
   },
   {
@@ -46,7 +54,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-06T06:49:40+00:00",
+   "date": "2026-11-06T15:55:57+00:00",
    "countries": []
   },
   {
@@ -54,15 +62,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-06T06:49:40+00:00",
-   "countries": []
-  },
-  {
-   "title": "Speech by Commissioner Dombrovskis presenting report on Simplification, Implementation and Enforcement at CEPS",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-11-05T12:04:35+00:00",
+   "date": "2026-11-06T15:55:57+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "SK"
     ]
@@ -85,7 +85,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +95,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE",
      "EE"
@@ -106,17 +106,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER finds hydrogen network planning frameworks across the EU still incomplete",
-    "url": "https://www.acer.europa.eu/news/acer-finds-hydrogen-network-planning-frameworks-across-eu-still-incomplete",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -126,7 +116,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -136,7 +126,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -146,7 +136,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +146,17 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Ausschreibung Biomasse: Gebotstermin 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE"
     ]
@@ -168,10 +168,85 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-06T06:49:40+00:00",
+    "date": "2026-11-06T15:55:57+00:00",
     "countries": [
      "DE",
      "EE"
+    ]
+   }
+  ],
+  "IT": [
+   {
+    "title": "Keynote speech by Commissioner Síkela at the International Partnership Conference",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2367",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-06T11:06:25+00:00",
+    "countries": [
+     "DE",
+     "IT"
+    ]
+   }
+  ],
+  "FI": [
+   {
+    "title": "Finnish startup secures €9 million Series A to scale power conversion technology for AI data centres and electrification",
+    "url": "https://arcticstartup.com/vensum-power-raises-e9-million-series-a/",
+    "source": "arcticstartup.com",
+    "theme": "press",
+    "date": "2026-11-06T12:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Turkey Arrests Former Minister Over Stock Market Fraud Scandal",
+    "url": "https://balkaninsight.com/2026/11/06/turkey-arrests-former-minister-over-stock-market-fraud-scandal/bi/",
+    "source": "balkaninsight.com",
+    "theme": "press",
+    "date": "2026-11-06T11:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Elering Partners with Image Soft to Safeguard Baltic Sea Subsea Energy Infrastructure with Advanced UNWAS™ Technology",
+    "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/elering-partners-with-image-soft-to-safeguard-baltic-sea-subsea-energy-infrastructure-with-advanced-unwas-technology/2463864",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-11-06T09:30:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Commission greenlights Finland's final payment request for €331 million under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2362",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-06T08:53:49+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "US Marines head to the Baltic Sea to help NATO mission aimed at protecting European undersea cables from Russian interference",
+    "url": "https://www.techradar.com/pro/us-marines-head-to-the-baltic-sea-to-help-nato-mission-aimed-at-protecting-european-undersea-cables-from-russian-interference",
+    "source": "techradar.com",
+    "theme": "press",
+    "date": "2026-11-06T03:00:00+00:00",
+    "countries": [
+     "FI"
+    ]
+   },
+   {
+    "title": "Global Energy Markets And Regional Security Hang In The Balance As Tehran Reads US Midterm Results",
+    "url": "https://www.foreignpolicyjournal.com/2026/11/05/global-energy-markets-and-regional-security-hang-in-the-balance-as-tehran-reads-us-midterm-results/",
+    "source": "foreignpolicyjournal.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "FI"
     ]
    }
   ],
@@ -260,6 +335,358 @@
      "GB"
     ]
    }
+  ],
+  "NO": [
+   {
+    "title": "Diplomatic outreach to Taliban grows , but global recognition remains elusive",
+    "url": "https://theshillongtimes.com/2026/11/06/diplomatic-outreach-to-taliban-grows-but-global-recognition-remains-elusive/",
+    "source": "theshillongtimes.com",
+    "theme": "press",
+    "date": "2026-11-06T12:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Blazes Boylan",
+    "url": "https://www.irishamerica.com/2026/06/blazes-boylan-sept-oct-1993/",
+    "source": "irishamerica.com",
+    "theme": "press",
+    "date": "2026-11-06T11:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Brockloch Forest : Major 493ha forestry project begins work",
+    "url": "https://www.cumnockchronicle.com/news/26703309.brockloch-forest-major-493ha-forestry-project-begins-work/",
+    "source": "cumnockchronicle.com",
+    "theme": "press",
+    "date": "2026-11-06T09:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Too many stories exist only to make you think youre on the right side : Cristian Mungiu on Fjord , the Cannes winner that divided Europe | Movies",
+    "url": "https://www.theguardian.com/film/2026/nov/06/too-many-stories-exist-only-to-make-you-think-youre-on-the-right-side-cristian-mungiu-on-fjord-his-disquieting-social-drama",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-11-06T09:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "John Barry agreed to write music for Yorkshire Air Museum",
+    "url": "https://www.gazetteherald.co.uk/news/letters/26702160.john-barry-agreed-write-music-yorkshire-air-museum/",
+    "source": "gazetteherald.co.uk",
+    "theme": "press",
+    "date": "2026-11-06T08:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Alfa Laval to acquire NAVTOR AS to strengthen the digital offering for the maritime sector",
+    "url": "https://www.prnewswire.com/news-releases/alfa-laval-to-acquire-navtor-as-to-strengthen-the-digital-offering-for-the-maritime-sector-302931898.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-11-06T08:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "2027 polls : Umahi , Ebonyi politics and Igboland – The Sun Nigeria",
+    "url": "https://thesun.ng/2027-polls-umahi-ebonyi-politics-and-igboland-2/",
+    "source": "thesun.ng",
+    "theme": "press",
+    "date": "2026-11-06T08:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Federal budget outlines how Canadians could profit from new national sovereign fund | Daily Hive",
+    "url": "https://dailyhive.com/vancouver/canada-strong-fund-notes-sovereign-federal-budget-2026",
+    "source": "dailyhive.com",
+    "theme": "press",
+    "date": "2026-11-06T04:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "FY2026 Earnings Forecast for Canfor Issued By Scotiabank",
+    "url": "https://www.tickerreport.com/banking-finance/13652562/fy2026-earnings-forecast-for-canfor-issued-by-scotiabank.html",
+    "source": "tickerreport.com",
+    "theme": "press",
+    "date": "2026-11-06T13:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Liberia Launches New Women , Peace and Security Plan , Minister Demands Action Beyond Promises",
+    "url": "https://frontpageafricaonline.com/liberia-launches-new-women-peace-and-security-plan-minister-demands-action-beyond-promises/",
+    "source": "frontpageafricaonline.com",
+    "theme": "press",
+    "date": "2026-11-06T11:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Medical agency stumped by exorcist killer case | IceNews",
+    "url": "https://icenews.is/2011/07/09/medical-agency-stumped-by-exorcist-killer-case/",
+    "source": "icenews.is",
+    "theme": "press",
+    "date": "2026-11-06T08:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Friday briefing : ​After a week of disruption , is living with threats our new normal ?",
+    "url": "https://www.aol.co.uk/articles/friday-briefing-week-disruption-living-064304000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-06T08:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Nicolas Bokowski Wins 2026 EMPC Player of the Series",
+    "url": "https://www.pokernews.com/news/2026/11/european-mixed-poker-championship-results-52723.htm",
+    "source": "pokernews.com",
+    "theme": "press",
+    "date": "2026-11-06T02:00:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Vattenfall Signs Final Deals for Two Offshore Wind Farms in Denmark",
+    "url": "https://www.oedigital.com/news/544197-vattenfall-signs-final-deals-for-two-offshore-wind-farms-in-denmark",
+    "source": "oedigital.com",
+    "theme": "press",
+    "date": "2026-11-06T13:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Powerhouse Parramatta Museum to Open on November 7 , 2026 , in Sydney",
+    "url": "https://www.archdaily.com/1188166/powerhouse-parramatta-museum-to-open-on-november-7-2026-in-sydney",
+    "source": "archdaily.com",
+    "theme": "press",
+    "date": "2026-11-06T12:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Europewide protests planned against AI data centers expansion",
+    "url": "https://aa.com.tr/en/europe/europewide-protests-planned-against-ai-data-centers-expansion/4113848",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-11-06T11:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Camp Century : The Army Nuclear Base Under Greenland Ice",
+    "url": "https://www.military.com/the-army-built-a-nuclear-powered-city-beneath-greenlands-ice-it-was-a-test-for-something-bigger",
+    "source": "military.com",
+    "theme": "press",
+    "date": "2026-11-06T11:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Letter from Scotland",
+    "url": "https://theedinburghreporter.co.uk/2026/11/letter-from-scotland-561/",
+    "source": "theedinburghreporter.co.uk",
+    "theme": "press",
+    "date": "2026-11-06T08:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Fosun International Receives ESG & Corporate Sustainability Excellence Award from Hong Kong Economic Journal – Thailand Business News",
+    "url": "https://www.thailand-business-news.com/pr-news/fosun-international-receives-esg-corporate-sustainability-excellence-award-from-hong-kong-economic-journal",
+    "source": "thailand-business-news.com",
+    "theme": "press",
+    "date": "2026-11-06T04:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Fosun International Receives ESG & Corporate Sustainability Excellence Award from Hong Kong Economic Journal",
+    "url": "https://www.prnewswire.com/news-releases/fosun-international-receives-esg--corporate-sustainability-excellence-award-from-hong-kong-economic-journal-302930477.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-11-06T01:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Power Threat Meaning Framework ( PTMF ) Now Available in Danish",
+    "url": "https://www.madinamerica.com/2026/11/power-threat-meaning-framework-ptmf-now-available-in-danish/",
+    "source": "madinamerica.com",
+    "theme": "press",
+    "date": "2026-11-04T01:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "LV": [
+   {
+    "title": "Romania Issues Arrest Warrant for Cuban Accused of Coordinating Russian Sabotage",
+    "url": "https://www.cubaheadlines.com/articles/344945",
+    "source": "cubaheadlines.com",
+    "theme": "press",
+    "date": "2026-11-06T12:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Federal budget maps out defence spending surge , but questions remain over NATO target",
+    "url": "https://www.cbc.ca/news/politics/defence-budget-military-nato-trump-9.7411329",
+    "source": "cbc.ca",
+    "theme": "press",
+    "date": "2026-11-06T12:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Russian Bombing of Komyshuvakha Kills 53 , Search Continues",
+    "url": "https://www.kyivpost.com/post/89335",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-11-06T11:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Ignitis Group reaches commercial operations date of 173 . 6 MW Tume solar farm in Latvia",
+    "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/ignitis-group-reaches-commercial-operations-date-of-1736-mw-tume-solar-farm-in-latvia/2463829",
+    "source": "manilatimes.net",
+    "theme": "press",
+    "date": "2026-11-06T08:00:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Costa Rica Grynspan extends lead in race to become next UN secretary general",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/05/un-secretary-general-straw-poll/",
+    "source": "thenationalnews.com",
+    "theme": "press",
+    "date": "2026-11-06T04:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   },
+   {
+    "title": "Security Council holds 8th straw poll on candidates for next UN chief",
+    "url": "http://www.bignewsnetwork.com/news/279415107/security-council-holds-8th-straw-poll-on-candidates-for-next-un-chief",
+    "source": "bignewsnetwork.com",
+    "theme": "press",
+    "date": "2026-11-05T23:30:00+00:00",
+    "countries": [
+     "LV"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Artist exploring monument afterlives wins Taipei Art Awards top prize",
+    "url": "https://focustaiwan.tw:443/culture/202611060017",
+    "source": "focustaiwan.tw",
+    "theme": "press",
+    "date": "2026-11-06T11:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   },
+   {
+    "title": "Artist exploring monument afterlives wins Taipei Art Awards top prize",
+    "url": "https://focustaiwan.tw/culture/202611060017",
+    "source": "focustaiwan.tw",
+    "theme": "press",
+    "date": "2026-11-06T11:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "SI": [
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dies at 50",
+    "url": "https://abcnews.com/GMA/Culture/beverly-hills-90210-actress-kimmarie-johnson-dies-50/story?id=137892580",
+    "source": "abcnews.com",
+    "theme": "press",
+    "date": "2026-11-05T23:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Redding Chico Eureka",
+    "url": "https://krcrtv.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "krcrtv.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://nbcmontana.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "nbcmontana.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://local12.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "local12.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://fox23.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "fox23.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   }
   ]
  },
  "feed_status": {
@@ -338,14 +765,7 @@
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
-  "gdelt/FI: HTTPError",
-  "gdelt/EE: HTTPError",
-  "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
+  "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:13:59+00:00",
+ "generated": "2026-11-08T20:29:20+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   },
   {
@@ -62,7 +62,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-08T15:13:59+00:00",
+   "date": "2026-11-08T20:29:20+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,47 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "21st Austria weekly - Emerald Horizon , Erste Group , RBI , Bawag ( 06 / 11 / 2026 )",
+    "url": "https://boerse-social.com/page/newsflow/21st_austria_weekly_-_emerald_horizon_erste_group_rbi_bawag_06112026",
+    "source": "boerse-social.com",
+    "theme": "press",
+    "date": "2026-11-08T18:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "21st Austria weekly - Emerald Horizon , Erste Group , RBI , Bawag ( 06 / 11 / 2026 )",
+    "url": "https://boerse-social.com/2026/11/08/21st_austria_weekly_-_emerald_horizon_erste_group_rbi_bawag_06112026",
+    "source": "boerse-social.com",
+    "theme": "press",
+    "date": "2026-11-08T18:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "The Economic Crunch Fueling Youth Protests From France To Much Of Europe",
+    "url": "https://www.zerohedge.com/political/economic-crunch-fueling-youth-protests-france-much-europe",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-11-08T14:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Never Again !: Holocaust remembrance under pressure",
+    "url": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-11-08T10:30:00+00:00",
     "countries": [
      "SK"
     ]
@@ -85,7 +125,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +135,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE",
      "EE"
@@ -106,7 +146,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -116,7 +156,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -126,7 +166,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -136,7 +176,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -146,7 +186,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +196,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE"
     ]
@@ -168,7 +208,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-08T15:13:59+00:00",
+    "date": "2026-11-08T20:29:20+00:00",
     "countries": [
      "DE",
      "EE"
@@ -256,15 +296,149 @@
     ]
    }
   ],
-  "ES": [
+  "CZ": [
    {
-    "title": "Capitol News Illinois | Pritzker appeals FEMA decision to deny Illinois disaster aid | Politics",
-    "url": "https://www.news-gazette.com/news/local/politics/capitol-news-illinois-pritzker-appeals-fema-s-decision-to-deny-illinois-disaster-aid/article_1b5b33c8-0d12-470b-a091-558b274c0ff4.html",
-    "source": "news-gazette.com",
+    "title": "Bulgaria Ranks Second in EU for Growth in Social Protection Spending",
+    "url": "http://www.bgnes.com/economy/bulgaria-ranks-second-in-eu-for-growth-in-social-protection-spending",
+    "source": "bgnes.com",
     "theme": "press",
-    "date": "2026-11-08T14:30:00+00:00",
+    "date": "2026-11-08T09:30:00+00:00",
     "countries": [
-     "ES"
+     "CZ"
+    ]
+   },
+   {
+    "title": "Three Ezri Konsa moments in Hull win prove Arsenal have made signing of the season",
+    "url": "https://www.aol.co.uk/articles/three-ezri-konsa-moments-hull-173610000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-07T18:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Wheatley weasel on the prowl for the Kitchener Rangers",
+    "url": "https://www.stcatharinesstandard.ca/news/ontario/wheatley-weasel-on-the-prowl-for-the-kitchener-rangers/article_44103d42-80aa-5746-8a80-c6792fa06c39.html",
+    "source": "stcatharinesstandard.ca",
+    "theme": "press",
+    "date": "2026-11-07T18:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   },
+   {
+    "title": "Czech Foreign Policy Under Babis : A Shift In Tone But In What Direction ? - OpEd",
+    "url": "https://www.eurasiareview.com/06112026-czech-foreign-policy-under-babis-a-shift-in-tone-but-in-what-direction-oped/",
+    "source": "eurasiareview.com",
+    "theme": "press",
+    "date": "2026-11-06T03:30:00+00:00",
+    "countries": [
+     "CZ"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Politics are fleeting real change requires time and patience [ column ]",
+    "url": "https://lancasteronline.com/opinion/columnists/politics-are-fleeting-real-change-requires-time-and-patience-column/article_680627e9-0617-4cd6-a274-f36ce6c11dae.html",
+    "source": "lancasteronline.com",
+    "theme": "press",
+    "date": "2026-11-08T13:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Election results in Brazil , Serbia , Israel and US renew faith in resilience of democracy",
+    "url": "https://www.aol.co.uk/articles/election-results-brazil-serbia-israel-100037000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-08T10:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Election results in Brazil , Serbia , Israel and US renew faith in resilience of democracy",
+    "url": "https://www.theguardian.com/world/2026/nov/08/election-brazil-serbia-israel-and-us-resilience-democracy-grassroots-activism-authoritarianism",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-11-08T10:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Donald Trump midterm blow : Why it spells danger for Albanese | Yass Tribune",
+    "url": "https://www.yasstribune.com.au/story/9387452/donald-trump-midterm-blow-why-it-spells-danger-for-albanese/",
+    "source": "yasstribune.com.au",
+    "theme": "press",
+    "date": "2026-11-07T22:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Donald Trump midterm blow : Why it spells danger for Albanese | Southern Highland News",
+    "url": "https://www.southernhighlandnews.com.au/story/9387452/donald-trump-midterm-blow-why-it-spells-danger-for-albanese/",
+    "source": "southernhighlandnews.com.au",
+    "theme": "press",
+    "date": "2026-11-07T22:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Donald Trump midterm blow : Why it spells danger for Albanese | Harden Murrumburrah Express",
+    "url": "https://www.hardenexpress.com.au/story/9387452/donald-trump-midterm-blow-why-it-spells-danger-for-albanese/",
+    "source": "hardenexpress.com.au",
+    "theme": "press",
+    "date": "2026-11-07T22:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Donald Trump midterm blow : Why it spells danger for Albanese | The Area News",
+    "url": "https://www.areanews.com.au/story/9387452/donald-trump-midterm-blow-why-it-spells-danger-for-albanese/",
+    "source": "areanews.com.au",
+    "theme": "press",
+    "date": "2026-11-07T19:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "World better off once Donald Trump becomes a private citizen again",
+    "url": "https://torontosun.com/opinion/columnists/world-better-off-once-donald-trump-private-citizen",
+    "source": "torontosun.com",
+    "theme": "press",
+    "date": "2026-11-07T18:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+    "url": "http://www.srilankasource.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+    "source": "srilankasource.com",
+    "theme": "press",
+    "date": "2026-11-08T17:00:00+00:00",
+    "countries": [
+     "RO"
+    ]
+   },
+   {
+    "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+    "url": "http://www.europesun.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-11-08T16:00:00+00:00",
+    "countries": [
+     "RO"
     ]
    },
    {
@@ -274,27 +448,7 @@
     "theme": "press",
     "date": "2026-11-08T14:30:00+00:00",
     "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "The Economic Crunch Fueling Youth Protests From France To Much Of Europe",
-    "url": "https://www.zerohedge.com/political/economic-crunch-fueling-youth-protests-france-much-europe",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-11-08T14:30:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "Reviewing Ferroglobe ( GSM ) & Its Peers",
-    "url": "https://www.dailypolitical.com/2026/11/08/reviewing-ferroglobe-gsm-its-peers.html",
-    "source": "dailypolitical.com",
-    "theme": "press",
-    "date": "2026-11-08T14:00:00+00:00",
-    "countries": [
-     "ES"
+     "RO"
     ]
    },
    {
@@ -304,37 +458,275 @@
     "theme": "press",
     "date": "2026-11-08T13:00:00+00:00",
     "countries": [
-     "ES"
+     "RO"
     ]
    },
    {
-    "title": "Catalonia shifts election focus toward fiscal control and direct tax authority negotiations",
-    "url": "https://english.pravda.ru/news/world/171947-catalonia-tax-negotiations-elections/",
-    "source": "english.pravda.ru",
+    "title": "Romania : EBRD supports major wind farm in Romania",
+    "url": "https://www.energy-pedia.com/news/romania/ebrd-supports-major-wind-farm-in-romania-205999",
+    "source": "energy-pedia.com",
     "theme": "press",
-    "date": "2026-11-08T10:30:00+00:00",
+    "date": "2026-11-08T00:00:00+00:00",
     "countries": [
-     "ES"
+     "RO"
     ]
    },
    {
-    "title": "TTN - Travel & Tourism News Middle East",
-    "url": "https://www.ttnworldwide.com:443/ArticleTA/489354/wttc,-omran-launch-global-indices-to-measure-tourisms-economic,-social-impact",
-    "source": "ttnworldwide.com",
+    "title": "Foreign Ministers agree to revive CEI Summit as Ukraine prepares to take up 2027 Presidency",
+    "url": "https://www.cei.int/news/11039/foreign-ministers-agree-to-revive-heads-of-government-summit-as-ukraine-prepares-to-take-up-2027",
+    "source": "cei.int",
     "theme": "press",
-    "date": "2026-11-08T09:00:00+00:00",
+    "date": "2026-11-07T19:00:00+00:00",
     "countries": [
-     "ES"
+     "RO"
     ]
    },
    {
-    "title": "Slavery debt is far from settled | Mail & Guardian",
-    "url": "https://mg.co.za/thought-leader/2026-11-08-slavery-debt-is-far-from-settled/",
-    "source": "mg.co.za",
+    "title": "November 7 , 2026 UPDATE - Radio Romania International",
+    "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-7-2026-update-id1080986.html",
+    "source": "rri.ro",
     "theme": "press",
-    "date": "2026-11-08T09:00:00+00:00",
+    "date": "2026-11-07T18:00:00+00:00",
     "countries": [
-     "ES"
+     "RO"
+    ]
+   }
+  ],
+  "GR": [
+   {
+    "title": "Head to Head Contrast : C3is ( CISS ) and Its Peers",
+    "url": "https://www.themarketsdaily.com/2026/11/08/head-to-head-contrast-c3is-ciss-and-its-peers.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-11-08T18:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "The best places to celebrate New Year Eve 2026 - 27 in Dubai",
+    "url": "https://whatson.ae/2026/11/the-best-places-to-celebrate-new-years-eve-2026-27-in-dubai/",
+    "source": "whatson.ae",
+    "theme": "press",
+    "date": "2026-11-08T09:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Tucker Carlson Explains How Republicans Betrayed Their Way Into A Massive Election Night Loss",
+    "url": "https://www.themainewire.com/2026/11/tucker-carlson-explains-how-republicans-betrayed-their-way-into-a-massive-election-night-loss/",
+    "source": "themainewire.com",
+    "theme": "press",
+    "date": "2026-11-07T17:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "China - Pakistan information initiative will fail to revive CPEC image : Report",
+    "url": "https://ianslive.in/china-pakistan-information-initiative-will-fail-to-revive-cpecs-image-report--20261107153426",
+    "source": "ianslive.in",
+    "theme": "press",
+    "date": "2026-11-07T11:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   }
+  ],
+  "NO": [
+   {
+    "title": "Newest united kingdom Carrier Trains to Fight in Dark , Cold Seas , Without Radio",
+    "url": "https://www.businessinsider.com/newest-uk-aircraft-carrier-trains-fight-arctic-north-atlantic-winter-2026-11",
+    "source": "businessinsider.com",
+    "theme": "press",
+    "date": "2026-11-08T13:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Revealed : how a united kingdom firm is spearheading growth in trade of US fracked ethane",
+    "url": "https://www.aol.co.uk/articles/revealed-uk-firm-spearheading-growth-130041000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-08T13:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "The Iran War Is as America First as It Gets",
+    "url": "https://jewlicious.com/2026/11/iran-war-america-first/",
+    "source": "jewlicious.com",
+    "theme": "press",
+    "date": "2026-11-08T00:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Reviewing ConocoPhillips ( NYSE : COP ) and Vaalco Energy ( NYSE : EGY )",
+    "url": "https://www.themarketsdaily.com/2026/11/07/reviewing-conocophillips-nysecop-and-vaalco-energy-nyseegy.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-11-07T22:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Noble Corporation : 3 Key Takeaways for Long - Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/noble-corporation-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "fool.com",
+    "theme": "press",
+    "date": "2026-11-07T19:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Higham Early Britain . : languagehat . com",
+    "url": "https://languagehat.com/highams-early-britain/",
+    "source": "languagehat.com",
+    "theme": "press",
+    "date": "2026-11-07T17:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Comparing Namib Minerals ( NASDAQ : NAMM ) & Alcoa ( NYSE : AA )",
+    "url": "https://www.tickerreport.com/banking-finance/13653548/comparing-namib-minerals-nasdaqnamm-alcoa-nyseaa.html",
+    "source": "tickerreport.com",
+    "theme": "press",
+    "date": "2026-11-07T11:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Carlos Alcaraz rallies past Taylor Fritz in Paris semis ; ATP Finals set",
+    "url": "http://www.australianherald.com/news/279417633/carlos-alcaraz-rallies-past-taylor-fritz-in-paris-semis-atp-finals-set",
+    "source": "australianherald.com",
+    "theme": "press",
+    "date": "2026-11-07T07:00:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SI": [
+   {
+    "title": "Nicolas Bokowski Wins 2026 EMPC Player of the Series",
+    "url": "https://www.pokernews.com/news/2026/11/european-mixed-poker-championship-results-52723.htm",
+    "source": "pokernews.com",
+    "theme": "press",
+    "date": "2026-11-06T02:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dies at 50",
+    "url": "https://abcnews.com/GMA/Culture/beverly-hills-90210-actress-kimmarie-johnson-dies-50/story?id=137892580",
+    "source": "abcnews.com",
+    "theme": "press",
+    "date": "2026-11-05T23:30:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Redding Chico Eureka",
+    "url": "https://krcrtv.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "krcrtv.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://nbcmontana.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "nbcmontana.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://local12.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "local12.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   },
+   {
+    "title": "Beverly Hills , 90210 actress Kimmarie Johnson dead at 50",
+    "url": "https://fox23.com/news/entertainment/beverly-hills-90210-actress-kimmarie-johnson-dead-at-50",
+    "source": "fox23.com",
+    "theme": "press",
+    "date": "2026-11-05T22:00:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Europe faces growing backlash against data centers amid resource concerns",
+    "url": "http://www.heraldglobe.com/news/279420625/europe-faces-growing-backlash-against-data-centers-amid-resource-concerns",
+    "source": "heraldglobe.com",
+    "theme": "press",
+    "date": "2026-11-08T20:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Europe faces growing backlash against data centers amid resource concerns",
+    "url": "http://www.arabherald.com/news/279420625/europe-faces-growing-backlash-against-data-centers-amid-resource-concerns",
+    "source": "arabherald.com",
+    "theme": "press",
+    "date": "2026-11-08T20:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia Parliament to meet on Nov . 17 after student - led movement won election over strongman Vucic",
+    "url": "http://www.leadertelegram.com/news/world/serbias-parliament-to-meet-on-nov-17-after-student-led-movement-won-election-over-strongman/article_f80ad851-0d9d-520e-b15c-a75ea1215623.html",
+    "source": "leadertelegram.com",
+    "theme": "press",
+    "date": "2026-11-08T14:00:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia Parliament to meet on Nov 17 after student - led movement won election over strongman Vucic",
+    "url": "https://www.hindustantimes.com/world-news/serbias-parliament-to-meet-on-nov-17-after-student-led-movement-won-election-over-strongman-vucic-101794140003340.html",
+    "source": "hindustantimes.com",
+    "theme": "press",
+    "date": "2026-11-08T13:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Serbia Parliament to meet on Nov . 17 after student - led movement won election over strongman Vucic",
+    "url": "https://www.niagarafallsreview.ca/news/world/europe/serbia-s-parliament-to-meet-on-nov-17-after-student-led-movement-won-election-over-strongman-vucic/article_ae555477-95db-509f-b986-fbb956cfceca.html",
+    "source": "niagarafallsreview.ca",
+    "theme": "press",
+    "date": "2026-11-08T13:30:00+00:00",
+    "countries": [
+     "RS"
     ]
    }
   ]
@@ -405,25 +797,18 @@
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
+  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
-  "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
+  "gdelt/BG: URLError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: URLError"
+  "gdelt/world: HTTPError"
  ]
 }

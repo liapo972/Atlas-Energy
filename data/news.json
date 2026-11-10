@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:45:05+00:00",
+ "generated": "2026-11-10T12:40:29+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   },
   {
@@ -62,7 +62,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-10T02:45:05+00:00",
+   "date": "2026-11-10T12:40:29+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,27 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "The Economic Crunch Fueling Youth Protests From France To Much Of Europe",
+    "url": "https://www.zerohedge.com/political/economic-crunch-fueling-youth-protests-france-much-europe",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-11-08T14:30:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Never Again !: Holocaust remembrance under pressure",
+    "url": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-11-08T10:30:00+00:00",
     "countries": [
      "SK"
     ]
@@ -85,7 +105,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -95,7 +115,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE",
      "EE"
@@ -106,7 +126,7 @@
     "url": "https://www.acer.europa.eu/news/europes-retail-energy-markets-and-shift-electrification-prices-affordability-and-consumer-flexibility",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -116,7 +136,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -126,7 +146,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -136,7 +156,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -146,7 +166,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -156,7 +176,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE"
     ]
@@ -168,194 +188,85 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-estonian-competition-authority-fines-futugrid-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-10T02:45:05+00:00",
+    "date": "2026-11-10T12:40:29+00:00",
     "countries": [
      "DE",
      "EE"
     ]
    },
    {
-    "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine",
-    "url": "https://www.ksat.com/news/world/2026/11/08/the-kremlin-hopes-the-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/",
-    "source": "ksat.com",
-    "theme": "press",
-    "date": "2026-11-08T16:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "History Corner , Good News , November 8ths",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124823/community/history-corner-good-news-november-8ths/",
-    "source": "dailykos.com",
-    "theme": "press",
-    "date": "2026-11-08T16:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "The Economic Crunch Fueling Youth Protests From France To Much Of Europe",
-    "url": "https://www.zerohedge.com/political/economic-crunch-fueling-youth-protests-france-much-europe",
-    "source": "zerohedge.com",
-    "theme": "press",
-    "date": "2026-11-08T14:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine",
-    "url": "https://www.therecord.com/news/world/europe/the-kremlin-hopes-the-us-election-shake-up-won-t-shift-trump-s-negotiations-on-ukraine/article_6dfa9f04-b4be-5efd-9201-be95888f0c76.html",
-    "source": "therecord.com",
-    "theme": "press",
-    "date": "2026-11-08T09:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine",
-    "url": "http://www.stardem.com/ap/nation/the-kremlin-hopes-the-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/article_5f8336f3-f38d-58ea-bad7-d55ea9239ebc.html",
-    "source": "stardem.com",
-    "theme": "press",
-    "date": "2026-11-08T09:00:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Pianist Recalls Life Under Communism in Albania",
-    "url": "https://www.theepochtimes.com/us/pianist-recalls-life-under-communism-in-albania-6120125",
-    "source": "theepochtimes.com",
-    "theme": "press",
-    "date": "2026-11-07T11:30:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   }
-  ],
-  "RO": [
-   {
-    "title": "Statement by President von der Leyen with Romanian President Dan",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2381",
+    "title": "Commission greenlights Estonia's final payment request for €190.6 million under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2387",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-11-09T13:01:03+00:00",
+    "date": "2026-11-10T09:07:29+00:00",
     "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Statement by President von der Leyen following her call with President Zelenskyy and ahead of her visit to the Black Sea Region, in Romania and Bulgaria",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2374",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-11-09T07:27:59+00:00",
-    "countries": [
-     "DE",
-     "RO",
-     "BG"
+     "EE"
     ]
    }
   ],
   "BG": [
    {
-    "title": "Statement by President von der Leyen following her call with President Zelenskyy and ahead of her visit to the Black Sea Region, in Romania and Bulgaria",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2374",
+    "title": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2392",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-11-09T07:27:59+00:00",
+    "date": "2026-11-10T09:22:38+00:00",
     "countries": [
-     "DE",
-     "RO",
      "BG"
     ]
    }
   ],
   "FR": [
    {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://wysu.org/npr-national-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "wysu.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
+    "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-10T09:12:37+00:00",
     "countries": [
-     "FR"
+     "FR",
+     "DE",
+     "GB",
+     "IT"
     ]
    },
    {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.whqr.org/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "whqr.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
+    "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+    "source": "BCE",
+    "theme": "policy",
+    "date": "2026-11-04T00:00:00+00:00",
     "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.ktep.org/politics/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "ktep.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Olympic judo champion Teddy Riner announces bid for French presidency",
-    "url": "https://www.hindustantimes.com/trending/olympic-judo-champion-teddy-riner-announces-bid-for-french-presidency-101794271548228.html",
-    "source": "hindustantimes.com",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.wvasfm.org/politics/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "wvasfm.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Ukraine war briefing : battlefield gains bolstering Kyiv hand in US - led peace talks , Zelenskyy says | Ukraine",
-    "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Judo King Teddy Riner Joins Fight for French Presidency",
-    "url": "https://www.deccanchronicle.com/world/europe/judo-king-teddy-riner-joins-fight-for-french-presidency-2003097",
-    "source": "deccanchronicle.com",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.wfdd.org/national/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "wfdd.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "FR"
+     "FR",
+     "DE"
     ]
    }
   ],
   "GB": [
+   {
+    "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
+    "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-11-10T12:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-10T09:12:37+00:00",
+    "countries": [
+     "FR",
+     "DE",
+     "GB",
+     "IT"
+    ]
+   },
    {
     "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
     "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
@@ -387,15 +298,134 @@
     ]
    }
   ],
-  "NL": [
+  "IT": [
    {
-    "title": "Today Happenings : November 10 , 2026 | South Peace News",
-    "url": "https://www.southpeacenews.com/todays-happenings-november-10-2026/",
-    "source": "southpeacenews.com",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-10T09:12:37+00:00",
     "countries": [
-     "NL"
+     "FR",
+     "DE",
+     "GB",
+     "IT"
+    ]
+   },
+   {
+    "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+    "url": "http://www.dailyadvance.com/news/world/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace/article_62c64435-a2f9-5c48-868e-a122633d548c.html",
+    "source": "dailyadvance.com",
+    "theme": "press",
+    "date": "2026-11-10T06:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "US officials seek final end to Russia - Ukraine war as Abu Dhabi talks begin | Ukraine",
+    "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-11-10T06:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "US - mediated talks with Russia and Ukraine to start in Abu Dhabi",
+    "url": "https://www.vanguardngr.com/2026/11/us-mediated-talks-with-russia-and-ukraine-to-start-in-abu-dhabi/",
+    "source": "vanguardngr.com",
+    "theme": "press",
+    "date": "2026-11-10T06:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+    "url": "https://www.clickondetroit.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/",
+    "source": "clickondetroit.com",
+    "theme": "press",
+    "date": "2026-11-10T05:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-11-10T05:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "The simple change that can help over - 60s stay fit and avoid falls as they age",
+    "url": "https://www.the-independent.com/life-style/health-and-families/best-exercise-fit-avoid-falls-over-60s-b3081583.html",
+    "source": "the-independent.com",
+    "theme": "press",
+    "date": "2026-11-10T05:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "US officials seek final end to Russia - Ukraine war as Abu Dhabi talks begin",
+    "url": "https://www.aol.co.uk/articles/us-officials-seek-final-end-050029000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-10T05:30:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
+  "BE": [
+   {
+    "title": "Commission approves €2 billion Belgian State aid to support offshore wind energy",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2373",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-09T23:00:00+00:00",
+    "countries": [
+     "BE"
+    ]
+   }
+  ],
+  "RO": [
+   {
+    "title": "Statement by President von der Leyen with Romanian President Dan",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2381",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-09T13:01:03+00:00",
+    "countries": [
+     "RO"
+    ]
+   }
+  ],
+  "AT": [
+   {
+    "title": "Drone Strikes Khor Mor Gas Field 12th Time ; Baghdad Never Deployed Promised Air Defenses",
+    "url": "https://www.techtimes.com/articles/330291/20261109/drone-strikes-khor-mor-gas-field-12th-time-baghdad-never-deployed-promised-air-defenses.htm",
+    "source": "techtimes.com",
+    "theme": "press",
+    "date": "2026-11-10T05:00:00+00:00",
+    "countries": [
+     "AT"
+    ]
+   },
+   {
+    "title": "Philadelphia DSA attacks leaders condemning anti - Israel restaurant boycott",
+    "url": "https://www.foxnews.com/media/philly-dsa-decries-backlash-over-boycott-targeting-jewish-eateries",
+    "source": "foxnews.com",
+    "theme": "press",
+    "date": "2026-11-10T04:30:00+00:00",
+    "countries": [
+     "AT"
     ]
    },
    {
@@ -405,277 +435,9 @@
     "theme": "press",
     "date": "2026-11-10T02:00:00+00:00",
     "countries": [
-     "NL"
+     "AT"
     ]
    },
-   {
-    "title": "Aduro Completes Longest Pilot Campaign To Date - Canadian Plastics",
-    "url": "https://www.canplastics.com/news/aduro-completes-longest-pilot-campaign-to-date/1003471246/",
-    "source": "canplastics.com",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Alcoa refinery fire : What happens when a country forgets how to make its own fuel",
-    "url": "https://www.brisbanetimes.com.au/politics/federal/what-happens-when-a-country-forgets-how-to-make-its-own-fuel-20261110-p61c42.html",
-    "source": "brisbanetimes.com.au",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "UFC 334 odds : Market opinions on key fights",
-    "url": "https://mymmanews.com/ufc-334-odds-market-opinions-on-key-fights/",
-    "source": "mymmanews.com",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Alcoa refinery fire : What happens when a country forgets how to make its own fuel",
-    "url": "https://www.theage.com.au/politics/federal/what-happens-when-a-country-forgets-how-to-make-its-own-fuel-20261110-p61c42.html",
-    "source": "theage.com.au",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "Alcoa refinery fire : What happens when a country forgets how to make its own fuel",
-    "url": "https://www.smh.com.au/politics/federal/what-happens-when-a-country-forgets-how-to-make-its-own-fuel-20261110-p61c42.html",
-    "source": "smh.com.au",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   },
-   {
-    "title": "COP31 is the summit where climate promises come due",
-    "url": "https://www.dailysabah.com/opinion/op-ed/cop31-is-the-summit-where-climate-promises-come-due",
-    "source": "dailysabah.com",
-    "theme": "press",
-    "date": "2026-11-10T00:00:00+00:00",
-    "countries": [
-     "NL"
-    ]
-   }
-  ],
-  "BE": [
-   {
-    "title": "AI freezer cyberattacks : Hackers are using cheap technology to melt supermarket stock",
-    "url": "https://www.brisbanetimes.com.au/technology/hackers-plunged-dozens-of-european-supermarkets-into-chaos-it-should-worry-australians-how-easy-it-was-20261110-p61axl.html",
-    "source": "brisbanetimes.com.au",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Ralph Velazquez Jr Now Chair of Monmouth College Board",
-    "url": "https://www.rcreader.com/news-releases/ralph-velazquez-jr-now-chair-monmouth-colleges-board",
-    "source": "rcreader.com",
-    "theme": "press",
-    "date": "2026-11-10T01:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "The Civil War in France : Causes and consequences",
-    "url": "https://www.peoplesworld.org/article/the-civil-war-in-france-causes-and-consequences/",
-    "source": "peoplesworld.org",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "AI freezer cyberattacks : Hackers are using cheap technology to melt supermarket stock",
-    "url": "https://www.smh.com.au/technology/hackers-plunged-dozens-of-european-supermarkets-into-chaos-it-should-worry-australians-how-easy-it-was-20261110-p61axl.html",
-    "source": "smh.com.au",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "ACR 2026 : Dapirolizumab Pegol Associated with Greater Treatment Response Rates Versus Placebo in SLE Using Novel Treatment Response Measure",
-    "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/acr-2026-dapirolizumab-pegol-associated-with-greater-treatment-response-rates-versus-placebo-in-sle-using-novel-treatment-response-measure/",
-    "source": "simcoereformer.ca",
-    "theme": "press",
-    "date": "2026-11-09T06:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Top 50 MCQs for CBSE Class 10 Social Science Pre - Board Exam 2027 : Important Questions with Answers",
-    "url": "https://www.jagranjosh.com/articles/top-mcqs-for-cbse-class-10-social-science-pre-board-exam-2027-important-questions-with-answers-1800018859-1",
-    "source": "jagranjosh.com",
-    "theme": "press",
-    "date": "2026-11-09T06:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Gaza , Three Years On : Preserving the Evidence , Breaking the Cycle of Impunity",
-    "url": "https://countercurrents.org/2026/11/gaza-three-years-on-preserving-the-evidence-breaking-the-cycle-of-impunity/",
-    "source": "countercurrents.org",
-    "theme": "press",
-    "date": "2026-11-09T02:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "Revealed : how a united kingdom firm is spearheading growth in trade of US fracked ethane",
-    "url": "https://www.aol.co.uk/articles/revealed-uk-firm-spearheading-growth-130041000.html",
-    "source": "aol.co.uk",
-    "theme": "press",
-    "date": "2026-11-08T13:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   }
-  ],
-  "IE": [
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.wutc.org/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "wutc.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.kpbs.org/news/international/2026/11/09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "kpbs.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.kgou.org/politics-and-government/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "kgou.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   },
-   {
-    "title": "France accuses Iran of cyber sabotage in fridge attacks",
-    "url": "https://www.wfae.org/world/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
-    "source": "wfae.org",
-    "theme": "press",
-    "date": "2026-11-10T02:30:00+00:00",
-    "countries": [
-     "IE"
-    ]
-   }
-  ],
-  "CH": [
-   {
-    "title": "Lebanon : Background And U . S . Relations - Analysis",
-    "url": "https://www.eurasiareview.com/10112026-lebanon-background-and-u-s-relations-analysis/",
-    "source": "eurasiareview.com",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Ukraine peace talks to restart after 9 months . What makes them different this time ? - LocalNews8 . com",
-    "url": "https://localnews8.com/news/national-world/cnn-world/2026/11/09/ukraine-peace-talks-to-restart-after-9-months-what-makes-them-different-this-time/",
-    "source": "localnews8.com",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Ukraine peace talks to restart after 9 months . What makes them different this time ?",
-    "url": "https://keyt.com/news/national-world/cnn-world/2026/11/09/ukraine-peace-talks-to-restart-after-9-months-what-makes-them-different-this-time/",
-    "source": "keyt.com",
-    "theme": "press",
-    "date": "2026-11-10T01:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
-    "url": "https://www.idahostatejournal.com/news/national/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/article_44554571-dde2-5793-b7b0-77cfb082fddd.html",
-    "source": "idahostatejournal.com",
-    "theme": "press",
-    "date": "2026-11-09T06:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
-    "url": "http://www.goskagit.com/news/nation/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/article_d141d1aa-8a40-5fb5-82cd-f90f716bdd4a.html",
-    "source": "goskagit.com",
-    "theme": "press",
-    "date": "2026-11-09T05:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "17 Rare Watches to Watch at Phillips Geneva Auction",
-    "url": "https://robbreport.com/style/watch-collector/lists/17-watches-highlighting-phillips-geneva-auction-xxiv-1238824072/",
-    "source": "robbreport.com",
-    "theme": "press",
-    "date": "2026-11-07T17:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "After the US midterm rout of Trumpism , the world struggles to trust America again",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/articleshow/135639269.cms",
-    "source": "economictimes.indiatimes.com",
-    "theme": "press",
-    "date": "2026-11-07T16:00:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Trump midterm drubbing adds to the populist right losses . France Le Pen could still win",
-    "url": "https://www.durangoherald.com/articles/associated-press/trumps-midterm-rout-adds-to-the-populist-rights-losses-frances-le-pen-could-still-win/",
-    "source": "durangoherald.com",
-    "theme": "press",
-    "date": "2026-11-07T11:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   }
-  ],
-  "AT": [
    {
     "title": "Today in History : November 9 , Berlin Wall Falls After 28 Years",
     "url": "https://www.wktv.com/news/history/today-in-history-november-9-berlin-wall-falls-after-28-years/article_1237790b-82fc-5bf3-99c2-a97e1d46b9a8.html",
@@ -725,39 +487,39 @@
     "countries": [
      "AT"
     ]
-   },
-   {
-    "title": "21st Austria weekly - Emerald Horizon , Erste Group , RBI , Bawag ( 06 / 11 / 2026 )",
-    "url": "https://boerse-social.com/2026/11/08/21st_austria_weekly_-_emerald_horizon_erste_group_rbi_bawag_06112026",
-    "source": "boerse-social.com",
-    "theme": "press",
-    "date": "2026-11-08T18:30:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "10 Best HBO Shows With Less Than 20 Episodes , Ranked",
-    "url": "https://collider.com/best-hbo-shows-shorter-than-20-episodes/",
-    "source": "collider.com",
-    "theme": "press",
-    "date": "2026-11-08T15:30:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Record cold drives historic European gas stock depletion in just ten days",
-    "url": "https://www.bankingnews.gr/energeia/articles/909845/record-cold-drives-historic-european-gas-stock-depletion-in-just-ten-days%20title=",
-    "source": "bankingnews.gr",
-    "theme": "press",
-    "date": "2026-11-08T14:30:00+00:00",
-    "countries": [
-     "AT"
-    ]
    }
   ],
   "PT": [
+   {
+    "title": "Ex - lawmaker sentenced to 12 . 5 years in prison in closed - door trial in Macau",
+    "url": "https://globalvoices.org/2026/11/10/ex-lawmaker-sentenced-to-12-5-years-in-prison-in-closed-door-trial-in-macau/",
+    "source": "globalvoices.org",
+    "theme": "press",
+    "date": "2026-11-10T06:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Plug Power Q3 Earnings Call Highlights",
+    "url": "https://www.themarketsdaily.com/2026/11/10/plug-power-q3-earnings-call-highlights.html",
+    "source": "themarketsdaily.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "The Civil War in France : Causes and consequences",
+    "url": "https://www.peoplesworld.org/article/the-civil-war-in-france-causes-and-consequences/",
+    "source": "peoplesworld.org",
+    "theme": "press",
+    "date": "2026-11-10T01:00:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
    {
     "title": "Web Summit 2026 opens in Lisbon with record Chinese tech presence - Xinhua",
     "url": "https://english.news.cn/europe/20261110/7ab9959c9dc34341b543682d4956713f/c.html",
@@ -807,129 +569,447 @@
     "countries": [
      "PT"
     ]
-   },
+   }
+  ],
+  "PL": [
    {
-    "title": "Departing UN chief warns of moment of truth in efforts to curb global warming",
-    "url": "https://www.bridgwatermercury.co.uk/news/national/26709296.departing-un-chief-warns-moment-truth-efforts-curb-global-warming/",
-    "source": "bridgwatermercury.co.uk",
+    "title": "Tinubu Makes Major Announcement in Akwa Ibom , Approves Deep Sea Port as Flamingos Make World Cup History",
+    "url": "https://www.tell.ng/tinubu-makes-major-announcement-in-akwa-ibom-approves-deep-sea-port-as-flamingos-make-world-cup-history/",
+    "source": "tell.ng",
     "theme": "press",
-    "date": "2026-11-08T11:30:00+00:00",
+    "date": "2026-11-10T04:30:00+00:00",
     "countries": [
-     "PT"
+     "PL"
     ]
    },
    {
-    "title": "Departing UN chief warns of moment of truth in efforts to curb global warming",
-    "url": "https://www.warringtonguardian.co.uk/news/national/26709296.departing-un-chief-warns-moment-truth-efforts-curb-global-warming/",
-    "source": "warringtonguardian.co.uk",
+    "title": "Poland Political Divisions Puncture Its Influence on World Stage",
+    "url": "https://www.hindustantimes.com/world-news/polands-political-divisions-puncture-its-influence-on-world-stage-101794280231626.html",
+    "source": "hindustantimes.com",
     "theme": "press",
-    "date": "2026-11-08T10:30:00+00:00",
+    "date": "2026-11-10T04:30:00+00:00",
     "countries": [
-     "PT"
+     "PL"
+    ]
+   },
+   {
+    "title": "Europe Defense Dilemma | Council on Foreign Relations",
+    "url": "https://www.cfr.org/reports/europes-defense-dilemma",
+    "source": "cfr.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Tusk playing hybrid cards in Kaliningrad gamble",
+    "url": "http://www.russiaherald.com/news/279412281/tusk-playing-hybrid-cards-in-kaliningrad-gamble",
+    "source": "russiaherald.com",
+    "theme": "press",
+    "date": "2026-11-10T02:30:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Today Happenings : November 10 , 2026 | South Peace News",
+    "url": "https://www.southpeacenews.com/todays-happenings-november-10-2026/",
+    "source": "southpeacenews.com",
+    "theme": "press",
+    "date": "2026-11-10T02:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "National and International News in Focus : Nov . 9",
+    "url": "https://www.wktv.com/news/national/national-and-international-news-in-focus-nov-9/article_4d1e8682-9a35-5455-9b50-1627bc41765e.html",
+    "source": "wktv.com",
+    "theme": "press",
+    "date": "2026-11-10T01:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Different Psychiatric Drugs Leave Different Fingerprints on the Brain",
+    "url": "https://www.theepochtimes.com/health/different-psychiatric-drugs-leave-different-fingerprints-on-the-brain-6111320",
+    "source": "theepochtimes.com",
+    "theme": "press",
+    "date": "2026-11-10T01:00:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   },
+   {
+    "title": "Wiktor Piecek Observes Room - Temperature Quantum State at 60 °C Quantum State",
+    "url": "https://www.el-balad.com/17065403",
+    "source": "el-balad.com",
+    "theme": "press",
+    "date": "2026-11-10T00:00:00+00:00",
+    "countries": [
+     "PL"
     ]
    }
   ],
-  "IT": [
+  "CZ": [
    {
-    "title": "Superbonus , the 20 billion bill is back in the budget : what happens to the credits",
-    "url": "https://www.thevermilion.com/superbonus-the-20-billion-bill-is-back-in-the-budget-what-happens-to-the-credits/article_22628/",
-    "source": "thevermilion.com",
+    "title": "Bulgaria Ranks Second in EU for Growth in Social Protection Spending",
+    "url": "http://www.bgnes.com/economy/bulgaria-ranks-second-in-eu-for-growth-in-social-protection-spending",
+    "source": "bgnes.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-08T09:30:00+00:00",
     "countries": [
-     "IT"
+     "CZ"
     ]
    },
    {
-    "title": "Donald Trump Ukraine peace plan : Why European allies fear a secret pact with Vladimir Putin",
-    "url": "https://www.brisbanetimes.com.au/world/europe/voters-told-trump-what-they-think-now-europe-wants-to-stop-him-being-a-patsy-for-putin-20261110-p61cu3.html",
-    "source": "brisbanetimes.com.au",
+    "title": "Three Ezri Konsa moments in Hull win prove Arsenal have made signing of the season",
+    "url": "https://www.aol.co.uk/articles/three-ezri-konsa-moments-hull-173610000.html",
+    "source": "aol.co.uk",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-07T18:30:00+00:00",
     "countries": [
-     "IT"
+     "CZ"
     ]
    },
    {
-    "title": "Little real contact with Modi , but there is some common ground : Sonia Gandhi in memoir Belonging",
-    "url": "https://www.hindustantimes.com/india-news/little-real-contact-with-modi-but-share-some-common-ground-sonia-gandhi-in-her-memoir-belonging-101794271329116.html",
-    "source": "hindustantimes.com",
+    "title": "Wheatley weasel on the prowl for the Kitchener Rangers",
+    "url": "https://www.stcatharinesstandard.ca/news/ontario/wheatley-weasel-on-the-prowl-for-the-kitchener-rangers/article_44103d42-80aa-5746-8a80-c6792fa06c39.html",
+    "source": "stcatharinesstandard.ca",
     "theme": "press",
-    "date": "2026-11-10T01:30:00+00:00",
+    "date": "2026-11-07T18:30:00+00:00",
     "countries": [
-     "IT"
+     "CZ"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Review : Quietly devastating Here There Are Blueberries on Broadway",
+    "url": "https://www.chicagotribune.com/2026/11/09/review-here-blueberries-broadway/",
+    "source": "chicagotribune.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "HU"
     ]
    },
    {
-    "title": "Forget Palantir ? This IPO Candidate May Be the New Autonomy Giant in Defense .",
-    "url": "https://www.fool.com/investing/2026/11/09/forget-palantir-ipo-candidate-new-autonomy-giant/?source=iedfolrf0000001",
-    "source": "fool.com",
+    "title": "Xinhua Silk Road : Overseas media representatives visit Xiaomi smart auto factory in Beijing",
+    "url": "http://www.asiabulletin.com/news/279421055/xinhua-silk-road-overseas-media-representatives-visit-xiaomi-smart-auto-factory-in-beijing",
+    "source": "asiabulletin.com",
     "theme": "press",
-    "date": "2026-11-10T01:30:00+00:00",
+    "date": "2026-11-09T06:00:00+00:00",
     "countries": [
-     "IT"
+     "HU"
+    ]
+   },
+   {
+    "title": "Xinhua Silk Road : Overseas media representatives visit Xiaomi smart auto factory in Beijing",
+    "url": "http://www.sydneysun.com/news/279421055/xinhua-silk-road-overseas-media-representatives-visit-xiaomi-smart-auto-factory-in-beijing",
+    "source": "sydneysun.com",
+    "theme": "press",
+    "date": "2026-11-09T06:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Xinhua Silk Road : Overseas media representatives visit Xiaomi smart auto factory in Beijing",
+    "url": "http://www.australiannews.net/news/279421055/xinhua-silk-road-overseas-media-representatives-visit-xiaomi-smart-auto-factory-in-beijing",
+    "source": "australiannews.net",
+    "theme": "press",
+    "date": "2026-11-09T06:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Xinhua Silk Road : Overseas media representatives visit Xiaomi smart auto factory in Beijing",
+    "url": "http://www.malaysiasun.com/news/279421055/xinhua-silk-road-overseas-media-representatives-visit-xiaomi-smart-auto-factory-in-beijing",
+    "source": "malaysiasun.com",
+    "theme": "press",
+    "date": "2026-11-09T05:30:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Cannon fodder from down under",
+    "url": "https://cpa.org.au/guardian/issue-2214/cannon-fodder-from-down-under/",
+    "source": "cpa.org.au",
+    "theme": "press",
+    "date": "2026-11-09T05:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Digital duty of care inquiry begins | Midday News Bulletin 9 November 2026",
+    "url": "https://www.sbs.com.au/news/podcast-episode/digital-duty-of-care-inquiry-begins-midday-news-bulletin-9-november-2026/ywgbssd8a",
+    "source": "sbs.com.au",
+    "theme": "press",
+    "date": "2026-11-09T02:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "70 years since the Hungarian revolution - Workers Revolutionary Party",
+    "url": "https://wrp.org.uk/features/70-years-since-the-hungarian-revolution/",
+    "source": "wrp.org.uk",
+    "theme": "press",
+    "date": "2026-11-09T01:00:00+00:00",
+    "countries": [
+     "HU"
     ]
    }
   ],
   "NO": [
    {
     "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
-    "url": "http://www.bozemandailychronicle.com/wire/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_c63bf906-b906-5975-890e-e2ff05f332b5.html",
-    "source": "bozemandailychronicle.com",
+    "url": "https://mymotherlode.com/news/world/11295878/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress.html",
+    "source": "mymotherlode.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-10T06:00:00+00:00",
     "countries": [
      "NO"
     ]
    },
    {
-    "title": "The AI Power Race Has Reached The Aircraft Boneyard - OpEd",
-    "url": "https://www.eurasiareview.com/09112026-the-ai-power-race-has-reached-the-aircraft-boneyard-oped/",
-    "source": "eurasiareview.com",
+    "title": "Iran war led to rare carbon dioxide emissions drop this year , scientists say",
+    "url": "https://www.fox13news.com/news/iran-war-led-rare-carbon-dioxide-emissions-drop-year-scientists-say",
+    "source": "fox13news.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/09/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress",
-    "source": "winnipegfreepress.com",
-    "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-10T06:00:00+00:00",
     "countries": [
      "NO"
     ]
    },
    {
     "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
-    "url": "https://www.dailygazette.com/hv360/ap/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_7a4b093a-2529-5c85-81e4-f85d108cf1b2.html",
-    "source": "dailygazette.com",
+    "url": "https://www.clickondetroit.com/business/2026/11/10/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/",
+    "source": "clickondetroit.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-10T05:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Iran war led to rare carbon dioxide emissions drop this year , scientists say",
+    "url": "https://www.fox5atlanta.com/news/iran-war-led-rare-carbon-dioxide-emissions-drop-year-scientists-say",
+    "source": "fox5atlanta.com",
+    "theme": "press",
+    "date": "2026-11-10T05:00:00+00:00",
     "countries": [
      "NO"
     ]
    },
    {
     "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
-    "url": "https://www.dailygazette.com/ade/ap/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_7a4b093a-2529-5c85-81e4-f85d108cf1b2.html",
-    "source": "dailygazette.com",
+    "url": "http://www.sitkasentinel.com/stories/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress,185097",
+    "source": "sitkasentinel.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-10T05:00:00+00:00",
     "countries": [
      "NO"
     ]
    },
    {
-    "title": "A jazz guitarist who sweeps city rooftops for micrometeorites with a magnet handed scientists three specks of space dust , and in the lab they helped grow cell - like bubbles",
-    "url": "https://www.ecoticias.com/en/a-jazz-guitarist-who-sweeps-city-rooftops-for-micrometeorites-with-a-magnet-handed-scientists-three-specks-of-space-dust-and-in-the-lab-they-helped-grow-cell-like-bubbles/53796/",
-    "source": "ecoticias.com",
+    "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+    "url": "https://www.wfmz.com/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_abc35e6d-3f4a-5257-b18c-06a9cb7aad84.html",
+    "source": "wfmz.com",
     "theme": "press",
-    "date": "2026-11-10T02:00:00+00:00",
+    "date": "2026-11-10T04:30:00+00:00",
     "countries": [
      "NO"
+    ]
+   },
+   {
+    "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+    "url": "https://isp.netscape.com:443/news/world/story/0001/20261110/3adab6b51554800012a11fa0936f34f8",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+    "url": "https://isp.netscape.com:443/pf/story/0001/20261110/3adab6b51554800012a11fa0936f34f8",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "France accuses Iran of cyber sabotage in fridge attacks",
+    "url": "https://news.wfsu.org/npr-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "source": "news.wfsu.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France accuses Iran of cyber sabotage in fridge attacks",
+    "url": "https://www.wbaa.org/npr-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "source": "wbaa.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+    "url": "https://isp.netscape.com:443/news/world/story/0001/20261110/6914ecf1a3285291653e103655f9e4a4",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France accuses Iran of cyber sabotage in fridge attacks",
+    "url": "https://www.kuow.org/npr-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "source": "kuow.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+    "url": "https://isp.netscape.com:443/pf/story/0001/20261110/6914ecf1a3285291653e103655f9e4a4",
+    "source": "isp.netscape.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France blames Iran for a cyberattack that heated supermarket refrigerators",
+    "url": "http://www.rockymounttelegram.com/news/world/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/article_588fb8b7-219c-57fe-8361-b191284852fd.html",
+    "source": "rockymounttelegram.com",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France accuses Iran of cyber sabotage in fridge attacks",
+    "url": "https://www.wkyufm.org/news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "source": "wkyufm.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "France accuses Iran of cyber sabotage in fridge attacks",
+    "url": "https://www.wemu.org/npr-national-news/2026-11-09/france-accuses-iran-of-cyber-sabotage-in-fridge-attacks",
+    "source": "wemu.org",
+    "theme": "press",
+    "date": "2026-11-10T03:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Australia , Denmark Strengthen Climate , Clean Energy Ties",
+    "url": "https://www.miragenews.com/australia-denmark-strengthen-climate-clean-1774524/",
+    "source": "miragenews.com",
+    "theme": "press",
+    "date": "2026-11-10T02:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Three things we learned from the Sao Paulo Grand Prix",
+    "url": "https://www.namibian.com.na/three-things-we-learned-from-the-sao-paulo-grand-prix/",
+    "source": "namibian.com.na",
+    "theme": "press",
+    "date": "2026-11-10T00:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Gaza , Three Years On : Preserving the Evidence , Breaking the Cycle of Impunity",
+    "url": "https://countercurrents.org/2026/11/gaza-three-years-on-preserving-the-evidence-breaking-the-cycle-of-impunity/",
+    "source": "countercurrents.org",
+    "theme": "press",
+    "date": "2026-11-09T02:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Denmark launches trials of blackout - ready communications network",
+    "url": "https://news.az/news/denmark-launches-trials-of-blackout-ready-communications-network",
+    "source": "news.az",
+    "theme": "press",
+    "date": "2026-11-09T00:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "CoreWeave asks Texas governor - elect for data center cooperation",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867387",
+    "source": "taipeitimes.com",
+    "theme": "press",
+    "date": "2026-11-08T20:30:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "ANC Suffers Historic Result",
+    "url": "https://www.newser.com/story/399645/coalition-rule-is-next-after-ancs-historic-setback.html",
+    "source": "newser.com",
+    "theme": "press",
+    "date": "2026-11-08T20:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+    "url": "http://www.srilankasource.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+    "source": "srilankasource.com",
+    "theme": "press",
+    "date": "2026-11-08T17:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "New wave of bomb hoaxes forces flight diversions across Europe",
+    "url": "http://www.europesun.com/news/279414694/new-wave-of-bomb-hoaxes-forces-flight-diversions-across-europe",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-11-08T16:00:00+00:00",
+    "countries": [
+     "DK"
     ]
    }
   ]
@@ -992,19 +1072,22 @@
   }
  },
  "errors": [
+  "gdelt/FR: HTTPError",
+  "gdelt/DE: HTTPError",
+  "gdelt/NL: HTTPError",
+  "gdelt/BE: HTTPError",
   "gdelt/GB: HTTPError",
+  "gdelt/IE: HTTPError",
+  "gdelt/CH: HTTPError",
   "gdelt/ES: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
+  "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

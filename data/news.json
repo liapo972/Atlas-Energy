@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T23:55:37+00:00",
+ "generated": "2026-11-15T06:35:29+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -18,92 +18,62 @@
    "countries": []
   },
   {
-   "title": "Is energy grids development keeping pace with Europe’s evolving needs?",
-   "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
-   "source": "ACER",
+   "title": "Daily News 13 / 11 / 2026",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434",
+   "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "date": "2026-11-13T11:14:23+00:00",
    "countries": []
   },
   {
-   "title": "Assessing EU electricity flexibility needs: a first look at ACER’s open-source model",
-   "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "title": "Isabel Schnabel: Made in Europe",
+   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-11-13T07:20:00+00:00",
    "countries": []
   },
   {
-   "title": "EU electricity market integration progresses but significant benefits remain untapped",
-   "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
-   "source": "ACER",
+   "title": "ENTSO-E Winter Outlook 2026-2027 - Europe is prepared. Some risks remain in specific areas.",
+   "url": "https://www.entsoe.eu/news/2026/11/13/entso-e-winter-outlook-2026-2027-europe-is-prepared-some-risks-remain-in-specific-areas/",
+   "source": "ENTSO-E",
    "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "date": "2026-11-12T23:00:00+00:00",
    "countries": []
   },
   {
-   "title": "New ACER guidance helps market participants comply with revised REMIT data reporting rules",
-   "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "source": "Fed — politique monétaire",
+   "theme": "policy",
+   "date": "2026-11-12T17:45:00+00:00",
    "countries": []
   },
   {
-   "title": "EU gas storage is 75% filled",
-   "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-11-07T14:00:00+00:00",
    "countries": []
   },
   {
-   "title": "ACER's Board of Appeal begins a new five-year mandate",
-   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
-   "source": "ACER",
-   "theme": "grid",
-   "date": "2026-11-14T23:55:37+00:00",
+   "title": "ECB publishes consolidated banking data for end-June 2026",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+   "source": "BCE",
+   "theme": "policy",
+   "date": "2026-11-06T09:00:00+00:00",
    "countries": []
   }
  ],
  "countries": {
   "DE": [
    {
-    "title": "REMIT breach: E-Control fines managing director of balancing service provider for manipulating the electricity market",
-    "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Hydrogen from electricity is growing in the EU, but not fast enough",
-    "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "ACER seeks feedback on its preliminary model for assessing electricity flexibility needs in the EU",
-    "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
-    "source": "ACER",
-    "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
     "title": "Ladeinfrastruktur in Zahlen (Stand: 1. Oktober 2026)",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +83,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
      "DE"
     ]
@@ -123,7 +93,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
      "DE"
     ]
@@ -133,7 +103,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
      "DE"
     ]
@@ -143,31 +113,39 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
      "DE"
     ]
-   }
-  ],
-  "SK": [
+   },
    {
-    "title": "ACER finds latest Slovak gas transmission tariff proposal not aligned with EU rules",
-    "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
-    "source": "ACER",
+    "title": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
+    "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-14T23:55:37+00:00",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
-     "SK"
+     "DE"
     ]
    },
    {
-    "title": "Czechia : Huge protest planned over public media reform",
-    "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533",
-    "source": "dw.com",
-    "theme": "press",
-    "date": "2026-11-13T18:00:00+00:00",
+    "title": "Ausschreibung Biomasse: Gebotstermin 1. Oktober 2026",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-11-15T06:35:29+00:00",
     "countries": [
-     "SK"
+     "DE"
+    ]
+   },
+   {
+    "title": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_StromVKG.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-11-15T06:35:29+00:00",
+    "countries": [
+     "DE"
     ]
    }
   ],
@@ -233,29 +211,29 @@
     "countries": [
      "CH"
     ]
-   },
-   {
-    "title": "Mineros Delivers Record Nine - Months Revenue of $838 Million and Record Adjusted EBITDA of $402 Million on sales of 187 , 133 Gold Equivalent Ounces .",
-    "url": "https://www.intelligencer.ca/press-releases/globe-newswire/mineros-delivers-record-nine-months-revenue-of-838-million-and-record-adjusted-ebitda-of-402-million-on-sales-of-187133-gold-equivalent-ounces/",
-    "source": "intelligencer.ca",
-    "theme": "press",
-    "date": "2026-11-12T05:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "Mineros Delivers Record Nine - Months Revenue of $838 Million and Record Adjusted EBITDA of $402 Million on sales of 187 , 133 Gold Equivalent Ounces .",
-    "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/globenewswire/mineros-delivers-record-nine-months-revenue-of-838-million-and-record-adjusted-ebitda-of-402-million-on-sales-of-187133-gold-equivalent-ounces/2468084",
-    "source": "manilatimes.net",
-    "theme": "press",
-    "date": "2026-11-12T05:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
    }
   ],
   "IT": [
+   {
+    "title": "Best Pegu Club Recipe : How to Make the Influential Gin & Lime Cocktail",
+    "url": "https://robbreport.com/food-drink/spirits/best-pegu-club-recipe-1238836761/",
+    "source": "robbreport.com",
+    "theme": "press",
+    "date": "2026-11-14T21:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "7 Psychological Thriller Movies Everyone Should Watch at Least Once",
+    "url": "https://collider.com/psychological-thriller-movies-perfect-masterpieces/",
+    "source": "collider.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
    {
     "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
     "url": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439",
@@ -265,6 +243,16 @@
     "countries": [
      "DE",
      "CH",
+     "IT"
+    ]
+   },
+   {
+    "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
+    "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
+    "source": "theepochtimes.com",
+    "theme": "press",
+    "date": "2026-11-13T00:45:00+00:00",
+    "countries": [
      "IT"
     ]
    }
@@ -284,6 +272,76 @@
   ],
   "GB": [
    {
+    "title": "Thousands turn out for protest march in Edinburgh",
+    "url": "https://theedinburghreporter.co.uk/2026/11/thousands-turn-out-for-protest-march-in-edinburgh/",
+    "source": "theedinburghreporter.co.uk",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Rival Stars Reveal Behind - the - Scenes Secrets of Season 2 Most Outrageous Scene",
+    "url": "https://collider.com/rivals-season-2-part-2-danny-dyer-katherine-parkinson-lisa-mcgrillis/",
+    "source": "collider.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Privacy - enhancing technologies boom , but adoption lags : OECD",
+    "url": "https://www.biometricupdate.com/202611/privacy-enhancing-technologies-boom-but-adoption-lags-oecd",
+    "source": "biometricupdate.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Earl Zimmerman | Climate , energy news roundup : What making news",
+    "url": "https://augustafreepress.com/news/earl-zimmerman-climate-energy-news-roundup-whats-making-news/",
+    "source": "augustafreepress.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Does Gen Z care about the UN big climate summit ?",
+    "url": "https://www.dw.com/en/does-gen-z-care-about-the-uns-big-climate-summit/audio-79944282",
+    "source": "dw.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "How to protect your boiler as freezing temperatures set to hit united kingdom",
+    "url": "https://www.islingtongazette.co.uk/news/national/uk-today/26727752.protect-boiler-freezing-temperatures-set-hit-uk/",
+    "source": "islingtongazette.co.uk",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "FinDev Canada , British International Investment , and Norfund sign a 10by30 MOU to originate USD 10 billion in climate finance by 2030",
+    "url": "https://www.theobserver.ca/press-releases/pr-newswire/findev-canada-british-international-investment-and-norfund-sign-a-10by30-mou-to-originate-usd-10-billion-in-climate-finance-by-2030/",
+    "source": "theobserver.ca",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
     "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
     "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
     "source": "Bank of England",
@@ -292,25 +350,99 @@
     "countries": [
      "GB"
     ]
-   },
+   }
+  ],
+  "FR": [
    {
-    "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-    "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-10T12:00:00+00:00",
+    "title": "Europe unrest : Behind the riots , Europe wrestles with hard choices",
+    "url": "https://www.smh.com.au/world/europe/behind-the-riots-europe-wrestles-with-hard-choices-20261115-p61d23.html",
+    "source": "smh.com.au",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
     "countries": [
-     "GB"
+     "FR"
     ]
    },
    {
-    "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-    "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-05T12:00:00+00:00",
+    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+    "url": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
+    "source": "newsday.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
     "countries": [
-     "GB"
+     "FR"
+    ]
+   },
+   {
+    "title": "Thousands take to the streets in France for the fifth Saturday in a row : Police use tear gas and charge at crowds during anti - government protests",
+    "url": "https://www.dailymail.com/news/article-16292889/Thousands-France-Police-tear-gas-crowds-government-protests.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Data center diaspora : Democrat blue wave wins could send AI buildout out of U . S . | News",
+    "url": "http://www.grandrapidsmn.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_c8e8c0e2-5ca6-4a62-90f6-abc9168ac1ae.html",
+    "source": "grandrapidsmn.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "8 gardening & garden - themed gifts for the holidays , from tools to tech",
+    "url": "https://www.news-herald.com/2026/11/13/gardening-garden-themed-gifts/",
+    "source": "news-herald.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Ukraine claims record 3 , 000 Russian casualties in one day as war drags on",
+    "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates",
+    "source": "aljazeera.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "8 gardening & garden - themed gifts for the holidays , from tools to tech",
+    "url": "https://www.santacruzsentinel.com/2026/11/13/gardening-garden-themed-gifts/",
+    "source": "santacruzsentinel.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "European voice in Ukraine peace talks must include united kingdom , Taoiseach says",
+    "url": "https://www.sloughobserver.co.uk/news/national/26726258.european-voice-ukraine-peace-talks-must-include-uk-taoiseach-says/",
+    "source": "sloughobserver.co.uk",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   }
+  ],
+  "NL": [
+   {
+    "title": "International Criminal Court limits Afghanistan investigation to Taliban crimes – Winnipeg Free Press",
+    "url": "https://www.winnipegfreepress.com/world/2026/11/13/international-criminal-court-limits-afghanistan-investigation-to-taliban-crimes",
+    "source": "winnipegfreepress.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "NL"
     ]
    }
   ],
@@ -344,56 +476,6 @@
     "countries": [
      "BE"
     ]
-   },
-   {
-    "title": "NFF warns Albanese Government over global COP31 methane push | Stock & Land",
-    "url": "https://www.stockandland.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-    "source": "stockandland.com.au",
-    "theme": "press",
-    "date": "2026-11-12T05:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "NFF warns Albanese Government over global COP31 methane push | Stock Journal",
-    "url": "https://www.stockjournal.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-    "source": "stockjournal.com.au",
-    "theme": "press",
-    "date": "2026-11-12T05:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "The poppy journey to become a sacred symbol began in 1915",
-    "url": "https://cloverdalereporter.com/2026/11/11/the-poppys-journey-to-become-a-sacred-symbol-began-in-1915-2/",
-    "source": "cloverdalereporter.com",
-    "theme": "press",
-    "date": "2026-11-12T05:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "NFF warns Albanese Government over global COP31 methane push | The Land",
-    "url": "https://www.theland.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-    "source": "theland.com.au",
-    "theme": "press",
-    "date": "2026-11-12T04:00:00+00:00",
-    "countries": [
-     "BE"
-    ]
-   },
-   {
-    "title": "NFF warns Albanese Government over global COP31 methane push | Farm Weekly",
-    "url": "https://www.farmweekly.com.au/story/9389799/nff-warns-albanese-government-over-global-cop31-methane-push/",
-    "source": "farmweekly.com.au",
-    "theme": "press",
-    "date": "2026-11-12T03:30:00+00:00",
-    "countries": [
-     "BE"
-    ]
    }
   ],
   "IE": [
@@ -411,6 +493,16 @@
     "title": "Ukraine launches nearly 1200 drones at Russia",
     "url": "https://www.perthnow.com.au/news/conflict/ukraine-launches-nearly-1200-drones-at-russia-c-23161052",
     "source": "perthnow.com.au",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "European voice in Ukraine peace talks must include united kingdom , Taoiseach says",
+    "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26726258.european-voice-ukraine-peace-talks-must-include-uk-taoiseach-says/",
+    "source": "darlingtonandstocktontimes.co.uk",
     "theme": "press",
     "date": "2026-11-13T18:00:00+00:00",
     "countries": [
@@ -508,59 +600,67 @@
     "countries": [
      "AT"
     ]
-   },
-   {
-    "title": "Austria Plans Broader Espionage Law With Prison Terms Up to 10 Years",
-    "url": "https://econotimes.com/Austria-Plans-Broader-Espionage-Law-With-Prison-Terms-Up-to-10-Years-1775609",
-    "source": "econotimes.com",
-    "theme": "press",
-    "date": "2026-11-12T03:00:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Middle East - Casino & Gambling",
-    "url": "https://www.worldcasinodirectory.com/region/middle-east",
-    "source": "worldcasinodirectory.com",
-    "theme": "press",
-    "date": "2026-11-12T03:00:00+00:00",
-    "countries": [
-     "AT"
-    ]
-   },
-   {
-    "title": "Syria participates in Arab - Austrian Economic Forum to explore investment opportunities",
-    "url": "https://sana.sy/en/economic/2358037/",
-    "source": "sana.sy",
-    "theme": "press",
-    "date": "2026-11-12T00:30:00+00:00",
-    "countries": [
-     "AT"
-    ]
    }
   ],
-  "HU": [
+  "ES": [
    {
-    "title": "Dr . Alex Lissitsa of the DIHAG Group in an interview with Foundry - Planet",
-    "url": "https://www.foundry-planet.com/d/dr-alex-lissitsa-of-the-dihag-group-in-an-interview-with-foundry-planet",
-    "source": "foundry-planet.com",
+    "title": "Declan Rice drops new Arsenal contract hint as fresh timeline emerges",
+    "url": "https://www.aol.co.uk/articles/soon-declan-rice-delivers-positive-200919000.html",
+    "source": "aol.co.uk",
     "theme": "press",
-    "date": "2026-11-12T03:00:00+00:00",
+    "date": "2026-11-14T21:00:00+00:00",
     "countries": [
-     "HU"
+     "ES"
     ]
-   }
-  ],
-  "RO": [
+   },
    {
-    "title": "HELLENiQ Energy plans investment of over €1bn in Romania by 2030",
-    "url": "https://cyprus-mail.com/2026/11/12/helleniq-energy-plans-investment-of-over-e1bn-in-romania-by-2030",
-    "source": "cyprus-mail.com",
+    "title": "The fishing industry is changing fish DNA | Kirksville Daily Express",
+    "url": "https://kirksvilledailyexpress.com/syndicated/the-fishing-industry-is-changing-fish-dna",
+    "source": "kirksvilledailyexpress.com",
+    "theme": "press",
+    "date": "2026-11-13T18:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "US stocks end day lower as oil climbs , Europe closes mixed",
+    "url": "https://aa.com.tr/en/americas/us-stocks-end-day-lower-as-oil-climbs-europe-closes-mixed/4123520",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-11-13T00:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Malta Tourism Workers Earn €8 . 90 an Hour : EU Labor Law , US Wage Comparisons and the Hidden Cost of Hospitality Growth",
+    "url": "https://eturbonews.com/malta-tourism-hospitality-wages-eu-law-us-comparison/",
+    "source": "eturbonews.com",
+    "theme": "press",
+    "date": "2026-11-13T00:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Millions strike across Spain over housing crisis as protests turn violent in Barcelona",
+    "url": "https://www.moneycontrol.com/world/millions-strike-across-spain-over-housing-crisis-as-protests-turn-violent-in-barcelona-article-14077845.html",
+    "source": "moneycontrol.com",
+    "theme": "press",
+    "date": "2026-11-12T07:00:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Spain Shuts Down in First General Strike for 14 Years",
+    "url": "https://voiceofvienna.org/spain-shuts-down-in-first-general-strike-for-14-years/",
+    "source": "voiceofvienna.org",
     "theme": "press",
     "date": "2026-11-12T06:45:00+00:00",
     "countries": [
-     "RO"
+     "ES"
     ]
    },
    {
@@ -570,48 +670,51 @@
     "theme": "press",
     "date": "2026-11-12T06:45:00+00:00",
     "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Hoax Bomb Threats Against European Schools Add to Hybrid Warfare Risks",
-    "url": "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/",
-    "source": "foreignpolicy.com",
-    "theme": "press",
-    "date": "2026-11-12T01:30:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
-    "source": "theguardian.com",
-    "theme": "press",
-    "date": "2026-11-12T00:30:00+00:00",
-    "countries": [
-     "RO"
+     "ES"
     ]
    }
   ],
-  "SI": [
+  "PT": [
    {
-    "title": "The world we know is over without urgent climate action , leaders tell COP31",
-    "url": "https://pina.com.fj/2026/11/12/the-world-we-know-is-over-without-urgent-climate-action-leaders-tell-cop31/",
-    "source": "pina.com.fj",
+    "title": "Focus on Alentejo - Wine & Spirits Magazine",
+    "url": "https://www.wineandspiritsmagazine.com/inside-the-tasting-reports/focus-on-alentejo",
+    "source": "wineandspiritsmagazine.com",
     "theme": "press",
-    "date": "2026-11-12T03:30:00+00:00",
+    "date": "2026-11-12T07:00:00+00:00",
     "countries": [
-     "SI"
+     "PT"
+    ]
+   }
+  ],
+  "PL": [
+   {
+    "title": "Ogarkov to the Baltics : Russian Military Thought Evolved From Zapad - 77 to Ukraine and Beyond",
+    "url": "https://jamestown.org/ogarkov-to-the-baltics-russian-military-thought-evolved-from-zapad-77-to-ukraine-and-beyond/",
+    "source": "jamestown.org",
+    "theme": "press",
+    "date": "2026-11-13T00:45:00+00:00",
+    "countries": [
+     "PL"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "It Happy Harry Kane day as England finest seizes his moment in style",
+    "url": "https://www.aol.co.uk/articles/happy-harry-kane-day-england-000156000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-13T00:45:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
  },
  "feed_status": {
   "ACER": {
-   "ok": true,
-   "url": "https://www.acer.europa.eu/rss.xml",
-   "items": 10
+   "ok": false,
+   "tried": "https://www.acer.europa.eu/rss.xml -> URLError"
   },
   "ENTSOG": {
    "ok": true,
@@ -665,24 +768,18 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
-  "gdelt/PL: HTTPError",
-  "gdelt/CZ: HTTPError",
+  "ACER: https://www.acer.europa.eu/rss.xml -> URLError",
+  "gdelt/DE: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
-  "gdelt/HR: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]

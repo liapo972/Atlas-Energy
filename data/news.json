@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:32:28+00:00",
+ "generated": "2026-11-16T18:34:42+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   },
   {
@@ -62,7 +62,7 @@
    "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-16T06:32:28+00:00",
+   "date": "2026-11-16T18:34:42+00:00",
    "countries": []
   }
  ],
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +83,7 @@
     "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +93,27 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-11-16T18:34:42+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Termine für Amateurfunkprüfungen (Stand 16. November 2026)",
+    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
+    "source": "Bundesnetzagentur",
+    "theme": "grid",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +123,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -113,17 +133,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Termine für Amateurfunkprüfungen (Stand 11. November 2026)",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -133,17 +143,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Ausschreibung Solaranlagen zweites Segment: Gebotstermin 1. Oktober 2026",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
     "countries": [
      "DE"
     ]
@@ -155,50 +155,31 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-16T06:32:28+00:00",
+    "date": "2026-11-16T18:34:42+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "Commission partially greenlights Slovakia's eighth payment request for €548 million under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2448",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-16T09:13:18+00:00",
     "countries": [
      "SK"
     ]
    }
   ],
-  "CH": [
+  "RO": [
    {
-    "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439",
+    "title": "Commission partially greenlights Romania's fifth payment request for €2.67 billion under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2444",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-11-13T14:50:21+00:00",
+    "date": "2026-11-16T09:03:30+00:00",
     "countries": [
-     "DE",
-     "CH",
-     "IT"
-    ]
-   }
-  ],
-  "IT": [
-   {
-    "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-11-13T14:50:21+00:00",
-    "countries": [
-     "DE",
-     "CH",
-     "IT"
-    ]
-   }
-  ],
-  "GR": [
-   {
-    "title": "Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2422",
-    "source": "Commission européenne",
-    "theme": "grid",
-    "date": "2026-11-12T23:00:00+00:00",
-    "countries": [
-     "DE",
-     "GR"
+     "RO"
     ]
    }
   ],
@@ -224,19 +205,17 @@
     ]
    }
   ],
-  "HR": [
+  "IT": [
    {
-    "title": "Declan Rice drops new Arsenal contract hint as fresh timeline emerges",
-    "url": "https://www.aol.co.uk/articles/soon-declan-rice-delivers-positive-200919000.html",
-    "source": "aol.co.uk",
+    "title": "Europe is petting the wolf : How the red - green alliance threatens Western democracy",
+    "url": "https://www.ynetnews.com/opinions-analysis/article/hkyabf00cme",
+    "source": "ynetnews.com",
     "theme": "press",
-    "date": "2026-11-14T21:00:00+00:00",
+    "date": "2026-11-16T08:15:00+00:00",
     "countries": [
-     "HR"
+     "IT"
     ]
-   }
-  ],
-  "RS": [
+   },
    {
     "title": "Study hard , get a career , get ahead ? It not what it used to be",
     "url": "https://www.omanobserver.om/article/1199695/world/asia/study-hard-get-a-career-get-ahead-its-not-what-it-used-to-be",
@@ -244,7 +223,27 @@
     "theme": "press",
     "date": "2026-11-15T07:45:00+00:00",
     "countries": [
-     "RS"
+     "IT"
+    ]
+   },
+   {
+    "title": "A Generational Clash is fueling Europe protests",
+    "url": "https://www.omanobserver.om/article/1199694/world/europe/a-generational-clash-is-fueling-europes-protests",
+    "source": "omanobserver.om",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Best Pegu Club Recipe : How to Make the Influential Gin & Lime Cocktail",
+    "url": "https://robbreport.com/food-drink/spirits/best-pegu-club-recipe-1238836761/",
+    "source": "robbreport.com",
+    "theme": "press",
+    "date": "2026-11-14T21:00:00+00:00",
+    "countries": [
+     "IT"
     ]
    },
    {
@@ -254,7 +253,83 @@
     "theme": "press",
     "date": "2026-11-14T20:00:00+00:00",
     "countries": [
-     "RS"
+     "IT"
+    ]
+   },
+   {
+    "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+    "url": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
+    "source": "newsday.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "7 Psychological Thriller Movies Everyone Should Watch at Least Once",
+    "url": "https://collider.com/psychological-thriller-movies-perfect-masterpieces/",
+    "source": "collider.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   }
+  ],
+  "HU": [
+   {
+    "title": "Data center diaspora : Democrat blue wave wins could send AI buildout out of US | News",
+    "url": "http://www.thedailytimes.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_d4f73402-6cf0-5101-9ba0-a99e495487bb.html",
+    "source": "thedailytimes.com",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   },
+   {
+    "title": "Data center diaspora : Democrat blue wave wins could send AI buildout out of U . S . | News",
+    "url": "http://www.grandrapidsmn.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_c8e8c0e2-5ca6-4a62-90f6-abc9168ac1ae.html",
+    "source": "grandrapidsmn.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "HU"
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "title": "Kvasir and Crossbridge Partner on Low - Carbon Marine Fuels Ship & Bunker",
+    "url": "https://shipandbunker.com/news/world/409230-kvasir-and-crossbridge-partner-on-low-carbon-marine-fuels",
+    "source": "shipandbunker.com",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   },
+   {
+    "title": "Privacy - enhancing technologies boom , but adoption lags : OECD",
+    "url": "https://www.biometricupdate.com/202611/privacy-enhancing-technologies-boom-but-adoption-lags-oecd",
+    "source": "biometricupdate.com",
+    "theme": "press",
+    "date": "2026-11-14T20:00:00+00:00",
+    "countries": [
+     "DK"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Declan Rice drops new Arsenal contract hint as fresh timeline emerges",
+    "url": "https://www.aol.co.uk/articles/soon-declan-rice-delivers-positive-200919000.html",
+    "source": "aol.co.uk",
+    "theme": "press",
+    "date": "2026-11-14T21:00:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
@@ -327,20 +402,16 @@
   "gdelt/AT: HTTPError",
   "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
-  "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
+  "gdelt/LT: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

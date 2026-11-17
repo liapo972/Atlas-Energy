@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T13:28:20+00:00",
+ "generated": "2026-11-17T23:31:09+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T23:31:09+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T23:31:09+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T23:31:09+00:00",
    "countries": []
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T23:31:09+00:00",
    "countries": []
   },
   {
@@ -54,26 +54,88 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T23:31:09+00:00",
    "countries": []
   },
   {
-   "title": "ACER's Board of Appeal begins a new five-year mandate",
-   "url": "https://www.acer.europa.eu/news/acers-board-appeal-begins-new-five-year-mandate",
-   "source": "ACER",
+   "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
+   "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-17T13:28:20+00:00",
+   "date": "2026-11-17T14:24:30+00:00",
    "countries": []
   }
  ],
  "countries": {
+  "FR": [
+   {
+    "title": "New REMIT reporting guidance and algorithmic trading feature in ACER’s latest REMIT Quarterly",
+    "url": "https://www.acer.europa.eu/news/new-remit-reporting-guidance-and-algorithmic-trading-feature-acers-latest-remit-quarterly",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-17T23:31:09+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Study hard , get a career , get ahead ? It not what it used to be",
+    "url": "https://www.omanobserver.om/article/1199695/world/asia/study-hard-get-a-career-get-ahead-its-not-what-it-used-to-be",
+    "source": "omanobserver.om",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "From bicycle parts to satellites : Inside Sunil Mittal 50 - year journey",
+    "url": "https://www.business-standard.com/companies/people/from-bicycle-parts-to-satellites-inside-sunil-mittal-s-50-year-journey-126111500180_1.html",
+    "source": "business-standard.com",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Data center diaspora : Democrat blue wave wins could send AI buildout out of US | News",
+    "url": "http://www.thedailytimes.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_d4f73402-6cf0-5101-9ba0-a99e495487bb.html",
+    "source": "thedailytimes.com",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "Dumbed down Scotland top education expert savages school system",
+    "url": "https://www.heraldscotland.com/news/26729731.dumbed-down-scotlands-top-education-expert-savages-school-system/",
+    "source": "heraldscotland.com",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   },
+   {
+    "title": "A Generational Clash is fueling Europe protests",
+    "url": "https://www.omanobserver.om/article/1199694/world/europe/a-generational-clash-is-fueling-europes-protests",
+    "source": "omanobserver.om",
+    "theme": "press",
+    "date": "2026-11-15T07:45:00+00:00",
+    "countries": [
+     "FR"
+    ]
+   }
+  ],
   "DE": [
    {
     "title": "REMIT breach: E-Control fines managing director of balancing service provider for manipulating the electricity market",
     "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +145,7 @@
     "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +155,7 @@
     "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +165,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -113,7 +175,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -123,7 +185,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -133,7 +195,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -143,7 +205,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "DE"
     ]
@@ -155,44 +217,115 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-17T13:28:20+00:00",
+    "date": "2026-11-17T23:31:09+00:00",
     "countries": [
      "SK"
     ]
    }
   ],
-  "FR": [
+  "HR": [
    {
-    "title": "Speech by Commissioner Kadis at the Blue NDC Challenge event hosted by France and Brazil",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2466",
+    "title": "Commission partially greenlights Croatia's final payment request for €2.67 billion under NextGenerationEU",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2478",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-11-17T08:48:28+00:00",
+    "date": "2026-11-17T15:25:23+00:00",
     "countries": [
-     "FR",
-     "DE"
+     "HR"
     ]
    }
   ],
   "GB": [
    {
-    "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-13T09:00:00+00:00",
+    "title": "Greens to use Holyrood debate to force a vote on drilling at Rosebank",
+    "url": "https://www.gazetteherald.co.uk/news/national/26730943.greens-use-holyrood-debate-force-vote-drilling-rosebank/",
+    "source": "gazetteherald.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-    "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-10T12:00:00+00:00",
+    "title": "Greens to use Holyrood debate to force a vote on drilling at Rosebank",
+    "url": "https://www.worcesternews.co.uk/news/national/26730943.greens-use-holyrood-debate-force-vote-drilling-rosebank/",
+    "source": "worcesternews.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
     "countries": [
      "GB"
+    ]
+   },
+   {
+    "title": "UK Sanctions Slavneft and Vessels in New Russia Measures Ship & Bunker",
+    "url": "https://shipandbunker.com/news/emea/557303-uk-sanctions-slavneft-and-vessels-in-new-russia-measures",
+    "source": "shipandbunker.com",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "UK seriously underprepared for emergencies and threats , peers warn",
+    "url": "https://www.ipswichstar.co.uk/news/national/26730963.uk-seriously-underprepared-emergencies-threats-peers-warn/",
+    "source": "ipswichstar.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "UK seriously underprepared for emergencies and threats , peers warn",
+    "url": "https://www.gazetteherald.co.uk/news/national/26730963.uk-seriously-underprepared-emergencies-threats-peers-warn/",
+    "source": "gazetteherald.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Greens to use Holyrood debate to force a vote on drilling at Rosebank",
+    "url": "https://www.lancashiretelegraph.co.uk/news/national/26730943.greens-use-holyrood-debate-force-vote-drilling-rosebank/",
+    "source": "lancashiretelegraph.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "UK seriously underprepared for emergencies and threats , peers warn",
+    "url": "https://www.worcesternews.co.uk/news/national/26730963.uk-seriously-underprepared-emergencies-threats-peers-warn/",
+    "source": "worcesternews.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Three - bedroom Purley home listed for £600 , 000 with no chain",
+    "url": "https://www.readingchronicle.co.uk/news/26712229.three-bedroom-purley-home-listed-600-000-no-chain/",
+    "source": "readingchronicle.co.uk",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   }
+  ],
+  "IE": [
+   {
+    "title": "State land should be regarded as strategic capital to build the next generation of Irish cities",
+    "url": "https://www.irishtimes.com/ireland/2026/11/16/state-land-should-be-regarded-as-strategic-capital-to-build-the-next-generation-of-irish-cities/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-11-16T08:15:00+00:00",
+    "countries": [
+     "IE"
     ]
    }
   ]
@@ -255,25 +388,11 @@
   }
  },
  "errors": [
-  "gdelt/FR: HTTPError",
-  "gdelt/DE: HTTPError",
-  "gdelt/NL: HTTPError",
-  "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
-  "gdelt/IE: HTTPError",
-  "gdelt/CH: HTTPError",
-  "gdelt/AT: HTTPError",
-  "gdelt/ES: HTTPError",
   "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
-  "gdelt/SK: HTTPError",
-  "gdelt/HU: HTTPError",
-  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
   "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
@@ -282,7 +401,6 @@
   "gdelt/LT: HTTPError",
   "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

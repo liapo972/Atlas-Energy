@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T07:30:59+00:00",
+ "generated": "2026-11-18T17:16:13+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -18,62 +18,104 @@
    "countries": []
   },
   {
-   "title": "EU Leaders discuss AI and Europe's role in Ukraine peace negotiations during informal summit in Dublin",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2477",
-   "source": "Commission européenne",
+   "title": "Is energy grids development keeping pace with Europe’s evolving needs?",
+   "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
+   "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-17T14:24:30+00:00",
+   "date": "2026-11-18T17:16:13+00:00",
+   "countries": []
+  },
+  {
+   "title": "Assessing EU electricity flexibility needs: a first look at ACER’s open-source model",
+   "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-18T17:16:13+00:00",
+   "countries": []
+  },
+  {
+   "title": "EU electricity market integration progresses but significant benefits remain untapped",
+   "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-18T17:16:13+00:00",
+   "countries": []
+  },
+  {
+   "title": "New ACER guidance helps market participants comply with revised REMIT data reporting rules",
+   "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-18T17:16:13+00:00",
+   "countries": []
+  },
+  {
+   "title": "EU gas storage is 75% filled",
+   "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
+   "source": "ACER",
+   "theme": "grid",
+   "date": "2026-11-18T17:16:13+00:00",
    "countries": []
   },
   {
    "title": "Remarks by Commissioner Hoekstra at EU press conference at COP31",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2474",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2502",
    "source": "Commission européenne",
    "theme": "grid",
-   "date": "2026-11-17T11:14:35+00:00",
-   "countries": []
-  },
-  {
-   "title": "Factsheet: European Sport Model",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2473",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-11-17T10:38:21+00:00",
-   "countries": []
-  },
-  {
-   "title": "Daily News 17 / 11 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2471",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-11-17T10:04:21+00:00",
-   "countries": []
-  },
-  {
-   "title": "Frank Elderson: Smart supervision for small banks",
-   "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-11-16T13:00:00+00:00",
-   "countries": []
-  },
-  {
-   "title": "Isabel Schnabel: Made in Europe",
-   "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-11-13T07:20:00+00:00",
+   "date": "2026-11-18T11:42:25+00:00",
    "countries": []
   }
  ],
  "countries": {
+  "FR": [
+   {
+    "title": "New REMIT reporting guidance and algorithmic trading feature in ACER’s latest REMIT Quarterly",
+    "url": "https://www.acer.europa.eu/news/new-remit-reporting-guidance-and-algorithmic-trading-feature-acers-latest-remit-quarterly",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-18T17:16:13+00:00",
+    "countries": [
+     "FR"
+    ]
+   }
+  ],
   "DE": [
+   {
+    "title": "REMIT breach: E-Control fines managing director of balancing service provider for manipulating the electricity market",
+    "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-18T17:16:13+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "Hydrogen from electricity is growing in the EU, but not fast enough",
+    "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-18T17:16:13+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
+   {
+    "title": "ACER seeks feedback on its preliminary model for assessing electricity flexibility needs in the EU",
+    "url": "https://www.acer.europa.eu/news/acer-seeks-feedback-its-preliminary-model-assessing-electricity-flexibility-needs-eu",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-18T17:16:13+00:00",
+    "countries": [
+     "DE"
+    ]
+   },
    {
     "title": "Statistik zur Stromerzeugungsleistung ausgewählter erneuerbarer Energieträger - Oktober 2026",
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
+    "date": "2026-11-18T17:16:13+00:00",
     "countries": [
      "DE"
     ]
@@ -83,7 +125,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
+    "date": "2026-11-18T17:16:13+00:00",
     "countries": [
      "DE"
     ]
@@ -93,7 +135,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
+    "date": "2026-11-18T17:16:13+00:00",
     "countries": [
      "DE"
     ]
@@ -103,7 +145,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
+    "date": "2026-11-18T17:16:13+00:00",
     "countries": [
      "DE"
     ]
@@ -113,77 +155,79 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Verschiebung der Entscheidung zum WACC Gas",
-    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Ausschreibung Solaranlagen zweites Segment: Gebotstermin 1. Oktober 2026",
-    "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
-    "countries": [
-     "DE"
-    ]
-   },
-   {
-    "title": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
-    "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
-    "source": "Bundesnetzagentur",
-    "theme": "grid",
-    "date": "2026-11-18T07:30:59+00:00",
+    "date": "2026-11-18T17:16:13+00:00",
     "countries": [
      "DE"
     ]
    }
   ],
-  "HR": [
+  "SK": [
    {
-    "title": "Commission partially greenlights Croatia's final payment request for €2.67 billion under NextGenerationEU",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2478",
+    "title": "ACER finds latest Slovak gas transmission tariff proposal not aligned with EU rules",
+    "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
+    "source": "ACER",
+    "theme": "grid",
+    "date": "2026-11-18T17:16:13+00:00",
+    "countries": [
+     "SK"
+    ]
+   }
+  ],
+  "PT": [
+   {
+    "title": "Keynote speech by Commissioner Kubilius at the European Business Summit",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2506",
     "source": "Commission européenne",
     "theme": "grid",
-    "date": "2026-11-17T15:25:23+00:00",
+    "date": "2026-11-18T13:52:04+00:00",
     "countries": [
-     "HR"
+     "DE",
+     "PT"
+    ]
+   },
+   {
+    "title": "Opening remarks by Commissioner Hansen at the EU-Mexico Agri-food Trade Relations Business Forum in Mexico City",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2501",
+    "source": "Commission européenne",
+    "theme": "grid",
+    "date": "2026-11-18T11:40:19+00:00",
+    "countries": [
+     "DE",
+     "PT"
     ]
    }
   ],
   "GB": [
    {
-    "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-    "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-13T09:00:00+00:00",
+    "title": "DUP attempted abuse of the Stormont brake was destined to fail – Alliance",
+    "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26739203.dups-attempted-abuse-stormont-brake-destined-fail---alliance/",
+    "source": "richmondandtwickenhamtimes.co.uk",
+    "theme": "press",
+    "date": "2026-11-18T01:15:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-    "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-    "source": "Bank of England",
-    "theme": "policy",
-    "date": "2026-11-10T12:00:00+00:00",
+    "title": "DUP attempted abuse of the Stormont brake was destined to fail – Alliance | East London and West Essex Guardian Series",
+    "url": "https://www.guardian-series.co.uk/news/national/26739203.dups-attempted-abuse-stormont-brake-destined-fail---alliance/",
+    "source": "guardian-series.co.uk",
+    "theme": "press",
+    "date": "2026-11-18T01:15:00+00:00",
     "countries": [
      "GB"
     ]
-   }
-  ],
-  "FR": [
+   },
+   {
+    "title": "Plans for appalling credibility tests for modern slavery victims under fire",
+    "url": "https://www.harrowtimes.co.uk/news/national/26739145.plans-appalling-credibility-tests-modern-slavery-victims-fire/",
+    "source": "harrowtimes.co.uk",
+    "theme": "press",
+    "date": "2026-11-18T01:15:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
    {
     "title": "European leaders finally remember the EU isnt a country",
     "url": "http://www.europesun.com/news/279439365/european-leaders-finally-remember-the-eu-isnt-a-country",
@@ -191,17 +235,17 @@
     "theme": "press",
     "date": "2026-11-18T01:15:00+00:00",
     "countries": [
-     "FR"
+     "GB"
     ]
    },
    {
-    "title": "Mahindra Last Mile Mobility wins Earthshot Prize 2026 for promoting electric vehicles in India",
-    "url": "http://www.europesun.com/news/279439296/mahindra-last-mile-mobility-wins-earthshot-prize-2026-for-promoting-electric-vehicles-in-india",
-    "source": "europesun.com",
+    "title": "Ecuador ambassador praises King energy after inviting monarch to nation",
+    "url": "https://www.eveshamjournal.co.uk/news/national/26739182.ecuador-ambassador-praises-kings-energy-inviting-monarch-nation/",
+    "source": "eveshamjournal.co.uk",
     "theme": "press",
     "date": "2026-11-18T01:15:00+00:00",
     "countries": [
-     "FR"
+     "GB"
     ]
    },
    {
@@ -211,7 +255,7 @@
     "theme": "press",
     "date": "2026-11-18T01:15:00+00:00",
     "countries": [
-     "FR"
+     "GB"
     ]
    },
    {
@@ -221,47 +265,17 @@
     "theme": "press",
     "date": "2026-11-18T01:15:00+00:00",
     "countries": [
-     "FR"
+     "GB"
     ]
    },
    {
-    "title": "Prince William presents Earthshot Prize winners with $1 . 3 million each",
-    "url": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
-    "source": "ksat.com",
+    "title": "DUP attempted abuse of the Stormont brake was destined to fail – Alliance",
+    "url": "https://www.thurrockgazette.co.uk/news/national/26739203.dups-attempted-abuse-stormont-brake-destined-fail---alliance/",
+    "source": "thurrockgazette.co.uk",
     "theme": "press",
     "date": "2026-11-18T01:15:00+00:00",
     "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers",
-    "url": "https://www.mercurynews.com/2026/11/17/trump-carriers-catapults-pushback/",
-    "source": "mercurynews.com",
-    "theme": "press",
-    "date": "2026-11-18T01:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Sainte - Foy audience rocked by multilingual lullabies - The Quebec Chronicle Telegraph",
-    "url": "https://www.qctonline.com/sainte-foy-audience-rocked-by-multilingual-lullabies/",
-    "source": "qctonline.com",
-    "theme": "press",
-    "date": "2026-11-18T01:15:00+00:00",
-    "countries": [
-     "FR"
-    ]
-   },
-   {
-    "title": "Ukraine strikes major Russian bridge as aerial attacks escalate",
-    "url": "https://www.guardian-series.co.uk/news/national/26735858.ukraine-strikes-major-russian-bridge-aerial-attacks-escalate/",
-    "source": "guardian-series.co.uk",
-    "theme": "press",
-    "date": "2026-11-18T01:15:00+00:00",
-    "countries": [
-     "FR"
+     "GB"
     ]
    }
   ],
@@ -275,121 +289,14 @@
     "countries": [
      "ES"
     ]
-   },
-   {
-    "title": "Study hard , get a career , get ahead ? It not what it used to be",
-    "url": "https://www.omanobserver.om/article/1199695/world/asia/study-hard-get-a-career-get-ahead-its-not-what-it-used-to-be",
-    "source": "omanobserver.om",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   },
-   {
-    "title": "A Generational Clash is fueling Europe protests",
-    "url": "https://www.omanobserver.om/article/1199694/world/europe/a-generational-clash-is-fueling-europes-protests",
-    "source": "omanobserver.om",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "ES"
-    ]
-   }
-  ],
-  "PT": [
-   {
-    "title": "Cape Verde could elect first woman president since gaining independence in 1975",
-    "url": "http://www.bozemandailychronicle.com/wire/news/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article_e32abd7f-234c-55ce-af68-a4af3a0b7a1f.html",
-    "source": "bozemandailychronicle.com",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Data center diaspora : Democrat blue wave wins could send AI buildout out of US | News",
-    "url": "http://www.thedailytimes.com/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-us/article_d4f73402-6cf0-5101-9ba0-a99e495487bb.html",
-    "source": "thedailytimes.com",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   },
-   {
-    "title": "Cape Verde could elect first woman president since gaining independence in 1975",
-    "url": "http://www.dailyadvance.com/news/national/cape-verde-could-elect-first-woman-president-since-gaining-independence-in-1975/article_2c105f05-4b82-5f67-a9dd-2e4c734f1c4f.html",
-    "source": "dailyadvance.com",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "PT"
-    ]
-   }
-  ],
-  "NO": [
-   {
-    "title": "Who hosting the 2026 Christmas in Rockefeller Center NBC special ? – NBC Los Angeles",
-    "url": "https://www.nbclosangeles.com/holidays/cynthia-erivo-host-christmas-in-rockefeller-center-tree-lighting-special-nbc/3971789/",
-    "source": "nbclosangeles.com",
-    "theme": "press",
-    "date": "2026-11-18T01:15:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   },
-   {
-    "title": "Dumbed down Scotland top education expert savages school system",
-    "url": "https://www.heraldscotland.com/news/26729731.dumbed-down-scotlands-top-education-expert-savages-school-system/",
-    "source": "heraldscotland.com",
-    "theme": "press",
-    "date": "2026-11-15T07:45:00+00:00",
-    "countries": [
-     "NO"
-    ]
-   }
-  ],
-  "DK": [
-   {
-    "title": "Kvasir and Crossbridge Partner on Low - Carbon Marine Fuels Ship & Bunker",
-    "url": "https://shipandbunker.com/news/world/409230-kvasir-and-crossbridge-partner-on-low-carbon-marine-fuels",
-    "source": "shipandbunker.com",
-    "theme": "press",
-    "date": "2026-11-16T08:15:00+00:00",
-    "countries": [
-     "DK"
-    ]
-   }
-  ],
-  "EE": [
-   {
-    "title": "Ukraine War , Day 1 , 726 : Zelensky - We Have Neutralized 55 % of Russia Refineries",
-    "url": "https://eaworldview.com/2026/11/ukraine-war-russia-refineries-zelensky-we-have-neutralized-55-percent/",
-    "source": "eaworldview.com",
-    "theme": "press",
-    "date": "2026-11-16T08:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on right side of history – Capital FM",
-    "url": "https://capitalfm.africa/zelensky-urges-us-and-musk-to-lift-starlink-restrictions-and-be-on-right-side-of-history/",
-    "source": "capitalfm.africa",
-    "theme": "press",
-    "date": "2026-11-16T08:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
    }
   ]
  },
  "feed_status": {
   "ACER": {
-   "ok": false,
-   "tried": "https://www.acer.europa.eu/rss.xml -> URLError"
+   "ok": true,
+   "url": "https://www.acer.europa.eu/rss.xml",
+   "items": 10
   },
   "ENTSOG": {
    "ok": true,
@@ -443,23 +350,30 @@
   }
  },
  "errors": [
-  "ACER: https://www.acer.europa.eu/rss.xml -> URLError",
+  "gdelt/FR: HTTPError",
   "gdelt/DE: HTTPError",
   "gdelt/NL: HTTPError",
   "gdelt/BE: HTTPError",
-  "gdelt/GB: HTTPError",
   "gdelt/IE: HTTPError",
   "gdelt/CH: HTTPError",
   "gdelt/AT: HTTPError",
+  "gdelt/PT: HTTPError",
   "gdelt/IT: HTTPError",
   "gdelt/PL: HTTPError",
   "gdelt/CZ: HTTPError",
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
+  "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
+  "gdelt/NO: HTTPError",
+  "gdelt/SE: HTTPError",
+  "gdelt/DK: HTTPError",
+  "gdelt/FI: HTTPError",
+  "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
   "gdelt/LT: HTTPError",
+  "gdelt/SI: HTTPError",
   "gdelt/HR: HTTPError",
   "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"

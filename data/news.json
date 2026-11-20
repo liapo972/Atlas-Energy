@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T23:03:32+00:00",
+ "generated": "2026-11-20T07:18:31+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-19T23:03:32+00:00",
+   "date": "2026-11-20T07:18:31+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-19T23:03:32+00:00",
+   "date": "2026-11-20T07:18:31+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-19T23:03:32+00:00",
+   "date": "2026-11-20T07:18:31+00:00",
    "countries": []
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.acer.europa.eu/news/new-acer-guidance-helps-market-participants-comply-revised-remit-data-reporting-rules",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-19T23:03:32+00:00",
+   "date": "2026-11-20T07:18:31+00:00",
    "countries": []
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.acer.europa.eu/news/eu-gas-storage-75-filled",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-19T23:03:32+00:00",
+   "date": "2026-11-20T07:18:31+00:00",
    "countries": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://www.acer.europa.eu/news/eu-spending-electricity-support-measures-reaches-eur12-billion-2025-reliance-grows",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "BE"
     ]
@@ -85,7 +85,7 @@
     "url": "https://www.acer.europa.eu/news/new-remit-reporting-guidance-and-algorithmic-trading-feature-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "FR"
     ]
@@ -97,7 +97,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -107,7 +107,7 @@
     "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -117,7 +117,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -127,7 +127,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -137,7 +137,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -147,7 +147,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/_DL/Ladesaeuleninfrastruktur.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -157,7 +157,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/artikel.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -167,7 +167,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "DE"
     ]
@@ -179,7 +179,7 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-19T23:03:32+00:00",
+    "date": "2026-11-20T07:18:31+00:00",
     "countries": [
      "SK"
     ]
@@ -242,6 +242,76 @@
   ],
   "GR": [
    {
+    "title": "Garcia Tells Trump Sons , Kushner , Top Officials To Preserve Records Ahead Of Oversight Probes",
+    "url": "http://www.zerohedge.com/political/garcia-tells-trumps-sons-kushner-top-officials-preserve-records-ahead-oversight-probes",
+    "source": "zerohedge.com",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Race to be next UN secretary general exposes divisions among world powers",
+    "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-11-20T05:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "From Pope Francis to Charlie Kirk , many deaths in 2025 had a wide impact",
+    "url": "https://www.troyrecord.com/2025/12/05/2025-notable-deaths/",
+    "source": "troyrecord.com",
+    "theme": "press",
+    "date": "2026-11-20T05:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Israel , Italy And The Eastern Med : Strategic Assets For European Energy Security In A Geopolitical Contested Area Of Hybrid Competition - Analysis",
+    "url": "https://www.eurasiareview.com/20112026-israel-italy-and-the-eastern-med-strategic-assets-for-european-energy-eecurity-in-a-geopolitical-contested-area-of-hybrid-competition-analysis/",
+    "source": "eurasiareview.com",
+    "theme": "press",
+    "date": "2026-11-20T03:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Accelerating US inflation adds to AI - related equity market volatility | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/accelerating-us-inflation-adds-to-ai-related-equity-market-volatility/",
+    "source": "hellenicshippingnews.com",
+    "theme": "press",
+    "date": "2026-11-20T01:30:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Amid Strained Ties , Japan Takaichi Shakes Hands With Xi Jinping at APEC Summit",
+    "url": "https://www.theepochtimes.com/china/amid-strained-ties-japans-takaichi-shakes-hands-with-xi-jinping-at-apec-summit-6127106",
+    "source": "theepochtimes.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
+    "title": "Greece Has The Most To Lose From Delays In Shipping Green Transition , New Analysis Finds",
+    "url": "https://www.hellenicshippingnews.com/greece-has-the-most-to-lose-from-delays-in-shippings-green-transition-new-analysis-finds/",
+    "source": "hellenicshippingnews.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "GR"
+    ]
+   },
+   {
     "title": "New hiking trails in Greece connect picturesque villages",
     "url": "https://www.insidehalton.com/things-to-do/travel/these-uncrowded-trails-in-the-peloponnese-offer-picturesque-villages-ancient-landmarks-and-true-grecian-hospitality/article_248c490b-0c11-5e5b-a465-95577c97019b.html",
     "source": "insidehalton.com",
@@ -250,25 +320,295 @@
     "countries": [
      "GR"
     ]
-   },
+   }
+  ],
+  "BG": [
    {
-    "title": "Poles close in on Fort Trump – POLITICO",
-    "url": "https://www.politico.eu/newsletter/brussels-playbook-capitals/poles-close-in-on-fort-trump/",
-    "source": "politico.eu",
+    "title": "5 Perfect Steven Universe Episodes That Define the Whole Show , Including the One That Cancelled It",
+    "url": "https://comicbook.com/tv-shows/list/5-perfect-steven-universe-episodes-that-define-the-whole-show-including-the-one-that-cancelled-it/",
+    "source": "comicbook.com",
     "theme": "press",
-    "date": "2026-11-19T19:30:00+00:00",
+    "date": "2026-11-20T06:45:00+00:00",
     "countries": [
-     "GR"
+     "BG"
     ]
    },
    {
-    "title": "House Democrat targets Trump family in steps toward investigations",
-    "url": "https://www.republicanherald.com/2026/11/18/robert-garcia-trump-investigations/",
-    "source": "republicanherald.com",
+    "title": "Penn State draws criticism for lecture on decolonizing Holocaust museums | JNS",
+    "url": "https://www.clevelandjewishnews.com/jns/penn-state-draws-criticism-for-lecture-on-decolonizing-holocaust-museums/article_b2181538-9760-50f6-a5cc-cd1db767281f.html",
+    "source": "clevelandjewishnews.com",
+    "theme": "press",
+    "date": "2026-11-20T01:15:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Burnham puts final touches to deal that spells the start of EU surrender",
+    "url": "https://www.dailymail.com/news/article-16306733/Burnham-puts-final-touches-deal-spells-start-EU-surrender.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   },
+   {
+    "title": "Bulgaria Borissov : Even Children Know That the Drones Are Russian - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=241695",
+    "source": "novinite.com",
+    "theme": "press",
+    "date": "2026-11-19T23:45:00+00:00",
+    "countries": [
+     "BG"
+    ]
+   }
+  ],
+  "NO": [
+   {
+    "title": "Europe Arctic Pivot : Norway Hammerfest Becomes the Bottleneck for Supply Diversification",
+    "url": "https://english.pravda.ru/news/business/173630-norway-arctic-lng-hammerfest-constraint/",
+    "source": "english.pravda.ru",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "The place becomes a jewellery box of glittering light : reader favourite winter city breaks in Europe | City breaks",
+    "url": "https://www.theguardian.com/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
+    "source": "theguardian.com",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Tale of fire and blood has author shortlisted for prize",
+    "url": "https://www.centralwesterndaily.com.au/story/9395513/tale-of-fire-and-blood-has-author-shortlisted-for-prize/",
+    "source": "centralwesterndaily.com.au",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Tale of fire and blood has author shortlisted for prize",
+    "url": "https://www.juneesoutherncross.com.au/story/9395513/tale-of-fire-and-blood-has-author-shortlisted-for-prize/",
+    "source": "juneesoutherncross.com.au",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Tale of fire and blood has author shortlisted for prize",
+    "url": "https://www.goulburnpost.com.au/story/9395513/tale-of-fire-and-blood-has-author-shortlisted-for-prize/",
+    "source": "goulburnpost.com.au",
+    "theme": "press",
+    "date": "2026-11-20T05:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "UK Commits £1 . 5 Billion to Hybrid Navy and Uncrewed Fleet",
+    "url": "https://econotimes.com/UK-Commits-1-5-Billion-to-Hybrid-Navy-and-Uncrewed-Fleet-1780014",
+    "source": "econotimes.com",
+    "theme": "press",
+    "date": "2026-11-20T03:30:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "Blue Moon Completes its Acquisition of the Turner Copper - Gold VMS Deposit",
+    "url": "https://www.prnewswire.com/news-releases/blue-moon-completes-its-acquisition-of-the-turner-copper-gold-vms-deposit-302946244.html",
+    "source": "prnewswire.com",
+    "theme": "press",
+    "date": "2026-11-20T00:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   },
+   {
+    "title": "NZ pay equity law has been found to breach women rights . How can it stand ? - 20 - Nov - 2026",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=458363&fm=psp,tst",
+    "source": "home.nzcity.co.nz",
+    "theme": "press",
+    "date": "2026-11-20T00:45:00+00:00",
+    "countries": [
+     "NO"
+    ]
+   }
+  ],
+  "SE": [
+   {
+    "title": "Letter : The Fight Against Climate Change",
+    "url": "https://www.yankton.net/opinion/letters/article_33e32600-bb87-4b8d-9b41-6f89cdf5fa43.html",
+    "source": "yankton.net",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Renewable energy news : Muir Mhor Floating Wind Farm , PNE , Siemens Energy",
+    "url": "https://greentechlead.com/energy-news/renewable-energy-news-muir-mhor-floating-wind-farm-pne-siemens-energy-56696",
+    "source": "greentechlead.com",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Tom Karwin , On Gardening | Much about mushrooms",
+    "url": "https://www.santacruzsentinel.com/2026/11/19/tom-karwin-on-gardening-much-about-mushrooms/",
+    "source": "santacruzsentinel.com",
+    "theme": "press",
+    "date": "2026-11-20T02:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "How a small town Swedish council chief was found out to be a porn star dubbed the Viking - with his secret career uncovered when fellow politicians went quiet ...",
+    "url": "https://www.dailymail.com/news/article-16307229/Swedish-council-chief-porn-star-secret-career-uncovered.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Letter : US lags in addressing climate change",
+    "url": "https://www.citizensvoice.com/2026/11/19/letter-us-lags-in-addressing-climate-change/",
+    "source": "citizensvoice.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Assetto Corsa Rally Update 0 . 7 Adds Twincharged Lancia Delta S4 and Studded - Tire Snow Stages",
+    "url": "https://www.techtimes.com/articles/331149/20261119/assetto-corsa-rally-update-07-adds-twincharged-lancia-delta-s4-studded-tire-snow-stages.htm",
+    "source": "techtimes.com",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Letter : US lags in addressing climate change",
+    "url": "https://www.thetimes-tribune.com/2026/11/19/letter-us-lags-in-addressing-climate-change/",
+    "source": "thetimes-tribune.com",
+    "theme": "press",
+    "date": "2026-11-19T23:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "10 Thoughts : Dave Hakstol is Back",
+    "url": "https://95kqds.com/2026/11/19/10-thoughts-dave-hakstol-is-back/",
+    "source": "95kqds.com",
+    "theme": "press",
+    "date": "2026-11-19T23:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Workers Struggles : Europe , Middle East & Africa",
+    "url": "https://www.wsws.org/en/articles/2026/11/19/rlow-n19.html",
+    "source": "wsws.org",
+    "theme": "press",
+    "date": "2026-11-19T23:30:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "RS": [
+   {
+    "title": "Cap Raise Crucible : Broker bonanza , gold and AI glory",
+    "url": "https://www.smh.com.au/business/companies/cap-raise-crucible-broker-bonanza-gold-and-ai-glory-20261120-p61g16.html",
+    "source": "smh.com.au",
+    "theme": "press",
+    "date": "2026-11-20T06:45:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Aleksandar Cupic , who sheltered students in his greenhouses , becomes Serbia parliament speaker",
+    "url": "http://www.bgnes.com/politics/aleksandar-cupic-who-sheltered-students-in-his-greenhouses-becomes-serbia-s-parliament-speaker",
+    "source": "bgnes.com",
+    "theme": "press",
+    "date": "2026-11-20T06:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Historic UN ruling that Myanmar committed genocide against Rohingya is rare victory for survivors",
+    "url": "https://www.amnesty.org.au/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/",
+    "source": "amnesty.org.au",
+    "theme": "press",
+    "date": "2026-11-20T00:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Jeffrey Sachs : Europe Chooses Wrong Security Architecture",
+    "url": "https://consortiumnews.com/2026/11/19/jeffrey-sachs-europe-chooses-wrong-security-architecture/",
+    "source": "consortiumnews.com",
+    "theme": "press",
+    "date": "2026-11-19T19:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "Musk Is in the Dem Crosshairs | The Patriot Post",
+    "url": "https://patriotpost.us/articles/1002935-musk-is-in-the-dems-crosshairs",
+    "source": "patriotpost.us",
+    "theme": "press",
+    "date": "2026-11-19T19:30:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "University lecturer from Serbia student - led movement is elected Parliament speaker",
+    "url": "https://www.the-messenger.com/news/world/article_cb08d0bd-e1c1-5ec0-8cea-6f9a7f955b42.html",
+    "source": "the-messenger.com",
+    "theme": "press",
+    "date": "2026-11-19T17:15:00+00:00",
+    "countries": [
+     "RS"
+    ]
+   },
+   {
+    "title": "News | CEI",
+    "url": "https://www.cei.int/ansa/182598",
+    "source": "cei.int",
     "theme": "press",
     "date": "2026-11-18T17:30:00+00:00",
     "countries": [
-     "GR"
+     "RS"
     ]
    }
   ]
@@ -347,17 +687,10 @@
   "gdelt/SK: HTTPError",
   "gdelt/HU: HTTPError",
   "gdelt/RO: HTTPError",
-  "gdelt/BG: HTTPError",
-  "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
   "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
   "gdelt/EE: HTTPError",
   "gdelt/LV: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
   "gdelt/world: HTTPError"
  ]
 }

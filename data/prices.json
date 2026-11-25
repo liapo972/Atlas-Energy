@@ -1,195 +1,195 @@
 {
- "generated": "2026-11-24T18:55:13+00:00",
- "day": "2026-11-23",
+ "generated": "2026-11-25T17:58:33+00:00",
+ "day": "2026-11-24",
  "metrics": {
   "price": {
    "FR": {
-    "value": 242.78,
+    "value": 250.38,
     "currency": "EUR"
    },
    "DE": {
-    "value": 253.81,
+    "value": 249.29,
     "currency": "EUR"
    },
    "NL": {
-    "value": 245.41,
+    "value": 236.29,
     "currency": "EUR"
    },
    "BE": {
-    "value": 244.27,
+    "value": 250.91,
     "currency": "EUR"
    },
    "IE": {
-    "value": 250.85,
+    "value": 279.53,
     "currency": "EUR"
    },
    "CH": {
-    "value": 249.56,
+    "value": 253.98,
     "currency": "EUR"
    },
    "AT": {
-    "value": 251.83,
+    "value": 264.12,
     "currency": "EUR"
    },
    "ES": {
-    "value": 202.29,
+    "value": 161.4,
     "currency": "EUR"
    },
    "PT": {
-    "value": 209.14,
+    "value": 173.42,
     "currency": "EUR"
    },
    "IT": {
-    "value": 245.22,
+    "value": 257.82,
     "currency": "EUR"
    },
    "PL": {
-    "value": 215.06,
+    "value": 270.65,
     "currency": "EUR"
    },
    "CZ": {
-    "value": 247.72,
+    "value": 266.37,
     "currency": "EUR"
    },
    "SK": {
-    "value": 249.83,
+    "value": 274.55,
     "currency": "EUR"
    },
    "HU": {
-    "value": 247.82,
+    "value": 271.99,
     "currency": "EUR"
    },
    "RO": {
-    "value": 226.72,
+    "value": 259.86,
     "currency": "EUR"
    },
    "GR": {
-    "value": 200.76,
+    "value": 237.52,
     "currency": "EUR"
    },
    "BG": {
-    "value": 219.05,
+    "value": 250.28,
     "currency": "EUR"
    },
    "NO": {
-    "value": 239.28,
+    "value": 239.57,
     "currency": "EUR"
    },
    "SE": {
-    "value": 166.91,
+    "value": 204.95,
     "currency": "EUR"
    },
    "DK": {
-    "value": 247.94,
+    "value": 247.89,
     "currency": "EUR"
    },
    "FI": {
-    "value": 54.62,
+    "value": 115.14,
     "currency": "EUR"
    },
    "EE": {
-    "value": 166.71,
+    "value": 178.3,
     "currency": "EUR"
    },
    "LV": {
-    "value": 213.27,
+    "value": 216.21,
     "currency": "EUR"
    },
    "LT": {
-    "value": 238.6,
+    "value": 256.39,
     "currency": "EUR"
    },
    "SI": {
-    "value": 243.77,
+    "value": 264.91,
     "currency": "EUR"
    },
    "HR": {
-    "value": 238.51,
+    "value": 263.36,
     "currency": "EUR"
    },
    "RS": {
-    "value": 196.5,
+    "value": 232.48,
     "currency": "EUR"
    }
   },
   "load": {
    "FR": {
-    "value": 1408.1
+    "value": 1490.1
    },
    "DE": {
-    "value": 1523.7
+    "value": 1582.7
    },
    "NL": {
-    "value": 316.1
+    "value": 307.0
    },
    "BE": {
-    "value": 258.6
+    "value": 267.7
    },
    "CH": {
-    "value": 201.1
+    "value": 211.4
    },
    "AT": {
-    "value": 194.5
+    "value": 194.3
    },
    "ES": {
-    "value": 690.3
+    "value": 734.8
    },
    "PT": {
-    "value": 157.8
+    "value": 166.0
    },
    "IT": {
-    "value": 491.5
+    "value": 528.9
    },
    "PL": {
-    "value": 523.3
+    "value": 542.2
    },
    "CZ": {
-    "value": 206.5
+    "value": 214.8
    },
    "SK": {
-    "value": 84.2
+    "value": 87.3
    },
    "HU": {
-    "value": 140.1
+    "value": 144.1
    },
    "RO": {
-    "value": 170.0
+    "value": 167.1
    },
    "GR": {
-    "value": 129.6
+    "value": 133.6
    },
    "BG": {
-    "value": 113.6
+    "value": 123.7
    },
    "NO": {
-    "value": 130.1
+    "value": 136.7
    },
    "SE": {
-    "value": 295.4
+    "value": 309.5
    },
    "DK": {
-    "value": 76.5
+    "value": 80.1
    },
    "FI": {
-    "value": 302.2
+    "value": 279.8
    },
    "EE": {
-    "value": 26.6
+    "value": 27.3
    },
    "LV": {
     "value": 23.9
    },
    "LT": {
-    "value": 43.0
+    "value": 43.2
    },
    "SI": {
-    "value": 44.3
+    "value": 48.5
    },
    "HR": {
-    "value": 55.1
+    "value": 57.5
    },
    "RS": {
-    "value": 107.9
+    "value": 111.8
    }
   },
   "storage": {
@@ -272,7 +272,7 @@
     "asof": "2026-11-23"
    },
    "NL": {
-    "value": 646.0,
+    "value": 754.1,
     "asof": "2026-11-23"
    },
    "BE": {
@@ -284,7 +284,7 @@
     "asof": "2026-11-23"
    },
    "ES": {
-    "value": 57.5,
+    "value": 57.6,
     "asof": "2026-11-23"
    },
    "PT": {
@@ -308,7 +308,7 @@
     "asof": "2026-11-23"
    },
    "HU": {
-    "value": 180.0,
+    "value": 180.1,
     "asof": "2026-11-23"
    },
    "RO": {
@@ -340,7 +340,7 @@
     "asof": "2026-11-23"
    },
    "DE": {
-    "value": 342.7,
+    "value": 342.3,
     "unit": "GWh/j",
     "field": "sendOut",
     "asof": "2026-11-23"
@@ -382,7 +382,7 @@
     "asof": "2026-11-23"
    },
    "GR": {
-    "value": 67.7,
+    "value": 69.8,
     "unit": "GWh/j",
     "field": "sendOut",
     "asof": "2026-11-23"
@@ -411,14 +411,14 @@
  "errors": [
   "gas/GB: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/GB: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"United Kingdom (Pre-Brexit)\", \"code\": \"GB\", \"url\": \"GB\", \"updatedAt\": \"2026-11-24 18:25:04\", \"gasDayStart\": \"2026-11-23\", \"gasDayEnd\": \"2026-11-24\", \"inventory\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"sendOut\": \"-\", \"dtmi\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"dtrs\": \"-\", \"contractedCapacity\": \"-\", \"availableCapacity\": \"-\", \"coveredCapacity\": \"-\", \"info\": [], \"status\": \"N\"}",
+  "lng/GB: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"United Kingdom (Pre-Brexit)\", \"code\": \"GB\", \"url\": \"GB\", \"updatedAt\": \"2026-11-25 18:25:04\", \"gasDayStart\": \"2026-11-23\", \"gasDayEnd\": \"2026-11-24\", \"inventory\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"sendOut\": \"-\", \"dtmi\": {\"lng\": \"-\", \"gwh\": \"-\"}, \"dtrs\": \"-\", \"contractedCapacity\": \"-\", \"availableCapacity\": \"-\", \"coveredCapacity\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/GR: RuntimeError: aucun champ parmi [full] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
   "netwd/GR: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : code, dtmi, dtrs, gasDayStart, info, inventory, name, sendOut, status, url",
   "lng/SE: RuntimeError: ni sendOut ni inventory exploitables — ligne brute : {\"name\": \"SE\", \"code\": \"SE\", \"url\": \"SE\", \"gasDayStart\": \"2026-11-23\", \"inventory\": \"-\", \"sendOut\": \"-\", \"dtmi\": \"-\", \"dtrs\": \"-\", \"info\": [], \"status\": \"N\"}",
   "gas/RS: RuntimeError: aucun champ parmi [full] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
   "netwd/RS: RuntimeError: aucun champ parmi [netWithdrawal] — champs disponibles : availableCapacity, code, consumption, consumptionFull, contractedCapacity, coveredCapacity, full, gasDayEnd, gasDayStart, gasInStorage, info, injection, injectionCapacity, name, netWithdrawal, status, trend, updatedAt, url, withdrawal, withdrawalCapacity, workingGasVolume",
-  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-11-23T00:00:00Z/2026-11-24T00:00:00Z.",
-  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-11-23T00:00:00Z/2026-11-24T00:00:00Z.",
-  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-11-23T00:00:00Z/2026-11-24T00:00:00Z."
+  "price/GB: RuntimeError: No matching data found for Data item ENERGY_PRICES [12.1.D] (10YGB----------A, 10YGB----------A) and interval 2026-11-24T00:00:00Z/2026-11-25T00:00:00Z.",
+  "load/GB: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10YGB----------A) and interval 2026-11-24T00:00:00Z/2026-11-25T00:00:00Z.",
+  "load/IE: RuntimeError: No matching data found for Data item ACTUAL_TOTAL_LOAD_R3 [6.1.A] (10Y1001A1001A59C) and interval 2026-11-24T00:00:00Z/2026-11-25T00:00:00Z."
  ]
 }

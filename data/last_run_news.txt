@@ -2,7 +2,7 @@ Flux RSS : 11 sources
   MORT ACER                     https://www.acer.europa.eu/rss.xml -> URLError
   OK   ENTSOG                   https://www.entsog.eu/rss.xml
   OK   ENTSO-E                  https://www.entsoe.eu/rss.xml
-  MORT Commission européenne    https://ec.europa.eu/commission/presscorner/api/rss?language=en -> TimeoutError
+  OK   Commission européenne    https://ec.europa.eu/commission/presscorner/api/rss?language=en
   OK   BCE                      https://www.ecb.europa.eu/rss/press.html
   OK   Fed — politique monétaire https://www.federalreserve.gov/feeds/press_monetary.xml
   OK   Bank of England          https://www.bankofengland.co.uk/rss/news
@@ -14,22 +14,20 @@ Requetes GDELT pays : 28
 
 --- Resultat ---
   fil monde   : 8 titres
-  pays servis : 15 / 28
-  duree       : 150s
+  pays servis : 20 / 28
+  duree       : 146s
 
---- 15 avertissements ---
+--- 13 avertissements ---
   ! ACER: https://www.acer.europa.eu/rss.xml -> URLError
-  ! Commission européenne: https://ec.europa.eu/commission/presscorner/api/rss?language=en -> TimeoutError
-  ! gdelt/ES: HTTPError
+  ! gdelt/GB: HTTPError
   ! gdelt/IT: HTTPError
+  ! gdelt/PL: HTTPError
   ! gdelt/CZ: HTTPError
-  ! gdelt/HU: HTTPError
   ! gdelt/GR: HTTPError
   ! gdelt/BG: HTTPError
-  ! gdelt/SE: HTTPError
-  ! gdelt/DK: HTTPError
+  ! gdelt/NO: HTTPError
+  ! gdelt/EE: HTTPError
   ! gdelt/LV: HTTPError
-  ! gdelt/LT: HTTPError
   ! gdelt/SI: HTTPError
   ! gdelt/HR: HTTPError
-  ! gdelt/world: URLError
+  ! gdelt/world: HTTPError

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:51:51+00:00",
+ "generated": "2026-11-28T16:54:13+00:00",
  "world": [
   {
    "title": "ENTSO-E’s 2027 Standard-Vetting Interoperability Test Event",
@@ -14,7 +14,7 @@
    "url": "https://www.acer.europa.eu/news/getting-authorised-report-remit-data-new-guidance-inside-information-platforms-and-reporting-mechanisms",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-28T07:51:51+00:00",
+   "date": "2026-11-28T16:54:13+00:00",
    "countries": []
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.acer.europa.eu/news/acer-updates-guidance-track-cybersecurity-performance-eu-electricity-networks",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-28T07:51:51+00:00",
+   "date": "2026-11-28T16:54:13+00:00",
    "countries": []
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.acer.europa.eu/news/energy-grids-development-keeping-pace-europes-evolving-needs",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-28T07:51:51+00:00",
+   "date": "2026-11-28T16:54:13+00:00",
    "countries": []
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://www.acer.europa.eu/news/assessing-eu-electricity-flexibility-needs-first-look-acers-open-source-model",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-28T07:51:51+00:00",
+   "date": "2026-11-28T16:54:13+00:00",
    "countries": []
   },
   {
@@ -46,24 +46,141 @@
    "url": "https://www.acer.europa.eu/news/eu-electricity-market-integration-progresses-significant-benefits-remain-untapped",
    "source": "ACER",
    "theme": "grid",
-   "date": "2026-11-28T07:51:51+00:00",
+   "date": "2026-11-28T16:54:13+00:00",
    "countries": []
   },
   {
-   "title": "Daily News 27 / 11 / 2026",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2609",
-   "source": "Commission européenne",
-   "theme": "grid",
-   "date": "2026-11-27T10:27:23+00:00",
-   "countries": []
+   "title": "Health insurer rejects man ₹1 lakh claim over missing papers , Gurgaon consumer court orders full payment with interest",
+   "url": "https://www.livemint.com/money/health-insurer-rejects-man-s-1-lakh-claim-over-missing-papers-gurgaon-consumer-court-orders-full-payment-with-interest-11795874970947.html",
+   "source": "livemint.com",
+   "theme": "press",
+   "date": "2026-11-28T16:15:00+00:00"
   },
   {
-   "title": "ECB Consumer Expectations Survey results – October 2026",
-   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-   "source": "BCE",
-   "theme": "policy",
-   "date": "2026-11-27T09:00:00+00:00",
-   "countries": []
+   "title": "What is Lakshmi Yojana ? Delhi govt shifts ₹2 , 500 aid to FDs till Jan after wallet glitches delay payout , says report",
+   "url": "https://www.livemint.com/money/personal-finance/what-is-lakshmi-yojana-delhi-govt-shifts-2-500-aid-to-fds-till-jan-after-wallet-glitches-delay-payout-says-report-11795875935716.html",
+   "source": "livemint.com",
+   "theme": "press",
+   "date": "2026-11-28T16:15:00+00:00"
+  },
+  {
+   "title": "Gold price forecast : Can precious metal fall below ₹1 , 00 , 000 per 10 grams in the near - term ? Expert views",
+   "url": "https://www.livemint.com/market/commodities/gold-price-forecast-can-precious-metal-fall-below-1-00-000-per-10-grams-in-the-near-term-experts-views-11795874325765.html",
+   "source": "livemint.com",
+   "theme": "press",
+   "date": "2026-11-28T16:15:00+00:00"
+  },
+  {
+   "title": "Nvidia reinstates Jensen Huang , Lululemon Chip Wilson sparks controversy and courting investors for Freedom Mobile : Must - read business and investing stories for the week of Nov . 28",
+   "url": "https://www.theglobeandmail.com/business/article-nvidia-ceo-jensen-huang-donald-trump/",
+   "source": "theglobeandmail.com",
+   "theme": "press",
+   "date": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "title": "Nuclear power referendum passes - Focus Taiwan",
+   "url": "https://focustaiwan.tw/politics/202611280030",
+   "source": "focustaiwan.tw",
+   "theme": "press",
+   "date": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "title": "Nuclear power referendum passes - Focus Taiwan",
+   "url": "https://focustaiwan.tw:443/politics/202611280030",
+   "source": "focustaiwan.tw",
+   "theme": "press",
+   "date": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "title": "Victoria Warns Federal Labor Voters Can Turn on Dime",
+   "url": "https://www.miragenews.com/victoria-warns-federal-labor-voters-can-turn-on-1785125/",
+   "source": "miragenews.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Critics warn of rights erosion as new crises emerge , echoing COVID - era controls – NaturalNews . com",
+   "url": "https://www.naturalnews.com/2026-11-28-critics-warn-rights-erosion-new-crises-emerge.html",
+   "source": "naturalnews.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "I hate that Jensen Huang is back at Nvidia , but I love what it done for my 401 ( k ). Am I a hypocrite ?",
+   "url": "https://www.morningstar.com/news/marketwatch/20261128104/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401k-am-i-a-hypocrite",
+   "source": "morningstar.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Total loans and financing granted by banks in Oman rise to OMR39 . 1bn",
+   "url": "https://timesofoman.com/article/179687-total-loans-and-financing-granted-by-banks-in-oman-rise-to-omr391bn",
+   "source": "timesofoman.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Copper Price Plummets as Mining Stocks Face Turbulent Outlook – NaturalNews . com",
+   "url": "https://www.naturalnews.com/2026-11-28-copper-cost-plummets-mining-stocks-turbulent-outlook.html",
+   "source": "naturalnews.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Oman Producer Price Index rises 24 . 8 % in Q3 2026",
+   "url": "https://timesofoman.com/article/179683-omans-producer-price-index-rises-248-in-q3-2026",
+   "source": "timesofoman.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "A Bank collapse cost Paraguay its president . Now his former economy Minister Is under arrest",
+   "url": "https://www.albawaba.net/news/bank-collapse-cost-paraguay-its-1642221",
+   "source": "albawaba.net",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "MSX - listed insurance firms report net profits of OMR29 . 9mn",
+   "url": "https://timesofoman.com/article/179685-msx-listed-insurance-firms-report-net-profits-of-omr299mn",
+   "source": "timesofoman.com",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Households with £10 , 000 savings urged to act quickly for £321 boost",
+   "url": "https://www.birminghammail.co.uk/news/cost-of-living/households-10000-savings-urged-act-34952389",
+   "source": "birminghammail.co.uk",
+   "theme": "press",
+   "date": "2026-11-28T15:15:00+00:00"
+  },
+  {
+   "title": "Luxury homes for sale in the Glens Falls area Updated Nov . 28 , 2026",
+   "url": "https://poststar.com/life-entertainment/local/home-gardening/collection_451ee60a-3a00-524c-ad88-8f889da6196d.html",
+   "source": "poststar.com",
+   "theme": "press",
+   "date": "2026-11-28T14:30:00+00:00"
+  },
+  {
+   "title": "Indonesia eyes 6 % economic growth in 2027",
+   "url": "http://www.bignewsnetwork.com/news/279471009/indonesia-eyes-6-economic-growth-in-2027",
+   "source": "bignewsnetwork.com",
+   "theme": "press",
+   "date": "2026-11-28T14:30:00+00:00"
+  },
+  {
+   "title": "Australia conservatives win landslide victory in bellwether Victoria state",
+   "url": "https://www.straitstimes.com/asia/australianz/australias-conservatives-win-landslide-victory-in-bellwether-victoria-state",
+   "source": "straitstimes.com",
+   "theme": "press",
+   "date": "2026-11-28T14:15:00+00:00"
+  },
+  {
+   "title": "Gazprom and Turkey BOTAS Extend Gas Supply Deal for 3 Years",
+   "url": "https://www.kyivpost.com/post/91485",
+   "source": "kyivpost.com",
+   "theme": "press",
+   "date": "2026-11-28T14:15:00+00:00"
   }
  ],
  "countries": {
@@ -73,77 +190,77 @@
     "url": "https://www.acer.europa.eu/news/eu-spending-electricity-support-measures-reaches-eur12-billion-2025-reliance-grows",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "The speed at which AI might reduce demand for labour could leave society on a knife edge",
-    "url": "https://www.irishtimes.com/opinion/2026/11/28/the-speed-at-which-ai-might-reduce-demand-for-labour-could-leave-society-on-a-knife-edge/",
-    "source": "irishtimes.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.stroudnewsandjournal.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "stroudnewsandjournal.co.uk",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "Zelensky Libya attack , Merz freezes battle in Brussels , the USAID propaganda machine exposed : RT top stories of the week",
-    "url": "http://www.kenyastar.com/news/279468536/zelensky-libya-attack-merz-freezes-battle-in-brussels-the-usaid-propaganda-machine-exposed-rt-top-stories-of-the-week",
-    "source": "kenyastar.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.impartialreporter.com/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "impartialreporter.com",
     "theme": "press",
-    "date": "2026-11-27T23:45:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "Zelensky Libya attack , Merz freezes battle in Brussels , the USAID propaganda machine exposed : RT top stories of the week",
-    "url": "http://www.bignewsnetwork.com/news/279468536/zelensky-libya-attack-merz-freezes-battle-in-brussels-the-usaid-propaganda-machine-exposed-rt-top-stories-of-the-week",
-    "source": "bignewsnetwork.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.gazetteseries.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "gazetteseries.co.uk",
     "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "Zelensky Libya attack , Merz freezes battle in Brussels , the USAID propaganda machine exposed : RT top stories of the week",
-    "url": "http://www.sierraleonetimes.com/news/279468536/zelensky-libya-attack-merz-freezes-battle-in-brussels-the-usaid-propaganda-machine-exposed-rt-top-stories-of-the-week",
-    "source": "sierraleonetimes.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.surreycomet.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "surreycomet.co.uk",
     "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "AJA Newsbites – November 27 , 2026",
-    "url": "https://theasian.asia/archives/205671",
-    "source": "theasian.asia",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.countypress.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "countypress.co.uk",
     "theme": "press",
-    "date": "2026-11-27T06:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "Belgium to revoke antisemitic license plates after Jewish MP campaign",
-    "url": "https://www.israelnationalnews.com/flashes/698704",
-    "source": "israelnationalnews.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.islingtongazette.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "islingtongazette.co.uk",
     "theme": "press",
-    "date": "2026-11-27T05:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "BE"
     ]
    },
    {
-    "title": "EU budget talks collapse",
-    "url": "http://www.europesun.com/news/279463109/eu-budget-talks-collapse",
-    "source": "europesun.com",
+    "title": "Police and protesters clash as thousands call for resignation of prime minister",
+    "url": "https://www.theboltonnews.co.uk/news/national/26771630.police-protesters-clash-thousands-call-resignation-prime-minister/",
+    "source": "theboltonnews.co.uk",
     "theme": "press",
-    "date": "2026-11-27T01:45:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "BE"
     ]
@@ -155,77 +272,77 @@
     "url": "https://www.acer.europa.eu/news/new-remit-reporting-guidance-and-algorithmic-trading-feature-acers-latest-remit-quarterly",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Taiwan votes in elections to choose mayors and other local leaders",
-    "url": "https://www.wgauradio.com/news/taiwan-holds/Z6HLIIGJDAYOZNCBLSJZZUUGJI/",
-    "source": "wgauradio.com",
+    "title": "Taiwan voters back nuclear revival in referendum to scrap phaseout policy",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/taiwans-opposition-holds-taipei-as-nuclear-power-comeback-divides-voters/articleshow/136250038.cms",
+    "source": "economictimes.indiatimes.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T15:45:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "the games of deceit and cooperation in the EU and beyond .....",
-    "url": "https://www.yourdemocracy.net.au/drupal/node/62022",
-    "source": "yourdemocracy.net.au",
+    "title": "Russia accuses EU state of facilitating Ukrainian terrorist attacks",
+    "url": "http://www.russiaherald.com/news/279470846/russia-accuses-eu-state-of-facilitating-ukrainian-terrorist-attacks",
+    "source": "russiaherald.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T15:45:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Air Defense : Steelfin Air Defense",
-    "url": "http://www.strategypage.com/%5Chtmw%5Chtada%5Carticles%5C20261123091743.aspx",
-    "source": "strategypage.com",
+    "title": "Russia accuses EU state of facilitating Ukrainian terrorist attacks",
+    "url": "http://www.europesun.com/news/279470846/russia-accuses-eu-state-of-facilitating-ukrainian-terrorist-attacks",
+    "source": "europesun.com",
     "theme": "press",
-    "date": "2026-11-28T06:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "AP News in Brief at 12 : 04 a . m . EST",
-    "url": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-est/article_c2104562-9eb5-5b69-b7a7-36169aa9551a.html",
-    "source": "wdtimes.com",
+    "title": "Who is Radomir Saicic , the professor candidate in the elections in Serbia from the student list",
+    "url": "https://www.thevermilion.com/who-is-radomir-saicic-the-professor-candidate-in-the-elections-in-serbia-from-the-student-list/article_23344/",
+    "source": "thevermilion.com",
     "theme": "press",
-    "date": "2026-11-28T06:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "AP News Summary at 12 : 38 a . m . EST",
-    "url": "http://www.wdtimes.com/news/national/ap-news-summary-at-12-38-a-m-est/article_8b7e1aaf-d90f-5780-899a-2a39160782e6.html",
-    "source": "wdtimes.com",
+    "title": "Norse Atlantic ends flights : How Iran war continues to batter aviation - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+    "url": "https://dominicanrepublicpost.com/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation/",
+    "source": "dominicanrepublicpost.com",
     "theme": "press",
-    "date": "2026-11-28T06:30:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "India Supreme Court mandates red hexagon warning labels on packaged foods , targeting global giant double standards – NaturalNews . com",
-    "url": "https://www.naturalnews.com/2026-11-27-indias-supreme-court-mandates-red-hexagon-warning-labels.html",
-    "source": "naturalnews.com",
+    "title": "Interview : Ibrahim Mahama On Building New Futures at Fondation Cartier",
+    "url": "https://observer.com/2026/11/artist-ibrahim-mahama-fondation-cartier-paris-harvest-season-interview/",
+    "source": "observer.com",
     "theme": "press",
-    "date": "2026-11-28T06:30:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
      "FR"
     ]
    },
    {
-    "title": "Lagos Feat . Paris : Adekunle Gold , Tayo to Headline Franco - Nigerian Festival – THISDAYLIVE",
-    "url": "https://www.thisdaylive.com/2026/11/28/lagos-feat-paris-adekunle-gold-tayo-to-headline-franco-nigerian-festival/",
-    "source": "thisdaylive.com",
+    "title": "Norse Atlantic ends flights : How Iran war continues to batter aviation",
+    "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation",
+    "source": "aljazeera.com",
     "theme": "press",
-    "date": "2026-11-28T05:15:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
      "FR"
     ]
@@ -237,7 +354,7 @@
     "url": "https://www.acer.europa.eu/news/remit-breach-e-control-fines-managing-director-balancing-service-provider-manipulating-electricity-market",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -247,7 +364,7 @@
     "url": "https://www.acer.europa.eu/news/hydrogen-electricity-growing-eu-not-fast-enough",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -257,7 +374,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261127_Hedwig.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -267,7 +384,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261126_Strategiepapier.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -277,7 +394,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261123_DWD.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -287,7 +404,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/SpezielleAnwendungen/Amateurfunk/_DL/Pruefungstermine.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -297,7 +414,7 @@
     "url": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EE-Statistik/DL/EEStatistikMaStR.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -307,7 +424,7 @@
     "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
     "source": "Bundesnetzagentur",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
     "countries": [
      "DE"
     ]
@@ -319,7 +436,27 @@
     "url": "https://www.acer.europa.eu/news/acer-finds-latest-slovak-gas-transmission-tariff-proposal-not-aligned-eu-rules",
     "source": "ACER",
     "theme": "grid",
-    "date": "2026-11-28T07:51:51+00:00",
+    "date": "2026-11-28T16:54:13+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
+    "url": "https://www.whec.com/ap-top-news/eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine/",
+    "source": "whec.com",
+    "theme": "press",
+    "date": "2026-11-27T22:45:00+00:00",
+    "countries": [
+     "SK"
+    ]
+   },
+   {
+    "title": "EU budget talks collapse",
+    "url": "http://www.europesun.com/news/279463109/eu-budget-talks-collapse",
+    "source": "europesun.com",
+    "theme": "press",
+    "date": "2026-11-27T01:45:00+00:00",
     "countries": [
      "SK"
     ]
@@ -363,19 +500,69 @@
     "countries": [
      "SK"
     ]
-   },
-   {
-    "title": "Arab News | EU leaders split over budget spending and a $49 billion loan to Ukraine",
-    "url": "https://www.arabnews.com/world/eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine-3014203",
-    "source": "arabnews.com",
-    "theme": "press",
-    "date": "2026-11-26T23:45:00+00:00",
-    "countries": [
-     "SK"
-    ]
    }
   ],
   "SE": [
+   {
+    "title": "WHO will do the work ? William plan to slim down the monarchy to a skeletal force could spark a constitutional crisis , royal experts warn",
+    "url": "https://www.dailymail.com/news/royals/article-16324551/WHO-work-Williams-plan-slim-monarchy-skeletal-force-spark-constitutional-crisis-royal-experts-warn.html",
+    "source": "dailymail.com",
+    "theme": "press",
+    "date": "2026-11-28T13:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Kremlin Says Proposed €100B EU Ukraine Fund Could Hurt Peace Talks",
+    "url": "https://www.latintimes.com/kremlin-warns-eu-ukraine-funding-could-undermine-talks-601926",
+    "source": "latintimes.com",
+    "theme": "press",
+    "date": "2026-11-28T09:45:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "The speed at which AI might reduce demand for labour could leave society on a knife edge",
+    "url": "https://www.irishtimes.com/opinion/2026/11/28/the-speed-at-which-ai-might-reduce-demand-for-labour-could-leave-society-on-a-knife-edge/",
+    "source": "irishtimes.com",
+    "theme": "press",
+    "date": "2026-11-28T07:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "Will The Blue Wave Be Followed By A Green Wave ? | The Daily Caller",
+    "url": "https://dailycaller.com/2026/11/27/opinion-democrats-midterms-green-wave-bonner-cohen/",
+    "source": "dailycaller.com",
+    "theme": "press",
+    "date": "2026-11-28T00:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "PANDEF seeks probe into alleged political killings in Delta",
+    "url": "https://punchng.com/pandef-seeks-probe-into-alleged-political-killings-in-delta/",
+    "source": "punchng.com",
+    "theme": "press",
+    "date": "2026-11-27T02:15:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
+   {
+    "title": "China Drones Are Reshaping Asia Militaries",
+    "url": "https://www.livemint.com/news/world/chinas-drones-are-reshaping-asiasmilitaries-11795728346880.html",
+    "source": "livemint.com",
+    "theme": "press",
+    "date": "2026-11-27T00:30:00+00:00",
+    "countries": [
+     "SE"
+    ]
+   },
    {
     "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
@@ -389,81 +576,81 @@
   ],
   "GB": [
    {
-    "title": "Cyprus Business Now : shipping , real estate , economic sentiment , fuel , GSI",
-    "url": "https://cyprus-mail.com/2026/11/28/cyprus-business-now-shipping-real-estate-economic-sentiment-fuel-gsi",
-    "source": "cyprus-mail.com",
+    "title": "World - Leading Scientific Minds to Gather at VinFuture Sci - Tech Week 2026 – LiveNews . co . nz",
+    "url": "https://livenews.co.nz/2026/11/29/world-leading-scientific-minds-to-gather-at-vinfuture-sci-tech-week-2026/",
+    "source": "livenews.co.nz",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Framework $99 Wireless Touchpad Keyboard is up for pre - order",
-    "url": "https://www.omgubuntu.co.uk/2026/11/frameworks-wireless-touchpad-keyboard-preorder",
-    "source": "omgubuntu.co.uk",
-    "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Nationwide confirms £440m Fairer Share payment for 4 million customers",
-    "url": "https://www.leicestermercury.co.uk/news/uk-world-news/nationwide-confirms-440m-fairer-share-11259293",
-    "source": "leicestermercury.co.uk",
-    "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
-    "countries": [
-     "GB"
-    ]
-   },
-   {
-    "title": "Oxford University college data centre not for AI slop",
-    "url": "https://www.heraldseries.co.uk/news/26768206.oxford-university-college-data-centre-not-ai-slop/",
+    "title": "Royal Mail warns shoppers over four Christmas gift items",
+    "url": "https://www.heraldseries.co.uk/news/26771429.royal-mail-warns-shoppers-four-christmas-gift-items/",
     "source": "heraldseries.co.uk",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Scottish businesses face mounting costs despite resilience",
-    "url": "https://www.heraldscotland.com/news/26770044.scottish-businesses-face-mounting-costs-despite-resilience/",
-    "source": "heraldscotland.com",
+    "title": "Student - led protest against PM turns violent in Albania",
+    "url": "https://www.yasstribune.com.au/story/9399902/student-led-protest-against-pm-turns-violent-in-albania/",
+    "source": "yasstribune.com.au",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Bracknell three - bedroom house price cut to £325 , 000",
-    "url": "https://www.bracknellnews.co.uk/news/26754807.bracknell-three-bedroom-house-price-cut-325-000/",
-    "source": "bracknellnews.co.uk",
+    "title": "Dual ‑ fuel ships could supply over one ‑ fifth of liner shipping energy by 2030 , WSC report says",
+    "url": "https://kenya-today.com/report-dualfuel-ships-could-supply-over-onefifth-of-liner-shipping-energy-by-2030-wsc-report-says-34779/",
+    "source": "kenya-today.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T15:45:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "The invisible service - why is it so hard to contact police ?",
-    "url": "https://www.heraldscotland.com/opinion/26769377.invisible-service---hard-contact-police/",
-    "source": "heraldscotland.com",
+    "title": "Black Friday 2026 Chromebook deals : big price cuts still live on budget laptops from Asus , Acer , Lenovo and more",
+    "url": "https://www.techradar.com/seasonal-sales/black-friday-2026-chromebook-deals",
+    "source": "techradar.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "GB"
     ]
    },
    {
-    "title": "Crude oil snaps 3 - week losing streak : Why Brent is back near $100 as Middle East tensions flare",
-    "url": "https://www.moneycontrol.com/news/business/commodities/crude-oil-snaps-3-week-losing-streak-why-brent-is-back-near-100-as-middle-east-tensions-flare-14090641.html",
-    "source": "moneycontrol.com",
-    "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "title": "Payments systems Memorandum of Understanding",
+    "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-11-26T15:00:00+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+    "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-11-26T12:33:57+00:00",
+    "countries": [
+     "GB"
+    ]
+   },
+   {
+    "title": "Financial Policy Committee Record – November 2026",
+    "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+    "source": "Bank of England",
+    "theme": "policy",
+    "date": "2026-11-26T10:30:00+00:00",
     "countries": [
      "GB"
     ]
@@ -471,81 +658,81 @@
   ],
   "NL": [
    {
-    "title": "Multraship christens ENFORCER , officially welcoming new vessel to expanded Dutch government partnership",
-    "url": "https://www.hellenicshippingnews.com/multraship-christens-enforcer-officially-welcoming-new-vessel-to-expanded-dutch-government-partnership/",
-    "source": "hellenicshippingnews.com",
+    "title": "TiE Global Summit 2026 : Rs 1 . 5 Lakh Crore+ Business Value , Rs 10 , 000 Crore+ Investment Funds Position Indore as Global Startup Hub",
+    "url": "http://www.floridastatesman.com/news/279470627/tie-global-summit-2026-rs-15-lakh-crore-business-value-rs-10000-crore-investment-funds-position-indore-as-global-startup-hub",
+    "source": "floridastatesman.com",
     "theme": "press",
-    "date": "2026-11-28T02:30:00+00:00",
+    "date": "2026-11-28T14:15:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "Morocco Hosts Europe Leading Phosphorus Conference for the First Time – The North Africa Post",
-    "url": "https://northafricapost.com/101927-morocco-hosts-europes-leading-phosphorus-conference-for-the-first-time.html",
-    "source": "northafricapost.com",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.irishsun.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "irishsun.com",
     "theme": "press",
-    "date": "2026-11-28T01:45:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "Were in the midst of a crippling bout of self - harm over Net Zero",
-    "url": "https://www.dailymail.com/opinion/uk/article-16327945/Midst-Labour-crippling-Net-Zero-truth-hidden.html",
-    "source": "dailymail.com",
+    "title": "TiE Global Summit 2026 : Rs 1 . 5 Lakh Crore+ Business Value , Rs 10 , 000 Crore+ Investment Funds Position Indore as Global Startup Hub",
+    "url": "http://www.newyorkstatesman.com/news/279470627/tie-global-summit-2026-rs-15-lakh-crore-business-value-rs-10000-crore-investment-funds-position-indore-as-global-startup-hub",
+    "source": "newyorkstatesman.com",
     "theme": "press",
-    "date": "2026-11-28T01:45:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "The f - word threatening future global climate talks",
-    "url": "https://www.lithgowmercury.com.au/story/9399790/the-f-word-threatening-future-global-climate-talks/",
-    "source": "lithgowmercury.com.au",
+    "title": "TiE Global Summit 2026 : Rs 1 . 5 Lakh Crore+ Business Value , Rs 10 , 000 Crore+ Investment Funds Position Indore as Global Startup Hub",
+    "url": "http://www.northkoreatimes.com/news/279470627/tie-global-summit-2026-rs-15-lakh-crore-business-value-rs-10000-crore-investment-funds-position-indore-as-global-startup-hub",
+    "source": "northkoreatimes.com",
     "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "Austria Far Right Proposes Deporting Migrants to Ukraine",
-    "url": "https://www.kyivpost.com/post/91449",
-    "source": "kyivpost.com",
+    "title": "TiE Global Summit 2026 : Rs 1 . 5 Lakh Crore+ Business Value , Rs 10 , 000 Crore+ Investment Funds Position Indore as Global Startup Hub",
+    "url": "http://www.irishsun.com/news/279470627/tie-global-summit-2026-rs-15-lakh-crore-business-value-rs-10000-crore-investment-funds-position-indore-as-global-startup-hub",
+    "source": "irishsun.com",
     "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "The f - word threatening future global climate talks",
-    "url": "https://www.gleninnesexaminer.com.au/story/9399790/the-f-word-threatening-future-global-climate-talks/",
-    "source": "gleninnesexaminer.com.au",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.sanantoniopost.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "sanantoniopost.com",
     "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "The f - word threatening future global climate talks",
-    "url": "https://www.nynganobserver.com.au/story/9399790/the-f-word-threatening-future-global-climate-talks/",
-    "source": "nynganobserver.com.au",
+    "title": "A wall across the sea : Inside Gujarat ambitious Kalpasar project",
+    "url": "https://timesofindia.indiatimes.com/india/a-wall-across-the-sea-inside-gujarats-ambitious-kalpasar-project/articleshow/136243260.cms",
+    "source": "timesofindia.indiatimes.com",
     "theme": "press",
-    "date": "2026-11-27T22:45:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
    },
    {
-    "title": "EU leaders split over budget spending and a $49 billion loan to Ukraine",
-    "url": "https://www.whec.com/ap-top-news/eu-leaders-split-over-budget-spending-and-a-49-billion-loan-to-ukraine/",
-    "source": "whec.com",
+    "title": "TiE Global Summit 2026 : Rs 1 . 5 Lakh Crore+ Business Value , Rs 10 , 000 Crore+ Investment Funds Position Indore as Global Startup Hub",
+    "url": "http://www.kenyastar.com/news/279470627/tie-global-summit-2026-rs-15-lakh-crore-business-value-rs-10000-crore-investment-funds-position-indore-as-global-startup-hub",
+    "source": "kenyastar.com",
     "theme": "press",
-    "date": "2026-11-27T22:45:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "NL"
     ]
@@ -553,67 +740,107 @@
   ],
   "IE": [
    {
-    "title": "Ignore the plámás at Doonbeg : Ireland remains firmly in Washington sights – The Irish Times",
-    "url": "https://www.irishtimes.com/opinion/2026/11/28/cliff-taylor-ignore-the-plamas-at-doonbeg-ireland-remains-firmly-in-washingtons-sights/",
-    "source": "irishtimes.com",
+    "title": "William breaks ground for Ballina Hip Hop - What on",
+    "url": "https://www.westernpeople.ie/whatson/william-breaks-ground-for-ballina-hip-hop_arid-20333805.html",
+    "source": "westernpeople.ie",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T14:45:00+00:00",
     "countries": [
      "IE"
     ]
    },
    {
-    "title": "The next energy bill shock ? Rising gas prices put Irish electricity costs under pressure",
-    "url": "https://www.irishexaminer.com/business/economy/arid-41943246.html",
-    "source": "irishexaminer.com",
+    "title": "She was treated pretty badly - The fall and rise of Ireland star Emily Murphy",
+    "url": "https://www.the42.ie/tony-daluz-interview-emily-murphy-7238696-Nov2026/",
+    "source": "the42.ie",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T12:45:00+00:00",
     "countries": [
      "IE"
     ]
    },
    {
-    "title": "This and that from across the pond",
-    "url": "https://www.herald-citizen.com/opinion/this-and-that-from-across-the-pond/article_a79bd462-9b5b-5a41-85e8-796629fd7c0d.html",
-    "source": "herald-citizen.com",
+    "title": "That edge is there : Pádraic Maher on sideline energy , hurling style , and selection dilemmas",
+    "url": "https://www.the42.ie/padraic-maher-thurles-sarsfields-hurling-manager-7241202-Nov2026/",
+    "source": "the42.ie",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T12:45:00+00:00",
     "countries": [
      "IE"
     ]
    },
    {
-    "title": "( Best - of Edition from 5 / 22 ) Ray Moore , Founder of The Exodus Mandate Project , returns to The Corner .",
-    "url": "https://afr.net:443/podcasts/the-hamilton-corner-with-abraham-hamilton-iii/2026/november/best-of-edition-from-522-ray-moore-founder-of-the-exodus-mandate-project-returns-to-the-corner/",
-    "source": "afr.net",
+    "title": "Keenan save , Prendergast tackles and Ireland grit in defence",
+    "url": "https://www.the42.ie/ireland-defence-australia-7241344-Nov2026/",
+    "source": "the42.ie",
     "theme": "press",
-    "date": "2026-11-28T04:45:00+00:00",
+    "date": "2026-11-28T12:45:00+00:00",
     "countries": [
      "IE"
     ]
    },
    {
-    "title": "Energy Bills Crisis And Major Power Cuts Expected This Winter ! - Workers Revolutionary Party",
-    "url": "https://wrp.org.uk/editorials/energy-bills-crisis-and-major-power-cuts-expected-this-winter/",
-    "source": "wrp.org.uk",
+    "title": "John Lewis launches Christmas Drop Shop experience with six exclusive brand collaborations",
+    "url": "https://www.ok.co.uk/shopping/john-lewis-christmas-drop-shop-37922105",
+    "source": "ok.co.uk",
     "theme": "press",
-    "date": "2026-11-28T04:30:00+00:00",
+    "date": "2026-11-28T12:30:00+00:00",
     "countries": [
      "IE"
     ]
    },
    {
-    "title": "Islamic rule and Jewish expulsion : The threat posed by religious extremists",
-    "url": "https://www.jpost.com/opinion/article-916096",
-    "source": "jpost.com",
+    "title": "The Center of Gravity of the Armenian World",
+    "url": "https://nt.am/en/news/364024/",
+    "source": "nt.am",
     "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
+    "date": "2026-11-28T12:30:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Victorian premier Ben Carroll on the way out after a difficult four months as Labor leader",
+    "url": "https://www.abc.net.au/news/2026-11-28/ben-carroll-loses-vic-election-niddrie-seat-result/107416690",
+    "source": "abc.net.au",
+    "theme": "press",
+    "date": "2026-11-28T10:45:00+00:00",
+    "countries": [
+     "IE"
+    ]
+   },
+   {
+    "title": "Does size matter ? changes in the EU",
+    "url": "https://cyprus-mail.com/2026/11/28/does-size-matter-changes-in-the-eu",
+    "source": "cyprus-mail.com",
+    "theme": "press",
+    "date": "2026-11-28T09:45:00+00:00",
     "countries": [
      "IE"
     ]
    }
   ],
   "CH": [
+   {
+    "title": "Netizens Brand Trump a Compulsive Liar Over Inflation Claim as New Tariffs Target 14 Economies",
+    "url": "https://www.ibtimes.co.uk/netizens-brand-trump-compulsive-liar-over-inflation-claim-new-tariffs-target-14-economies-1835369",
+    "source": "ibtimes.co.uk",
+    "theme": "press",
+    "date": "2026-11-28T14:45:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Visionary Swiss construction projects that were shelved",
+    "url": "https://www.swissinfo.ch/eng/swiss-oddities/whether-serious-or-quirky-these-major-swiss-construction-projects-have-been-shelved/92414034",
+    "source": "swissinfo.ch",
+    "theme": "press",
+    "date": "2026-11-28T10:15:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
    {
     "title": "US Lobbied Iraq & Venezuela To Exit OPEC , Sparking Saudi Intervention",
     "url": "https://www.zerohedge.com/energy/us-lobbied-iraq-venezuela-exit-opec-sparking-saudi-intervention",
@@ -628,6 +855,16 @@
     "title": "The Grandfather Who Helped Shape World Chess Challenger Javokhir Sindarov",
     "url": "https://timesca.com/the-grandfather-who-helped-shape-world-chess-challenger-javokhir-sindarov/",
     "source": "timesca.com",
+    "theme": "press",
+    "date": "2026-11-27T23:45:00+00:00",
+    "countries": [
+     "CH"
+    ]
+   },
+   {
+    "title": "Zelensky Libya attack , Merz freezes battle in Brussels , the USAID propaganda machine exposed : RT top stories of the week",
+    "url": "http://www.kenyastar.com/news/279468536/zelensky-libya-attack-merz-freezes-battle-in-brussels-the-usaid-propaganda-machine-exposed-rt-top-stories-of-the-week",
+    "source": "kenyastar.com",
     "theme": "press",
     "date": "2026-11-27T23:45:00+00:00",
     "countries": [
@@ -663,147 +900,221 @@
     "countries": [
      "CH"
     ]
-   },
-   {
-    "title": "Hughes brothers dominate as Devils down Flames",
-    "url": "http://www.bignewsnetwork.com/news/279468468/hughes-brothers-dominate-as-devils-down-flames",
-    "source": "bignewsnetwork.com",
-    "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "WUC urges global action against Uyghur forced labour after US trade investigation findings",
-    "url": "http://www.sierraleonetimes.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings",
-    "source": "sierraleonetimes.com",
-    "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
-   },
-   {
-    "title": "WUC urges global action against Uyghur forced labour after US trade investigation findings",
-    "url": "http://www.sandiegosun.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings",
-    "source": "sandiegosun.com",
-    "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
-    "countries": [
-     "CH"
-    ]
    }
   ],
   "AT": [
    {
-    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.britainnews.net/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "britainnews.net",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.utahindependent.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "utahindependent.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "AT"
     ]
    },
    {
-    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.sandiegosun.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "sandiegosun.com",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.newyorkstatesman.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "newyorkstatesman.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "AT"
     ]
    },
    {
-    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.laosnews.net/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "laosnews.net",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.newjerseytelegraph.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "newjerseytelegraph.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T13:30:00+00:00",
     "countries": [
      "AT"
     ]
    },
    {
-    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.laosnews.net/news/279469943/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "laosnews.net",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.middleeaststar.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "middleeaststar.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T13:30:00+00:00",
     "countries": [
      "AT"
     ]
    },
    {
-    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.haitisun.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "haitisun.com",
+    "title": "Canary Islands record highest daily migrant arrivals in a day",
+    "url": "http://www.taiwansun.com/news/279460901/canary-islands-record-highest-daily-migrant-arrivals-in-a-day",
+    "source": "taiwansun.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T13:30:00+00:00",
     "countries": [
      "AT"
+    ]
+   }
+  ],
+  "ES": [
+   {
+    "title": "AP Business SummaryBrief at 7 : 13 a . m . EST",
+    "url": "http://www.leadertelegram.com/news/nation-world/ap-business-summarybrief-at-7-13-a-m-est/article_76f45de9-eab5-53ca-b71b-946c49c3fa24.html",
+    "source": "leadertelegram.com",
+    "theme": "press",
+    "date": "2026-11-28T15:30:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Sánchez wraps up his sixth campaign with the biggest rally of his career : A progressive majority is within sight . Yes , we can ! | Spain",
+    "url": "https://english.elpais.com/spain/2026-11-27/sanchez-wraps-up-his-sixth-campaign-with-the-biggest-rally-of-his-career-a-progressive-majority-is-within-sight-yes-we-can.html",
+    "source": "english.elpais.com",
+    "theme": "press",
+    "date": "2026-11-28T14:15:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Javier Milei is embracing Adam Smith formula for economic success",
+    "url": "https://reason.com/2026/11/28/a-peaceful-easy-and-tolerable-argentina/",
+    "source": "reason.com",
+    "theme": "press",
+    "date": "2026-11-28T13:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   },
+   {
+    "title": "Shocking ! Underground Marijuana Farm Found Beneath Children Playground In Spain , 5 Arrested In Breaking Bad - Style Drug Bust",
+    "url": "https://www.freepressjournal.in/viral/shocking-underground-marijuana-farm-found-beneath-childrens-playground-in-spain-5-arrested-in-breaking-bad-style-drug-bust",
+    "source": "freepressjournal.in",
+    "theme": "press",
+    "date": "2026-11-28T13:45:00+00:00",
+    "countries": [
+     "ES"
+    ]
+   }
+  ],
+  "PT": [
+   {
+    "title": "Morocco Biggest Bank Profit Rises 10 %",
+    "url": "https://www.riotimesonline.com/morocco-biggest-bank-profit-rises-10-percent/",
+    "source": "riotimesonline.com",
+    "theme": "press",
+    "date": "2026-11-28T10:45:00+00:00",
+    "countries": [
+     "PT"
     ]
    },
    {
     "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.trinidadtimes.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "trinidadtimes.com",
+    "url": "http://www.mainemirror.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "mainemirror.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T09:45:00+00:00",
     "countries": [
-     "AT"
+     "PT"
     ]
    },
    {
     "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.texasguardian.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "texasguardian.com",
+    "url": "http://www.indiagazette.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "indiagazette.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T09:45:00+00:00",
     "countries": [
-     "AT"
+     "PT"
+    ]
+   },
+   {
+    "title": "Six Star Friday in the SSL Gold Cup 1 / 16 Finals",
+    "url": "https://www.yachtsandyachting.com/news/301902/Six-Star-Friday-in-the-SSL-Gold-Cup-1-16-Finals",
+    "source": "yachtsandyachting.com",
+    "theme": "press",
+    "date": "2026-11-28T09:45:00+00:00",
+    "countries": [
+     "PT"
     ]
    },
    {
     "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
-    "url": "http://www.tucsonpost.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
-    "source": "tucsonpost.com",
+    "url": "http://www.cincinnatisun.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "cincinnatisun.com",
     "theme": "press",
-    "date": "2026-11-28T06:30:00+00:00",
+    "date": "2026-11-28T09:30:00+00:00",
     "countries": [
-     "AT"
+     "PT"
+    ]
+   },
+   {
+    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
+    "url": "http://www.japanherald.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "japanherald.com",
+    "theme": "press",
+    "date": "2026-11-28T08:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
+    "url": "http://www.neworleanssun.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "neworleanssun.com",
+    "theme": "press",
+    "date": "2026-11-28T08:30:00+00:00",
+    "countries": [
+     "PT"
+    ]
+   },
+   {
+    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
+    "url": "http://www.malaysiasun.com/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "malaysiasun.com",
+    "theme": "press",
+    "date": "2026-11-28T08:30:00+00:00",
+    "countries": [
+     "PT"
     ]
    }
   ],
   "IT": [
    {
-    "title": "U . S . Disables Ship Leaving Iran as Guards Vow to Break Blockade",
-    "url": "https://www.hngn.com/articles/273980/20261127/us-disables-ship-leaving-iran-guards-vow-break-blockade.htm",
-    "source": "hngn.com",
+    "title": "Iran points to Europe war role after Italians killed in Kuwait strike - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+    "url": "https://dominicanrepublicpost.com/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike/",
+    "source": "dominicanrepublicpost.com",
     "theme": "press",
-    "date": "2026-11-28T07:15:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "IT"
     ]
    },
    {
-    "title": "The Operation Condor Files : Brazilian journalists exposed a black op that changed a dissident fate",
-    "url": "https://buenosairesherald.com/human-rights/the-operation-condor-files-brazilian-journalists-exposed-a-black-op-that-changed-a-dissidents-fate",
-    "source": "buenosairesherald.com",
+    "title": "They sell a house in the united kingdom and buy five in Italy : We also have some money left",
+    "url": "https://www.thevermilion.com/they-sell-a-house-in-the-uk-and-buy-five-in-italy-we-also-have-some-money-left/article_23339/",
+    "source": "thevermilion.com",
     "theme": "press",
-    "date": "2026-11-28T05:15:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
      "IT"
     ]
    },
    {
-    "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on",
-    "url": "http://www.idahopress.com/news/world/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders-as-china-looks-on/article_6b671ede-45d6-5636-8396-3d3d408072f6.html",
-    "source": "idahopress.com",
+    "title": "Berkshire utility wildfire claims",
+    "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
+    "source": "cnbc.com",
     "theme": "press",
-    "date": "2026-11-28T04:45:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
+    "countries": [
+     "IT"
+    ]
+   },
+   {
+    "title": "Iran points to Europe war role after Italians killed in Kuwait strike | US - Israel war on Iran News",
+    "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike",
+    "source": "aljazeera.com",
+    "theme": "press",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
      "IT"
     ]
@@ -811,43 +1122,55 @@
   ],
   "PL": [
    {
-    "title": "UAE Aviation Sector Soars : Airport Upgrades and New Routes Strengthen Global Connectivity",
-    "url": "https://gulfnews.com/business/aviation/uae-aviation-sector-expands-global-reach-with-airport-upgrades-and-new-routes-1.500763841",
-    "source": "gulfnews.com",
+    "title": "The Blind Operator Trap : Solving Power Generation OT Decision Void",
+    "url": "https://www.powermag.com/the-blind-operator-trap-solving-power-generations-ot-decision-void/",
+    "source": "powermag.com",
     "theme": "press",
-    "date": "2026-11-28T05:15:00+00:00",
+    "date": "2026-11-28T16:15:00+00:00",
     "countries": [
      "PL"
     ]
    },
    {
-    "title": "Including women and people of color in datasets does not make AI systems feminist and antiracist",
-    "url": "https://bianet.org/haber/including-women-and-people-of-color-in-datasets-does-not-make-ai-systems-feminist-and-antiracist-325875",
-    "source": "bianet.org",
+    "title": "UAE Business : UAE aviation sector advances with major investments , network expansion",
+    "url": "https://www.gdnonline.com:443/Details/1414230",
+    "source": "gdnonline.com",
     "theme": "press",
-    "date": "2026-11-28T04:45:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
      "PL"
     ]
    },
    {
-    "title": "A historic leader : Union advocate and MLA George Heyman dies at 77",
-    "url": "https://vancouversun.com:443/news/a-historic-leader-workers-rights-advocate-and-mla-george-heyman-dies-at-77",
-    "source": "vancouversun.com",
+    "title": "UAE Business : UAE aviation sector advances with major investments , network expansion",
+    "url": "https://www.gdnonline.com:443/Details/1414230/UAE-aviation-sector-advances-with-major-investments,-network-expansion",
+    "source": "gdnonline.com",
     "theme": "press",
-    "date": "2026-11-28T04:45:00+00:00",
+    "date": "2026-11-28T13:30:00+00:00",
     "countries": [
      "PL"
     ]
    },
    {
-    "title": "Former B . C . minister George Heyman , giant and troublemaker , dies at 77 – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/canada/2026/11/27/former-b-c-minister-labour-leader-george-heyman-dies",
-    "source": "winnipegfreepress.com",
+    "title": "The Week in Review – November 22 - 28 , 2026 - Radio Romania International",
+    "url": "https://www.rri.ro/en/news-and-current-affairs/the-week-in-review/the-week-in-review-november-22-28-2026-id1088421.html",
+    "source": "rri.ro",
     "theme": "press",
-    "date": "2026-11-28T01:45:00+00:00",
+    "date": "2026-11-28T12:45:00+00:00",
     "countries": [
      "PL"
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "title": "Austria Far Right Proposes Deporting Migrants to Ukraine",
+    "url": "https://www.kyivpost.com/post/91449",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-11-28T00:15:00+00:00",
+    "countries": [
+     "CZ"
     ]
    },
    {
@@ -857,31 +1180,9 @@
     "theme": "press",
     "date": "2026-11-28T00:15:00+00:00",
     "countries": [
-     "PL"
+     "CZ"
     ]
    },
-   {
-    "title": "hypocrisy has long been second nature to german government officials [ and others ].....",
-    "url": "https://yourdemocracy.net/drupal/node/62016",
-    "source": "yourdemocracy.net",
-    "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   },
-   {
-    "title": "Is GTA 6 Pushing The PS5 & XBOX Series S / X Consoles Beyond Their Limits ?",
-    "url": "https://103weup.com/2026/11/27/is-gta-6-pushing-the-ps5-xbox-series-s-x-consoles-beyond-their-limits/",
-    "source": "103weup.com",
-    "theme": "press",
-    "date": "2026-11-27T23:45:00+00:00",
-    "countries": [
-     "PL"
-    ]
-   }
-  ],
-  "CZ": [
    {
     "title": "painfully , the new cannot be generated while the old is dying ....",
     "url": "https://yourdemocracy.net/drupal/node/62009",
@@ -913,127 +1214,65 @@
     ]
    }
   ],
-  "HU": [
+  "DK": [
    {
-    "title": "Six Star Friday at the SSL Gold Cup 1 / 16 Finals",
-    "url": "https://www.livesaildie.com/six-races-six-winners-on-friday-at-the-ssl-gold-cup-1-16-finals",
-    "source": "livesaildie.com",
+    "title": "India Denmark Green Strategic Partnership Explained - Pragativadi I Latest Odisha News in English I Breaking News",
+    "url": "https://pragativadi.com/india-denmark-green-strategic-partnership-for-future-growth/",
+    "source": "pragativadi.com",
     "theme": "press",
-    "date": "2026-11-28T06:15:00+00:00",
+    "date": "2026-11-28T15:45:00+00:00",
     "countries": [
-     "HU"
+     "DK"
     ]
    },
    {
-    "title": "Magyar draws red lines : no cuts , no new burdens , no deal",
-    "url": "https://www.budapesttimes.hu/world/magyar-draws-red-lines-no-cuts-no-new-burdens-no-deal/",
-    "source": "budapesttimes.hu",
+    "title": "Denmark reiterates support for India permanent membership of reformed UNSC",
+    "url": "http://www.heraldglobe.com/news/279470941/denmark-reiterates-support-for-india-permanent-membership-of-reformed-unsc",
+    "source": "heraldglobe.com",
     "theme": "press",
-    "date": "2026-11-28T05:15:00+00:00",
+    "date": "2026-11-28T15:30:00+00:00",
     "countries": [
-     "HU"
+     "DK"
     ]
    },
    {
-    "title": "The Trump cancer is only in remission",
-    "url": "https://www.rawstory.com/raw-investigates/trump-midterm-election/",
-    "source": "rawstory.com",
+    "title": "India , Denmark Ink 2027 - 2031 JAP ; expand ties into defence , space , quantum tech during FM Rasmussen visit",
+    "url": "http://www.milwaukeesun.com/news/279471107/india-denmark-ink-2027-2031-jap-expand-ties-into-defence-space-quantum-tech-during-fm-rasmussen-visit",
+    "source": "milwaukeesun.com",
     "theme": "press",
-    "date": "2026-11-28T01:45:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
-     "HU"
+     "DK"
     ]
    },
    {
-    "title": "How Serbia students devised a winning strategy to bring down strongman Vucic",
-    "url": "https://www.the-messenger.com/news/world/article_9622c1b0-63b0-5067-8a7c-ba62e3a342e1.html",
-    "source": "the-messenger.com",
+    "title": "India is a great power , whose rise we will continue to witnes : Danish FM as 5 - year action plan adopted",
+    "url": "https://www.thehindu.com/news/national/india-is-a-great-power-whose-rise-we-will-continue-to-witness-danish-fm-as-5-year-action-plan-adopted/article71754760.ece",
+    "source": "thehindu.com",
     "theme": "press",
-    "date": "2026-11-27T06:30:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
-     "HU"
+     "DK"
     ]
    },
    {
-    "title": "How Serbia students devised a winning strategy to bring down strongman Vucic",
-    "url": "http://www.goskagit.com/news/nation/how-serbias-students-devised-a-winning-strategy-to-bring-down-strongman-vucic/article_2bf82859-45fc-53c5-8c3a-4767761212d5.html",
-    "source": "goskagit.com",
+    "title": "India and Denmark vow to strengthen ties , review ongoing cooperation across sectors",
+    "url": "http://www.milwaukeesun.com/news/279470800/india-and-denmark-vow-to-strengthen-ties-review-ongoing-cooperation-across-sectors",
+    "source": "milwaukeesun.com",
     "theme": "press",
-    "date": "2026-11-27T06:30:00+00:00",
+    "date": "2026-11-28T15:15:00+00:00",
     "countries": [
-     "HU"
+     "DK"
     ]
    },
    {
-    "title": "How Serbia students devised a winning strategy to bring down strongman Vucic – Winnipeg Free Press",
-    "url": "https://www.winnipegfreepress.com/world/2026/11/27/how-serbias-students-devised-a-winning-strategy-to-bring-down-strongman-vucic",
-    "source": "winnipegfreepress.com",
+    "title": "India and Denmark vow to strengthen ties , review ongoing cooperation across sectors",
+    "url": "http://www.sanantoniopost.com/news/279470800/india-and-denmark-vow-to-strengthen-ties-review-ongoing-cooperation-across-sectors",
+    "source": "sanantoniopost.com",
     "theme": "press",
-    "date": "2026-11-27T06:30:00+00:00",
+    "date": "2026-11-28T13:45:00+00:00",
     "countries": [
-     "HU"
-    ]
-   },
-   {
-    "title": "Tata Projects Limited vs Yamuna International Airport Private ... on 26 November , 2026",
-    "url": "https://indiankanoon.org/doc/47291825/",
-    "source": "indiankanoon.org",
-    "theme": "press",
-    "date": "2026-11-27T03:30:00+00:00",
-    "countries": [
-     "HU"
-    ]
-   }
-  ],
-  "RO": [
-   {
-    "title": "Premier Energy Completes Acquisition Of Evryo Group From Macquarie Funds",
-    "url": "https://www.zfenglish.com/companies/premier-energy-completes-acquisition-of-evryo-group-from-macquarie-funds-23291179",
-    "source": "zfenglish.com",
-    "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Premier Energy Completes Acquisition Of Evryo Group From Macquarie Funds",
-    "url": "http://www.zfenglish.com/companies/premier-energy-completes-acquisition-of-evryo-group-from-macquarie-funds-23291179",
-    "source": "zfenglish.com",
-    "theme": "press",
-    "date": "2026-11-28T00:15:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "US - led consortium signs deal to buy Lukoil International non ‑ Russian assets",
-    "url": "https://kenya-today.com/report-us-led-consortium-signs-deal-to-buy-lukoil-internationals-nonrussian-assets-34123/",
-    "source": "kenya-today.com",
-    "theme": "press",
-    "date": "2026-11-26T23:45:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Next EU budget negotiations are shaping up to be a tougher challenge - Jowhar News Leader",
-    "url": "https://jowhar.com/next-eu-budget-negotiations-are-shaping-up-to-be-a-tougher-challenge/",
-    "source": "jowhar.com",
-    "theme": "press",
-    "date": "2026-11-26T22:30:00+00:00",
-    "countries": [
-     "RO"
-    ]
-   },
-   {
-    "title": "Europe Solar Problem Is No Longer Solar",
-    "url": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
-    "source": "cleantechnica.com",
-    "theme": "press",
-    "date": "2026-11-26T03:00:00+00:00",
-    "countries": [
-     "RO"
+     "DK"
     ]
    }
   ],
@@ -1044,6 +1283,16 @@
     "source": "trend.az",
     "theme": "press",
     "date": "2026-11-28T06:30:00+00:00",
+    "countries": [
+     "EE"
+    ]
+   },
+   {
+    "title": "Six Star Friday at the SSL Gold Cup 1 / 16 Finals",
+    "url": "https://www.livesaildie.com/six-races-six-winners-on-friday-at-the-ssl-gold-cup-1-16-finals",
+    "source": "livesaildie.com",
+    "theme": "press",
+    "date": "2026-11-28T06:15:00+00:00",
     "countries": [
      "EE"
     ]
@@ -1084,16 +1333,6 @@
     "source": "investmentwatchblog.com",
     "theme": "press",
     "date": "2026-11-26T22:15:00+00:00",
-    "countries": [
-     "EE"
-    ]
-   },
-   {
-    "title": "How Russia Defeated Attempts To Block Its Baltic Sea Traffic – Moon of Alabama",
-    "url": "https://www.moonofalabama.org/2026/11/how-russia-defeated-attempts-to-block-its-baltic-sea-traffic.html/comment-page-2",
-    "source": "moonofalabama.org",
-    "theme": "press",
-    "date": "2026-11-26T04:15:00+00:00",
     "countries": [
      "EE"
     ]
@@ -1139,15 +1378,91 @@
     "countries": [
      "LV"
     ]
+   }
+  ],
+  "LT": [
+   {
+    "title": "Universiti Teknologi Malaysia hosts Regional Erasmus+ Week 2026 , bringing 200 global higher education leaders to Malaysia",
+    "url": "http://www.myanmarnews.net/news/279469973/universiti-teknologi-malaysia-hosts-regional-erasmus-week-2026-bringing-200-global-higher-education-leaders-to-malaysia",
+    "source": "myanmarnews.net",
+    "theme": "press",
+    "date": "2026-11-28T08:15:00+00:00",
+    "countries": [
+     "LT"
+    ]
+   }
+  ],
+  "SI": [
+   {
+    "title": "the games of deceit and cooperation in the EU and beyond .....",
+    "url": "https://www.yourdemocracy.net.au/drupal/node/62022",
+    "source": "yourdemocracy.net.au",
+    "theme": "press",
+    "date": "2026-11-28T07:15:00+00:00",
+    "countries": [
+     "SI"
+    ]
    },
    {
-    "title": "Norse Atlantic Norwegian unit files for bankruptcy amid soaring fuel costs linked to Iran war",
-    "url": "http://www.bignewsnetwork.com/news/279468476/norse-atlantic-norwegian-unit-files-for-bankruptcy-amid-soaring-fuel-costs-linked-to-iran-war",
-    "source": "bignewsnetwork.com",
+    "title": "the games of deceit and cooperation in the EU and beyond .....",
+    "url": "https://yourdemocracy.net/drupal/node/62022",
+    "source": "yourdemocracy.net",
     "theme": "press",
-    "date": "2026-11-27T22:30:00+00:00",
+    "date": "2026-11-28T04:45:00+00:00",
     "countries": [
-     "LV"
+     "SI"
+    ]
+   },
+   {
+    "title": "EQS - News : Shelly Group Board of Directors reaffirms its support for Schneider Electric SE amended Offer",
+    "url": "https://www.finanzen.net/nachricht/aktien/eqs-news-shelly-group-s-board-of-directors-reaffirms-its-support-for-schneider-electric-se-s-amended-offer-16089158",
+    "source": "finanzen.net",
+    "theme": "press",
+    "date": "2026-11-26T19:45:00+00:00",
+    "countries": [
+     "SI"
+    ]
+   }
+  ],
+  "HR": [
+   {
+    "title": "Croatian Court Overturns Nord Stream Suspect Extradition to Germany",
+    "url": "https://www.kyivpost.com/post/91454",
+    "source": "kyivpost.com",
+    "theme": "press",
+    "date": "2026-11-28T00:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Montenegro to compensate victims of wartime camps in Croatia , Bosnia",
+    "url": "https://aa.com.tr/en/europe/montenegro-to-compensate-victims-of-wartime-camps-in-croatia-bosnia/4141071",
+    "source": "aa.com.tr",
+    "theme": "press",
+    "date": "2026-11-27T22:45:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Faithfully pursuing God purposes with no title required",
+    "url": "https://www.christiandaily.com/opinion/faithfully-pursuing-god-s-purposes-with-no-title-required",
+    "source": "christiandaily.com",
+    "theme": "press",
+    "date": "2026-11-26T04:15:00+00:00",
+    "countries": [
+     "HR"
+    ]
+   },
+   {
+    "title": "Genocide Against The Rohingya : The ICJ Ruling Against Myanmar",
+    "url": "https://www.scoop.co.nz/stories/HL2611/S00060/genocide-against-the-rohingya-the-icj-ruling-against-myanmar.htm",
+    "source": "scoop.co.nz",
+    "theme": "press",
+    "date": "2026-11-26T04:15:00+00:00",
+    "countries": [
+     "HR"
     ]
    }
   ]
@@ -1210,18 +1525,12 @@
   }
  },
  "errors": [
-  "gdelt/ES: HTTPError",
-  "gdelt/PT: HTTPError",
+  "gdelt/HU: HTTPError",
+  "gdelt/RO: HTTPError",
   "gdelt/GR: HTTPError",
   "gdelt/BG: HTTPError",
   "gdelt/NO: HTTPError",
-  "gdelt/SE: HTTPError",
-  "gdelt/DK: HTTPError",
   "gdelt/FI: HTTPError",
-  "gdelt/LT: HTTPError",
-  "gdelt/SI: HTTPError",
-  "gdelt/HR: HTTPError",
-  "gdelt/RS: HTTPError",
-  "gdelt/world: HTTPError"
+  "gdelt/RS: HTTPError"
  ]
 }
